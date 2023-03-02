@@ -1,2 +1,2 @@
-# u-of-michigan-adv-styling
+# uom-adv-styling
 University of Michigan - Advanced Styling with Responsive Design
