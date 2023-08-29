@@ -1184,88 +1184,60 @@ Starter Code:
 
 Completed;
 
-**[HTML:]{.mark}**
+## **HTML:**
 
+```
 1.  **\<!DOCTYPE html\>**
-
 2.  **\<html lang=\"en\"\>**
-
 3.  **\<head\>**
-
 4.  **\<meta charset=\"utf-8\"\>**
-
 5.  **\<title\>Fluid Measurements\</title\>**
-
 6.  **\<link href=\"fluidstyle.css\" rel=\"stylesheet\"\>**
-
 7.  **\<!\-- \<link href=\"staticstyle.css\" rel=\"stylesheet\"\>**
-
 8.  **\--\>**
-
 9.  **\</head\>**
-
 10. **\<body\>**
-
 11. **\<header\>**
-
 12. **\<h1\>Fluid Measurements\</h1\>**
-
 13. **\<h2\>Colleen van Lent\</h2\>**
-
 14. **\</header\>**
-
 15. **\<main\>**
-
 16. **\<!\-- Content \--\>**
-
 17. **\<p\>What happens when you hardcode the values of your elements?
     In this case, I have a section that is set to 940px. Each of the
     content columns is set to 300px. What could go wrong?\</p\>**
-
 18. **\<div class=\"column\"\>**
-
 19. **\<h2\>Content\</h2\>**
-
 20. **\<p\>Etiam porta sem malesuada magna mollis euismod. Integer
     posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
     eu leo quam. Pellentesque ornare sem lacinia quam venenatis
     vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor
     ligula, eget lacinia odio sem nec elit.\</p\>**
-
 21. **\</div\>**
-
 22. **\<div class=\"column\"\>**
-
 23. **\<h2\>Content\</h2\>**
-
 24. **\<p\>Etiam porta sem malesuada magna mollis euismod. Integer
     posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
     eu leo quam. Pellentesque ornare sem lacinia quam venenatis
     vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor
     ligula, eget lacinia odio sem nec elit.\</p\>**
-
 25. **\</div\>**
-
 26. **\<div class=\"column\"\>**
-
 27. **\<h2\>Content\</h2\>**
-
 28. **\<p\>Etiam porta sem malesuada magna mollis euismod. Integer
     posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
     eu leo quam. Pellentesque ornare sem lacinia quam venenatis
     vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor
     ligula, eget lacinia odio sem nec elit.\</p\>**
-
 29. **\</div\>**
-
 30. **\</main\>\<!\-- .row \--\>**
-
 31. **\</body\>**
-
 32. **\</html\>**
+```
 
-**[CSS:]{.mark}**
+## **CSS:**
 
+```
 > **main {**
 >
 > **width: 95%;**
@@ -1323,6 +1295,7 @@ Completed;
 > **text-transform: uppercase;**
 >
 > **}**
+```
 
 # Resources
 
@@ -1501,151 +1474,93 @@ back and make sure you understand these simple ones first. Good luck.
 
 Completed;
 
-**[HTML:]{.mark}**
+## **HTML:**
 
+```
 1.  \<!DOCTYPE html\>
-
 2.  \<html lang=\"en\"\>
-
 3.  \<head\>
-
 4.  \<meta charset=\"utf-8\"\>
-
 5.  \<title\>Fluid Measurements\</title\>
-
 6.  \<link href=\"fluidstyle.css\" rel=\"stylesheet\"\>
-
 7.  \<!\-- \<link href=\"staticstyle.css\" rel=\"stylesheet\"\>
-
 8.  \--\>
-
 9.  \</head\>
-
 10. \<body\>
-
 11. \<header\>
-
 12. \<h1\>Fluid Measurements\</h1\>
-
 13. \<h2\>Colleen van Lent\</h2\>
-
 14. \</header\>
-
 15. \<main\>
-
 16. \<!\-- Content \--\>
-
 17. \<p\>What happens when you hardcode the values of your elements? In
     this case, I have a section that is set to 940px. Each of the
     content columns is set to 300px. What could go wrong?\</p\>
-
 18. \<div class=\"column\"\>
-
 19. \<h2\>Content\</h2\>
-
 20. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
     eget lacinia odio sem nec elit.\</p\>
-
 21. \</div\>
-
 22. \<div class=\"column\"\>
-
 23. \<h2\>Content\</h2\>
-
 24. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
     eget lacinia odio sem nec elit.\</p\>
-
 25. \</div\>
-
 26. \<div class=\"column\"\>
-
 27. \<h2\>Content\</h2\>
-
 28. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
     eget lacinia odio sem nec elit.\</p\>
-
 29. \</div\>
-
 30. \</main\>\<!\-- .row \--\>
-
 31. \</body\>
-
 32. \</html\>
+```
 
-**[CSS:]{.mark}**
+# **CSS:**
 
+```
 1.  main {
-
 2.  width: 95%;
-
 3.  margin: 0 auto;
-
 4.  }
-
 5.  html, body {
-
 6.  background-color: #ffffff;
-
 7.  }
-
 8.  body {
-
 9.  margin: 0;
-
 10. font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;
-
 11. font-size: 13px;
-
 12. font-weight: normal;
-
 13. color: #404040;
-
 14. }
-
 15. h1 {
-
 16. font-size: 300%;
-
 17. margin: 0;
-
 18. padding: 0;
-
 19. }
-
 20. h1, h2{
-
 21. text-align: center;
-
 22. text-transform: uppercase;
-
 23. }
-
 24. \@media screen and (min-width:1200px)
-
 25. {
-
 26. .column {
-
 27. width:30%;
-
 28. display: inline-block;
-
 29. float: left;
-
 30. margin-left: 2%;
-
 31. }
-
 32. }
+```
 
 # 10. Wire Frames
 
