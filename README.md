@@ -127,8 +127,8 @@ I have also attached the pdf and powerpoint slide for each lecture
 directly in the videos themselves. Just look in the Downloads section to
 view them.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.png?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/image004.png){width="6.5in"
-height="4.603945756780402in"}
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.png?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/image004.png)
+<!-- {width="6.5in" height="4.603945756780402in"} -->
 
 ## There are 4 modules in this course
 
@@ -348,8 +348,8 @@ in this course.
 # 01. Introduction to Responsive Design
 
 ![The BASICS of Responsive
-Design.](./images/image005.png){width="4.0in"
-height="2.0931627296587925in"}
+Design.](./images/image005.png)
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 Hi everybody, I\'m Colleen van Lent and I\'d like to welcome you to
 introduction to responsive design. In this course, we\'re going to talk
@@ -371,8 +371,8 @@ it yourself.
 
 ![Week One: - Theory - What does responsive design mean? - What makes
 for good design? - Role of fluid
-measurements.](./images/image006.png){width="4.0in"
-height="2.0931627296587925in"}
+measurements.](./images/image006.png)
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **one**, we\'re really going to focus on the theory.
 
@@ -395,8 +395,8 @@ changes.
 
 ![Week Two: - Media queries - What are they? - How do you plan 1st for
 best practices? - What is the relationship with break points? - How to
-make a navigation bar?](./images/image007.png){width="4.0in"
-height="2.0931627296587925in"}
+make a navigation bar?](./images/image007.png)
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **two** we\'re going to tackle media queries.
 
@@ -422,8 +422,8 @@ really tackle this.
 
 ![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
 Started, grid system, and
-navigation.](./images/image008.png){width="4.0in"
-height="2.0931627296587925in"}
+navigation.](./images/image008.png)
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **three**, we\'re going to shift a little bit and instead of
 writing our own code.
@@ -456,8 +456,8 @@ Because these are the keys to really getting your site to have that
 responsive feel.
 
 ![Week Four: - More bootstrap - Images, tables, advanced navigation -
-Case studies](./images/image009.png){width="4.0in"
-height="2.110255905511811in"}
+Case studies](./images/image009.png)
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 Finally, in week **four**, we\'re going to continue with more bootstrap,
 but we\'re going to talk about things such as images, tables, and maybe
@@ -473,8 +473,8 @@ responsiveness their real-life sites.
 
 ![Final Project - Use your coding skills to create a responsive page
 using multiple methods (framework & media
-queries).](./images/image010.png){width="4.0in"
-height="2.110255905511811in"}
+queries).](./images/image010.png)
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 We will do this with the culmination of a final project.
 
@@ -525,8 +525,8 @@ So how do you succeed in this class?
 
 ![Succeeding in this class - Use message boards. - Don\'t spend more
 than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.](./images/image011.png){width="4.0in"
-height="2.110255905511811in"}
+practice, practice.](./images/image011.png)
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 I will always say that the best way to code is with a friend but that\'s
 not always possible, so I hope that you\'ll use the message boards not
@@ -544,8 +544,8 @@ you will probably find the answer.
 You\'ll find three or four wrong answers, but eventually, the answer
 will be there.
 
-![](./images/image012.png){width="4.0in"
-height="2.086324365704287in"}
+![](./images/image012.png)
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you\'re getting as much
@@ -610,8 +610,8 @@ just won\'t work for us.
 So here are some of the concepts that we\'re going to be considering
 throughout this entire course.
 
-![](./images/image012.png){width="4.0in"
-height="2.086324365704287in"}
+![](./images/image012.png)
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -634,19 +634,19 @@ resize things to be able to see everything.
 
 We want it to happen really automatically.
 
-![](./images/image013.png){width="3.0in"
-height="1.6903849518810148in"}
+![](./images/image013.png)
+<!-- {width="3.0in" height="1.6903849518810148in"} -->
 
-![](./images/image014.png){width="6.5in"
-height="4.5993055555555555in"}
+![](./images/image014.png)
+<!-- {width="6.5in" height="4.5993055555555555in"} -->
 
 Let\'s take a look at some examples that have great responsive design.
 
 The first place I\'m going to take you is a website called
 ***mediaqueri.es.***
 
-![](./images/image015.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image015.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 This site has a really nice collection of different sites that it\'s
 found that really kind of find that key to responsive design.
@@ -654,22 +654,22 @@ found that really kind of find that key to responsive design.
 Let\'s go ahead and take a look at, I\'ll scroll down a few. How about
 this one right here? CapRadio, go anyplace.
 
-![](./images/image016.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image016.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 This site right now, when I\'m looking at the large screen, you can see
 that there\'s a definite look to the layout.
 
-![](./images/image017.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image017.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 As I resize the screen, as if I\'m looking perhaps on a tablet, and I
 reload it you can see that things have moved over.
 
 The navigation bar is now over to the left when it wasn\'t there before.
 
-![](./images/image018.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image018.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 I\'m going to go ahead and make it smaller still. I don\'t even need to
 refresh.
@@ -693,16 +693,16 @@ Unfortunately, when you Google that out, or you look for that on your
 search engine, nobody really wants to advertise the fact that they\'re
 really bad at web design so I found one for you.
 
-![](./images/image019.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image019.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 It\'s the Internal Revenue Service.
 
 And what we have here is a site that not only looks the same, but is
 laid out the same no matter what type of screen you\'re looking at.
 
-![](./images/image020.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image020.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 It looks okay right here, but when I make the screen much smaller, you
 can see that it didn\'t really do anything.
@@ -729,8 +729,8 @@ access to all these different types of platforms.
 What can you do? Well, one option if you\'re using a desktop or a
 laptop, that you can resize your window and refresh the site.
 
-![](./images/image021.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image021.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 So, if I go here;
 \<<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org>\>.
@@ -738,8 +738,8 @@ The Introduction to Wed Design for everybody, of course. I can just use
 my mouse and resize it, take a look and see how things are going to
 change.
 
-![](./images/image022.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image022.png)
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 Here, large view, tablet and mobile view. So, I can see that I have
 three different break points that all work. That works great if you\'re
@@ -749,8 +749,8 @@ device?
 It isn\'t simple or even often possible to resize that window, so we
 need to come up with another solution that will help you out.
 
-![](./images/image023.png){width="3.0in"
-height="1.5711537620297462in"}
+![](./images/image023.png)
+<!-- {width="3.0in" height="1.5711537620297462in"} -->
 
 What you can do is look for online tools to help you check for your
 responsiveness. One that you may want to look at is called
@@ -760,14 +760,14 @@ going to go through and I\'m going to show you three different sites and
 how we can use this website to test the responsiveness of these
 webpages. Here we go.
 
-![](./images/image024.png){width="4.0in"
-height="2.6149573490813647in"}
+![](./images/image024.png)
+<!-- {width="4.0in" height="2.6149573490813647in"} -->
 
 Here\'s a website that you can go to. Down at the bottom of the screen,
 you can fill in the URL of the site you want to look at.
 
-![](./images/image025.png){width="5.0in"
-height="3.2686964129483815in"}
+![](./images/image025.png)
+<!-- {width="5.0in" height="3.2686964129483815in"} -->
 
 Just so you know, this is made with an HTML tag that makes it so that
 you have to put in a URL. It\'s always going to be looking for at least
@@ -780,13 +780,13 @@ desktop, the laptop, a tablet view and a mobile view, and you can see
 that each one is a little bit different depending upon the platform I\'m
 using.
 
-![](./images/image026.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image026.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 Let\'s check out another site.
 
-![](./images/image027.png){width="5.0in"
-height="3.0299146981627296in"}
+![](./images/image027.png)
+<!-- {width="5.0in" height="3.0299146981627296in"} -->
 
 In this case, again we can see that this is a responsive setup. Now,
 even though the pages may look very similar, you can see that on the
@@ -798,8 +798,8 @@ see that in the tablet view, we\'ve really broken it down and they use
 more of a two-column grid system rather than having quite as much
 content.
 
-![](./images/image028.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image028.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 The next site I\'m going to check is one that I\'ve made from my umich
 site. Going here, paste in that URL, and we can take a look. What I\'ve
@@ -828,8 +828,8 @@ or whatever browser you\'re using. It\'s often the case that your
 browser is going to have special tools that let you simulate looking at
 things from different viewpoints.
 
-![](./images/image029.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image029.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 With Chrome, you can use inspect element to see the different viewpoints
 in real-time. Let\'s take a look. So, I\'ve gone here to my website
@@ -838,16 +838,16 @@ to drag it out a little bit here. You can see I\'ve got my large screen
 I\'ve got a lot of spacing in it. So, I\'m going to go in and do inspect
 element by right clicking Click over here.
 
-![](./images/image030.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image030.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 And what I can do now is up in the upper left-hand corner, there\'s
 something that looks like a small little mobile phone. It says Toggle
 device mode. I\'m going to click on that. And when I do, I am now
 viewing my site as if I\'m viewing it on a small mobile phone.
 
-![](./images/image031.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image031.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 Depending upon your operating system in the browser of the addition that
 you have, you can go up to the device in the upper left-hand corner
@@ -856,8 +856,8 @@ iPhone 6? It is a little bit bigger, what if I look at it on a google
 nexus seven. Same thing. So, you can pick a number of different options
 to kind of see what the site would look like.
 
-![](./images/image032.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image032.png)
+<!-- width="5.0in" height="2.8173075240594927in"} -->
 
 Let\'s see, do one last one, a laptop. Depending on which type of
 platform people are using.
@@ -879,8 +879,8 @@ things to different people. We\'re going to talk about three different
 options that people often use, and why the responsive web design that
 we\'re going to adopt has its true benefits.
 
-![](./images/image033.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image033.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 The first option, ***responsive web design or RWD***, is really dealing
 with fluid measurements, flexible grids, and varying CSS rules.
@@ -892,8 +892,8 @@ versions of a page based on the type of device being used.
 The third type is the ***separate mobile site***, or ***.m***. This is
 when you create a completely separate page URL for the mobile site.
 
-![](./images/image034.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image034.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 First, let\'s talk about responsive web design. With the definition that
 we\'re using, the test really is, are you getting back the same code
@@ -908,8 +908,8 @@ web design by looking for certain meta tag named viewport. It can be
 detected automatically and would really, kind of help boost your search
 engine score, is what many people think.
 
-![](./images/image035.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image035.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 The second type, adaptive design, means that the server figures out what
 kind of device you\'re running on and then returns specific HTML and CSS
@@ -921,8 +921,8 @@ from, you\'re using the same URL. Now, there\'s a few issues with this,
 in that the server might return the wrong code if the wrong device type
 is detected.
 
-![](./images/image036.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image036.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 That third option of having a dedicated mobile site, or a .m URL, means
 that you\'re going to get a different page completely on a completely
@@ -939,8 +939,8 @@ would you bother doing this? Again, it\'s for search engine
 optimization. It really helps if the search engines can know that this
 is the same type of information just on different URLs.
 
-![](./images/image037.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image037.png)
+<!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 So why am I stressing responsive web design? Well, number one, it\'s a
 lot easier to share your data if you only have a single URL. You don\'t
