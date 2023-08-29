@@ -1,11 +1,11 @@
 ![Introduction to Responsive Design by Colleen van Lent, Ph.D.
 (lecturer, school of
-information)](./images/image001.png){width="5.0in"
-height="2.821046587926509in"}
+information)](./images/image001.png)
+<!-- {width="5.0in" height="2.821046587926509in"} -->
 
 ![Advanced Styling with Responsive Design offered by University of
-Michigan.](./images/image002.png){width="3.2916666666666665in"
-height="1.3958333333333333in"}
+Michigan.](./images/image002.png)
+<!-- {width="3.2916666666666665in" height="1.3958333333333333in"} -->
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -20,8 +20,8 @@ design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
-![What is Responsive Design?](./images/image003.png){width="5.0in"
-height="2.6079057305336835in"}
+![What is Responsive Design?](./images/image003.png)
+<!-- {width="5.0in" height="2.6079057305336835in"} -->
 
 ## Syllabus
 
