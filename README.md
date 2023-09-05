@@ -98,14 +98,11 @@ audial, physical, and cognitive impairments.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive deisgn? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-<img src="./images/image004.webp?raw=true"
-  alt="Course Syllabus - Advanced Styling with Responsive Design from 
-    University of Michigan with Coursera."
-  width="150px;" />
+<img src="./images/image003.webp?raw=true"
+  alt="What is Responsive Design?"
+  width="500px;" />
 &nbsp;
 <br/>
-<a href="./images/image003.png)">What is Responsive Design?</a>./images/image003.png)
-<!-- {width="5.0in" height="2.6079057305336835in"} -->
 
 <h2 id="cha-1">Syllabus</h2>
 
@@ -1778,7 +1775,7 @@ That\'s going to help you understand how you can convey your ideas to
 the programmers and let them make something really great out of your
 design.
 
-<http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
+<a href="http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices">Learning to Wireframe - 10 Best Practices</a>
 
 # 11. Breakpoints
 
@@ -1862,6 +1859,8 @@ I really hope you\'ll really understand mobile first by the time that
 we\'re done with this course.
 
 # 12. Media Queries Part Two
+
+<a href="https://codepen.io/ColleenEMc/pen/zrjKqP/">CodePen</a>
 
 Today\'s lecture is about media queries. And yes, I\'ve already given
 you a lecture on media queries but I really want to give you another
