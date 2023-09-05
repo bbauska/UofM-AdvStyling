@@ -1,11 +1,8 @@
 ![Introduction to Responsive Design by Colleen van Lent, Ph.D.
-(lecturer, school of
-information)](./images/media/image1.png){width="5.0in"
-height="2.821046587926509in"}
+(lecturer, school of information)](./images/image001.png)
 
 ![Advanced Styling with Responsive Design offered by University of
-Michigan.](./images/media/image2.png){width="3.2916666666666665in"
-height="1.3958333333333333in"}
+Michigan.](./images/image002.png)
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -20,8 +17,7 @@ design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
-![What is Responsive Design?](./images/media/image3.png){width="5.0in"
-height="2.6079057305336835in"}
+![What is Responsive Design?](./images/image003.png)
 
 # Table of Contents {#table-of-contents .TOC-Heading}
 
@@ -330,8 +326,7 @@ I have also attached the pdf and powerpoint slide for each lecture
 directly in the videos themselves. Just look in the Downloads section to
 view them.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.png?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/media/image4.png){width="6.5in"
-height="4.603945756780402in"}
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.png?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/image004.png)
 
 # There are 4 modules in this course
 
@@ -541,8 +536,7 @@ in this course.
 # 01. Introduction to Responsive Design
 
 ![The BASICS of Responsive
-Design.](./images/media/image5.png){width="4.0in"
-height="2.0931627296587925in"}
+Design.](./images/image005.png)
 
 Hi everybody, I\'m Colleen van Lent and I\'d like to welcome you to
 introduction to responsive design. In this course, we\'re going to talk
@@ -564,8 +558,7 @@ it yourself.
 
 ![Week One: - Theory - What does responsive design mean? - What makes
 for good design? - Role of fluid
-measurements.](./images/media/image6.png){width="4.0in"
-height="2.0931627296587925in"}
+measurements.](./images/image006.png)
 
 In week **one**, we\'re really going to focus on the theory.
 
@@ -588,8 +581,7 @@ changes.
 
 ![Week Two: - Media queries - What are they? - How do you plan 1st for
 best practices? - What is the relationship with break points? - How to
-make a navigation bar?](./images/media/image7.png){width="4.0in"
-height="2.0931627296587925in"}
+make a navigation bar?](./images/image007.png)
 
 In week **two** we\'re going to tackle media queries.
 
@@ -615,8 +607,7 @@ really tackle this.
 
 ![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
 Started, grid system, and
-navigation.](./images/media/image8.png){width="4.0in"
-height="2.0931627296587925in"}
+navigation.](./images/image008.png)
 
 In week **three**, we\'re going to shift a little bit and instead of
 writing our own code.
@@ -649,8 +640,7 @@ Because these are the keys to really getting your site to have that
 responsive feel.
 
 ![Week Four: - More bootstrap - Images, tables, advanced navigation -
-Case studies](./images/media/image9.png){width="4.0in"
-height="2.110255905511811in"}
+Case studies](./images/image009.png)
 
 Finally, in week **four**, we\'re going to continue with more bootstrap,
 but we\'re going to talk about things such as images, tables, and maybe
@@ -666,8 +656,7 @@ responsiveness their real-life sites.
 
 ![Final Project - Use your coding skills to create a responsive page
 using multiple methods (framework & media
-queries).](./images/media/image10.png){width="4.0in"
-height="2.110255905511811in"}
+queries).](./images/image010.png)
 
 We will do this with the culmination of a final project.
 
@@ -718,8 +707,7 @@ So how do you succeed in this class?
 
 ![Succeeding in this class - Use message boards. - Don\'t spend more
 than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.](./images/media/image11.png){width="4.0in"
-height="2.110255905511811in"}
+practice, practice.](./images/image011.png)
 
 I will always say that the best way to code is with a friend but that\'s
 not always possible, so I hope that you\'ll use the message boards not
@@ -737,8 +725,7 @@ you will probably find the answer.
 You\'ll find three or four wrong answers, but eventually, the answer
 will be there.
 
-![](./images/media/image12.png){width="4.0in"
-height="2.086324365704287in"}
+![](./images/image012.png)
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you\'re getting as much
@@ -787,8 +774,7 @@ work for us.
 So here are some of the concepts that we\'re going to be considering
 throughout this entire course.
 
-![](./images/media/image12.png){width="4.0in"
-height="2.086324365704287in"}
+![](./images/image012.png)
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -811,38 +797,33 @@ resize things to be able to see everything.
 
 We want it to happen really automatically.
 
-![](./images/media/image13.png){width="6.5in"
-height="4.5993055555555555in"}
+![](./images/image013.png)
 
 Let\'s take a look at some examples that have great responsive design.
 
 The first place I\'m going to take you is a website called
 ***mediaqueri.es.***
 
-![](./images/media/image14.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image014.png)
 
 This site has a really nice collection of different sites that it\'s
 found that really kind of find that key to responsive design. Let\'s go
 ahead and take a look at, I\'ll scroll down a few. How about this one
 right here? CapRadio, go anyplace.
 
-![](./images/media/image15.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image15.png)
 
 This site right now, when I\'m looking at the large screen, you can see
 that there\'s a definite look to the layout.
 
-![](./images/media/image16.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image16.png)
 
 As I resize the screen, as if I\'m looking perhaps on a tablet, and I
 reload it you can see that things have moved over.
 
 The navigation bar is now over to the left when it wasn\'t there before.
 
-![](./images/media/image17.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image17.png)
 
 I\'m going to go ahead and make it smaller still. I don\'t even need to
 refresh.
@@ -866,15 +847,13 @@ Unfortunately, when you Google that out, or you look for that on your
 search engine, nobody really wants to advertise the fact that they\'re
 really bad at web design so I found one for you.
 
-![](./images/media/image18.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image18.png)
 
 It\'s the Internal Revenue Service. And what we have here is a site that
 not only looks the same, but is laid out the same no matter what type of
 screen you\'re looking at.
 
-![](./images/media/image19.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image19.png)
 
 It looks okay right here, but when I make the screen much smaller, you
 can see that it didn\'t really do anything. Now I actually have to
@@ -899,8 +878,7 @@ access to all these different types of platforms.
 What can you do? Well, one option if you\'re using a desktop or a
 laptop, that you can resize your window and refresh the site.
 
-![](./images/media/image20.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image20.png)
 
 So, if I go here;
 \<<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org>\>.
@@ -908,8 +886,7 @@ The Introduction to Wed Design for everybody, of course. I can just use
 my mouse and resize it, take a look and see how things are going to
 change.
 
-![](./images/media/image21.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image21.png)
 
 Here, large view, tablet and mobile view. So, I can see that I have
 three different break points that all work. That works great if you\'re
@@ -919,8 +896,7 @@ device?
 It isn\'t simple or even often possible to resize that window, so we
 need to come up with another solution that will help you out.
 
-![](./images/media/image22.png){width="4.0in"
-height="2.0948720472440945in"}
+![](./images/image22.png)
 
 What you can do is look for online tools to help you check for your
 responsiveness. One that you may want to look at is called
@@ -933,14 +909,12 @@ these webpages.
 
 Here we go.
 
-![](./images/media/image23.png){width="5.0in"
-height="3.2686964129483815in"}
+![](./images/image023.png)
 
 Here\'s a website that you can go to. Down at the bottom of the screen,
 you can fill in the URL of the site you want to look at.
 
-![](./images/media/image24.png){width="5.0in"
-height="3.2686964129483815in"}
+![](./images/image24.png)
 
 Just so you know, this is made with an HTML tag that makes it so that
 you have to put in a URL. It\'s always going to be looking for at least
@@ -953,13 +927,11 @@ desktop, the laptop, a tablet view and a mobile view, and you can see
 that each one is a little bit different depending upon the platform I\'m
 using.
 
-![](./images/media/image25.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image25.png)
 
 Let\'s check out another site.
 
-![](./images/media/image26.png){width="5.0in"
-height="3.0299146981627296in"}
+![](./images/image026.png)
 
 In this case, again we can see that this is a responsive setup. Now,
 even though the pages may look very similar, you can see that on the
@@ -971,8 +943,7 @@ see that in the tablet view, we\'ve really broken it down and they use
 more of a two-column grid system rather than having quite as much
 content.
 
-![](./images/media/image27.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image027.png)
 
 The next site I\'m going to check is one that I\'ve made from my umich
 site. Going here, paste in that URL, and we can take a look. What I\'ve
@@ -1001,8 +972,7 @@ or whatever browser you\'re using. It\'s often the case that your
 browser is going to have special tools that let you simulate looking at
 things from different viewpoints.
 
-![](./images/media/image28.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image028.png)
 
 With Chrome, you can use inspect element to see the different viewpoints
 in real-time. Let\'s take a look. So, I\'ve gone here to my website
@@ -1011,16 +981,14 @@ to drag it out a little bit here. You can see I\'ve got my large screen
 I\'ve got a lot of spacing in it. So, I\'m going to go in and do inspect
 element by right clicking Click over here.
 
-![](./images/media/image29.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image029.png)
 
 And what I can do now is up in the upper left-hand corner, there\'s
 something that looks like a small little mobile phone. It says Toggle
 device mode. I\'m going to click on that. And when I do, I am now
 viewing my site as if I\'m viewing it on a small mobile phone.
 
-![](./images/media/image30.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image030.png)
 
 Depending upon your operating system in the browser of the addition that
 you have, you can go up to the device in the upper left-hand corner
@@ -1029,8 +997,7 @@ iPhone 6? It is a little bit bigger, what if I look at it on a google
 nexus seven. Same thing. So, you can pick a number of different options
 to kind of see what the site would look like.
 
-![](./images/media/image31.png){width="5.0in"
-height="2.8173075240594927in"}
+![](./images/image031.png)
 
 Let\'s see, do one last one, a laptop. Depending on which type of
 platform people are using.
@@ -1052,8 +1019,7 @@ things to different people. We\'re going to talk about three different
 options that people often use, and why the responsive web design that
 we\'re going to adopt has its true benefits.
 
-![](./images/media/image32.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image032.png)
 
 The first option, ***responsive web design or RWD***, is really dealing
 with fluid measurements, flexible grids, and varying CSS rules.
@@ -1066,8 +1032,7 @@ used.
 The third type is the ***separate mobile site***, or ***.m***. This is
 when you create a completely separate page URL for the mobile site.
 
-![](./images/media/image33.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image033.png)
 
 First, let\'s talk about **responsive web design**. With the definition
 that we\'re using, the test really is, are you getting back the same
@@ -1082,8 +1047,7 @@ web design by looking for certain meta tag named viewport. It can be
 detected automatically and would really, kind of help boost your search
 engine score, is what many people think.
 
-![](./images/media/image34.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image034.png)
 
 The second type, **adaptive design**, means that the server figures out
 what kind of device you\'re running on and then returns specific HTML
@@ -1095,8 +1059,7 @@ where you\'re doing it from, you\'re using the same URL. Now, there\'s a
 few issues with this, in that the server might return the wrong code if
 the wrong device type is detected.
 
-![](./images/media/image35.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image035.png)
 
 That third option of having a **dedicated mobile site**, or **a .m
 URL**, means that you\'re going to get a different page completely on a
@@ -1113,8 +1076,7 @@ would you bother doing this? Again, it\'s for search engine
 optimization. It really helps if the search engines can know that this
 is the same type of information just on different URLs.
 
-![](./images/media/image36.png){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image036.png)
 
 So why am I stressing responsive web design?
 
@@ -1155,8 +1117,7 @@ Additional best practices for separate URLs;
 
 <https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing#supported-redirection-techniques>
 
-![](./images/media/image37.png){width="6.5in"
-height="3.7777777777777777in"}
+![](./images/image037.png)
 
 # 05. Fluid Measurements: Background readings
 
@@ -1184,8 +1145,7 @@ lecture on Fluid Measurements.
 
 # 06. Fluid Measurements
 
-![](./images/media/image38.png){width="4.0in"
-height="2.252564523184602in"}
+![](./images/image038.png)
 
 Hi, everybody. Today we\'re going to talk about fluid measurements.
 They\'re really important to responsive design. I\'ve seen some really
@@ -1210,8 +1170,7 @@ When you\'re on a page and everything doesn\'t fit in the screen so
 you\'ve got to kind of look for it. We want to avoid that whenever
 possible.
 
-![](./images/media/image39.png){width="4.0in"
-height="2.251709317585302in"}
+![](./images/image039.png)
 
 First, let\'s talk about absolute measurements. For many people, these
 may be the only type of measurements they\'ve used when doing web
@@ -1238,8 +1197,7 @@ we want to move to relative measurements, where things are sized based
 either on their parents or their neighbors or on the screen size,
 different things like that.
 
-![](./images/media/image40.png){width="4.0in"
-height="2.2376071741032373in"}
+![](./images/image040.png)
 
 So, let\'s start with percent. Percentage values are always relative to
 some other value, for example, a length. If you say you want something
@@ -1255,8 +1213,7 @@ Another thing that you can use is rem. rem is very similar to but it
 helps avoid that problem of something getting smaller and smaller and
 smaller. Let me show you an example.
 
-![](./images/media/image41.png){width="4.0in"
-height="2.252564523184602in"}
+![](./images/image041.png)
 
 Let\'s assume we\'re going to set something up to be 0.5em and it\'s
 going to be inside this element in here. I\'m going to make up a size
@@ -1273,8 +1230,7 @@ the exact same size and the exact size in here. rem really helped people
 out when they were doing these kinds of complex sites where you had a
 lot of things embedded inside the other.
 
-![](./images/media/image40.png){width="4.0in"
-height="2.2376071741032373in"}
+![](./images/image040.png)
 
 Now, the problem with teaching and learning about relative measurements,
 is that it\'s very abstract. I tried to include a little thing here to
@@ -1289,8 +1245,7 @@ bigger or smaller, only the em and percent would adjust to the size of
 the screen. If you used point or pixel, as the screen gets bigger, the
 font stays the exact same size. Same if the screen gets smaller.
 
-![](./images/media/image42.png){width="4.0in"
-height="2.2376071741032373in"}
+![](./images/image042.png)
 
 Two of the newer relative measurements are based on the viewport. vw
 stands for viewport width, so if you were to use one vw, you\'re saying,
@@ -1305,8 +1260,7 @@ have if you want something to show up exactly in the middle. This comes
 in really handy when you\'re trying to set headers and footers in
 specific positions.
 
-![](./images/media/image43.png){width="4.0in"
-height="2.241025809273841in"}
+![](./images/image043.png)
 
 Now, there are times that you\'re going to want to hardcode values with
 those absolute measurements. But, whenever possible, when you\'re coming
@@ -1325,8 +1279,7 @@ difference between sitting and listening to me talk about something, and
 getting in there and coding it yourself, or at least following along
 with me while I code it.
 
-![](./images/media/image44.png){width="5.0in"
-height="1.9577996500437445in"}
+![](./images/image044.png)
 
 So, let\'s do an example as we go from static or absolute measurements
 to something that\'s more fluid. So, what I have here is a site where
@@ -1371,32 +1324,28 @@ out what you want your page to look like before you code it, and we\'re
 going to talk about that in week two. But right here, for week one,
 let\'s just wing it a little bit.
 
-![](./images/media/image45.png){width="6.5in"
-height="3.3631944444444444in"}
+![](./images/image045.png)
 
 I\'m going to make it so I can see my code. And the first thing I\'m
 going to do is I\'m going to go to the first place I hard coded a value,
 which is the width of this main part. Saying that I always want it to be
 980 pixels, it\'s just a mistake.
 
-![](./images/media/image46.png){width="6.5in"
-height="3.3631944444444444in"}
+![](./images/image046.png)
 
 Instead, let\'s use percent here, and say I want this to take up, let\'s
 say somewhere between 95 and I\'ll pick 95% of my page. Already, you
 could see that things happened in there. Not everything we wanted to
 happen, but a little. I\'ll resize it again.
 
-![](./images/media/image47.png){width="6.5in"
-height="3.3631944444444444in"}
+![](./images/image047.png)
 
 You can see that my paragraph down here still fits, but the columns just
 look at little bit awkward. Particularly, if I\'m somewhere in that
 awkward range of two columns fit, but not the third. So, while the main
 page is responsive, let\'s work on those columns.
 
-![](./images/media/image48.png){width="6.5in"
-height="3.3631944444444444in"}
+![](./images/image048.png)
 
 Here, I\'ve set them to 300 pixels. Let\'s change that. Since I have
 three columns, again, I can set it to 33, 33, 33, but I\'m probably
@@ -1406,8 +1355,7 @@ see this is a huge difference in our page. Whether I make it big,
 there\'s not a lot of wasted white space along the side. And if I make
 it small, the columns are still together. This is really good.
 
-![](./images/media/image49.png){width="6.5in"
-height="3.3631944444444444in"}
+![](./images/image049.png)
 
 The last thing I\'m going to change, I\'m going to go ahead and change
 my H1, so I\'m using the percent instead. I\'ll make it 300%. That\'ll
@@ -1602,8 +1550,7 @@ course.
 
 Hi everybody. Today we are going to talk about Media queries.
 
-![](./images/media/image50.png){width="4.0in"
-height="2.0952996500437444in"}
+![](./images/image050.png)
 
 Media queries are going to allow us to adjust the style of out webpages,
 depending upon, the properties of the media we\'re looking at. We can
@@ -1615,8 +1562,7 @@ So, inside your HTML you could have multiple links to different style
 sheets. But it wouldn\'t apply all the style sheets just some of them so
 here\'s an example.
 
-![](./images/media/image51.png){width="4.0in"
-height="2.0952996500437444in"}
+![](./images/image051.png)
 
 Right here the style sheet style is only going to apply when the content
 is being displayed on a screen. And for many of you, that\'s the only
@@ -1632,8 +1578,7 @@ completely different style sheet. And this was a big step forward for
 us, because it allowed us to, again, have different content and style
 depending upon the platform.
 
-![](./images/media/image52.png){width="4.0in"
-height="2.0952996500437444in"}
+![](./images/image052.png)
 
 With CSS3, we have even more capabilities because the style can depend
 upon many more features. We can look at the width, the height, the
@@ -1642,8 +1587,7 @@ Boolean operators to increase the power. And what Boolean operators are
 just simple "ands" and "ors". So, you might want to say something along
 the line of, if it's a screen and fill in some other properties there.
 
-![](./images/media/image53.png){width="4.0in"
-height="2.0952996500437444in"}
+![](./images/image053.png)
 
 So, let\'s look at some examples. Every media query has two components.
 The first is the media type. We often think of this as something along
@@ -1656,8 +1600,7 @@ The second component is the actual query of the media feature and the
 trigger size that we want to be looking for. For example, we might be
 looking for very specific width, height, orientation or resolution.
 
-![](./images/media/image53.png){width="4.0in"
-height="2.0952996500437444in"}
+![](./images/image053.png)
 
 Here\'s an example for you right here. The media type that I want to
 talk about is screen, the CSS will only apply if we\'re looking at a
@@ -1671,8 +1614,7 @@ trigger size and media feature.
 
 There are three ways to implement media queries.
 
-![](./images/media/image54.png){width="4.0in"
-height="2.260255905511811in"}
+![](./images/image054.png)
 
 The first is to use the import rule. Inside your CSS, you would use
 import, you\'d include the URL for the style sheet that you want to
@@ -1680,8 +1622,7 @@ import, as well as the different size and conditions on when you want to
 import it. In this case if my screen has a minimum width of 600 pixels
 we would want to use smallstyle.css.
 
-![](./images/media/image55.png){width="4.0in"
-height="2.260255905511811in"}
+![](./images/image055.png)
 
 The second approach is to put the media query directly in the style
 sheet itself. We would have before any of our rules, we\'d have the
@@ -1690,16 +1631,14 @@ all of our usual CSS rules for the color, or the font, the size,
 different things like that. So, it\'s all contained inside a single
 file.
 
-![](./images/media/image56.png){width="4.0in"
-height="2.260255905511811in"}
+![](./images/image056.png)
 
 The third approach is to include the query in the actual link in the
 header of your HTML. So here, instead of just saying link this style
 sheet, we\'ve included the trigger and the different rules right inside
 our HTML link tag.
 
-![](./images/media/image57.png){width="4.0in"
-height="2.260255905511811in"}
+![](./images/image057.png)
 
 In general, I\'m going to always stick to this second approach right
 here. This is the one that I personally use for doing my responsive
@@ -1709,8 +1648,7 @@ three of these different approaches.
 Let\'s review for just a second to make sure that we\'re on the same
 page with how we implement media queries.
 
-![](./images/media/image58.png){width="4.0in"
-height="2.260255905511811in"}
+![](./images/image058.png)
 
 In this case I\'ve put my media queries directly into my CSS file. And
 what\'s going to happen is as always CSS start from the top and works
@@ -1734,11 +1672,9 @@ Hey everybody, welcome back. Let\'s go look at some code together.
 
 <https://codepen.io/ColleenEMc/pen/pgrYpK/>
 
-![](./images/media/image59.png){width="6.5in"
-height="2.703472222222222in"}
+![](./images/image059.png)
 
-![](./images/media/image60.png){width="6.5in"
-height="3.642361111111111in"}
+![](./images/image060.png)
 
 What we\'re looking at here is an example from when we first learned
 about fluid measurements. We went in and we switched our absolute
@@ -1746,8 +1682,7 @@ measurements of pixels and started using percents. And it works out
 really well, unless you take it and you look at a small screen. Right
 now, the three columns are fine.
 
-![](./images/media/image61.png){width="6.5in"
-height="3.642361111111111in"}
+![](./images/image061.png)
 
 But when we get smaller, right here, it really doesn\'t make sense to
 try to shove three columns worth of content into such a small screen.
@@ -1756,8 +1691,7 @@ would be a much better look is to have each column stacked on top of
 each other and only go to three columns when you\'re on a large screen.
 So, let\'s take a look at how we can make that change together.
 
-![](./images/media/image62.png){width="6.5in"
-height="3.328472222222222in"}
+![](./images/image062.png)
 
 The first thing that we need to look at is what these columns are. And
 what we have is we have dibs each of type class equals column. The nice
@@ -2030,8 +1964,7 @@ Did you want it to be a drop-down menu, a hover actions, we need to
 think about this functionality from the beginning. Many people refer to
 sketches and wireframes and kind of wonder what the difference is.
 
-![](./images/media/image63.png){width="4.0in"
-height="2.2508552055993003in"}
+![](./images/image063.png)
 
 I always recommend starting with a sketch. With this idea with a sketch,
 is that you\'re just kind of drawing with your hand and it\'s very
@@ -2051,8 +1984,7 @@ myself, but there are places where you can figure out these kind of best
 design practices as you start sketching out your page and eventually
 moving on.
 
-![](./images/media/image64.png){width="6.5in"
-height="3.657638888888889in"}
+![](./images/image064.png)
 
 One of the reasons I like this site is well because I agree with many of
 the things they\'re talking about and they agree with me. But as you
@@ -2074,8 +2006,7 @@ in your page because when you do this it really helps you visually look
 at the page and realize, this part\'s getting lost or this section is
 really too big. Maybe I should be breaking it up in to more sections.
 
-![](./images/media/image65.png){width="4.0in"
-height="2.2423075240594925in"}
+![](./images/image065.png)
 
 This last one I\'m going to talk about and then you can kind of do the
 page alone if you like, is this idea that you never wire a loan. This, I
@@ -2114,8 +2045,7 @@ some of the terms I use in this class and make sure I\'ve actually
 defined them for you so we\'re all in agreement or understand what the
 general meaning is.
 
-![](./images/media/image66.png){width="4.0in"
-height="2.2551279527559056in"}
+![](./images/image066.png)
 
 One of those terms is breakpoint. People hear it talk about it all the
 time when they\'re talking about responsive design, but what are they?
@@ -2133,15 +2063,13 @@ honest, it may not be the best phrase to use. That\'s because most
 people don\'t actually resize their window when they\'re on it. You open
 up your screen and there it is.
 
-![](./images/media/image67.png){width="4.0in"
-height="2.2551279527559056in"}
+![](./images/image067.png)
 
 As developers I encourage you to open up your browser, make it big, make
 it small, kind of resize it all the time. But most people aren\'t going
 to do that when they\'re viewing your page.
 
-![](./images/media/image68.png){width="4.0in"
-height="2.2551279527559056in"}
+![](./images/image068.png)
 
 So, when we talk about triggering these changes, we often mean
 triggering rules in your style sheet instead. That\'s why I\'m going to
@@ -2162,8 +2090,7 @@ your breakpoints based on the content of your page. You figure out what
 it is you want there and decide when will it really look good next to
 each other versus not. Let\'s talk about using devices as a breakpoint.
 
-![](./images/media/image69.png){width="4.0in"
-height="2.2551279527559056in"}
+![](./images/image069.png)
 
 So, what I have here is just a quick little shot of some of the most
 common devices and their screen sizes. So, with the iPhone 4, you\'d
@@ -2184,8 +2111,7 @@ impossible for you to go in and try to have a different view for each
 one of these sizes. And of course, when we talk about breakpoints, we
 want to talk about mobile first.
 
-![](./images/media/image70.png){width="4.0in"
-height="2.2551290463692037in"}
+![](./images/image070.png)
 
 In a lot of paradigms, you\'re never going to see a breakpoint of 320
 pixels or even 360 pixels. You\'re not going to see that because
@@ -2221,15 +2147,13 @@ me do it than doing it yourself. So today, three simple steps that I
 want you to try at your best to follow and then, we\'ll look at an
 example.
 
-![](./images/media/image71.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image071.png)
 
 The key to understanding media queries is to actually use them in
 responsive design. This lecture is going to describe that process in
 three steps, but you won\'t necessarily need to use all of them.
 
-![](./images/media/image72.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image072.png)
 
 So, the best I can do is give you guidelines. Step one, this is
 something that will cause your page to work or not work many times on
@@ -2245,8 +2169,7 @@ Now, if you ever been to a site where things are really small and you
 want to make it bigger so you can read it a little better. And it just
 won\'t let you do that.
 
-![](./images/media/image73.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image073.png)
 
 That is because somebody has put this very horrible, horrible piece of
 code into their HTML. Instead of saying just initial-scale equals one,
@@ -2259,8 +2182,7 @@ things bigger or smaller. So that\'s step one. It\'s not only going to
 help your browser know that you\'re going to be doing responsive design.
 It may actually help your search engine optimization as well.
 
-![](./images/media/image74.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image074.png)
 
 In step two, I really want to encourage you to use fluid layouts. It\'s
 very often the case that when people use breakpoints, they then use
@@ -2272,8 +2194,7 @@ going to be, they can hard code the width of some of their elements.
 You\'re going to see this in Bootstrap all the time. But, just because
 somebody else does it, doesn\'t mean the you should.
 
-![](./images/media/image75.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image075.png)
 
 I want you to use those other things such as percentages, and ems. These
 are really great fluid measurements. Percentages you tend to use more on
@@ -2283,8 +2204,7 @@ remember that, don\'t forget to go back and look at some of the fluid
 measurement videos. I also hear that Bootstrap 4, one of the platforms
 we\'re going to use is going switch over to ems and rems, too.
 
-![](./images/media/image76.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image076.png)
 
 The last thing I just like to remind people is that when you use these
 fluid measurements for things like padding and margin, the percents are
@@ -2298,8 +2218,7 @@ seem like a big deal until you\'re stuck trying to code it. Just
 remember paddings and margins, when you use percent, they\'re affected
 by the width of the page, not the height.
 
-![](./images/media/image77.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image077.png)
 
 That third step is really the biggest step. And that is including those
 media queries. The fluid layout is triggered by these certain break
@@ -2316,8 +2235,7 @@ downloaded. And this can affect performance. They\'re still downloading
 big things like pictures. And you\'re eating up their data. So think
 small screen and grow bigger.
 
-![](./images/media/image78.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image078.png)
 
 When you put in these media queries, it\'s common to have a few
 different sets of rules. You might have your large screen, and then a
@@ -2356,8 +2274,7 @@ things that it\'s really simple to nod along, say yep, yep, I got it.
 And it isn\'t until you write your own code that you\'re going to
 accidentally make these mistakes and not know what\'s going on.
 
-![](./images/media/image79.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image079.png)
 
 My advice to you is to always add one media query at a time, and make it
 something simple. Put in that media query, add a rule, test it, build
@@ -2385,15 +2302,13 @@ navigation. In particular we want to make one page where the navigation
 bar is at the top on a small screen and off to the side on larger
 screens.
 
-![](./images/media/image80.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image080.png)
 
 So, let\'s look at some code. What I have here is some HTML that
 doesn\'t have any styling on the navigation bar. What you have is a nice
 horizontal line of links right up here at the top of your page.
 
-![](./images/media/image81.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image081.png)
 
 What I would like to do is design my page, so that on small screens, the
 navigation bar is still on the top. But instead, when I\'m on larger
@@ -2404,8 +2319,7 @@ you\'d have all the content. But on a larger screen, it can be this big,
 then I want my navigation bar to be along the side and we can put all
 the content right off to the right.
 
-![](./images/media/image82.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image082.png)
 
 So, let\'s take a look at how we\'re going to do that. Because we want
 to do mobile first, that means by default we already have it set up
@@ -2442,8 +2356,7 @@ recommend is somebody write a very simple, clear rule. The reason is,
 it\'s really easy for you to figure out whether or not your rules are
 triggering.
 
-![](./images/media/image83.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image083.png)
 
 So let\'s go ahead and just change the entire color of the body of this
 page. So put in body, curly bracket, background, color, I\'ll just make
@@ -2452,8 +2365,7 @@ it didn\'t change anything on your screen, You want to stop. Don\'t
 start doing new complicated things if you can\'t even get this little
 one to get going. See if I can get away with grey. There we go.
 
-![](./images/media/image84.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image084.png)
 
 You can still see everything. If you run into problems, the parts you
 want to check are go in did you remember to have minimum width? If you
@@ -2463,8 +2375,7 @@ it\'s looking for. Make sure you have two sets of curly brackets. Notice
 I have one set that starts my media query. And then a second one that
 goes with the body selector.
 
-![](./images/media/image85.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image085.png)
 
 If that\'s going, let\'s go ahead and move on to how we would change
 that navigation bar to be off to the side instead of on the top. So one
@@ -2480,8 +2391,7 @@ still doesn\'t look quite right. What I need, is I need to style those
 individual links as well. So that they go right underneath each other.
 Let\'s do that next code. So how do I do that?
 
-![](./images/media/image86.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image086.png)
 
 How do I get the links to go underneath each other? Well that\'s not too
 hard if you remember some of the more advanced CSS you\'ve learned
@@ -2496,8 +2406,7 @@ it only takes up some of the space. But we really wanted the content to
 be next to it. We wanted it to be over here to the side. And instead, it
 ended up underneath.
 
-![](./images/media/image87.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image087.png)
 
 What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
@@ -2515,8 +2424,7 @@ the padding right now. I also set the height to 100 viewport height to
 take up the whole screen. I did have to go back and change one thing up
 in my nav as well.
 
-![](./images/media/image88.png){width="6.5in"
-height="3.6506944444444445in"}
+![](./images/image088.png)
 
 I had to add a float left, right down here if you look. And this is what
 lets these two things be next to each other off to the side. So let\'s
@@ -2540,8 +2448,7 @@ The following is a link to good examples of responsive design:
 
 # 15. Frameworks
 
-![](./images/media/image89.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image089.png)
 
 Hi, everybody. Frameworks is one of those words or terms that people
 really love to throw out there. The term framework can really mean
@@ -2552,8 +2459,7 @@ framework, you\'re able to develop your sites quickly and easily without
 changing too much code. So again, when we talk about framework, we want
 to think about what does framework mean here in this class.
 
-![](./images/media/image90.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image090.png)
 
 For front-end developers, frameworks provide tools for CSS, JavaScript,
 and jQuery. They\'re these little bits of code that you can use to get
@@ -2561,8 +2467,7 @@ an instant look that you\'re looking for. And sometimes an instant
 behavior that you\'re looking for as well with the JavaScript and the
 jQuery.
 
-![](./images/media/image91.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image091.png)
 
 If you\'re a back-end developer, this is something completely different
 as far as frameworks go. Now you\'re looking at code that\'s going to
@@ -2574,8 +2479,7 @@ Just make sure that you realize that we\'re doing front-end development,
 not back-end development. In saying that, I think it\'s important that
 you know at least a handful of frameworks that people are using today.
 
-![](./images/media/image92.png){width="4.0in"
-height="2.2465813648293964in"}
+![](./images/image092.png)
 
 The first one that I\'m going to mention, and the one that we\'re going
 to study in this course is Bootstrap. Bootstrap was developed in 2011.
@@ -2634,9 +2538,7 @@ side](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolutio
 This allows the user to interact with the page right away, while the
 JavaScript code is still loading and running.
 
-![hydration in web
-development](./images/media/image93.png){width="5.0in"
-height="2.911324365704287in"}
+![hydration in web development](./images/image093.png)
 
 Image
 credit: [Reddit](https://www.reddit.com/r/webdev/comments/xqd4i8/what_is_hydration/)
@@ -2659,8 +2561,7 @@ speed.
 Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
 
-![Single Page Applications](./images/media/image94.png){width="5.0in"
-height="2.861111111111111in"}
+![Single Page Applications](./images/image094.png)
 
 In fact, many of the most successful modern web applications, such as
 Gmail, Google Maps, and Facebook, are built using SPAs. This is because
@@ -2678,8 +2579,7 @@ easier to develop and maintain large-scale applications.
 
 # JAMStack
 
-![](./images/media/image95.png){width="4.0in"
-height="1.4726498250218722in"}
+![](./images/image095.png)
 
 JAMstack is a unique concept for building static web pages. Rather than
 implementing a back-end solution for content generation, an API is used
@@ -2711,8 +2611,7 @@ the frameworks, as well as links to GitHub and the framework\'s website.
 
 # #1 - React
 
-![ReactJS front-end framework](./images/media/image96.png){width="5.0in"
-height="0.9145297462817148in"}
+![ReactJS front-end framework](./images/image096.png)
 
 React continues to dominate the front-end space. The framework stands
 out with its own virtual DOM, ensuring persistent app performance at
@@ -2736,8 +2635,7 @@ hours this shaves from the development process is enormous.
 
 # #2 - Angular
 
-![Angular front-end framework](./images/media/image97.png){width="5.0in"
-height="0.9145297462817148in"}
+![Angular front-end framework](./images/image097.png)
 
 While Angular retains a rather large usage percentage, the interest in
 the framework is at an all-time low. Who knows, maybe the loyal
@@ -2766,8 +2664,7 @@ preferences.
 
 # #3 - Vue
 
-![Vue front-end framework](./images/media/image98.png){width="5.0in"
-height="0.9145297462817148in"}
+![Vue front-end framework](./images/image098.png)
 
 Vue remains a solid choice for truly modern web development.
 The *progressive* framework has [recently pushed forward its Vue 3
@@ -2796,8 +2693,7 @@ support for TypeScript, and testing tools.
 
 # #4 - Svelte
 
-![Svelte front-end framework](./images/media/image99.png){width="5.0in"
-height="0.9145297462817148in"}
+![Svelte front-end framework](./images/image099.png)
 
 So, what\'s the deal with Svelte? The framework has seen quite a bit of
 adoption lately and even
@@ -2869,8 +2765,7 @@ Copy
 
 # #5 - Preact
 
-![Preact front-end framework](./images/media/image100.png){width="5.0in"
-height="0.9145297462817148in"}
+![Preact front-end framework](./images/image100.png)
 
 Meta frameworks have always been a thing. And, in this case, Preact aims
 to be the lightweight alternative to React. If you\'ve worked with React
@@ -2893,8 +2788,7 @@ stability.
 
 # #6 - Ember
 
-![Ember front-end framework](./images/media/image101.png){width="5.0in"
-height="0.9145297462817148in"}
+![Ember front-end framework](./images/image101.png)
 
 Ember goes back so long that it predates all the aforementioned
 frameworks. Sure, Ember.js might be seeing a lot less usage over the
@@ -2913,8 +2807,7 @@ with major changes in the framework itself.
 
 # #7 - Solid
 
-![Solid front-end framework](./images/media/image102.png){width="5.0in"
-height="0.9145297462817148in"}
+![Solid front-end framework](./images/image102.png)
 
 SolidJS has been in active development since 2019. But, it was in the
 June of 2021 that the framework [graduated to
@@ -2942,8 +2835,7 @@ Vue and Redux.
 
 # #8 - Lit
 
-![Lit front-end framework](./images/media/image103.png){width="5.0in"
-height="0.9145297462817148in"}
+![Lit front-end framework](./images/image103.png)
 
 Lit (formerly lit-HTML and LitElement) is a web components framework
 maintained by Google. Lit is the framework that was used in [the tech
@@ -2963,8 +2855,7 @@ implements standardized web components.
 
 # #9 - Alpine
 
-![Alpine front-end framework](./images/media/image104.png){width="5.0in"
-height="0.9145297462817148in"}
+![Alpine front-end framework](./images/image104.png)
 
 Alpine.js is a JavaScript front-end framework for customizing UI
 behavior. And, even though Alpine resembles Vue and Angular, it\'s much
@@ -2990,8 +2881,7 @@ Hugo, etc.
 
 # #10 - Stencil
 
-![](./images/media/image105.png){width="5.0in"
-height="0.9145297462817148in"}
+![](./images/image105.png)
 
 Stencil is a library for building reusable, scalable Design Systems. It
 is designed to make the front-end development process simple and
@@ -3025,8 +2915,7 @@ doc generation, and types.
 
 # #11 - Qwik
 
-![](./images/media/image106.png){width="5.0in"
-height="0.9145297462817148in"}
+![](./images/image106.png)
 
 Qwik is a next-generation front-end framework designed to meet the
 demands of modern web development. With a focus on performance,
@@ -3081,8 +2970,7 @@ on practical skills rather than just trendy technologies.
 
 # 16. Introduction to Twitter Bootstrap 3
 
-![](./images/media/image107.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image107.png)
 
 Today we\'re going to talk about Bootstrap.
 
@@ -3106,8 +2994,7 @@ Today we\'re going to talk about Bootstrap.
     layouts\'. It gives us this very familiar look and feel to sights
     that were made with Bootstrap.
 
-![](./images/media/image108.png){width="4.0in"
-height="2.249573490813648in"}
+![](./images/image108.png)
 
 Speaking of that, who uses Bootstrap?
 
@@ -3122,8 +3009,7 @@ Speaking of that, who uses Bootstrap?
     place to go to give you ideas for all the different layout designs
     that are out there for you to use as a building block.
 
-![](./images/media/image109.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image109.png)
 
 There are a number of benefits of using Bootstrap 3.0.
 
@@ -3158,8 +3044,7 @@ There are a number of benefits of using Bootstrap 3.0.
         for people to have confidence in your site when they go to visit
         it.
 
-![](./images/media/image110.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image110.png)
 
 So why should you consider using Bootstrap? Or at least know a little
 bit about it?
@@ -3178,8 +3063,7 @@ bit about it?
     don\'t like, that\'s okay. You can go in and you can change the
     values to give it the look that you want it to have.
 
-![](./images/media/image111.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image111.png)
 
 But there are reasons why you might not want to use Bootstrap.
 
@@ -3204,8 +3088,7 @@ But there are reasons why you might not want to use Bootstrap.
     really an innovative thinker. Then you might not want to use
     Bootstrap. You might really want to head off on your own.
 
-![](./images/media/image112.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image112.png)
 
 -   When we talk about Bootstrap in this class, there are a number of
     different ways we can approach it.
@@ -3235,8 +3118,7 @@ want to use, not something that you feel confined by.
 
 # 17. Bootstrap Breakpoints
 
-![](./images/media/image113.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image113.png)
 
 -   Earlier in this course, we talked about setting breakpoints in your
     code for responsive design. Bootstrap has default breakpoints that
@@ -3250,8 +3132,7 @@ height="2.24957239720035in"}
     -   You want to make sure you plan for the smallest screen and then
         make adjustments as the screen size potentially is larger.
 
-![](./images/media/image114.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image114.png)
 
 -   First let's talk about the smallest screen size that Bootstrap deals
     with. It\'s kind of a custom iPhone retina screen. It basically
@@ -3267,8 +3148,7 @@ height="2.24957239720035in"}
     It\'s also not very common right now, so let\'s go on to the extra
     small devices and phones.
 
-![](./images/media/image115.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image115.png)
 
 -   In Bootstrap, these extra small sizes are referred to with an xs.
 
@@ -3279,8 +3159,7 @@ height="2.24957239720035in"}
     landscape position. You assume the phone is at least 480 pixels
     wide.
 
-![](./images/media/image116.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image116.png)
 
 -   The next step up for small devices and tablets is referred to as sm
     for small.
@@ -3294,8 +3173,7 @@ height="2.24957239720035in"}
     that from many desktop browsers, people open up smaller window
     sizes, so it also triggers this viewpoint as well.
 
-![](./images/media/image117.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image117.png)
 
 -   For medium devices and desktops, we use this code md for media.
 
@@ -3310,8 +3188,7 @@ height="2.24957239720035in"}
     they might be using the style sheet, of a larger screen. And we\'re
     going to talk about how we can deal with this a little bit later.
 
-![](./images/media/image118.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image118.png)
 
 -   Finally, the last viewport is referred to as lg, and this is for
     large devices and wide screens.
@@ -3335,8 +3212,7 @@ height="2.24957239720035in"}
     being triggered. I\'m hoping you can avoid them by knowing what\'s
     going on there.
 
-![](./images/media/image119.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image119.png)
 
 -   Now it is possible to change these default values for your
     breakpoints. Even though Bootstrap hardcodes them, you can go in and
@@ -3350,8 +3226,7 @@ height="2.24957239720035in"}
     -   You can always write your own media queries to add new trigger
         points.
 
-![](./images/media/image120.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image120.png)
 
 -   Now, when we talk about Bootstrap grid points, it\'s not important
     that you go back and you memorize these exact values of the
@@ -3370,8 +3245,7 @@ height="2.24957239720035in"}
 
 # 18. Getting Started with Twitter Bootstrap
 
-![](./images/media/image121.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image121.png)
 
 -   Hi everybody. If I\'ve done a good job up to this point, you\'re
     really excited to use Bootstrap and your kind of annoyed with me
@@ -3390,8 +3264,7 @@ height="2.24957239720035in"}
     -   And we can also talk about how we can link to the code from our
         CodePen account.
 
-![](./images/media/image122.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image122.png)
 
 If you want to save your own copy of bootstrap, you can go to the
 website, getbootstrap.com, and there\'s a quick an easy get started link
@@ -3407,8 +3280,7 @@ before you download. This will save you time, if you know there are
 certain break points, colors, or other styles that you want to happen,
 and you don\'t want to go around and overwrite them later.
 
-![](./images/media/image123.png){width="4.0in"
-height="2.24957239720035in"}
+![](./images/image123.png)
 
 Let me show you. When you go to the website, you can see that it lets
 you customize different options. So for instance, you can put in and you
