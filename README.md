@@ -26,9 +26,9 @@ UofM-AdvStyling: U of Michigan - Advanced Styling with Responsive Design
 
 <ol type="I">
   <li><a href="#chb">Course Introduction and Practical Information</a></li>
-  <li><a style="margin-left: 2rem;" href="#chb-1" Sub-Heading">Course syllabus</a></li>
-  <li><a style="margin-left: 2rem;" href="#chb-2" Sub-Heading">Getting around the course</a></li>
-  <li><a style="margin-left: 2rem;" href="#chb-3" Sub-Heading">Course tools</a></li>
+  <li><a style="margin-left: 2rem;" href="#cha-1" Sub-Heading">Course syllabus</a></li>
+  <li><a style="margin-left: 2rem;" href="#cha-2" Sub-Heading">Getting around the course</a></li>
+  <li><a style="margin-left: 2rem;" href="#cha-3" Sub-Heading">Course tools</a></li>
 </ol>
 
 ## [**Module 1: Style with Responsive Design**](#ch1)
@@ -83,10 +83,31 @@ design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
-![What is Responsive Design?](./images/image003.png)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. syllabus (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image004.webp?raw=true"
+  alt="Course Syllabus - Advanced Styling with Responsive Design from 
+    University of Michigan with Coursera."
+  width="150px;" />
+&nbsp;
+<br/>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive deisgn? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image004.webp?raw=true"
+  alt="Course Syllabus - Advanced Styling with Responsive Design from 
+    University of Michigan with Coursera."
+  width="150px;" />
+&nbsp;
+<br/>
+<a href="./images/image003.png)">What is Responsive Design?</a>./images/image003.png)
 <!-- {width="5.0in" height="2.6079057305336835in"} -->
 
-## Syllabus
+<h2 id="cha-1">Syllabus</h2>
 
 Welcome to Advanced Styling with Responsive Design, taught by Colleen
 van Lent!
