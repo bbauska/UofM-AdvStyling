@@ -1,3 +1,5 @@
+
+
 ![Introduction to Responsive Design by Colleen van Lent, Ph.D.
 (lecturer, school of
 information)](./images/image001.png)
