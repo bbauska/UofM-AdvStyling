@@ -1,13 +1,74 @@
+---
+UofM-AdvStyling: U of Michigan - Advanced Styling with Responsive Design
+---
 
+<h2 align="center">University of Michigan Advanced Styling with Responsive Design</h2>
+<br/>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of UofM-AdvStyling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ intro to responsive design (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image001.png?raw=true"
+  alt="Intro to Responsive Design by Colleen van Lent, Ph.D. (lecturer, school of information."
+  style="width:480px;" />
+</p>
+<p align="center">
+<img  src="./images/image002.png?raw=true"
+  alt="Advanced Styling with Responsive Design offered by University of Michigan."
+  style="width:316px;" />
+</p>
 
-![Introduction to Responsive Design by Colleen van Lent, Ph.D.
-(lecturer, school of
-information)](./images/image001.png)
-<!-- {width="5.0in" height="2.821046587926509in"} -->
+<h3 align="center">U of Michigan - Advanced Styling with Responsive Design</h3>
 
-![Advanced Styling with Responsive Design offered by University of
-Michigan.](./images/image002.png)
-<!-- {width="3.2916666666666665in" height="1.3958333333333333in"} -->
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
+
+<ol type="I">
+  <li><a href="#chb">Course Introduction and Practical Information</a></li>
+  <li><a style="margin-left: 2rem;" href="#chb-1" Sub-Heading">Course syllabus</a></li>
+  <li><a style="margin-left: 2rem;" href="#chb-2" Sub-Heading">Getting around the course</a></li>
+  <li><a style="margin-left: 2rem;" href="#chb-3" Sub-Heading">Course tools</a></li>
+</ol>
+
+## [**Module 1: Style with Responsive Design**](#ch1)
+>### 1.1 [**Introduction to Responsive Design**](#ch1-1-1)
+>### 1.2 [**What is Responsive Design**](#ch1-2-1)
+>### 1.3 [**Testing Existing Sites**](#ch1-3-1)
+>### 1.4 [**Benefits of Responsive Desgin**](#ch1-4-1)
+>### 1.5 [**Fluid Measurements**](#ch1-5-1)
+>### 1.6 [**Code with Me: Fluid Measurements**](#ch1-6-1)
+
+## [**Module 2: Basic Concepts**](#ch2)
+>### 2.1 [**Media Queries**](#ch2-1-1)
+>### 2.2 [**Code with Me: Fluid Measurements &amp; Media Queries**](#ch2-2-1)
+>### 2.3 [**Wire Frames**](#ch2-3-1)
+>### 2.4 [**Breakpoints**](#ch2-4-1)
+>### 2.5 [**Media Queries - Part II**](#ch2-5-1)
+>### 2.6 [**Code with Me: Responsive Navigation**](#ch2-6-1)
+
+## [**Module 3: Using Existing Frameworks**](#ch3)
+>### 3.1 [**Frameworks**](#ch3-1-1)
+>### 3.2 [**Introduction to Twitter Bootstrap 3**](#ch3-2-1)
+>### 3.3 [**Bootstrap Breakpoints**](#ch3-3-1)
+>### 3.4 [**Bootstrap Grid System**](#ch3-4-1)
+>### 3.5 [**Code with Me: Grid Example**](#ch3-5-1)
+>### 3.6 [**Bootstrap Navigation**](#ch3-6-1)
+
+## [**Module 4: Experiment**](#ch4)
+>### 4.1 [**Responsive Images**](#ch4-1-1)
+>### 4.2 [**Bootstrap Tables**](#ch4-2-1)
+>### 4.3 [**Code with Me: Advanced Navigation**](#ch4-3-1)
+>### 4.4 [**What are Templates?**](#ch4-4-1)
+>### 4.5 [**Optional Interview: M W**](#ch4-5-1)
+>### 4.6 [**Optional Interview: H W**](#ch4-6-1)
+>### 4.7 [**Optional Interview: H N**](#ch4-7-1)
+>### 4.8 [**Bootstrap 4**](#ch4-8-1)
+>### 4.9 [**Conclusion**](#ch4-9-1)
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
