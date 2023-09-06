@@ -32,20 +32,20 @@ UofM-AdvStyling: U of Michigan - Advanced Styling with Responsive Design
 </ol>
 
 ## [**Module 1: Style with Responsive Design**](#ch1)
->### 1.1 [**Introduction to Responsive Design**](#ch1-1-1)
->### 1.2 [**What is Responsive Design**](#ch1-2-1)
->### 1.3 [**Testing Existing Sites**](#ch1-3-1)
->### 1.4 [**Benefits of Responsive Desgin**](#ch1-4-1)
->### 1.5 [**Fluid Measurements**](#ch1-5-1)
->### 1.6 [**Code with Me: Fluid Measurements**](#ch1-6-1)
+>### 1.1 [**Introduction to Responsive Design**](#ch1-1)
+>### 1.2 [**What is Responsive Design**](#ch1-2)
+>### 1.3 [**Testing Existing Sites**](#ch1-3)
+>### 1.4 [**Benefits of Responsive Desgin**](#ch1-4)
+>### 1.5 [**Fluid Measurements**](#ch1-5)
+>### 1.6 [**Code with Me: Fluid Measurements**](#ch1-6)
 
 ## [**Module 2: Basic Concepts**](#ch2)
->### 2.1 [**Media Queries**](#ch2-1-1)
->### 2.2 [**Code with Me: Fluid Measurements &amp; Media Queries**](#ch2-2-1)
->### 2.3 [**Wire Frames**](#ch2-3-1)
->### 2.4 [**Breakpoints**](#ch2-4-1)
->### 2.5 [**Media Queries - Part II**](#ch2-5-1)
->### 2.6 [**Code with Me: Responsive Navigation**](#ch2-6-1)
+>### 2.1 [**Media Queries**](#ch2-1)
+>### 2.2 [**Code with Me: Fluid Measurements &amp; Media Queries**](#ch2-2)
+>### 2.3 [**Wire Frames**](#ch2-3)
+>### 2.4 [**Breakpoints**](#ch2-4)
+>### 2.5 [**Media Queries - Part II**](#ch2-5)
+>### 2.6 [**Code with Me: Responsive Navigation**](#ch2-6)
 
 ## [**Module 3: Using Existing Frameworks**](#ch3)
 >### 3.1 [**Frameworks**](#ch3-1-1)
@@ -834,7 +834,7 @@ search engine, nobody really wants to advertise the fact that they\'re
 really bad at web design so I found one for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 19.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 19. www.irs.gov - non-responsive website (22) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image019.png)
 <!-- {width="4.0in" height="2.2538462379702535in"} -->
@@ -845,7 +845,7 @@ And what we have here is a site that not only looks the same, but is
 laid out the same no matter what type of screen you\'re looking at.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 20.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. irs website - non-responsive (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image020.png)
 <!-- {width="4.0in" height="2.2538462379702535in"} -->
@@ -876,22 +876,25 @@ What can you do? Well, one option if you\'re using a desktop or a
 laptop, that you can resize your window and refresh the site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 21.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 21. intro-webdesign.com - introduction to web design (23) ~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image021.png)
-<!-- {width="4.0in" height="2.2538462379702535in"} -->
+<p align="center">
+<img  src="./images/image021.png?raw=true"
+  alt="Intro to Web Design - intro-webdesign.com."
+  style="width:384px;" />
+</p>
 
-So, if I go here;
-\<<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org>\>.
-The Introduction to Wed Design for everybody, of course. I can just use
-my mouse and resize it, take a look and see how things are going to
-change.
+So, if I go here; <a href="https://intro-webdesign.com">Introduction to Web Design</a>, I can just use
+the mouse and resize it, take a look and see how things are going to change.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 22.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 22. resizing intro-webdesign.com (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image022.png)
-<!-- {width="4.0in" height="2.2538462379702535in"} -->
+<p align="center">
+<img  src="./images/image022.png?raw=true"
+  alt="Intro to Web Design - intro-webdesign.com."
+  style="width:384px;" />
+</p>
 
 Here, large view, tablet and mobile view. So, I can see that I have
 three different break points that all work. That works great if you\'re
@@ -902,31 +905,41 @@ It isn\'t simple or even often possible to resize that window, so we
 need to come up with another solution that will help you out.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 23.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 23.  http://ami.responsivedesign.is - check responsiveness (24) ~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image023.png)
-<!-- {width="3.0in" height="1.5711537620297462in"} -->
+<p align="center">
+<img  src="./images/image023.png?raw=true"
+  alt="Check responsiveness with ami.responsivedesign.is."
+  style="width:288px;" />
+</p>
 
-What you can do is look for online tools to help you check for your
-responsiveness. One that you may want to look at is called
-ami.responsivedesign.is.
-<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org> I\'m
-going to go through and I\'m going to show you three different sites and
-how we can use this website to test the responsiveness of these
-webpages. Here we go.
+<p>What you can do is look for online tools to help you check for your responsiveness. 
+One that you may want to look at is called; <a href="https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org">ami.responsivedesign.is</a>. 
+I\'m going to go through and show you three different sites and how we can use this 
+website to test the responsiveness of these webpages.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 24.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 24. theuniverse.is - sample responsive (25) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image024.png?raw=true"
+  alt="theuniverse.is - sample responsive website."
+  style="width:288px;" />
+</p>
 ![](./images/image024.png)
 <!-- {width="4.0in" height="2.6149573490813647in"} -->
 
-Here\'s a website that you can go to. Down at the bottom of the screen,
-you can fill in the URL of the site you want to look at.
+Here\'s a website that you can go to. Down at the bottom of the screen, you can fill 
+in the URL of the site you want to look at.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 25.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 25.  -  (25) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image025.png?raw=true"
+  alt="."
+  style="width:288px;" />
+</p>
 ![](./images/image025.png)
 <!-- {width="5.0in" height="3.2686964129483815in"} -->
 
@@ -942,16 +955,26 @@ that each one is a little bit different depending upon the platform I\'m
 using.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 26.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 26. mlive.com - sample responsiveness (26) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image026.png?raw=true"
+  alt="mlive.com."
+  style="width:288px;" />
+</p>
 ![](./images/image026.png)
 <!-- {width="5.0in" height="2.8173075240594927in"} -->
 
 Let\'s check out another site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 27.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 27. collemc.people.si.umich.edu -  (26) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image027.png?raw=true"
+  alt="."
+  style="width:288px;" />
+</p>
 ![](./images/image027.png)
 <!-- {width="5.0in" height="3.0299146981627296in"} -->
 
@@ -1134,8 +1157,13 @@ optimization. It really helps if the search engines can know that this
 is the same type of information just on different URLs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 37.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. why rwd? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image037.png?raw=true"
+  alt="."
+  style="width:480px;" />
+</p>
 ![](./images/image037.png)
 <!-- {width="5.0in" height="2.8173075240594927in"} -->
 
@@ -1173,24 +1201,23 @@ will be putting these ideas into practice in the next two videos. In
 this case, I have found four really good articles that relate to my next
 lecture on Fluid Measurements.
 
-1.  Responsive Web Design: Using Fonts Responsibly by Annarita Tranfici
-    <http://www.sitepoint.com/understanding-responsive-web-design-how-to-manage-fonts/>
+<ol>
+  <li><a href="http://www.sitepoint.com/understanding-responsive-web-design-how-to-manage-fonts/" 
+    target="_blank" rel="noopener noreferrer">Responsive Web Design: Using Fonts 
+	Responsibly</a> by Annarita Tranfici</li>
+  <li><a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/"
+    target="_blank" rel="noopener noreferrer">Web Design Basics: Rem vs. Em vs. 
+	PX - Sizing Elements in CSS</a> by Matthew Davis (\*\* Material here is used in Week Two Assessment\*\*)</li>
+  <li><a href="https://codemyviews.com/blog/whats-the-deal-with-em-and-rem" 
+    target="_blank" rel="noopener noreferrer">What\'s the Deal with Em and 
+	Rem?</a> (\*\* Material here is used in Week Two Assessment\*\*)</li>
+  <li><a href="https://css-tricks.com/rems-ems/" target="_blank" rel="noopener noreferrer">
+    Font Size Idea: px at the Root, rem for Components, em for Text Elements</a> by Chris Coyier 
+	(Please note, some people on Firefox get a warning when using this link. It is 
+	not the case for other students.)</li>
+</ol>
 
-2.  Web Design Basics: Rem vs. Em vs. PX - Sizing Elements in CSS by
-    Matthew Davis (\*\* Material here is used in Week Two
-    Assessment\*\*)
-    <https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/>
-
-3.  What\'s the Deal with Em and Rem? (\*\* Material here is used in
-    Week Two Assessment\*\*)
-    <https://codemyviews.com/blog/whats-the-deal-with-em-and-rem>
-
-4.  Font Size Idea: px at the Root, rem for Components, em for Text
-    Elements by Chris Coyier <https://css-tricks.com/rems-ems/> (Please
-    note, some people on Firefox get a warning when using this link. It
-    is not the case for other students.)
-
-# 06. Fluid Measurements
+<h1 id="ch1-6">06. Fluid Measurements</h1>
 
 Hi, everybody. Today we\'re going to talk about fluid measurements.
 They\'re really important to responsive design. I\'ve seen some really
@@ -2214,3 +2241,14 @@ such a way that you can see it really making sense. Where you know that
 on small screen phones they really do do their navigation differently
 than if you\'re on a laptop. Good luck, and make sure to post questions
 if you run into trouble.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xx.  -  (##) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+<img  src="./images/image0##.png?raw=true"
+  alt="."
+  style="width:###px;" />
+</p>
+-->
