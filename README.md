@@ -83,27 +83,6 @@ design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. syllabus (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-<img src="./images/image004.webp?raw=true"
-  alt="Course Syllabus - Advanced Styling with Responsive Design from 
-    University of Michigan with Coursera."
-  width="150px;" />
-&nbsp;
-<br/>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive deisgn? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-<img src="./images/image003.webp?raw=true"
-  alt="What is Responsive Design?"
-  width="500px;" />
-&nbsp;
-<br/>
-
 <h2 id="cha-1">Syllabus</h2>
 
 Welcome to Advanced Styling with Responsive Design, taught by Colleen
@@ -207,18 +186,14 @@ has a pdf and powerpoint copy of all of the slides.
 I have also attached the pdf and powerpoint slide for each lecture
 directly in the videos themselves. Just look in the Downloads section to
 view them.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04.  (0) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 04. media queries and media screen (7) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img  src="./images/image004.png?raw=true"
-  alt="."
+  alt="Media Queries and Media Screen explained."
   style="width:624px;" />
 </p>
-
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.png?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/image004.png)
-<!-- {width="6.5in" height="4.603945756780402in"} -->
 
 ## There are 4 modules in this course
 
@@ -433,34 +408,32 @@ in this course.
 
 -   Responsive Design Final Assessment
 
-# End..
+#### End of Syllabus
 
-# 01. Introduction to Responsive Design
+<h1 id="ch1-1">01. Introduction to Responsive Design</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 05. the basics of responsive design (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 05. the basics of responsive design (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![The BASICS of Responsive
-Design.](./images/image005.png)
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
+<p align="center">
+<img  src="./images/image005.png?raw=true"
+  alt="The Basics of Responsive Design by Colleen van Lent, Ph.D. (lecturer, school of information."
+  style="width:384px;" />
+</p>
 
-Hi everybody, I\'m Colleen van Lent and I\'d like to welcome you to
-introduction to responsive design. In this course, we\'re going to talk
-about different ways that you can make your website look the best it can
-possibly look. No matter if someone\'s viewing them on a phone, a laptop
-or a tablet.
+<p>Welcome to introduction to responsive design. In this course, we&apos;re going to talk
+about different ways to make your website look the best it can possibly look. 
+Regardless if someone&apos;s viewing it on a phone, a laptop or a tablet.</p>
+<p>We&apos;re really going to cover the basics in this course and help you develop 
+a general understanding of what responsive design is and why you need to know it. 
+We&apos;re going to talk about ways that you can customize your own site without 
+using any special software to give it a really special look and feel.</p>
 
-We\'re really going to cover the basics in this course and help you
-develop a general understanding of what responsive design is and why you
-need to know it. We\'re going to talk about ways that you can customize
-your own site without using any special software to give it a really
-special look and feel.
+<p>However, we also want to talk about using <b><i>frameworks</i></b>.
 
-However, we also want to talk about using ***frameworks.***
-
-Because if other people are using software or different code to make
+<p>Because if other people are using software or different code to make
 their site look great, why not take advantage of it and learn how to use
-it yourself.
+it yourself.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 06. what does responsive design mean? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
