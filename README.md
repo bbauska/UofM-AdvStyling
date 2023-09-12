@@ -35,7 +35,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 >### 1.1 [**Introduction to Responsive Design**](#ch1-1)
 >### 1.2 [**What is Responsive Design**](#ch1-2)
 >### 1.3 [**Testing Existing Sites**](#ch1-3)
->### 1.4 [**Benefits of Responsive Desgin**](#ch1-4)
+>### 1.4 [**Benefits of Responsive Design**](#ch1-4)
 >### 1.5 [**Fluid Measurements**](#ch1-5)
 >### 1.6 [**Code with Me: Fluid Measurements**](#ch1-6)
 
@@ -274,8 +274,6 @@ using fluid measurements in your CSS.
 
 -   Basic Concepts in Responsive Design approaches
 
-### 
-
 ### Week Two: Basic Concepts
 
 ### Module 2 details:
@@ -310,12 +308,6 @@ sizes (\"viewports\").
 ### 2 quizzes
 
 -   Week Two Review: Media Queries and breakpoints
-
--   Practice Quiz \-- Challenge Problem•30 minutes
-
-### 
-
-### 
 
 ### Week Three: Use Existing Frameworks
 
@@ -356,10 +348,6 @@ JavaScript yourself).
 -   Week Three Review: Bootstrap
 
 -   Grid System Check
-
-### 
-
-### 
 
 ### Week Four: Experiment!
 
@@ -403,10 +391,6 @@ in this course.
 4.  Post-course Survey
 
 5.  Keep Learning with Michigan Online
-
-### 1 quiz
-
--   Responsive Design Final Assessment
 
 #### End of Syllabus
 
@@ -836,7 +820,7 @@ Let\'s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we\'re going to get started
 coding right away.
 
-# 03. Testing Existing Sites
+<h1 id="ch1-3">Week 1-03. Testing Existing Sites</h1>
 
 Hi, everybody. One of the things that you\'re going to want to do is
 test your site to see how it\'s doing across multiple devices and
@@ -1047,7 +1031,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren\'t
 responsive. Don\'t worry, yours will be.
 
-# 04. Benefits of Responsive Design
+<h1 id="ch1-4">Week 1-04. Benefits of Responsive Design</h1>
 
 Hi everybody. Today, let\'s talk about some of the benefits of
 responsive design.
@@ -1167,7 +1151,7 @@ responsive. And in that case, hopefully, you\'ve learned some facts here
 that can help convince other people how important responsive web design
 really is.
 
-# 05. Fluid Measurements: Background readings
+<h1 id="ch1-5">Week 1-05. Fluid Measurements</h1>
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two videos. In
@@ -1190,7 +1174,7 @@ lecture on Fluid Measurements.
 	not the case for other students.)</li>
 </ol>
 
-<h1 id="ch1-6">06. Fluid Measurements</h1>
+<!-- <h1 id="ch1-6">06. Fluid Measurements</h1> -->
 
 Hi, everybody. Today we\'re going to talk about fluid measurements.
 They\'re really important to responsive design. I\'ve seen some really
@@ -1300,7 +1284,7 @@ with the code and just kind of see what you can make it do. For that
 reason, our next video is going to be an example of me moving from
 absolute to relative measurements.
 
-# 07. Code With Me: Fluid Measurements
+<h1 id="ch1-6">Week 1-06. Code With Me: Fluid Measurements</h1>
 
 One of the things we always talk about is that there\'s a real
 difference between sitting and listening to me talk about something, and
@@ -1529,7 +1513,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 
-# 08. Media Queries
+<h1 id="ch2-1">Week 2-01. Media Queries</h1>
 
 Hi everybody. Today we are going to talk about Media queries.
 
@@ -1622,7 +1606,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we\'ll go ahead and we\'ll do something together.
 Good luck,
 
-# 09. Code With Me: Fluid Measurements and Media Queries
+<h1 id="ch2-2">Code With Me: Fluid Measurements and Media Queries</h1>
 
 Hey everybody, welcome back. Let\'s go look at some code together. What
 we\'re looking at here is an example from when we first learned about
@@ -1759,6 +1743,7 @@ Completed;
 32. }
 ```
 
+<h1 id="ch2-3">Week 2.3 Code With Me: Fluid Measurements and Media Queries</h1>
 # 10. Wire Frames
 
 Hi. Today, we\'re going to talk about wireframes and as we talk about
