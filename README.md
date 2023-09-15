@@ -401,7 +401,7 @@ in this course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img  src="./images/image005.png?raw=true"
-  alt="The Basics of Responsive Design by Colleen van Lent, Ph.D. (lecturer, school of information."
+  alt="The Basics of Responsive Design by Colleen van Lent, Ph.D. (lecturer, school of information)."
   style="width:384px;" />
 </p>
 
@@ -485,9 +485,12 @@ really tackle this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks - benefits &amp; pitfalls (11) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
-Started, grid system, and navigation.](./images/image008.png)
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
+<p align="center">
+  <img  src="./images/image008.png?raw=true"
+    alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting 
+    Started, grid system, and navigation."
+    style="width:300px;" />
+</p>
 
 In week **three**, we\'re going to shift a little bit and instead of
 writing our own code.
@@ -522,9 +525,12 @@ responsive feel.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~ 09. week 4 - more bootstrap - images, tables, adv nav - case studies (12) ~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Four: - More bootstrap - Images, tables, advanced navigation -
-Case studies](./images/image009.png)
-<!-- {width="4.0in" height="2.110255905511811in"} -->
+<p align="center">
+  <img  src="./images/image009.png?raw=true"
+  alt="Week Four: - More bootstrap - Images, tables, advanced navigation - 
+  Case studies."
+  style="width:300px;" />
+</p>
 
 Finally, in week **four**, we\'re going to continue with more bootstrap,
 but we\'re going to talk about things such as images, tables, and maybe
@@ -541,10 +547,12 @@ responsiveness their real-life sites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 10. final project - create a responsive page (13) ~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Final Project - Use your coding skills to create a responsive page
-using multiple methods (framework & media
-queries).](./images/image010.png)
-<!-- {width="4.0in" height="2.110255905511811in"} -->
+<p align="center">
+<img  src="./images/image010.png?raw=true"
+  alt="Final Project - Use your coding skills to create a responsive page 
+    using multiple methods (framework & media queries)."
+  style="width:300px;" />
+</p>
 
 We will do this with the culmination of a final project.
 
@@ -596,9 +604,13 @@ So how do you succeed in this class?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 11. succeeding in this class - use message boards (14) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Succeeding in this class - Use message boards. - Don\'t spend more
-than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.](./images/image011.png)
+<p align="center">
+<img  src="./images/image011.png?raw=true"
+  alt="Succeeding in this class - Use message boards. - Don\'t spend more
+    than 20 minutes on a problem. Move on. - Look things up. - Practice,
+    practice, practice."
+  style="width:300px;" />
+</p>
 <!-- {width="4.0in" height="2.110255905511811in"} -->
 
 I will always say that the best way to code is with a friend but that\'s
@@ -620,7 +632,11 @@ will be there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image012.png)
+<p align="center">
+<img  src="./images/image012.png?raw=true"
+  alt="."
+  style="width:400px;" />
+</p>
 <!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Finally, make sure that you practice, practice, practice. The only way
@@ -689,7 +705,10 @@ throughout this entire course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 12.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image012.png)
+<p align="center">
+<img  src="./images/image012.png?raw=true"
+  alt="."
+  style="width:400px;" />
 <!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Three concepts that I want you to keep in the back of your mind.
@@ -714,15 +733,22 @@ resize things to be able to see everything.
 We want it to happen really automatically.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 13.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 13.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image013.png)
+<p align="center">
+<img  src="./images/image013.png?raw=true"
+  alt="."
+  style="width:300px;" />
+</p>
 <!-- {width="3.0in" height="1.6903849518810148in"} -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 14.  -  (xx) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image014.png)
+<p align="center">
+<img  src="./images/image014.png?raw=true"
+  alt="."
+  style="width:650px;" />
 <!-- {width="6.5in" height="4.5993055555555555in"} -->
 
 Let\'s take a look at some examples that have great responsive design.
