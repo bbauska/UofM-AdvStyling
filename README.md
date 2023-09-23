@@ -1650,9 +1650,8 @@ are. And what we have is we have dibs each of type class equals column.
 The nice thing about dibs is that by default, they\'re block. If we
 don\'t do anything at all they\'re going to be stacked just the way we
 want them to be. So, let\'s find our code. Right here. You can see that
-I went in and I said I only want them to be 30% and
-
-in line block. I floated them and all that great stuff there. The truth
+I went in and I said I only want them to be 30% and in line block. I 
+floated them and all that great stuff there. The truth
 is, when we think mobile first, we shouldn\'t be changing anything at
 all in the column. So, I\'m going to take this code and I\'m going to
 delete it. All right, I\'ve done it, their block, and on the large
