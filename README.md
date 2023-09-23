@@ -851,8 +851,7 @@ Unfortunately, when you Google that out, or you look for that on your
 search engine, nobody really wants to advertise the fact that they&apos;re
 really bad at web design so I found one for you.
 
-![](./images/image018.jpg){width="4.0in"
-height="2.2538462379702535in"}
+![](./images/image018.jpg){width="4.0in" height="2.2538462379702535in"}
 
 It&apos;s the Internal Revenue Service. And what we have here is a site that
 not only looks the same, but is laid out the same no matter what type of
