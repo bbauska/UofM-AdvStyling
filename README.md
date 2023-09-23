@@ -105,7 +105,7 @@ audial, physical, and cognitive impairments.
 <p align="center">
 <img  src="./images/image003.jpg?raw=true"
   alt="What is Responsive Design?"
-  style="width:480px;" />
+  style="width:384px;" />
 </p>
 <!-- {width="4.0in" height="2.086324365704287in"} -->
 
@@ -213,10 +213,17 @@ I have also attached the pdf and powerpoint slide for each lecture
 directly in the videos themselves. Just look in the Downloads section to
 view them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 04.  (xx) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 04. review media screen min-width (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image003.jpg?raw=true"
+  alt="Review media screen min-width."
+  style="width:624px;" />
+</p>
+<!--
 ![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.jpg?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/image004.jpg){width="6.5in"
 height="4.603945756780402in"}
+-->
 
 # There are 4 modules in this course
 
