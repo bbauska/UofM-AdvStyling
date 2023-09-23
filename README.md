@@ -216,7 +216,7 @@ view them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 04. review media screen min-width (04) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-<img  src="./images/image003.jpg?raw=true"
+<img  src="./images/image004.jpg?raw=true"
   alt="Review media screen min-width."
   style="width:624px;" />
 </p>
@@ -444,11 +444,11 @@ course.
 
 # Week 1-01. Introduction to Responsive Design
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. basics of responsive design (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. basics of responsive design (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img  src="./images/image005.jpg?raw=true"
-  alt="Basics of Responsive Design"
+  alt="The BASICS of Responsive Design."
   style="width:384px;" />
 </p>
 <!-- {width="4.0in" height="2.0931627296587925in"} -->
@@ -472,10 +472,13 @@ it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 06. week 1 - theory of responsive design (09) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week One: - Theory - What does responsive design mean? - What makes
-for good design? - Role of fluid measurements.]
-(./images/image006.jpg)
-{width="4.0in" height="2.0931627296587925in"}
+<p align="center">
+<img  src="./images/image006.jpg?raw=true"
+  alt="Week One: theory - what does responsive design mean?  
+    What makes for good design? Role of fluid measurements."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **one**, we&apos;re really going to focus on the theory.
 
@@ -498,11 +501,14 @@ changes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 2 - media queries (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Two: - Media queries - What are they? - How do you plan 1st for
-best practices? - What is the relationship with break points? - How to
-make a navigation bar?]
-(./images/image007.jpg)
-{width="4.0in" height="2.0931627296587925in"}
+<p align="center">
+<img  src="./images/image007.jpg?raw=true"
+  alt="Week Two: - Media queries - What are they? - How do you plan 1st for
+    best practices? - What is the relationship with break points? - How to
+    make a navigation bar?"
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **two** we&apos;re going to tackle media queries.
 
@@ -529,10 +535,13 @@ really tackle this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
-Started, grid system, and navigation.]
-(./images/image008.jpg)
-{width="4.0in" height="2.0931627296587925in"}
+<p align="center">
+<img  src="./images/image008.jpg?raw=true"
+  alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
+    Started, grid system, and navigation."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **three**, we&apos;re going to shift a little bit and instead of
 writing our own code.
@@ -566,9 +575,12 @@ responsive feel.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. week 4 - more bootstrap  (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies]
-(./images/image009.jpg)
-{width="4.0in" height="2.110255905511811in"}
+<p align="center">
+<img  src="./images/image009.jpg?raw=true"
+  alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 Finally, in week **four**, we&apos;re going to continue with more bootstrap,
 but we&apos;re going to talk about things such as images, tables, and maybe
@@ -585,10 +597,13 @@ responsiveness their real-life sites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 10. final project - create responsive page (12) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Final Project - Use your coding skills to create a responsive page
-using multiple methods (framework & media queries).]
-(./images/image010.jpg)
-{width="4.0in" height="2.110255905511811in"}
+<p align="center">
+<img  src="./images/image010.jpg?raw=true"
+  alt="Final Project - Use your coding skills to create a responsive page
+    using multiple methods (framework & media queries)."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 We will do this with the culmination of a final project.
 
@@ -639,11 +654,14 @@ So how do you succeed in this class?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. succeeding in this class (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Succeeding in this class - Use message boards. - Don&apos;t spend more
-than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.]
-(./images/image011.jpg)
-{width="4.0in" height="2.110255905511811in"}
+<p align="center">
+<img  src="./images/image011.jpg?raw=true"
+  alt="Succeeding in this class - Use message boards. - Don&apos;t spend more
+    than 20 minutes on a problem. Move on. - Look things up. - Practice,
+    practice, practice."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 I will always say that the best way to code is with a friend but that&apos;s
 not always possible, so I hope that you&apos;ll use the message boards not
@@ -663,8 +681,12 @@ will be there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image012.jpg)
-{width="4.0in" height="2.086324365704287in"}
+<p align="center">
+<img  src="./images/image012.jpg?raw=true"
+  alt="Concepts to consider."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you&apos;re getting as much
@@ -713,10 +735,14 @@ work for us.
 So here are some of the concepts that we&apos;re going to be considering
 throughout this entire course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider, again (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image012.jpg)
-{width="4.0in" height="2.086324365704287in"}
+<p align="center">
+<img  src="./images/image012.jpg?raw=true"
+  alt="Concepts to consider."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -738,39 +764,70 @@ doesn&apos;t need to waste their time scrolling back and forth or trying to
 resize things to be able to see everything.
 
 We want it to happen really automatically.
-
-![](./images/image013.jpg){width="6.5in"
-height="4.5993055555555555in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 13. media queries screen and min-width (16) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image013.jpg?raw=true"
+  alt="Media Queries screen and min-width."
+  style="width:624px;" />
+</p>
+<!-- {width="6.5in" height="4.5993055555555555in"} -->
 
 Let&apos;s take a look at some examples that have great responsive design.
 
 The first place I&apos;m going to take you is a website called
 ***mediaqueri.es.***
 
-![](./images/image014.jpg){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 14. poorly planned web sites; wellington and esquire (16) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image014.jpg?raw=true"
+  alt="Wellington City Council and Esquire web sites.  Poorly planned responsive design."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 This site has a really nice collection of different sites that it&apos;s
 found that really kind of find that key to responsive design. Let&apos;s go
-ahead and take a look at, I&apos;ll scroll down a few. How about this one
-right here? CapRadio, go anyplace.
+ahead and take a look at, I&apos;ll scroll down a few.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. capradio web site (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image015.jpg?raw=true"
+  alt="Cap Radio web site.  Poorly planned responsive design."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
-![](./images/image015.jpg){width="4.0in"
-height="2.2538462379702535in"}
-
+How about this one right here? CapRadio, go anyplace.
 This site right now, when I&apos;m looking at the large screen, you can see
 that there&apos;s a definite look to the layout.
-
-![](./images/image016.jpg){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 16. capradio web site tablet sized (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image016.jpg?raw=true"
+  alt="Cap Radio web site narrowed to tablet size (approx 700-900px)."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.2538462379702535in"}
 
 As I resize the screen, as if I&apos;m looking perhaps on a tablet, and I
 reload it you can see that things have moved over.
 
 The navigation bar is now over to the left when it wasn&apos;t there before.
-
-![](./images/image017.jpg){width="4.0in"
-height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 17. capradio web site phone sized (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img  src="./images/image017.jpg?raw=true"
+  alt="Cap Radio web site narrowed to phone size (approx 384-500px)."
+  style="width:384px;" />
+</p>
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 I&apos;m going to go ahead and make it smaller still. I don&apos;t even need to
 refresh.
