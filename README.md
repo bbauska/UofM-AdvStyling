@@ -151,9 +151,9 @@ will be sufficient to get a decent base on how responsive design works.
 For other learners however, there is nothing better than when they
 decide they can write better versions of the code.
 
-# Resources {#resources .unnumbered}
+# Resources
 
-## Course Site {#course-site .unnumbered}
+## Course Site
 
 All of the reading material you will need to pass this course is
 contained within Coursera.
@@ -161,7 +161,7 @@ contained within Coursera.
 Additional resources may be added as optional material, but everything
 will be online and free.
 
-## CodePEN {#codepen .unnumbered}
+## CodePEN
 
 For the coding content you may want to access my CodePEN account.
 CodePEN is a website that allows you to modify copies of my code. In
@@ -191,7 +191,7 @@ that particular video. Oftentimes you will see two files, a \"starter\"
 file and a \"complete\" file. This way you can start at the same place
 as me, but still have access to the final product.
 
-## Discussion Boards {#discussion-boards .unnumbered}
+## Discussion Boards
 
 The best way to get help is to utilize the discussion boards. I know
 that this may be new to many of you so let me explain how the discussion
@@ -204,7 +204,7 @@ question already there. If you don&apos;t find your question, make sure to
 post. There are no \"stupid\" questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-## Course Slides {#course-slides .unnumbered}
+## Course Slides
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -219,7 +219,7 @@ view them.
 ![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.jpg?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](./images/image004.jpg){width="6.5in"
 height="4.603945756780402in"}
 
-# There are 4 modules in this course {#there-are-4-modules-in-this-course .unnumbered}
+# There are 4 modules in this course
 
 It used to be the case that everyone viewed webpages on about the same
 size screen. But with the explosion of the use of smartphones to access
@@ -247,31 +247,20 @@ you enroll in this class. Additional courses focus on adding
 interactivity with the JavaScript Programming Language and completing a
 capstone project.
 
-### Media Sizes (in Pixels) {#media-sizes-in-pixels .unnumbered}
+### Media Sizes (in Pixels)
 
-> **\@media (min-width:320px) { /\* smartphones, iPhone, portrait
-> 480x320 phones \*/ }**
->
+> **\@media (min-width:320px) { /\* smartphones, iPhone, portrait 480x320 phones \*/ }**
 > **\@media (min-width:481px) { /\* portrait e-readers (Nook/Kindle),**
->
-> **smaller tablets @ 600 or @ 640 wide. \*/ }**
->
-> **\@media (min-width:641px) { /\* portrait tablets, portrait iPad,
-> landscape e-readers,**
->
+>                                 **smaller tablets @ 600 or @ 640 wide. \*/ }**
+> **\@media (min-width:641px) { /\* portrait tablets, portrait iPad, landscape e-readers,**
 > **landscape 800x480 or 854x480 phones \*/ }**
->
-> **\@media (min-width:961px) { /\* tablet, landscape iPad, lo-res
-> laptops and desktops \*/ }**
->
-> **\@media (min-width:1025px) { /\* big landscape tablets, laptops, and
-> desktops \*/ }**
->
+> **\@media (min-width:961px) { /\* tablet, landscape iPad, lo-res laptops and desktops \*/ }**
+> **\@media (min-width:1025px) { /\* big landscape tablets, laptops, and desktops \*/ }**
 > **\@media (min-width:1281px) { /\* hi-res laptops and desktops \*/ }**
 
-# Week One: Style with Responsive Design {#week-one-style-with-responsive-design .unnumbered}
+# Week One: Style with Responsive Design
 
-### Week one details {#week-one-details .unnumbered}
+### Week one details
 
 What does it mean to have responsive design for your site? How can you
 tell if your existing site is responsive? This week we will begin with
@@ -280,9 +269,7 @@ mobile site should provide everything needed, not a pared-down version
 of a good page. We end the week by taking the first concrete step of
 using fluid measurements in your CSS.
 
-### What&apos;s included: {#whats-included .unnumbered}
-
-### Week 1; {#week-1 .unnumbered}
+### What&apos;s included:
 
 1.  Introduction to Responsive Design
 
@@ -296,7 +283,7 @@ using fluid measurements in your CSS.
 
 6.  Code With Me: Fluid Measurements
 
-### Readings {#readings .unnumbered}
+### Readings
 
 -   Syllabus
 
@@ -310,7 +297,7 @@ using fluid measurements in your CSS.
 
 -   CSS definitions of relative and absolute
 
-# Week Two: Basic Concepts {#week-two-basic-concepts .unnumbered}
+# Week Two: Basic Concepts
 
 This week you will get a chance to put the theories into practice using
 media queries in your CSS. These queries can automatically detect the
@@ -319,9 +306,7 @@ what type of look you want to achieve. There will also be a discussion
 on common practices for designing your different views at various screen
 sizes (\"viewports\").
 
-### What&apos;s included {#whats-included-1 .unnumbered}
-
-### Week 2; {#week-2 .unnumbered}
+### What&apos;s included
 
 1.  Media Queries
 
@@ -335,7 +320,7 @@ sizes (\"viewports\").
 
 6.  Code With Me: Responsive Navigation
 
-### Readings {#readings-1 .unnumbered}
+### Readings
 
 -   Good examples of responsive design
 
@@ -344,7 +329,7 @@ sizes (\"viewports\").
 ```
 -   Week Two Review: Media Queries and breakpoints
 
-# Week Three: Use Existing Frameworks {#week-three-use-existing-frameworks .unnumbered}
+# Week Three: Use Existing Frameworks
 
 After every good programmer has put in time creating sites from scratch,
 it is common to utilize existing tools out there. After all, why
@@ -354,9 +339,7 @@ frameworks. This week we will work with Bootstrap, a framework that uses
 HTML5, CSS, and JavaScript (but don&apos;t worry if you have never used
 JavaScript yourself).
 
-### What&apos;s included {#whats-included-2 .unnumbered}
-
-### Week 3; {#week-3 .unnumbered}
+### What&apos;s included
 
 1.  Frameworks
 
@@ -370,7 +353,7 @@ JavaScript yourself).
 
 6.  Bootstrap Navigation
 
-### Readings {#readings-2 .unnumbered}
+### Readings
 
 -   Demystifying Bootstrap
 
@@ -381,16 +364,14 @@ JavaScript yourself).
 
 -   Grid System Check
 
-# Week Four: Experiment! {#week-four-experiment .unnumbered}
+# Week Four: Experiment!
 
 This week is dedicated to solving those little issues that pop up when
 you move from theory to practice. We look at more advanced framework
 options and also hear from people who are using the techniques covered
 in this course.
 
-### What&apos;s included {#whats-included-3 .unnumbered}
-
-### Week 4; {#week-4 .unnumbered}
+### What&apos;s included
 
 1.  Responsive Images
 
@@ -410,7 +391,7 @@ in this course.
 
 9.  Conclusion
 
-### Readings {#readings-3 .unnumbered}
+### Readings
 
 -   The Evolution of the Airbnb front-end development
 
@@ -420,9 +401,9 @@ in this course.
 
 -   Keep Learning with Michigan Online
 
-# Resources {#resources-1 .unnumbered}
+# Resources
 
-## Pixel to Em conversion tool {#pixel-to-em-conversion-tool .unnumbered}
+## Pixel to Em conversion tool
 
 Here is a link to a Pixel to Em conversion tool:
 
@@ -431,7 +412,7 @@ Here is a link to a Pixel to Em conversion tool:
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-## Dynamically change the size of font with sliders {#dynamically-change-the-size-of-font-with-sliders .unnumbered}
+## Dynamically change the size of font with sliders
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -444,7 +425,7 @@ it here if you want to know how to use the tool.
 
 <https://css-tricks.com/rems-ems/>
 
-## CSS definitions of relative and absolute {#css-definitions-of-relative-and-absolute .unnumbered}
+## CSS definitions of relative and absolute
 
 Someone provided me with a link that helped them better understand the
 meaning of \"relative\" and \"absolute\" as they relate to CSS. Here is
@@ -455,7 +436,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 
-# Week 1-01. Introduction to Responsive Design {#week-1-01.-introduction-to-responsive-design .unnumbered}
+# Week 1-01. Introduction to Responsive Design
 
 ![The BASICS of Responsive
 Design.](./images/image005.jpg){width="4.0in"
@@ -664,7 +645,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you&apos;ll
 learn a lot. Thanks.
 
-# Week 1-02. What is Responsive Design? {#week-1-02.-what-is-responsive-design .unnumbered}
+# Week 1-02. What is Responsive Design?
 
 Hi, everybody, so you&apos;re here and I&apos;m here, and we&apos;re here to talk
 about responsive design.
@@ -804,7 +785,7 @@ Let&apos;s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we&apos;re going to get started
 coding right away.
 
-# Week 1-03. Testing Existing Sites {#week-1-03.-testing-existing-sites .unnumbered}
+# Week 1-03. Testing Existing Sites
 
 Hi, everybody. One of the things that you&apos;re going to want to do is
 test your site to see how it&apos;s doing across multiple devices and
@@ -956,7 +937,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren&apos;t
 responsive. Don&apos;t worry, yours will be.
 
-# Week 1-04. Benefits of Responsive Design {#week-1-04.-benefits-of-responsive-design .unnumbered}
+# Week 1-04. Benefits of Responsive Design
 
 Hi everybody. Today, let&apos;s talk about some of the benefits of
 responsive design.
@@ -1072,7 +1053,7 @@ Additional best practices for separate URLs;
 ![](./images/image036.jpg){width="7.5in"
 height="4.358975284339458in"}
 
-# Week 1-05. Fluid Measurements: Background readings {#week-1-05.-fluid-measurements-background-readings .unnumbered}
+# Week 1-05. Fluid Measurements: Background readings
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two videos. In
@@ -1096,7 +1077,7 @@ lecture on Fluid Measurements.
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
 
-# Week 1-06. Fluid Measurements {#week-1-06.-fluid-measurements .unnumbered}
+# Week 1-06. Fluid Measurements
 
 ![](./images/image037.jpg){width="4.0in"
 height="2.252564523184602in"}
@@ -1235,7 +1216,7 @@ until you take some time, play with the code and just kind of see what
 you can make it do. For that reason, our next video is going to be an
 example of me moving from absolute to relative measurements.
 
-# Week 1-07. Code With Me: Fluid Measurements {#week-1-07.-code-with-me-fluid-measurements .unnumbered}
+# Week 1-07. Code With Me: Fluid Measurements
 
 One of the things we always talk about is that there&apos;s a real
 difference between sitting and listening to me talk about something, and
@@ -1340,58 +1321,58 @@ percents, ems, and other things like that. Good luck.
 
 Completed;
 
-### [HTML:]{.mark} {#html .unnumbered}
+### [HTML:]
 
 ```
-1.  \<!DOCTYPE html\>
-2.  \<html lang=\"en\"\>
-3.  \<head\>
-4.  \<meta charset=\"utf-8\"\>
-5.  \<title\>Fluid Measurements\</title\>
-6.  \<link href=\"fluidstyle.css\" rel=\"stylesheet\"\>
-7.  \<!\-- \<link href=\"staticstyle.css\" rel=\"stylesheet\"\>
-8.  \--\>
-9.  \</head\>
-10. \<body\>
-11. \<header\>
-12. \<h1\>Fluid Measurements\</h1\>
-13. \<h2\>Colleen van Lent\</h2\>
-14. \</header\>
-15. \<main\>
-16. \<!\-- Content \--\>
-17. \<p\>What happens when you hardcode the values of your elements? In
+1.  <!DOCTYPE html>
+2.  <html lang="en">
+3.  <head>
+4.  <meta charset="utf-8">
+5.  <title>Fluid Measurements</title>
+6.  <link href="fluidstyle.css" rel="stylesheet">
+7.  <!-- <link href="staticstyle.css" rel="stylesheet">
+8.  -->
+9.  </head>
+10. <body>
+11. <header>
+12. <h1>Fluid Measurements</h1>
+13. <h2>Colleen van Lent</h2>
+14. </header>
+15. <main>
+16. <!-- Content -->
+17. <p>What happens when you hardcode the values of your elements? In
     > this case, I have a section that is set to 940px. Each of the
-    > content columns is set to 300px. What could go wrong?\</p\>
-18. \<div class=\"column\"\>
-19. \<h2\>Content\</h2\>
-20. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > content columns is set to 300px. What could go wrong?</p>
+18. <div class="column">
+19. <h2>Content</h2>
+20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-21. \</div\>
-22. \<div class=\"column\"\>
-23. \<h2\>Content\</h2\>
-24. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+21. </div>
+22. <div class="column">
+23. <h2>Content</h2>
+24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-25. \</div\>
-26. \<div class=\"column\"\>
-27. \<h2\>Content\</h2\>
-28. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+25. </div>
+26. <div class="column">
+27. <h2>Content</h2>
+28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-29. \</div\>
-30. \</main\>\<!\-- .row \--\>
-31. \</body\>
-32. \</html\>
+    > eget lacinia odio sem nec elit.</p>
+29. </div>
+30. </main><!-- .row -->
+31. </body>
+32. </html>
 ```
 
-### [CSS:]{.mark} {#css .unnumbered}
+### [CSS:]
 
 ```
 1.  main {
@@ -1409,7 +1390,7 @@ Completed;
 13. }
 14. body {
 15. margin: 0;
-16. font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;
+16. font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 17. font-size: 13px;
 18. font-weight: normal;
 19. color: #404040;
@@ -1425,7 +1406,7 @@ Completed;
 29. }
 ```
 
-# Week 2-08. Media Queries {#week-2-08.-media-queries .unnumbered}
+# Week 2-08. Media Queries
 
 Hi everybody. Today we are going to talk about Media queries.
 
@@ -1556,7 +1537,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we&apos;ll go ahead and we&apos;ll do something together.
 Good luck,
 
-# Week 2-09. Code With Me: Fluid Measurements and Media Queries {#week-2-09.-code-with-me-fluid-measurements-and-media-queries .unnumbered}
+# Week 2-09. Code With Me: Fluid Measurements and Media Queries
 
 Hey everybody, welcome back. Let&apos;s go look at some code together.
 
@@ -1603,7 +1584,7 @@ So, I&apos;m going to scroll down to the bottom of my CSS. And I need to add
 some code. How do we make a media query? Don&apos;t forget, it&apos;s all about
 putting in that type and that break point.
 
-1.  \@media screen and (min-width:778px)
+1.  @media screen and (min-width:778px)
 
 2.  {
 
@@ -1640,58 +1621,58 @@ back and make sure you understand these simple ones first. Good luck.
 
 Completed;
 
-### [HTML:]{.mark} {#html-1 .unnumbered}
+### [HTML:]
 
 ```
-1.  \<!DOCTYPE html\>
-2.  \<html lang=\"en\"\>
-3.  \<head\>
-4.  \<meta charset=\"utf-8\"\>
-5.  \<title\>Fluid Measurements\</title\>
-6.  \<link href=\"fluidstyle.css\" rel=\"stylesheet\"\>
-7.  \<!\-- \<link href=\"staticstyle.css\" rel=\"stylesheet\"\>
-8.  \--\>
-9.  \</head\>
-10. \<body\>
-11. \<header\>
-12. \<h1\>Fluid Measurements\</h1\>
-13. \<h2\>Colleen van Lent\</h2\>
-14. \</header\>
-15. \<main\>
-16. \<!\-- Content \--\>
-17. \<p\>What happens when you hardcode the values of your elements? In
+1.  <!DOCTYPE html>
+2.  <html lang="en">
+3.  <head>
+4.  <meta charset="utf-8">
+5.  <title>Fluid Measurements</title>
+6.  <link href="fluidstyle.css" rel="stylesheet">
+7.  <!-- <link href="staticstyle.css" rel="stylesheet">
+8.  -->
+9.  </head>
+10. <body>
+11. <header>
+12. <h1>Fluid Measurements</h1>
+13. <h2>Colleen van Lent</h2>
+14. </header>
+15. <main>
+16. <!-- Content -->
+17. <p>What happens when you hardcode the values of your elements? In
     > this case, I have a section that is set to 940px. Each of the
-    > content columns is set to 300px. What could go wrong?\</p\>
-18. \<div class=\"column\"\>
-19. \<h2\>Content\</h2\>
-20. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > content columns is set to 300px. What could go wrong?</p>
+18. <div class="column">
+19. <h2>Content</h2>
+20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-21. \</div\>
-22. \<div class=\"column\"\>
-23. \<h2\>Content\</h2\>
-24. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+21. </div>
+22. <div class="column">
+23. <h2>Content</h2>
+24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-25. \</div\>
-26. \<div class=\"column\"\>
-27. \<h2\>Content\</h2\>
-28. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+25. </div>
+26. <div class="column">
+27. <h2>Content</h2>
+28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-29. \</div\>
-30. \</main\>\<!\-- .row \--\>
-31. \</body\>
-32. \</html\>
+    > eget lacinia odio sem nec elit.</p>
+29. </div>
+30. </main><!-- .row -->
+31. </body>
+32. </html>
 ```
 
-### [CSS:]{.mark} {#css-1 .unnumbered}
+### [CSS:]
 
 ```
 1.  main {
@@ -1703,7 +1684,7 @@ Completed;
 7.  }
 8.  body {
 9.  margin: 0;
-10. font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;
+10. font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 11. font-size: 13px;
 12. font-weight: normal;
 13. color: #404040;
@@ -1717,7 +1698,7 @@ Completed;
 21. text-align: center;
 22. text-transform: uppercase;
 23. }
-24. \@media screen and (min-width:1200px)
+24. @media screen and (min-width:1200px)
 25. {
 26. .column {
 27. width:30%;
@@ -1728,7 +1709,7 @@ Completed;
 32. }
 ```
 
-# Week 2-10. Wire Frames {#week-2-10.-wire-frames .unnumbered}
+# Week 2-10. Wire Frames
 
 Hi. Today, we&apos;re going to talk about wireframes and as we talk about
 them, I have to admit the way in which I teach web design doesn&apos;t
@@ -1875,7 +1856,7 @@ height="2.2423075240594925in"}
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
 
-# Week 2-11. Breakpoints {#week-2-11.-breakpoints .unnumbered}
+# Week 2-11. Breakpoints
 
 Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I&apos;ve actually
@@ -1994,7 +1975,7 @@ mean again, is this an example of triggering, and I really hope you&apos;ll
 really understand mobile first by the time that we&apos;re done with this
 course.
 
-# Week 2-12. Media Queries Part Two {#week-2-12.-media-queries-part-two .unnumbered}
+# Week 2-12. Media Queries Part Two
 
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
@@ -2168,7 +2149,7 @@ the top. It can be tricky, and that&apos;s why I encourage you, to get into
 good habits at the beginning, and continue them as you get better and
 better at coding responsive design.
 
-# Week 2-13. Code with Me: Responsive Navigation {#week-2-13.-code-with-me-responsive-navigation .unnumbered}
+# Week 2-13. Code with Me: Responsive Navigation
 
 Hi everybody, today, with this lecture I&apos;m hoping you&apos;ll sit with me
 and write up some code where we use media queries to produce responsive
@@ -2325,13 +2306,13 @@ on small screen phones they really do do their navigation differently
 than if you&apos;re on a laptop. Good luck, and make sure to post questions
 if you run into trouble.
 
-## Good examples of responsive design {#good-examples-of-responsive-design .unnumbered}
+## Good examples of responsive design
 
 The following is a link to good examples of responsive design:
 
 <http://www.awwwards.com/50-examples-of-responsive-web-design.html>
 
-# Week 3-14. Frameworks {#week-3-14.-frameworks .unnumbered}
+# Week 3-14. Frameworks
 
 ![](./images/image087.jpg){width="4.0in"
 height="2.2465813648293964in"}
@@ -2415,9 +2396,9 @@ it&apos;s a tool, and it&apos;s supposed to be making your life easier. If it
 isn&apos;t, that&apos;s okay, you can go back to coding on your own, but you
 still want to know a little bit about it.
 
-## Most popular frontend frameworks 2023; {#most-popular-frontend-frameworks-2023 .unnumbered}
+## Most popular frontend frameworks 2023;
 
-### Hydration {#hydration .unnumbered}
+### Hydration
 
 One key challenge of popular frameworks is how to make them work
 efficiently in the browser. When a user loads a web page, the browser
@@ -2453,7 +2434,7 @@ browser. By separating the initial HTML rendering from the JavaScript
 functionality, you can optimize all aspects of the page/app loading
 speed.
 
-## Single Page Applications (SPAs) {#single-page-applications-spas .unnumbered}
+## Single Page Applications (SPAs)
 
 Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
@@ -2476,7 +2457,7 @@ handling user interactions, while the back-end is responsible for
 providing data and API endpoints. This separation of concerns makes it
 easier to develop and maintain large-scale applications.
 
-## JAMStack {#jamstack .unnumbered}
+## JAMStack
 
 ![](./images/image093.jpg){width="4.0in"
 height="1.4726498250218722in"}
@@ -2502,9 +2483,9 @@ follows the JAM structure.
 ***Learn more:** [Jamstack.org](https://jamstack.org/) // [WTF is
 Jamstack?](https://jamstack.wtf/)*
 
-## Top Front-end Frameworks & Libraries for 2023 {#top-front-end-frameworks-libraries-for-2023 .unnumbered}
+## Top Front-end Frameworks & Libraries for 2023
 
-### How to Use JavaScript Libraries {#how-to-use-javascript-libraries .unnumbered}
+### How to Use JavaScript Libraries
 
 To use a JavaScript library in your app, add \<script\> to
 the \<head\> element using the src attribute that references the library
@@ -2513,7 +2494,7 @@ source path or the URL.
 Read the JavaScript library's documentation you intend to use for more
 information and follow the steps provided there.
 
-### What Are JavaScript Libraries Used For? {#what-are-javascript-libraries-used-for .unnumbered}
+### What Are JavaScript Libraries Used For?
 
 As we've said, JavaScript libraries are used to perform specific
 functions. There are around 83 of them, each created to serve some
@@ -2537,8 +2518,7 @@ data easily and make informed business decisions.
 
 #### **DOM Manipulation**
 
-#### [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) represents a web page (a document) as objects and nodes that you can modify using JavaScript. You can change its content, style, and structure. {#document-object-model-dom-represents-a-web-page-a-document-as-objects-and-nodes-that-you-can-modify-using-javascript.-you-can-change-its-content-style-and-structure. .unnumbered}
-
+#### [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) represents a web page (a document) as objects and nodes that you can modify using JavaScript. You can change its content, style, and structure. 
 *Examples: [jQuery](https://kinsta.com/knowledgebase/what-is-jquery/),
 Umbrella JS*
 
@@ -2646,9 +2626,9 @@ frameworks themselves. The list goes down in accordance with the
 rankings we saw earlier. I have provided a general overview of each of
 the frameworks, as well as links to GitHub and the framework&apos;s website.
 
-## #01 -- React {#react .unnumbered}
+## #01 -- React
 
-## ![React Logo](./images/image094.jpg){width="1.0in" height="1.0in"} - ![ReactJS front-end framework](./images/image095.jpg){width="5.0in" height="0.9145297462817148in"} {#react-logo---reactjs-front-end-framework .unnumbered}
+## ![React Logo](./images/image094.jpg){width="1.0in" height="1.0in"} - ![ReactJS front-end framework](./images/image095.jpg){width="5.0in" height="0.9145297462817148in"} 
 
 [React.js](https://reactjs.org/) (also known as ReactJS or React) is an
 open-source, front-end JavaScript library. It was created in 2013 by
@@ -2674,7 +2654,7 @@ hours this saves from the development process can be enormous.
 
 [**Website**](https://reactjs.org/) [**GitHub**](https://github.com/facebook/react/)
 
-## #02 -- jQuery {#jquery .unnumbered}
+## #02 -- jQuery
 
 ![](./images/image096.jpg){width="2.8854166666666665in"
 height="1.125in"}
@@ -2685,7 +2665,7 @@ at BarCamp NYC.
 
 <https://jqueryui.com/>
 
-### jQuery API {#jquery-api .unnumbered}
+### jQuery API
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes
 things like HTML document traversal and manipulation, event handling,
@@ -2694,21 +2674,21 @@ across a multitude of browsers. If you&apos;re new to jQuery, we recommend
 that you check out the [jQuery Learning
 Center](https://learn.jquery.com/).
 
-### jQuery UI {#jquery-ui .unnumbered}
+### jQuery UI
 
 ![](./images/image097.jpg){width="6.5in"
 height="4.098611111111111in"}
 
-### jQuery UI in Action is a practical guide to using and customizing jQuery UI library components to build rich, user-friendly web applications.  {#jquery-ui-in-action-is-a-practical-guide-to-using-and-customizing-jquery-ui-library-components-to-build-rich-user-friendly-web-applications. .unnumbered}
+### jQuery UI in Action is a practical guide to using and customizing jQuery UI library components to build rich, user-friendly web applications. 
 
-### Interactions {#interactions .unnumbered}
+### Interactions
 
 Interactions add basic mouse-based behaviors to any element. You can
 create sortable lists, resizable elements, drag & drop behaviors and
 more with just a few lines of code. Interactions also make great
 building blocks for more complex widgets and applications.
 
-### jQuery UI&apos;s five main interactions--- {#jquery-uis-five-main-interactions .unnumbered}
+### jQuery UI&apos;s five main interactions---
 
 ### draggable, 
 
@@ -2758,7 +2738,7 @@ support.
 
 14. [Tooltip](https://jqueryui.com/tooltip/).
 
-### Effects {#effects .unnumbered}
+### Effects
 
 Effects add support for animating colors and class transitions, as well
 as providing several additional easings. In addition, a full suite of
@@ -2787,7 +2767,7 @@ just to add some visual appeal.
 
 -   [Color Animation](https://jqueryui.com/animate/)
 
-### Utilities {#utilities .unnumbered}
+### Utilities
 
 Utilities used by jQuery UI to build interactions and widgets.
 
@@ -2795,7 +2775,7 @@ Utilities used by jQuery UI to build interactions and widgets.
 
 -   [Widget Factory](https://jqueryui.com/widget/)
 
-### jQuery UI Demos {#jquery-ui-demos .unnumbered}
+### jQuery UI Demos
 
 jQuery UI offers a combination of interaction, effects, widgets,
 utilities, and themes designed to work well together or on their own.
@@ -2832,38 +2812,42 @@ height="3.0541666666666667in"}
 
 Page 3, last page of jQuery v1.13.2 User Interface Download.
 
-### Basic Overview: Using jQuery UI on a Web Page {#basic-overview-using-jquery-ui-on-a-web-page .unnumbered}
+### Basic Overview: Using jQuery UI on a Web Page
 
 Next, open up index.html from the downloaded zip in a text editor.
 You&apos;ll see that it references your theme, jQuery, and jQuery UI.
 Generally, you&apos;ll need to include these three files on any page to use
 the jQuery UI widgets and interactions:
 
-\<link rel=\"stylesheet\" href=\"jquery-ui.min.css\"\>
-
-\<script src=\"external/jquery/jquery.js\"\>\</script\>
-
-\<script src=\"jquery-ui.min.js\"\>\</script\>
+```
+<link rel="stylesheet" href="jquery-ui.min.css">
+<script src="external/jquery/jquery.js"></script>
+<script src="jquery-ui.min.js"></script>
 
 <https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js>
+```
 
 Once you&apos;ve included the necessary files, you can add some jQuery
 widgets to your page. For example, to make a datepicker widget, you&apos;ll
 add a text input element to your page and then call .datepicker() on it.
 Like this:
 
-### HTML: {#html-2 .unnumbered}
+### HTML:
 
-\<input type=\"text\" name=\"date\" id=\"date\"\>
+```
+<input type="text" name="date" id="date">
+```
 
-### JavaScript: {#javascript .unnumbered}
+### JavaScript:
 
-\$( \"#date\" ).datepicker();
+```
+$( "#date" ).datepicker();
+```
 
 ![](./images/image101.jpg){width="2.5104166666666665in"
 height="1.9479166666666667in"}
 
-## #03 -- Bootstrap v5.2.3 {#bootstrap-v5.2.3 .unnumbered}
+## #03 -- Bootstrap v5.2.3
 
 ![Bootstrap v5 \| Drifting
 Ruby](./images/image102.jpg){width="1.0in"
@@ -2887,27 +2871,27 @@ tooltips) before the closing \</body\>. Learn more about our [CDN
 links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links).
 
 ```
-\<!doctype html\>
-\<html lang=\"en\"\>
-\<head\>
-\<meta charset=\"utf-8\"\>
-\<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"\>
-\<title\>Bootstrap demo\</title\>
-\<link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css\"
-  rel=\"stylesheet\"
-  integrity=\"sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65\"
-  crossorigin=\"anonymous\"\>
-\</head\>
-\<body\>
-\<h1\>Hello, world!\</h1\>
-\<script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js\"
-  integrity=\"sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4\"
-  crossorigin=\"anonymous\"\>\</script\>
-\</body\>
-\</html\>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bootstrap demo</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+  integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+  crossorigin="anonymous">
+</head>
+<body>
+<h1>Hello, world!</h1>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+  crossorigin="anonymous"></script>
+</body>
+</html>
 ```
 
-#### Additionally, popper for dropdowns, tooltips and popovers; {#additionally-popper-for-dropdowns-tooltips-and-popovers .unnumbered}
+#### Additionally, popper for dropdowns, tooltips and popovers; 
 
 \<script
 src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js\"
@@ -2919,17 +2903,17 @@ src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js\"
 integrity=\"sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V\"
 crossorigin=\"anonymous\"\>\</script\>
 
-## CDN Links {#cdn-links .unnumbered}
+## CDN Links
 
-### CSS {#css-2 .unnumbered}
+### CSS
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css>
 
-### JS {#js .unnumbered}
+### JS
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js>
 
-## #04 -- D3.js {#d3.js .unnumbered}
+## #04 -- D3.js
 
 ![\"D3.js Logo\" Poster by bryngo \|
 Redbubble](./images/image106.jpg){width="1.0in"
@@ -2973,7 +2957,7 @@ D3 Gallery:
 
 -   Animation
 
-## #05 -- anime.js {#anime.js .unnumbered}
+## #05 -- anime.js
 
 ![Как сделать js анимацию с помощью Anime.js --- простая и мощная
 библиотека](./images/image108.jpg){width="3.4347823709536307in"
@@ -2995,7 +2979,7 @@ And because it's built on top of jQuery, you can take advantage of all
 the features that jQuery offers, such as [event
 handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 
-## #06 -- chart.js {#chart.js .unnumbered}
+## #06 -- chart.js
 
 ![Getting Started With Chart.js:
 Introduction](./images/image110.jpg){width="1.4451224846894137in"
@@ -3038,7 +3022,7 @@ among developers who are already familiar with the library.
 Additionally, chart.js has a wide range of features that can be helpful
 in creating charts and visualizations.
 
-## #07 -- lodash  {#lodash .unnumbered}
+## #07 -- lodash
 
 ![Lodash Logo PNG Transparent & SVG Vector - Freebie
 Supply](./images/image113.jpg){width="1.0997681539807524in"
@@ -3062,7 +3046,7 @@ offers a chainable API for manipulating data.
 However, lodash is more functional in nature and provides more features
 than jQuery.
 
-## #08 -- Bideo.js {#bideo.js .unnumbered}
+## #08 -- Bideo.js
 
 ![Bideo Launch Offers the Best Way to Get Bids from Video Pros
 \...](./images/image115.jpg){width="1.9190288713910761in"
@@ -3083,7 +3067,7 @@ Microsoft. Video.js is open source and free to use.
 Bideo.js can be used to create custom controls for a video, or to add
 features like playback speed control and full screen mode.
 
-## #09 - Angular {#angular .unnumbered}
+## #09 - Angular
 
 ![Angular Logo PNG Transparent & SVG Vector - Freebie
 Supply](./images/image116.jpg){width="0.75in"
@@ -3118,7 +3102,7 @@ preferences.
 
 [**Website**](https://angular.io/) [**GitHub**](https://github.com/angular/angular)
 
-## #10 - VueJS {#vuejs .unnumbered}
+## #10 - VueJS
 
 ![VUE Logo PNG Transparent & SVG Vector - Freebie
 Supply](./images/image119.jpg){width="1.1582720909886264in"
@@ -3156,7 +3140,7 @@ support for TypeScript, and testing tools.
 
 [**Website**](https://vuejs.org/) [**GitHub**](https://github.com/vuejs/)
 
-## #11 - Svelte {#svelte .unnumbered}
+## #11 - Svelte
 
 ![Svelte Logo PNG Vector (SVG) Free
 Download](./images/image122.jpg){width="3.125in"
@@ -3196,48 +3180,32 @@ doesn&apos;t impose a strict structure.
 
 Which is ideal for fast front-end development. Here is an example:
 
+```
 // Example.svelte
-
-\<script lang=\"typescript\"\>
-
+<script lang="typescript">
 export let name = &apos;Svelte&apos;;
-
 export let textColor = &apos;#000&apos;;
-
 function reset() {
-
 name = &apos;Svelte&apos;;
-
 textColor = &apos;#000&apos;;
-
 }
+</script>
 
-\</script\>
-
-\<h1 style=\"color: {textColor}\" on:dblclick={reset}\>Hello,
-{name}!\</h1\>
-
-\<style\>
-
+<h1 style="color: {textColor}" on:dblclick={reset}>Hello, {name}!</h1>
+<style>
 h1 {
-
 margin: auto;
-
 font-family: Georgia, system-ui;
-
 font-size: 3rem;
-
 font-weight: regular;
-
 text-align: none;
-
 }
-
-\</style\>
+</style>
+```
 
 [**Website**](https://svelte.dev/) [**GitHub**](https://github.com/sveltejs/svelte)
 
-## #12 - Preact {#preact .unnumbered}
+## #12 - Preact
 
 ![Preact Logo PNG Transparent & SVG Vector - Freebie
 Supply](./images/image126.jpg){width="0.8649639107611549in"
@@ -3273,7 +3241,7 @@ stability.
 
 [**Website**](https://preactjs.com/) [**GitHub**](https://github.com/preactjs/preact)
 
-## #13 - EmberJS {#emberjs .unnumbered}
+## #13 - EmberJS
 
 ![ember logo 10 free Cliparts \| Download images on Clipground
 2022](./images/image131.jpg){width="1.3352110673665791in"
@@ -3304,7 +3272,7 @@ with major changes in the framework itself.
 
 [**Website**](https://emberjs.com/) [**GitHub**](https://github.com/emberjs/ember.js)
 
-## #14 - Solid {#solid .unnumbered}
+## #14 - Solid
 
 ![solid-js - npm](./images/image135.jpg){width="1.0in"
 height="0.6582283464566929in"} - ![Testing your Solid.js code \|
@@ -3339,7 +3307,7 @@ Vue and Redux.
 
 [**Website**](https://www.solidjs.com/) [**GitHub**](https://github.com/solidjs/solid)
 
-## #15 - Lit {#lit .unnumbered}
+## #15 - Lit
 
 ![Build a Lightweight Web Component with
 Lit.js](./images/image138.jpg){width="1.7819553805774277in"
@@ -3371,7 +3339,7 @@ implements standardized web components.
 
 [**Website**](https://lit.dev/) [**GitHub**](https://github.com/lit/lit/)
 
-## #16 - Alpine {#alpine .unnumbered}
+## #16 - Alpine
 
 ![Alpine.js Logo PNG Vector (SVG) Free
 Download](./images/image142.jpg){width="1.9736843832020998in"
@@ -3409,7 +3377,7 @@ Hugo, etc.
 
 [**Website**](https://alpinejs.dev/) [**GitHub**](https://github.com/alpinejs/alpine)
 
-## #17 -- Stencil {#stencil .unnumbered}
+## #17 -- Stencil
 
 ![Stencil.js: crear web components nunca fue tan fácil -
 Paradigma](./images/image147.jpg){width="1.7819553805774277in"
@@ -3450,7 +3418,7 @@ doc generation, and types.
 
 [**Website**](https://stenciljs.com/) [**GitHub**](https://github.com/ionic-team/stencil)
 
-## #18 - Qwik {#qwik .unnumbered}
+## #18 - Qwik
 
 ![GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework
 \...](./images/image150.jpg){width="2.72413823272091in"
@@ -3484,7 +3452,7 @@ or executed.
 
 [**Website**](https://qwik.builder.io/) [**GitHub**](https://github.com/BuilderIO/qwik)
 
-## #19 -- Moment.js {#moment.js .unnumbered}
+## #19 -- Moment.js
 
 ![10 Awesome JavaScript Libraries You Should Try Out in
 2021](./images/image154.jpg){width="1.225353237095363in"
@@ -3497,7 +3465,7 @@ height="1.0in"} - ![Collection of Javascript Logo Vector PNG. \|
 PlusPNG](./images/image157.jpg){width="1.0in"
 height="1.0in"}
 
-## #20 -- popper.js {#popper.js .unnumbered}
+## #20 -- popper.js
 
 ![10 impresionantes bibliotecas de JavaScript que deberías probar en
 2020 \...](./images/image158.jpg){width="2.0in"
@@ -3518,7 +3486,7 @@ document and floats near a target element. The most common example is a
 tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a \"popper\" element.
 
-## #21 -- BackboneJS {#backbonejs .unnumbered}
+## #21 -- BackboneJS
 
 Backbone.js gives structure to web applications by providing models with
 key-value binding and custom events, collections with a rich API of
@@ -3544,7 +3512,7 @@ height="1.2827001312335957in"} -
 ![Backbone.js](./images/image163.jpg){width="4.0in"
 height="0.7088604549431321in"}
 
-## #22 -- SemtanticUI {#semtanticui .unnumbered}
+## #22 -- SemtanticUI
 
 Semantic UI is a front-end development framework similar to bootstrap
 designed for theming. It contains pre-built semantic components that
@@ -3572,23 +3540,13 @@ height="2.674786745406824in"}
 ![](./images/image168.jpg){width="4.0in"
 height="2.1465813648293963in"}
 
-## #23 - \< more libraries to come\> {#more-libraries-to-come .unnumbered}
+## #23 - \< more libraries to come\>
 
-## #24 - \< more libraries to come\> {#more-libraries-to-come-1 .unnumbered}
+## #24 - \< more libraries to come\>
 
-## #25 - \< more libraries to come\> {#more-libraries-to-come-2 .unnumbered}
+## #25 - \< more libraries to come\>
 
-## #26 - \< more libraries to come\> {#more-libraries-to-come-3 .unnumbered}
-
-## #27 - \< more libraries to come\> {#more-libraries-to-come-4 .unnumbered}
-
-## #28 - \< more libraries to come\> {#more-libraries-to-come-5 .unnumbered}
-
-##  {#section-1 .unnumbered}
-
-##  {#section-2 .unnumbered}
-
-## Front-end Frameworks: A Summary {#front-end-frameworks-a-summary .unnumbered}
+## Front-end Frameworks: A Summary
 
 Developers in the front-end world are facing a number of challenges that
 are making their lives difficult. The biggest problem they&apos;re facing
@@ -3618,7 +3576,7 @@ So, in conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 
-# Week 3-15. Introduction to Twitter Bootstrap 3 {#week-3-15.-introduction-to-twitter-bootstrap-3 .unnumbered}
+# Week 3-15. Introduction to Twitter Bootstrap 3
 
 ![](./images/image169.jpg){width="4.0in"
 height="2.24957239720035in"}
@@ -3772,7 +3730,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 
-# Week 3-16. Bootstrap Breakpoints {#week-3-16.-bootstrap-breakpoints .unnumbered}
+# Week 3-16. Bootstrap Breakpoints
 
 ![](./images/image175.jpg){width="4.0in"
 height="2.24957239720035in"}
@@ -3907,7 +3865,7 @@ height="2.24957239720035in"}
     fours things and you&apos;ll be able to really code and understand the
     things that are coming up.
 
-# Week 3-17. Getting Started with Twitter Bootstrap {#week-3-17.-getting-started-with-twitter-bootstrap .unnumbered}
+# Week 3-17. Getting Started with Twitter Bootstrap
 
 ![](./images/image183.jpg){width="4.0in"
 height="2.24957239720035in"}
@@ -3951,7 +3909,7 @@ height="2.24957239720035in"}
 
 <https://codepen.io/ColleenEMc/pen/obwJGp/>
 
-### Customization {#customization .unnumbered}
+### Customization
 
 <https://getbootstrap.com/docs/3.4/customize/>
 
@@ -4121,41 +4079,41 @@ you&apos;re going to do it, I don&apos;t think you should do it, but it&apos;s
 something that I want you to know is possible once you really get the
 hang of what&apos;s going on.
 
-### Bootstrap HTML Template {#bootstrap-html-template .unnumbered}
+### Bootstrap HTML Template
 
 ```
-\<!DOCTYPE html\>
-\<html lang=\"en\"\>
-\<head\>
-\<meta charset=\"utf-8\"\>
-\<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"\>
-\<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"\>
-\<!\-- The above 3 meta tags \*must\* come first in the head; any other
-head content must come \*after\* these tags \--\>
-\<title\>Bootstrap 101 Template\</title\>
-\<!\-- Bootstrap \--\>
-\<!\-- Latest compiled and minified CSS \--\>
-\<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\"
-  integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\"
-  crossorigin=\"anonymous\"\>
-\<!\-- Latest compiled and minified JavaScript \--\>
-\<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\"
-  integrity=\"sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS\"
-  crossorigin=\"anonymous\"\>\</script\>
-\<!\--Include Your Style Sheets next \--\>
-\</head\>
-\<body\>
-\<h1\>Hello, world!\</h1\>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other
+head content must come *after* these tags -->
+<title>Bootstrap 101 Template</title>
+<!-- Bootstrap -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+  integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+  crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+  crossorigin="anonymous"></script>
+<!--Include Your Style Sheets next -->
+</head>
+<body>
+<h1>Hello, world!</h1>
 How are you?
-\<!\-- jQuery (necessary for Bootstrap&apos;s JavaScript plugins) \--\>
-\<script
-src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"\>\</script\>
-\<!\-- Include all compiled plugins (below), or include individual files as needed \--\>
-\<script src=\"js/bootstrap.min.js\"\>\</script\>
-\<!\-- If you don&apos;t have the files saved locally, make sure to link it in CodePen, 
-just like you linked the CSS. \--\>
-\</body\>
-\</html\>
+<!-- jQuery (necessary for Bootstrap&apos;s JavaScript plugins) -->
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<!-- If you don&apos;t have the files saved locally, make sure to link it in CodePen, 
+just like you linked the CSS. -->
+</body>
+</html>
 ```
 
 ![](./images/image195.jpg){width="4.0in"
@@ -4169,41 +4127,41 @@ explore over this next week as you go in and you write code, and you
 practice, and you write some code again. Thanks.
 
 ```
-\<!DOCTYPE html\>
-\<html lang=\"en\"\>
-\<head\>
-\<meta charset=\"utf-8\"\>
-\<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"\>
-\<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"\>
-\<!\-- The above 3 meta tags \*must\* come first in the head; any other
-  head content must come \*after\* these tags \--\>
-\<title\>Bootstrap 101 Template\</title\>
-\<!\-- Bootstrap \--\>
-\<!\-- Latest compiled and minified CSS \--\>
-\<link rel=\"stylesheet\"
-href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\"
-  integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\"
-  crossorigin=\"anonymous\"\>
-\<!\-- Latest compiled and minified JavaScript \--\>
-\<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\"
-  integrity=\"sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS\"
-  crossorigin=\"anonymous\"\>\</script\>
-\<!\--Include Your Style Sheets next \--\>
-\</head\>
-\<body\>
-\<h1\>Hello, world!\</h1\>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other
+  head content must come *after* these tags -->
+<title>Bootstrap 101 Template</title>
+<!-- Bootstrap -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+  integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+  crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+  crossorigin="anonymous"></script>
+<!--Include Your Style Sheets next -->
+</head>
+<body>
+<h1>Hello, world!</h1>
 How are you?
-\<!\-- jQuery (necessary for Bootstrap&apos;s JavaScript plugins) \--\>
-\<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"\>\</script\>
-\<!\-- Include all compiled plugins (below), or include individual files as needed \--\>
-\<script src=\"js/bootstrap.min.js\"\>\</script\>
-\<!\-- If you don&apos;t have the files saved locally, make sure to link it in CodePen, 
-  just like you linked the CSS. \--\>
-\</body\>
-\</html\>
+<!-- jQuery (necessary for Bootstrap&apos;s JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<!-- If you don&apos;t have the files saved locally, make sure to link it in CodePen, 
+  just like you linked the CSS. -->
+</body>
+</html>
 ```
 
-# Week 3-18. Bootstrap Grid System {#week-3-18.-bootstrap-grid-system .unnumbered}
+# Week 3-18. Bootstrap Grid System
 
 Hi everybody. Today, we&apos;re going to talk about the grid system for
 Bootstrap three.
@@ -5056,7 +5014,7 @@ changes because you know a little bit about these things, your site not
 only is going to look so much better, but you can be really proud of
 knowing that you had a hand in creating something so great.
 
-# Week 4-25. Optional Interview: M W {#week-4-25.-optional-interview-m-w .unnumbered}
+# Week 4-25. Interview: M W
 
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn&apos;t show up, but luckily, I ran into one of my old
@@ -5209,7 +5167,7 @@ hope it&apos;s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you&apos;re going to go into. So thank you
 
-# Week 4-26. Interview: H W {#week-4-26.-interview-h-w .unnumbered}
+# Week 4-26. Interview: H W
 
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I&apos;ve just run into
@@ -5366,7 +5324,7 @@ the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 
-# Week 4-27. Interview with H N {#week-4-27.-interview-with-h-n .unnumbered}
+# Week 4-27. Interview with H N
 
 Hi everybody. Welcome back.
 
@@ -5561,7 +5519,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 
-# Week 4-28. Bootstrap 4 {#week-4-28.-bootstrap-4 .unnumbered}
+# Week 4-28. Bootstrap 4
 
 Hi, everybody. Let&apos;s talk about Bootstrap 4. In this class I&apos;ve been
 talking about Bootstrap 3. Those are the materials I covered in the
@@ -5613,7 +5571,7 @@ techie. I hope what I helped you understand was that learning bootstrap
 Bootstrap 4 can only make things better, so if it&apos;s something you&apos;re
 interested in, go ahead. I myself am excited to see where it goes.
 
-# Week 4-29. Conclusion {#week-4-29.-conclusion .unnumbered}
+# Week 4-29. Conclusion
 
 Congratulations everybody. I&apos;m really glad that we had this chance to
 learn about responsive design.
@@ -5648,7 +5606,7 @@ really have all the knowledge you need.
 So, thank you for coming along with us, and I hope you enjoyed the
 class.
 
-### The Evolution of the Airbnb front-end development {#the-evolution-of-the-airbnb-front-end-development .unnumbered}
+### The Evolution of the Airbnb front-end development
 
 This is an interesting article on the evolution of the Airbnb website.
 
@@ -5659,21 +5617,21 @@ CSS tutorial actually uses a similar platform to teach about Bootstrap.
 
 ***This material is not required for the course.***
 
-### Debugging your style with Firebug {#debugging-your-style-with-firebug .unnumbered}
+### Debugging your style with Firebug
 
 I tend to use Chrome as my browser, and Inspect Element to debug my
 site. However, here is a tutorial for another very popular development
 tool - Firebug. This video by Vicki Watson will walk you through how it
 works. <https://www.ostraining.com/blog/coding/bootstrap-firebug/>
 
-### More resources for learning to debug/develop {#more-resources-for-learning-to-debugdevelop .unnumbered}
+### More resources for learning to debug/develop
 
 If anyone wants to improve testing and debugging skills using Chrome.
 Codeschool has free course about DevTools:
 
 <https://www.codeschool.com/courses/discover-devtools>
 
-# Keep Learning with Michigan Online {#keep-learning-with-michigan-online .unnumbered}
+# Keep Learning with Michigan Online
 
 ![](./images/image198.jpg){width="3.0in"
 height="0.3961537620297463in"}
