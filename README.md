@@ -437,10 +437,12 @@ This is a fairly technical document and is not required reading for the
 course.
 
 # Week 1-01. Introduction to Responsive Design
-
-![The BASICS of Responsive
-Design.](./images/image005.jpg){width="4.0in"
-height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![The BASICS of Responsive Design.]
+(./images/image005.jpg)
+{width="4.0in" height="2.0931627296587925in"}
 
 Welcome to introduction to responsive design. In this course, we&apos;re
 going to talk about different ways that you can make your website look
@@ -458,11 +460,13 @@ However, we also want to talk about using ***frameworks.***
 Because if other people are using software or different code to make
 their site look great, why not take advantage of it and learn how to use
 it yourself.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 06. week 1 - theory of responsive design (09) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Week One: - Theory - What does responsive design mean? - What makes
-for good design? - Role of fluid
-measurements.](./images/image006.jpg){width="4.0in"
-height="2.0931627296587925in"}
+for good design? - Role of fluid measurements.]
+(./images/image006.jpg)
+{width="4.0in" height="2.0931627296587925in"}
 
 In week **one**, we&apos;re really going to focus on the theory.
 
@@ -482,11 +486,14 @@ Finally, we&apos;re going to end the week talking about something very
 concrete and that&apos;s the role of what we call fluid measurements; these
 different type of measurements that can change as the screen size
 changes.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 2 - media queries (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Week Two: - Media queries - What are they? - How do you plan 1st for
 best practices? - What is the relationship with break points? - How to
-make a navigation bar?](./images/image007.jpg){width="4.0in"
-height="2.0931627296587925in"}
+make a navigation bar?]
+(./images/image007.jpg)
+{width="4.0in" height="2.0931627296587925in"}
 
 In week **two** we&apos;re going to tackle media queries.
 
@@ -510,11 +517,13 @@ code together to make a navigation bar.
 
 By the end of week two, you&apos;re going to be ready and feel like you can
 really tackle this.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
-Started, grid system, and
-navigation.](./images/image008.jpg){width="4.0in"
-height="2.0931627296587925in"}
+Started, grid system, and navigation.]
+(./images/image008.jpg)
+{width="4.0in" height="2.0931627296587925in"}
 
 In week **three**, we&apos;re going to shift a little bit and instead of
 writing our own code.
@@ -545,10 +554,12 @@ also again, a navigation bar.
 
 Because these are the keys to really getting your site to have that
 responsive feel.
-
-![Week Four: - More bootstrap - Images, tables, advanced navigation -
-Case studies](./images/image009.jpg){width="4.0in"
-height="2.110255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. week 4 - more bootstrap  (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies]
+(./images/image009.jpg)
+{width="4.0in" height="2.110255905511811in"}
 
 Finally, in week **four**, we&apos;re going to continue with more bootstrap,
 but we&apos;re going to talk about things such as images, tables, and maybe
@@ -562,10 +573,13 @@ around with. We&apos;re also, I&apos;m hoping to get to some case studies.
 We&apos;re going to talk to people about how they approached designing the
 responsiveness their real-life sites.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 10. final project - create responsive page (12) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Final Project - Use your coding skills to create a responsive page
-using multiple methods (framework & media
-queries).](./images/image010.jpg){width="4.0in"
-height="2.110255905511811in"}
+using multiple methods (framework & media queries).]
+(./images/image010.jpg)
+{width="4.0in" height="2.110255905511811in"}
 
 We will do this with the culmination of a final project.
 
@@ -613,11 +627,14 @@ articles. I like to find things that are very pertinent to what&apos;s going
 on in web design right now.
 
 So how do you succeed in this class?
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. succeeding in this class (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Succeeding in this class - Use message boards. - Don&apos;t spend more
 than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.](./images/image011.jpg){width="4.0in"
-height="2.110255905511811in"}
+practice, practice.]
+(./images/image011.jpg)
+{width="4.0in" height="2.110255905511811in"}
 
 I will always say that the best way to code is with a friend but that&apos;s
 not always possible, so I hope that you&apos;ll use the message boards not
@@ -634,9 +651,11 @@ you will probably find the answer.
 
 You&apos;ll find three or four wrong answers, but eventually, the answer
 will be there.
-
-![](./images/image012.jpg){width="4.0in"
-height="2.086324365704287in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](./images/image012.jpg)
+{width="4.0in" height="2.086324365704287in"}
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you&apos;re getting as much
@@ -684,9 +703,11 @@ work for us.
 
 So here are some of the concepts that we&apos;re going to be considering
 throughout this entire course.
-
-![](./images/image012.jpg){width="4.0in"
-height="2.086324365704287in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](./images/image012.jpg)
+{width="4.0in" height="2.086324365704287in"}
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -4175,6 +4196,9 @@ you&apos;ll follow along with me. We&apos;ll do an example in one of the next
 videos, and then you come back and you listen to this material again,
 and see if it&apos;s starting to really make sense.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 196.  (1xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./images/image196.jpg){width="4.0in"
 height="2.2529910323709537in"}
 
@@ -4199,9 +4223,11 @@ container class, a row class and then one or more column classes. The
 actual code itself is going to look like this, where xx is going to be
 the viewport size. And yy is going to be the number of columns that you
 want to use. Let&apos;s take a look.
-
-![](./images/image197.jpg){width="4.0in"
-height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 197. setting width with col-xx-yy (1xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](./images/image197.jpg)
+{width="4.0in" height="2.2529910323709537in"}
 
 Let&apos;s look at our example. The class is always going to start with
 those three letters, col. The xx component is the viewport size. It&apos;s
@@ -5632,9 +5658,10 @@ Codeschool has free course about DevTools:
 <https://www.codeschool.com/courses/discover-devtools>
 
 # Keep Learning with Michigan Online
-
-![](./images/image198.jpg){width="3.0in"
-height="0.3961537620297463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. u of michigan online (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](./images/image198.jpg){width="3.0in" height="0.3961537620297463in"}
 
 Want to keep learning? Explore hundreds of learning experiences from the
 University of Michigan faculty and instructional teams on [Michigan
