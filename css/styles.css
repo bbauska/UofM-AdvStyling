@@ -1,0 +1,220 @@
+/* ibm-intermediate-web-dev / assets / css / styles.css */
+* {
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  box-sizing: border-box;
+}
+body {
+  background-color: #e8f4f8;  /* light grayish cyan - wide pc */
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  font-size: 15px;  /* 1.2rem; */
+/*  color: #000000;  foreground - black */
+  text-align: left;
+  padding: 10px;
+  margin-left: 10px;
+}
+.column {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+  .displayed {
+    display: block;
+    margin: 0 auto; }
+
+  .border {
+    border-width: 10px;
+    border-color: #778899;  /* dark grayish blue */
+    border-style: solid; 
+  }
+
+  /* margin: 1em 0 1em 1.7em; */
+  blockquote {
+    margin: .5em 0 .5em .85em;
+    padding-left: 1em;
+    border-left: 2px solid #e6e6e6;  /* very light gray */
+    color: #606060;  /* very dark gray */
+  }
+  hr {
+    background-color: #1a1a1a;
+    border: none;
+    height: 1px;
+    margin: 1em 0;
+  }
+
+  table {
+    margin: 1em 0;
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+    display: block;
+    font-variant-numeric: lining-nums tabular-nums;
+  }
+  table caption {
+    margin-bottom: 0.75em;
+  }
+  tbody {
+    margin-top: 0.5em;
+    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+    border-bottom: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+  }
+  th {
+    border-top: 1px solid #1a1a1a;  /* very dark gray (mostly black) */
+    padding: 0.25em 0.5em 0.25em 0.5em;
+  }
+  td {
+    padding: 0.125em 0.5em 0.25em 0.5em;
+  }
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 11px;
+  border: none;
+  outline: none;
+  background-color: #8b0000;  /* dark red */
+  color: #fdfeff;  /* Very pale (mostly white) blue */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 1px;
+}
+
+#myBtn:hover {
+  background-color: #555;  /* very dark gray */
+}
+
+pre {
+  overflow: auto;
+  font-family: Consolas, monospace, monospace;
+  font-size: 10px;
+  margin-left: 10px;
+  }
+pre > code {
+  display: block;
+  margin-left: 10px;
+  padding: 1rem;
+  word-wrap: normal;
+  }
+
+a {
+  text-decoration: none;
+  }
+a.hover {
+  color: #ffff00;  /* pure (or mostly pure) yellow */
+  text-decoration: underline;
+  }
+a.hover:hover {
+  color: #ffff00;  /* pure (or mostly pure) yellow */
+  text-decoration: underline;
+
+}
+div {
+  float: left; 
+}
+
+/* h1 { */
+/*  font-size: 21px; */
+/*  text-align: left; */
+/*  margin-left: 10px; */
+/* } */
+
+h2 { 
+  font-size: 20px;
+  padding: 10px;
+}
+h3 { 
+  font-size: 17px;
+  margin-left: 10px;
+}
+h4 { 
+  font-size: 13px;
+}
+h5 { 
+  font-size: 12px;
+}
+h6 { 
+  font-size: 10px;
+}
+background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
+
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+}
+.row {
+  display: flex;
+}
+/* Create two equal columns that sit next to each other side-by-side */
+.column {
+  flex: 45%;
+  padding: 5px;
+}
+
+body {
+    font-size: 100&#37;;
+    margin: 0;
+    padding: 0;
+    background: #fff;  /* white */
+}
+h1 {
+    font-size: 2em;
+    margin: .5em;
+    background: #fff;  /* white */
+}
+p {
+    font-family: Bahnschrift;
+    margin: 1em;
+    background: #fff;  /* white */
+}
+/*  p { */
+/*    font-size: 15px; */
+/*    font-family: Bahnschrift; */
+/*    margin-left: 30px; */
+/*  } */
+
+ul {
+    display: table;
+    margin: 0 auto;  /* centered */
+    text-align: left;
+    width: 30em;  /* was 40em, 20em */
+/*    margin: 1em; */
+    padding: 0 0 0 1em;
+    background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
+    overflow: hidden;  /* establish margin clearance for li */
+}
+li {
+    margin: 1em;
+    padding: .25em;
+    background: #fff;  /* white */
+}
+
+@media screen and (max-width: 850px) {
+  body {
+    background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    background-color: #e3fae5;  /* light grayish lime green - phones */
+  }
+}
+
+figure {
+  margin-top: 0;
+}
+figcaption {
+  text-align: center;
+}
+.picme {
+  column-count: 2;
+}
