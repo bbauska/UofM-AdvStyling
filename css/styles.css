@@ -1,4 +1,6 @@
-/* ibm-intermediate-web-dev / assets / css / styles.css */
+/* university of michigan's advanced styling with responsive design */
+/* styles.css in uofmichigan-advstyling */
+
 * {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
@@ -7,7 +9,6 @@ body {
   background-color: #e8f4f8;  /* light grayish cyan - wide pc */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 15px;  /* 1.2rem; */
-/*  color: #000000;  foreground - black */
   text-align: left;
   padding: 10px;
   margin-left: 10px;
@@ -18,24 +19,23 @@ body {
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
+/* clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
 
-  .displayed {
-    display: block;
-    margin: 0 auto; }
+img.displayed {
+  display: block;
+  margin: 0 auto; 
+}
+.border {
+  border-width: 1px;
+  border-color: #778899;  /* dark grayish blue */
+  border-style: solid; 
+}
 
-  .border {
-    border-width: 10px;
-    border-color: #778899;  /* dark grayish blue */
-    border-style: solid; 
-  }
-
-  /* margin: 1em 0 1em 1.7em; */
   blockquote {
     margin: .5em 0 .5em .85em;
     padding-left: 1em;
@@ -43,7 +43,7 @@ body {
     color: #606060;  /* very dark gray */
   }
   hr {
-    background-color: #1a1a1a;
+    background-color: #1a1a1a;  /* very dark gray (mostly black) */
     border: none;
     height: 1px;
     margin: 1em 0;
@@ -90,7 +90,7 @@ body {
 }
 
 #myBtn:hover {
-  background-color: #555;  /* very dark gray */
+  background-color: #555555;  /* very dark gray */
 }
 
 pre {
@@ -122,12 +122,6 @@ div {
   float: left; 
 }
 
-/* h1 { */
-/*  font-size: 21px; */
-/*  text-align: left; */
-/*  margin-left: 10px; */
-/* } */
-
 h2 { 
   font-size: 20px;
   padding: 10px;
@@ -154,7 +148,7 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 .row {
   display: flex;
 }
-/* Create two equal columns that sit next to each other side-by-side */
+/* create two equal columns that sit next to each other side-by-side */
 .column {
   flex: 45%;
   padding: 5px;
@@ -164,23 +158,18 @@ body {
     font-size: 100&#37;;
     margin: 0;
     padding: 0;
-    background: #fff;  /* white */
+    background: #ffffff;  /* white */
 }
 h1 {
     font-size: 2em;
     margin: .5em;
-    background: #fff;  /* white */
+    background: #ffffff;  /* white */
 }
 p {
     font-family: Bahnschrift;
     margin: 1em;
-    background: #fff;  /* white */
+    background: #ffffff;  /* white */
 }
-/*  p { */
-/*    font-size: 15px; */
-/*    font-family: Bahnschrift; */
-/*    margin-left: 30px; */
-/*  } */
 
 ul {
     display: table;
@@ -195,7 +184,7 @@ ul {
 li {
     margin: 1em;
     padding: .25em;
-    background: #fff;  /* white */
+    background: #ffffff;  /* white */
 }
 
 @media screen and (max-width: 850px) {
