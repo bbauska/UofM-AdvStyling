@@ -2,17 +2,93 @@
 UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
 ---
 
-![Introduction to Responsive Design by Colleen van Lent, Ph.D.
-(lecturer, school of information)](images/image001.webp){width="4.0in"
-height="2.256837270341207in"}
+<h2 align="center">Advanved Styling with Responsive Design</h2>
+<br/>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofmichigan-advstyling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction to resp design (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image001.webp?raw=true"
+  width="45%"
+  alt="Introduction to Responsive Design by Colleen van Lent, 
+    Ph.D. (lecturer, school of information)." />
+</p>
 
-![Advanced Styling with Responsive Design offered by University of
-Michigan.](images/image002.webp){width="2.0in"
-height="0.8481014873140857in"}
+<h3 align="center"> </h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image002.webp?raw=true"
+  width="35%"
+  alt="University of Michigan logo." />
+</p>
 
-#  {#section .unnumbered}
+## [Table of Contents](#table-of-contents)
 
-# Syllabus {#syllabus .unnumbered}
+## [**About **](#cha)
+>### - [**About **](#cha-1)
+>### - [** **](#cha-2)
+>### - [** **](#cha-3)
+
+## [**Course information**](#chb)
+>### * [** **](#chb-1)
+>### * [** **](#chb-2)
+>### * [** **](#chb-3)
+
+## [Module 1: My first Web page in HTML5](#ch1)
+>### 1.1 [**Introduction to Module 1**](#ch1)
+>### 1.2 [**The big three: HTML5, CSS3 and JavaScript**](#ch1-2-1)
+>### 1.3 [**Elements, tags and attributes**](#ch1-3-1)
+>### 1.4 [**Character encoding**](#ch1-4-1)
+>### 1.5 [**Best practices**](#ch1-5-1)
+>### 1.6 [**More on tags**](#ch1-6-1)
+
+## [Module 2: Attributes, images and links](#ch2)
+>### 2.1 [**Introduction to Module 2**](#ch2)
+>### 2.2 [**Attributes**](#ch2-2-1)
+>### 2.3 [**Semantic meaning**](#ch2-3-1)
+>### 2.4 [**images**](#ch2-4-1)
+>### 2.5 [**Hyperlinks**](#ch2-5-1)
+
+## [Module 3: Adding style with CSS](#ch3)
+>### 3.1 [**Introduction to Module 3**](#ch3)
+>### 3.2 [**CSS basic syntax**](#ch3-2-1)
+>### 3.3 [**CSS properties**](#ch3-3-1)
+>### 3.4 [**Lists and selectors**](#ch3-4-1)
+
+## [Module 4: Fixing and debugging](#ch4)
+>### 4.1 [**Introduction to Module 4**](#ch4)
+>### 4.2 [**Debugging tools and HTML5**](#ch4-2-1)
+>### 4.3 [**Debugging and the CSS box model**](#ch4-3-1)
+>### 4.4 [**Debugging CSS precedence**](#ch4-4-1)
+
+## [Module 5: More HTML5 and CSS](#ch5)
+>### 5.1 [**Introduction to Module 5**](#ch5)
+>### 5.2 [**Tables**](#ch5-2-1)
+>### 5.3 [**Multimedia**](#ch5-3-1)
+>### 5.4 [**Embedding content**](#ch5-4-1)
+>### 5.5 [**CSS tricks**](#ch5-5-1)
+
+## [Module 6: Basics of page Layout](#ch6)
+>### 6.1 [**Introduction to Module 6**](#ch6)
+>### 6.2 [**Concepts**](#ch6-2-1)
+>### 6.3 [**CSS Flexbox**](#ch6-3-1)
+>### 6.4 [**More Flexbox**](#ch6-4-1)
+>### 6.5 [**CSS Grid**](#ch6-5-1)
+>### 6.6 [**Recipe project**](#ch6-6-1)
+
+<a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">UofM - Advanced Styling - git</a>
+
+<h3>Course Outline:</h3>
+
+<h2 align="center"></h2>
+
+<h3>Course Outline:</h3>
+
+# Syllabus
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -27,8 +103,14 @@ design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
-![What is Responsive Design?](images/image003.webp){width="4.0in"
-height="2.086324365704287in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive design? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image003.webp?raw=true"
+  width="45%"
+  alt="What is Responsive Design?" />
+</p>
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Welcome to Advanced Styling with Responsive Design, taught by Colleen
 van Lent!
@@ -110,7 +192,7 @@ will see two files, a \"starter\" file and a \"complete\" file. This way
 you can start at the same place as me, but still have access to the
 final product.
 
-## Discussion Boards {#discussion-boards .unnumbered}
+## Discussion Boards
 
 The best way to get help is to utilize the discussion boards. I know
 that this may be new to many of you so let me explain how the discussion
@@ -123,7 +205,7 @@ question already there. If you don\'t find your question, make sure to
 post. There are no \"stupid\" questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-## Course Slides {#course-slides .unnumbered}
+## Course Slides
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -136,7 +218,7 @@ section to view them.
 ![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.webp){width="6.5in"
 height="4.603945756780402in"}
 
-# There are 4 modules in this course {#there-are-4-modules-in-this-course .unnumbered}
+# There are 4 modules in this course
 
 It used to be the case that everyone viewed webpages on about the same
 size screen. But with the explosion of the use of smartphones to access
@@ -164,7 +246,7 @@ you enroll in this class. Additional courses focus on adding
 interactivity with the JavaScript Programming Language and completing a
 capstone project.
 
-### Media Sizes (in Pixels) {#media-sizes-in-pixels .unnumbered}
+### Media Sizes (in Pixels)
 
 ```
 > **@media (min-width:320px) { /* smartphones, iPhone, portrait
