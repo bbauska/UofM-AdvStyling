@@ -166,25 +166,27 @@ capstone project.
 
 ### Media Sizes (in Pixels) {#media-sizes-in-pixels .unnumbered}
 
-> **\@media (min-width:320px) { /\* smartphones, iPhone, portrait
-> 480x320 phones \*/ }**
+```
+> **@media (min-width:320px) { /* smartphones, iPhone, portrait
+> 480x320 phones */ }**
 >
-> **\@media (min-width:481px) { /\* portrait e-readers (Nook/Kindle),**
+> **@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),**
 >
-> **smaller tablets @ 600 or @ 640 wide. \*/ }**
+> **smaller tablets @ 600 or @ 640 wide. */ }**
 >
-> **\@media (min-width:641px) { /\* portrait tablets, portrait iPad,
+> **@media (min-width:641px) { /* portrait tablets, portrait iPad,
 > landscape e-readers,**
 >
-> **landscape 800x480 or 854x480 phones \*/ }**
+> **landscape 800x480 or 854x480 phones */ }**
 >
-> **\@media (min-width:961px) { /\* tablet, landscape iPad, lo-res
-> laptops and desktops \*/ }**
+> **@media (min-width:961px) { /* tablet, landscape iPad, lo-res
+> laptops and desktops */ }**
 >
-> **\@media (min-width:1025px) { /\* big landscape tablets, laptops, and
-> desktops \*/ }**
+> **@media (min-width:1025px) { /* big landscape tablets, laptops, and
+> desktops */ }**
 >
-> **\@media (min-width:1281px) { /\* hi-res laptops and desktops \*/ }**
+> **@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
+```
 
 # Week One: Style with Responsive Design {#week-one-style-with-responsive-design .unnumbered}
 
@@ -1229,143 +1231,88 @@ Completed;
 
 ### [HTML:]{.mark} {#html .unnumbered}
 
-1.  \<!DOCTYPE html\>
-
-2.  \<html lang=\"en\"\>
-
-3.  \<head\>
-
-4.  \<meta charset=\"utf-8\"\>
-
-5.  \<title\>Fluid Measurements\</title\>
-
-6.  \<link href=\"fluidstyle.css\" rel=\"stylesheet\"\>
-
-7.  \<!\-- \<link href=\"staticstyle.css\" rel=\"stylesheet\"\>
-
-8.  \--\>
-
-9.  \</head\>
-
-10. \<body\>
-
-11. \<header\>
-
-12. \<h1\>Fluid Measurements\</h1\>
-
-13. \<h2\>Colleen van Lent\</h2\>
-
-14. \</header\>
-
-15. \<main\>
-
-16. \<!\-- Content \--\>
-
-17. \<p\>What happens when you hardcode the values of your elements? In
+```
+1.  <!DOCTYPE html>
+2.  <html lang="en">
+3.  <head>
+4.  <meta charset="utf-8">
+5.  <title>Fluid Measurements</title>
+6.  <link href="fluidstyle.css" rel="stylesheet">
+7.  <!-- <link href="staticstyle.css" rel="stylesheet">
+8.  -->
+9.  </head>
+10. <body>
+11. <header>
+12. <h1>Fluid Measurements</h1>
+13. <h2>Colleen van Lent</h2>
+14. </header>
+15. <main>
+16. <!-- Content -->
+17. <p>What happens when you hardcode the values of your elements? In
     > this case, I have a section that is set to 940px. Each of the
-    > content columns is set to 300px. What could go wrong?\</p\>
-
-18. \<div class=\"column\"\>
-
-19. \<h2\>Content\</h2\>
-
-20. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > content columns is set to 300px. What could go wrong?</p>
+18. <div class="column">
+19. <h2>Content</h2>
+20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-
-21. \</div\>
-
-22. \<div class=\"column\"\>
-
-23. \<h2\>Content\</h2\>
-
-24. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+21. </div>
+22. <div class="column">
+23. <h2>Content</h2>
+24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-
-25. \</div\>
-
-26. \<div class=\"column\"\>
-
-27. \<h2\>Content\</h2\>
-
-28. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+25. </div>
+26. <div class="column">
+27. <h2>Content</h2>
+28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-
-29. \</div\>
-
-30. \</main\>\<!\-- .row \--\>
-
-31. \</body\>
-
-32. \</html\>
+    > eget lacinia odio sem nec elit.</p>
+29. </div>
+30. </main><!-- .row -->
+31. </body>
+32. </html>
+```
 
 ### [CSS:]{.mark} {#css .unnumbered}
 
+```
 1.  main {
-
 2.  width: 95%;
-
 3.  margin: 0 auto;
-
 4.  }
-
 5.  .column {
-
 6.  width:30%;
-
 7.  display: inline-block;
-
 8.  float: left;
-
 9.  margin-left: 2%;
-
 10. }
-
 11. html, body {
-
 12. background-color: #ffffff;
-
 13. }
-
 14. body {
-
 15. margin: 0;
-
-16. font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;
-
+16. font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 17. font-size: 13px;
-
 18. font-weight: normal;
-
 19. color: #404040;
-
 20. }
-
 21. h1 {
-
 22. font-size: 300%;
-
 23. margin: 0;
-
 24. padding: 0;
-
 25. }
-
 26. h1, h2{
-
 27. text-align: center;
-
 28. text-transform: uppercase;
-
 29. }
+```
 
 # Week 2-08. Media Queries {#week-2-08.-media-queries .unnumbered}
 
@@ -1532,23 +1479,17 @@ So, I\'m going to scroll down to the bottom of my CSS. And I need to add
 some code. How do we make a media query? Don\'t forget, it\'s all about
 putting in that type and that break point.
 
-1.  \@media screen and (min-width:778px)
-
+```
+1.  @media screen and (min-width:778px)
 2.  {
-
 3.  .column {
-
 4.  width:30%;
-
 5.  display: inline-block;
-
 6.  float: left;
-
 7.  margin-left: 2%;
-
 8.  }
-
 9.  }
+```
 
 So, I\'m going to put in at media screen. And, min-width, let\'s go
 ahead and pick a number. I\'m going to say 778. All right, make this a
@@ -1571,149 +1512,91 @@ Completed;
 
 ### [HTML:]{.mark} {#html-1 .unnumbered}
 
-1.  \<!DOCTYPE html\>
-
-2.  \<html lang=\"en\"\>
-
-3.  \<head\>
-
-4.  \<meta charset=\"utf-8\"\>
-
-5.  \<title\>Fluid Measurements\</title\>
-
-6.  \<link href=\"fluidstyle.css\" rel=\"stylesheet\"\>
-
-7.  \<!\-- \<link href=\"staticstyle.css\" rel=\"stylesheet\"\>
-
-8.  \--\>
-
-9.  \</head\>
-
-10. \<body\>
-
-11. \<header\>
-
-12. \<h1\>Fluid Measurements\</h1\>
-
-13. \<h2\>Colleen van Lent\</h2\>
-
-14. \</header\>
-
-15. \<main\>
-
-16. \<!\-- Content \--\>
-
-17. \<p\>What happens when you hardcode the values of your elements? In
+```
+1.  <!DOCTYPE html>
+2.  <html lang="en">
+3.  <head>
+4.  <meta charset="utf-8">
+5.  <title>Fluid Measurements</title>
+6.  <link href="fluidstyle.css" rel="stylesheet">
+7.  <!-- <link href="staticstyle.css" rel="stylesheet">
+8.  -->
+9.  </head>
+10. <body>
+11. <header>
+12. <h1>Fluid Measurements</h1>
+13. <h2>Colleen van Lent</h2>
+14. </header>
+15. <main>
+16. <!-- Content -->
+17. <p>What happens when you hardcode the values of your elements? In
     > this case, I have a section that is set to 940px. Each of the
-    > content columns is set to 300px. What could go wrong?\</p\>
-
-18. \<div class=\"column\"\>
-
-19. \<h2\>Content\</h2\>
-
-20. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > content columns is set to 300px. What could go wrong?</p>
+18. <div class="column">
+19. <h2>Content</h2>
+20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-
-21. \</div\>
-
-22. \<div class=\"column\"\>
-
-23. \<h2\>Content\</h2\>
-
-24. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+21. </div>
+22. <div class="column">
+23. <h2>Content</h2>
+24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-
-25. \</div\>
-
-26. \<div class=\"column\"\>
-
-27. \<h2\>Content\</h2\>
-
-28. \<p\>Etiam porta sem malesuada magna mollis euismod. Integer posuere
+    > eget lacinia odio sem nec elit.</p>
+25. </div>
+26. <div class="column">
+27. <h2>Content</h2>
+28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
     > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
     > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.\</p\>
-
-29. \</div\>
-
-30. \</main\>\<!\-- .row \--\>
-
-31. \</body\>
-
-32. \</html\>
+    > eget lacinia odio sem nec elit.</p>
+29. </div>
+30. </main><!-- .row -->
+31. </body>
+32. </html>
+```
 
 ### [CSS:]{.mark} {#css-1 .unnumbered}
 
+```
 1.  main {
-
 2.  width: 95%;
-
 3.  margin: 0 auto;
-
 4.  }
-
 5.  html, body {
-
 6.  background-color: #ffffff;
-
 7.  }
-
 8.  body {
-
 9.  margin: 0;
-
-10. font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;
-
+10. font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 11. font-size: 13px;
-
 12. font-weight: normal;
-
 13. color: #404040;
-
 14. }
-
 15. h1 {
-
 16. font-size: 300%;
-
 17. margin: 0;
-
 18. padding: 0;
-
 19. }
-
 20. h1, h2{
-
 21. text-align: center;
-
 22. text-transform: uppercase;
-
 23. }
-
-24. \@media screen and (min-width:1200px)
-
+24. @media screen and (min-width:1200px)
 25. {
-
 26. .column {
-
 27. width:30%;
-
 28. display: inline-block;
-
 29. float: left;
-
 30. margin-left: 2%;
-
 31. }
-
 32. }
+```
 
 # Week 2-10. Wire Frames {#week-2-10.-wire-frames .unnumbered}
 
@@ -2142,59 +2025,39 @@ RD-Media Queries Part 2:
 
 HTML:
 
+```
 \<h1\>Media Queries Part Two\</h1\>
-
 \<main\>
-
 \<p\>\</p\>
-
 This page should be Green on Small screen\<br\>
-
 This page should be Yellow on Medium screen\<br\>
-
 This page should be Blue on Large screen\<br\>
-
 \</p\>
-
 \</main\>
+```
 
 CSS:
 
+```
 /\* Do these need to be reordered? \*/
-
 \@media only screen and (min-width: 1024px) {
-
 body{
-
 background: #0000FF;
-
 width:25%;
-
 }
-
 }
-
 \@media only screen and (min-width: 780px) {
-
 body{
-
 background: #FFFF00;
-
 width:50%;
-
 }
-
 }
-
 body{
-
 width:100%;
-
 background: #008800;
-
 font-size:150%;
-
 }
+```
 
 # Week 2-13. Code with Me: Responsive Navigation {#week-2-13.-code-with-me-responsive-navigation .unnumbered}
 
@@ -2362,221 +2225,134 @@ RD-Responsive Navigation (starter)
 
 HTML
 
+```
 \<!DOCTYPE html\>
-
 \<html lang=\"en\"\>
-
 \<head\>
-
 \<meta charset=\"UTF-8\"\>
-
 \<title\>Styled Navigation\</title\>
-
 \<link rel=\"stylesheet\" href=\"css/navigation.css\"\>
-
 \</head\>
-
 \<body\>
-
 \<nav\>
-
 \<a href=\"\"\>Home\</a\>
-
 \<a href=\"\"\>Photos\</a\>
-
 \<a href=\"\"\>Recipes\</a\>
-
 \<a href=\"\"\>Contact\</a\>
-
 \</nav\>
-
 \<section\>
-
 \<h2\>Playing with Vertical Navigation Bars\</h2\>
-
 \<p\>This is a separate section that will hold the content for each
 page. The next paragraph is just filler text. It doesn\'t mean
 anything.\</p\>
-
 \<p\>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
 temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
 quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
 dolorum commodi magni.\</p\>
-
 \</section\>
-
 \</body\>
-
 \</html\>
+```
 
 CSS:
 
+```
 body{
-
 background-color: #F2F2F2;
-
 margin: 1%;
-
 padding:1%;
-
 }
-
 nav{
-
 border: 1px solid #06425C;
-
 color:#06425C;
-
 background-color:#FFFFFF;
-
 overflow: auto;
-
 padding-left:8%;
-
 }
+```
 
 RD-Responsive Navigation (complete):
 
 HTML:
 
+```
 \<nav\>
-
 \<a href=\"\"\>Home\</a\>
-
 \<a href=\"\"\>Photos\</a\>
-
 \<a href=\"\"\>Recipes\</a\>
-
 \<a href=\"\"\>Contact\</a\>
-
 \</nav\>
-
 \<section\>
-
 \<h2\>Playing with Horizontal and Vertical Navigation Menus\</h2\>
-
 \<p\>This is a separate section that will hold the content for each
 page. The next paragraph is just filler text. It doesn\'t mean
 anything.\</p\>
-
 \<p\>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
 temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
 quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
 dolorum commodi magni.\</p\>
-
 \</section\>
+```
 
 CSS:
 
+```
 body{
-
 background-color: #F2F2F2;
-
 margin: 1%;
-
 padding:1%;
-
 }
-
 nav{
-
 border: 1px solid #06425C;
-
 color:#06425C;
-
 background-color:#FFFFFF;
-
 overflow: auto;
-
 padding-left:8%;
-
 }
-
 nav a{
-
 box-sizing:border-box;
-
 display:inline-block;
-
 line-height: 45px;
-
 height:60px;
-
 color: #FFFFFF;
-
 background-color:#486B02;
-
 text-decoration: none;
-
 margin:1% 2% 1% 8%;
-
 padding:1% 2%;
-
 border-radius: 25px;
-
 }
-
 \@media all and (min-width:900px){
-
 body{
-
 background-color:grey;
-
 }
-
 nav{
-
 border:1px solid #000000;
-
 color:#06425C;
-
 background-color: #486B02;
-
 display:inline-block;
-
 width: 20%;
-
 min-width: 125px;
-
 margin-right:15px;
-
 height: 100vh;
-
 float:left;
-
 }
-
 nav a{
-
 display:block;
-
 line-height: 45px;
-
 height:45px;
-
 color: #FFFFFF;
-
 background-color:#486B02;
-
 text-decoration: none;
-
 padding-left:5px;
-
 }
-
 section{
-
 display:inline-block;
-
 width:70%;
-
 height:100vh;
-
 overflow:auto;
-
 }
-
 }
+```
 
 # Week 3-14. Frameworks {#week-3-14.-frameworks .unnumbered}
 
@@ -3924,42 +3700,27 @@ Which is ideal for fast front-end development. Here is an example:
 
 // Example.svelte
 
+```
 \<script lang=\"typescript\"\>
-
 export let name = \'Svelte\';
-
 export let textColor = \'#000\';
-
 function reset() {
-
 name = \'Svelte\';
-
 textColor = \'#000\';
-
 }
-
 \</script\>
-
 \<h1 style=\"color: {textColor}\" on:dblclick={reset}\>Hello,
 {name}!\</h1\>
-
 \<style\>
-
 h1 {
-
 margin: auto;
-
 font-family: Georgia, system-ui;
-
 font-size: 3rem;
-
 font-weight: regular;
-
 text-align: none;
-
 }
-
 \</style\>
+```
 
 [**Website**](https://svelte.dev/) [**GitHub**](https://github.com/sveltejs/svelte)
 
@@ -4824,39 +4585,29 @@ and you don\'t want to go around and overwrite them later.
 
 ![](images/image209.webp){width="4.0in" height="2.2559831583552055in"}
 
-\<!doctype html\>
-
-\<html lang=\"en\"\>
-
-\<head\>
-
-\<meta charset=\"utf-8\"\>
-
-\<meta name=\"viewport\" content=\"width=device-width,
-initial-scale=1\"\>
-
-\<title\>Bootstrap demo\</title\>
-
-\<link
-href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css\"
-rel=\"stylesheet\"
-integrity=\"sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9\"
-crossorigin=\"anonymous\"\>
-
-\</head\>
-
-\<body\>
-
-\<h1\>Hello, world!\</h1\>
-
-\<script
-src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js\"
-integrity=\"sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm\"
-crossorigin=\"anonymous\"\>\</script\>
-
-\</body\>
-
-\</html\>
+```
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<title>Bootstrap demo</title>
+<link
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+rel="stylesheet"
+integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+crossorigin="anonymous">
+</head>
+<body>
+<h1>Hello, world!</h1>
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+crossorigin="anonymous"></script>
+</body>
+</html>
+```
 
 <https://codepen.io/cristinaconacel/pen/NOpVja>
 
@@ -5528,89 +5279,56 @@ RD-Bootstrap Grid Example:
 
 #### HTML: {#html-3 .unnumbered}
 
-\<div class = \"container\"\>
-
-\<div class=\"row\"\>
-
-\<div class=\"col-md-6 col-lg-3\"\>
-
-\<div class=\"visible-xs visible-sm\"\>Extra Small and Small
-Screen\</div\>
-
-\<div class=\"visible-md\"\>Medium Screen\</div\>
-
-\<div class=\"visible-lg\"\>Large Screen\</div\>
-
-\</div\>
-
-\<div class=\"col-md-6 col-lg-3\"\>
-
-\<div class=\"visible-xs visible-sm\"\>Extra Small and Small
-Screen\</div\>
-
-\<div class=\"visible-md\"\>Medium Screen\</div\>
-
-\<div class=\"visible-lg\"\>Large Screen\</div\>
-
-\</div\>
-
-\<div class=\"col-md-6 col-lg-3\"\>
-
-\<div class=\"visible-xs visible-sm\"\>Extra Small and Small
-Screen\</div\>
-
-\<div class=\"visible-md\"\>Medium Screen\</div\>
-
-\<div class=\"visible-lg\"\>Large Screen\</div\>
-
-\</div\>
-
-\<div class=\"col-md-6 col-lg-3\"\>
-
-\<div class=\"visible-xs visible-sm\"\>Extra Small and Small
-Screen\</div\>
-
-\<div class=\"visible-md\"\>Medium Screen\</div\>
-
-\<div class=\"visible-lg\"\>Large Screen\</div\>
-
-\</div\>
-
-\</div\>
+```
+<div class = "container">
+<div class="row">
+<div class="col-md-6 col-lg-3">
+<div class="visible-xs visible-sm">Extra Small and Small
+Screen</div>
+<div class="visible-md">Medium Screen</div>
+<div class="visible-lg">Large Screen</div>
+</div>
+<div class="col-md-6 col-lg-3">
+<div class="visible-xs visible-sm">Extra Small and Small
+Screen</div>
+<div class="visible-md">Medium Screen</div>
+<div class="visible-lg">Large Screen</div>
+</div>
+<div class="col-md-6 col-lg-3">
+<div class="visible-xs visible-sm">Extra Small and Small
+Screen</div>
+<div class="visible-md">Medium Screen</div>
+<div class="visible-lg">Large Screen</div>
+</div>
+<div class="col-md-6 col-lg-3">
+<div class="visible-xs visible-sm">Extra Small and Small
+Screen</div>
+<div class="visible-md">Medium Screen</div>
+<div class="visible-lg">Large Screen</div>
+</div>
+</div>
+```
 
 ####  CSS: {#css-3 .unnumbered}
 
+```
 div{
-
 font-size:140%;
-
 }
-
-div\[class\^=\"visible\"\]{
-
+div[class^="visible"]{
 border: 1px solid black;
-
 margin-top:3%;
-
 }
-
-div\[class\$=lg\]{
-
+div[class$=lg]{
 color:red;
-
 }
-
-div\[class\$=md\]{
-
+div[class$=md]{
 color:blue;
-
 }
-
-div\[class\$=sm\]{
-
+div[class$=sm]{
 color:green;
-
 }
+```
 
 # Week 3-20. Bootstrap Navigation {#week-3-20.-bootstrap-navigation .unnumbered}
 
