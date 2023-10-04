@@ -2,7 +2,7 @@
 UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
 ---
 
-<h2 align="center">Advanved Styling with Responsive Design</h2>
+<h2 align="center">Advanced Styling with Responsive Design</h2>
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofmichigan-advstyling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -22,7 +22,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image002.webp?raw=true"
-  width="35%"
+  width="25%"
   alt="University of Michigan logo." />
 </p>
 
