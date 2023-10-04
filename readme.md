@@ -1,9 +1,13 @@
+---
+UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
+---
+
 ![Introduction to Responsive Design by Colleen van Lent, Ph.D.
-(lecturer, school of information)](images/image001.png){width="4.0in"
+(lecturer, school of information)](images/image001.webp){width="4.0in"
 height="2.256837270341207in"}
 
 ![Advanced Styling with Responsive Design offered by University of
-Michigan.](images/image002.png){width="2.0in"
+Michigan.](images/image002.webp){width="2.0in"
 height="0.8481014873140857in"}
 
 #  {#section .unnumbered}
@@ -23,7 +27,7 @@ design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
-![What is Responsive Design?](images/image003.png){width="4.0in"
+![What is Responsive Design?](images/image003.webp){width="4.0in"
 height="2.086324365704287in"}
 
 Welcome to Advanced Styling with Responsive Design, taught by Colleen
@@ -129,7 +133,7 @@ I have also attached the pdf and powerpoint slide for each module
 directly in the module text themselves. Just look in the Downloads
 section to view them.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.png?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.png){width="6.5in"
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.webp){width="6.5in"
 height="4.603945756780402in"}
 
 # There are 4 modules in this course {#there-are-4-modules-in-this-course .unnumbered}
@@ -373,7 +377,7 @@ course.
 
 # Week 1-01. Introduction to Responsive Design {#week-1-01.-introduction-to-responsive-design .unnumbered}
 
-![The BASICS of Responsive Design.](images/image005.png){width="4.0in"
+![The BASICS of Responsive Design.](images/image005.webp){width="4.0in"
 height="2.0931627296587925in"}
 
 Welcome to introduction to responsive design. In this course, we\'re
@@ -395,7 +399,7 @@ it yourself.
 
 ![Week One: - Theory - What does responsive design mean? - What makes
 for good design? - Role of fluid
-measurements.](images/image006.png){width="4.0in"
+measurements.](images/image006.webp){width="4.0in"
 height="2.0931627296587925in"}
 
 In week **one**, we\'re really going to focus on the theory.
@@ -419,7 +423,7 @@ changes.
 
 ![Week Two: - Media queries - What are they? - How do you plan 1st for
 best practices? - What is the relationship with break points? - How to
-make a navigation bar?](images/image007.png){width="4.0in"
+make a navigation bar?](images/image007.webp){width="4.0in"
 height="2.0931627296587925in"}
 
 In week **two** we\'re going to tackle media queries.
@@ -446,7 +450,7 @@ By the end of week two, you\'re going to be ready and feel like you can
 really tackle this.
 
 ![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
-Started, grid system, and navigation.](images/image008.png){width="4.0in"
+Started, grid system, and navigation.](images/image008.webp){width="4.0in"
 height="2.0931627296587925in"}
 
 In week **three**, we\'re going to shift a little bit and instead of
@@ -480,7 +484,7 @@ Because these are the keys to really getting your site to have that
 responsive feel.
 
 ![Week Four: - More bootstrap - Images, tables, advanced navigation -
-Case studies](images/image009.png){width="4.0in"
+Case studies](images/image009.webp){width="4.0in"
 height="2.110255905511811in"}
 
 Finally, in week **four**, we\'re going to continue with more bootstrap,
@@ -497,7 +501,7 @@ responsiveness their real-life sites.
 
 ![Final Project - Use your coding skills to create a responsive page
 using multiple methods (framework & media
-queries).](images/image010.png){width="4.0in"
+queries).](images/image010.webp){width="4.0in"
 height="2.110255905511811in"}
 
 We will do this with the culmination of a final project.
@@ -549,7 +553,7 @@ So how do you succeed in this class?
 
 ![Succeeding in this class - Use message boards. - Don\'t spend more
 than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.](images/image011.png){width="4.0in"
+practice, practice.](images/image011.webp){width="4.0in"
 height="2.110255905511811in"}
 
 I will always say that the best way to code is with a friend but that\'s
@@ -568,7 +572,7 @@ you will probably find the answer.
 You\'ll find three or four wrong answers, but eventually, the answer
 will be there.
 
-![](images/image012.png){width="4.0in" height="2.086324365704287in"}
+![](images/image012.webp){width="4.0in" height="2.086324365704287in"}
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you\'re getting as much
@@ -617,7 +621,7 @@ work for us.
 So here are some of the concepts that we\'re going to be considering
 throughout this entire course.
 
-![](images/image012.png){width="4.0in" height="2.086324365704287in"}
+![](images/image012.webp){width="4.0in" height="2.086324365704287in"}
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -640,34 +644,34 @@ resize things to be able to see everything.
 
 We want it to happen really automatically.
 
-![](images/image013.png){width="6.0in" height="4.245512904636921in"}
+![](images/image013.webp){width="6.0in" height="4.245512904636921in"}
 
 Let\'s take a look at some examples that have great responsive design.
 
 The first place I\'m going to take you is a website called
 ***mediaqueri.es.***
 
-![](images/image014.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image014.webp){width="6.0in" height="3.3807699037620296in"}
 
 This site has a really nice collection of different sites that it\'s
 found that really kind of find that key to responsive design. Let\'s go
 ahead and take a look at, I\'ll scroll down a few.
 
-![](images/image015.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image015.webp){width="6.0in" height="3.3807699037620296in"}
 
 How about this one right here? CapRadio, go anyplace.
 
 This site right now, when I\'m looking at the large screen, you can see
 that there\'s a definite look to the layout.
 
-![](images/image016.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image016.webp){width="6.0in" height="3.3807699037620296in"}
 
 As I resize the screen, as if I\'m looking perhaps on a tablet, and I
 reload it you can see that things have moved over.
 
 The navigation bar is now over to the left when it wasn\'t there before.
 
-![](images/image017.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image017.webp){width="6.0in" height="3.3807699037620296in"}
 
 I\'m going to go ahead and make it smaller still. I don\'t even need to
 refresh.
@@ -691,13 +695,13 @@ Unfortunately, when you Google that out, or you look for that on your
 search engine, nobody really wants to advertise the fact that they\'re
 really bad at web design so I found one for you.
 
-![](images/image018.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image018.webp){width="6.0in" height="3.3807699037620296in"}
 
 It\'s the Internal Revenue Service. And what we have here is a site that
 not only looks the same, but is laid out the same no matter what type of
 screen you\'re looking at.
 
-![](images/image019.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image019.webp){width="6.0in" height="3.3807699037620296in"}
 
 It looks okay right here, but when I make the screen much smaller, you
 can see that it didn\'t really do anything. Now I actually have to
@@ -722,7 +726,7 @@ access to all these different types of platforms.
 What can you do? Well, one option if you\'re using a desktop or a
 laptop, that you can resize your window and refresh the site.
 
-![](images/image020.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image020.webp){width="6.0in" height="3.3807688101487314in"}
 
 So, if I go here;
 \<<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org>\>.
@@ -730,7 +734,7 @@ The Introduction to Wed Design for everybody, of course. I can just use
 my mouse and resize it, take a look and see how things are going to
 change.
 
-![](images/image021.png){width="6.0in" height="3.3807699037620296in"}
+![](images/image021.webp){width="6.0in" height="3.3807699037620296in"}
 
 Here, large view, tablet and mobile view. So, I can see that I have
 three different break points that all work. That works great if you\'re
@@ -751,12 +755,12 @@ these webpages.
 
 Here we go.
 
-![](images/image022.png){width="6.0in" height="3.922435476815398in"}
+![](images/image022.webp){width="6.0in" height="3.922435476815398in"}
 
 Here\'s a website that you can go to. Down at the bottom of the screen,
 you can fill in the URL of the site you want to look at.
 
-![](images/image023.png){width="6.0in" height="3.922435476815398in"}
+![](images/image023.webp){width="6.0in" height="3.922435476815398in"}
 
 Just so you know, this is made with an HTML tag that makes it so that
 you have to put in a URL. It\'s always going to be looking for at least
@@ -769,11 +773,11 @@ desktop, the laptop, a tablet view and a mobile view, and you can see
 that each one is a little bit different depending upon the platform I\'m
 using.
 
-![](images/image024.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image024.webp){width="6.0in" height="3.3807688101487314in"}
 
 Let\'s check out another site.
 
-![](images/image025.png){width="6.0in" height="3.635897856517935in"}
+![](images/image025.webp){width="6.0in" height="3.635897856517935in"}
 
 In this case, again we can see that this is a responsive setup. Now,
 even though the pages may look very similar, you can see that on the
@@ -785,7 +789,7 @@ see that in the tablet view, we\'ve really broken it down and they use
 more of a two-column grid system rather than having quite as much
 content.
 
-![](images/image026.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image026.webp){width="6.0in" height="3.3807688101487314in"}
 
 The next site I\'m going to check is one that I\'ve made from my umich
 site. Going here, paste in that URL, and we can take a look. What I\'ve
@@ -814,7 +818,7 @@ or whatever browser you\'re using. It\'s often the case that your
 browser is going to have special tools that let you simulate looking at
 things from different viewpoints.
 
-![](images/image027.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image027.webp){width="6.0in" height="3.3807688101487314in"}
 
 With Chrome, you can use inspect element to see the different viewpoints
 in real-time. Let\'s take a look. So, I\'ve gone here to my website
@@ -823,14 +827,14 @@ to drag it out a little bit here. You can see I\'ve got my large screen
 I\'ve got a lot of spacing in it. So, I\'m going to go in and do inspect
 element by right clicking Click over here.
 
-![](images/image028.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image028.webp){width="6.0in" height="3.3807688101487314in"}
 
 And what I can do now is up in the upper left-hand corner, there\'s
 something that looks like a small little mobile phone. It says Toggle
 device mode. I\'m going to click on that. And when I do, I am now
 viewing my site as if I\'m viewing it on a small mobile phone.
 
-![](images/image029.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image029.webp){width="6.0in" height="3.3807688101487314in"}
 
 Depending upon your operating system in the browser of the addition that
 you have, you can go up to the device in the upper left-hand corner
@@ -839,7 +843,7 @@ iPhone 6? It is a little bit bigger, what if I look at it on a google
 nexus seven. Same thing. So, you can pick a number of different options
 to kind of see what the site would look like.
 
-![](images/image030.png){width="6.0in" height="3.3807688101487314in"}
+![](images/image030.webp){width="6.0in" height="3.3807688101487314in"}
 
 Let\'s see, do one last one, a laptop. Depending on which type of
 platform people are using.
@@ -861,7 +865,7 @@ things to different people. We\'re going to talk about three different
 options that people often use, and why the responsive web design that
 we\'re going to adopt has its true benefits.
 
-![](images/image031.png){width="4.0in" height="2.2538462379702535in"}
+![](images/image031.webp){width="4.0in" height="2.2538462379702535in"}
 
 The first option, ***responsive web design or RWD***, is really dealing
 with fluid measurements, flexible grids, and varying CSS rules.
@@ -874,7 +878,7 @@ used.
 The third type is the ***separate mobile site***, or ***.m***. This is
 when you create a completely separate page URL for the mobile site.
 
-![](images/image032.png){width="4.0in" height="2.2538462379702535in"}
+![](images/image032.webp){width="4.0in" height="2.2538462379702535in"}
 
 First, let\'s talk about **responsive web design**. With the definition
 that we\'re using, the test really is, are you getting back the same
@@ -893,7 +897,7 @@ for certain meta tag named viewport. It can be detected automatically
 and would really, kind of help boost your search engine score, is what
 many people think.
 
-![](images/image033.png){width="4.0in" height="2.2538462379702535in"}
+![](images/image033.webp){width="4.0in" height="2.2538462379702535in"}
 
 The second type, **adaptive design**, means that the server figures out
 what kind of device you\'re running on and then returns specific HTML
@@ -906,7 +910,7 @@ is that no matter where you\'re doing it from, you\'re using the same
 URL. Now, there\'s a few issues with this, in that the server might
 return the wrong code if the wrong device type is detected.
 
-![](images/image034.png){width="4.0in" height="2.2538462379702535in"}
+![](images/image034.webp){width="4.0in" height="2.2538462379702535in"}
 
 That third option of having a **dedicated mobile site**, or **a .m
 URL**, means that you\'re going to get a different page completely on a
@@ -923,7 +927,7 @@ would you bother doing this? Again, it\'s for search engine
 optimization. It really helps if the search engines can know that this
 is the same type of information just on different URLs.
 
-![](images/image035.png){width="4.0in" height="2.2538462379702535in"}
+![](images/image035.webp){width="4.0in" height="2.2538462379702535in"}
 
 So why am I stressing responsive web design?
 
@@ -964,7 +968,7 @@ Additional best practices for separate URLs;
 
 <https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing#supported-redirection-techniques>
 
-![](images/image036.png){width="7.5in" height="4.358975284339458in"}
+![](images/image036.webp){width="7.5in" height="4.358975284339458in"}
 
 # Week 1-05. Fluid Measurements: Background readings {#week-1-05.-fluid-measurements-background-readings .unnumbered}
 
@@ -992,7 +996,7 @@ lecture on Fluid Measurements.
 
 # Week 1-06. Fluid Measurements {#week-1-06.-fluid-measurements .unnumbered}
 
-![](images/image037.png){width="4.0in" height="2.252564523184602in"}
+![](images/image037.webp){width="4.0in" height="2.252564523184602in"}
 
 Hi, everybody. Today we\'re going to talk about fluid measurements.
 They\'re really important to responsive design. I\'ve seen some really
@@ -1017,7 +1021,7 @@ When you\'re on a page and everything doesn\'t fit in the screen so
 you\'ve got to kind of look for it. We want to avoid that whenever
 possible.
 
-![](images/image038.png){width="4.0in" height="2.251709317585302in"}
+![](images/image038.webp){width="4.0in" height="2.251709317585302in"}
 
 First, let\'s talk about absolute measurements. For many people, these
 may be the only type of measurements they\'ve used when doing web
@@ -1047,7 +1051,7 @@ them.
     are sized based either on their parents or their neighbors or on the
     screen size, different things like that.
 
-![](images/image039.png){width="4.0in" height="2.2376071741032373in"}
+![](images/image039.webp){width="4.0in" height="2.2376071741032373in"}
 
 So, let\'s start with percent. Percentage values are always relative to
 some other value, for example, a length. If you say you want something
@@ -1063,7 +1067,7 @@ Another thing that you can use is rem. rem is very similar to but it
 helps avoid that problem of something getting smaller and smaller and
 smaller. Let me show you an example.
 
-![](images/image040.png){width="4.0in" height="2.252564523184602in"}
+![](images/image040.webp){width="4.0in" height="2.252564523184602in"}
 
 Let\'s assume we\'re going to set something up to be 0.5em and it\'s
 going to be inside this element in here. I\'m going to make up a size
@@ -1080,7 +1084,7 @@ the exact same size and the exact size in here. rem really helped people
 out when they were doing these kinds of complex sites where you had a
 lot of things embedded inside the other.
 
-![](images/image039.png){width="4.0in" height="2.2376071741032373in"}
+![](images/image039.webp){width="4.0in" height="2.2376071741032373in"}
 
 Now, the problem with teaching and learning about relative measurements,
 is that it\'s very abstract. I tried to include a little thing here to
@@ -1095,7 +1099,7 @@ bigger or smaller, only the em and percent would adjust to the size of
 the screen. If you used point or pixel, as the screen gets bigger, the
 font stays the exact same size. Same if the screen gets smaller.
 
-![](images/image041.png){width="4.0in" height="2.2376071741032373in"}
+![](images/image041.webp){width="4.0in" height="2.2376071741032373in"}
 
 Two of the newer relative measurements are based on the viewport. vw
 stands for viewport width, so if you were to use one vw, you\'re saying,
@@ -1110,7 +1114,7 @@ have if you want something to show up exactly in the middle. This comes
 in really handy when you\'re trying to set headers and footers in
 specific positions.
 
-![](images/image042.png){width="4.0in" height="2.241025809273841in"}
+![](images/image042.webp){width="4.0in" height="2.241025809273841in"}
 
 Now, there are times that you\'re going to want to hardcode values with
 those absolute measurements. But, whenever possible, when you\'re coming
@@ -1131,7 +1135,7 @@ difference between sitting and listening to me talk about something, and
 getting in there and coding it yourself, or at least following along
 with me while I code it.
 
-![](images/image043.png){width="6.0in" height="2.3493591426071743in"}
+![](images/image043.webp){width="6.0in" height="2.3493591426071743in"}
 
 So, let\'s do an example as we go from static or absolute measurements
 to something that\'s more fluid. So, what I have here is a site where
@@ -1176,28 +1180,28 @@ out what you want your page to look like before you code it, and we\'re
 going to talk about that in week two. But right here, for week one,
 let\'s just wing it a little bit.
 
-![](images/image044.png){width="6.0in" height="3.1044870953630794in"}
+![](images/image044.webp){width="6.0in" height="3.1044870953630794in"}
 
 I\'m going to make it so I can see my code. And the first thing I\'m
 going to do is I\'m going to go to the first place I hard coded a value,
 which is the width of this main part. Saying that I always want it to be
 980 pixels, it\'s just a mistake.
 
-![](images/image045.png){width="6.0in" height="3.1044870953630794in"}
+![](images/image045.webp){width="6.0in" height="3.1044870953630794in"}
 
 Instead, let\'s use percent here, and say I want this to take up, let\'s
 say somewhere between 95 and I\'ll pick 95% of my page. Already, you
 could see that things happened in there. Not everything we wanted to
 happen, but a little. I\'ll resize it again.
 
-![](images/image046.png){width="6.0in" height="3.1044870953630794in"}
+![](images/image046.webp){width="6.0in" height="3.1044870953630794in"}
 
 You can see that my paragraph down here still fits, but the columns just
 look at little bit awkward. Particularly, if I\'m somewhere in that
 awkward range of two columns fit, but not the third. So, while the main
 page is responsive, let\'s work on those columns.
 
-![](images/image047.png){width="6.0in" height="3.1044870953630794in"}
+![](images/image047.webp){width="6.0in" height="3.1044870953630794in"}
 
 Here, I\'ve set them to 300 pixels. Let\'s change that. Since I have
 three columns, again, I can set it to 33, 33, 33, but I\'m probably
@@ -1207,7 +1211,7 @@ see this is a huge difference in our page. Whether I make it big,
 there\'s not a lot of wasted white space along the side. And if I make
 it small, the columns are still together. This is really good.
 
-![](images/image048.png){width="6.0in" height="3.1044870953630794in"}
+![](images/image048.webp){width="6.0in" height="3.1044870953630794in"}
 
 The last thing I\'m going to change, I\'m going to go ahead and change
 my H1, so I\'m using the percent instead. I\'ll make it 300%. That\'ll
@@ -1367,7 +1371,7 @@ Completed;
 
 Hi everybody. Today we are going to talk about Media queries.
 
-![](images/image049.png){width="4.0in" height="2.0952996500437444in"}
+![](images/image049.webp){width="4.0in" height="2.0952996500437444in"}
 
 Media queries are going to allow us to adjust the style of out webpages,
 depending upon, the properties of the media we\'re looking at. We can
@@ -1379,7 +1383,7 @@ So, inside your HTML you could have multiple links to different style
 sheets. But it wouldn\'t apply all the style sheets just some of them so
 here\'s an example.
 
-![](images/image050.png){width="4.0in" height="2.0952996500437444in"}
+![](images/image050.webp){width="4.0in" height="2.0952996500437444in"}
 
 Right here the style sheet style is only going to apply when the content
 is being displayed on a screen. And for many of you, that\'s the only
@@ -1395,7 +1399,7 @@ completely different style sheet. And this was a big step forward for
 us, because it allowed us to, again, have different content and style
 depending upon the platform.
 
-![](images/image051.png){width="4.0in" height="2.0952996500437444in"}
+![](images/image051.webp){width="4.0in" height="2.0952996500437444in"}
 
 With CSS3, we have even more capabilities because the style can depend
 upon many more features. We can look at the width, the height, the
@@ -1404,7 +1408,7 @@ Boolean operators to increase the power. And what Boolean operators are
 just simple "ands" and "ors". So, you might want to say something along
 the line of, if it's a screen and fill in some other properties there.
 
-![](images/image052.png){width="4.0in" height="2.0952996500437444in"}
+![](images/image052.webp){width="4.0in" height="2.0952996500437444in"}
 
 So, let\'s look at some examples. Every media query has two components.
 The first is the media type. We often think of this as something along
@@ -1417,7 +1421,7 @@ The second component is the actual query of the media feature and the
 trigger size that we want to be looking for. For example, we might be
 looking for very specific width, height, orientation or resolution.
 
-![](images/image052.png){width="4.0in" height="2.0952996500437444in"}
+![](images/image052.webp){width="4.0in" height="2.0952996500437444in"}
 
 Here\'s an example for you right here.
 
@@ -1432,7 +1436,7 @@ type and then some sort of trigger size and media feature.
 
 There are three ways to implement media queries.
 
-![](images/image053.png){width="4.0in" height="2.260255905511811in"}
+![](images/image053.webp){width="4.0in" height="2.260255905511811in"}
 
 The first is to use the import rule. Inside your CSS, you would use
 import, you\'d include the URL for the style sheet that you want to
@@ -1440,7 +1444,7 @@ import, as well as the different size and conditions on when you want to
 import it. In this case if my screen has a minimum width of 600 pixels,
 we would want to use smallstyle.css.
 
-![](images/image054.png){width="4.0in" height="2.260255905511811in"}
+![](images/image054.webp){width="4.0in" height="2.260255905511811in"}
 
 The second approach is to put the media query directly in the style
 sheet itself. We would have before any of our rules, we\'d have the
@@ -1449,21 +1453,21 @@ all of our usual CSS rules for the color, or the font, the size,
 different things like that. So, it\'s all contained inside a single
 file.
 
-![](images/image055.png){width="4.0in" height="2.260255905511811in"}
+![](images/image055.webp){width="4.0in" height="2.260255905511811in"}
 
 The third approach is to include the query in the actual link in the
 header of your HTML. So here, instead of just saying link this style
 sheet, we\'ve included the trigger and the different rules right inside
 our HTML link tag.
 
-![](images/image056.png){width="4.0in" height="2.260255905511811in"}
+![](images/image056.webp){width="4.0in" height="2.260255905511811in"}
 
 In general, I\'m going to always stick to the second approach; Put media
 query directly in the style sheet. This is the one that I personally use
 for doing my responsive design, but that doesn\'t mean you shouldn\'t
 feel free to play with all three of these different approaches.
 
-![](images/image057.png){width="4.0in" height="2.260255905511811in"}
+![](images/image057.webp){width="4.0in" height="2.260255905511811in"}
 
 Let\'s review for just a second to make sure that we\'re on the same
 page with how we implement media queries.
@@ -1490,7 +1494,7 @@ Hey everybody, welcome back. Let\'s go look at some code together.
 
 <https://codepen.io/ColleenEMc/pen/pgrYpK/>
 
-![](images/image058.png){width="6.0in" height="3.362179571303587in"}
+![](images/image058.webp){width="6.0in" height="3.362179571303587in"}
 
 What we\'re looking at here is an example from when we first learned
 about fluid measurements. We went in and we switched our absolute
@@ -1498,7 +1502,7 @@ measurements of pixels and started using percents. And it works out
 really well, unless you take it and you look at a small screen. Right
 now, the three columns are fine.
 
-![](images/image059.png){width="6.0in" height="3.362179571303587in"}
+![](images/image059.webp){width="6.0in" height="3.362179571303587in"}
 
 But when we get smaller, right here, it really doesn\'t make sense to
 try to shove three columns worth of content into such a small screen.
@@ -1507,7 +1511,7 @@ would be a much better look is to have each column stacked on top of
 each other and only go to three columns when you\'re on a large screen.
 So, let\'s take a look at how we can make that change together.
 
-![](images/image060.png){width="6.0in" height="3.0724365704286964in"}
+![](images/image060.webp){width="6.0in" height="3.0724365704286964in"}
 
 The first thing that we need to look at is what these columns are. And
 what we have is we have dibs each of type class equals column. The nice
@@ -1780,7 +1784,7 @@ Did you want it to be a drop-down menu, a hover actions, we need to
 think about this functionality from the beginning. Many people refer to
 sketches and wireframes and kind of wonder what the difference is.
 
-![](images/image061.png){width="4.0in" height="2.2508552055993003in"}
+![](images/image061.webp){width="4.0in" height="2.2508552055993003in"}
 
 I always recommend starting with a sketch. With this idea with a sketch,
 is that you\'re just kind of drawing with your hand and it\'s very
@@ -1800,7 +1804,7 @@ myself, but there are places where you can figure out these kind of best
 design practices as you start sketching out your page and eventually
 moving on.
 
-![](images/image062.png){width="6.0in" height="3.3762817147856516in"}
+![](images/image062.webp){width="6.0in" height="3.3762817147856516in"}
 
 One of the reasons I like this site is well because I agree with many of
 the things they\'re talking about and they agree with me. But as you
@@ -1822,7 +1826,7 @@ in your page because when you do this it really helps you visually look
 at the page and realize, this part\'s getting lost or this section is
 really too big. Maybe I should be breaking it up in to more sections.
 
-![](images/image063.png){width="4.0in" height="2.2423075240594925in"}
+![](images/image063.webp){width="4.0in" height="2.2423075240594925in"}
 
 -   This last one I\'m going to talk about and then you can kind of do
     the page alone if you like, is this idea that you never wire a loan.
@@ -1862,7 +1866,7 @@ some of the terms I use in this class and make sure I\'ve actually
 defined them for you so we\'re all in agreement or understand what the
 general meaning is.
 
-![](images/image064.png){width="4.0in" height="2.2551279527559056in"}
+![](images/image064.webp){width="4.0in" height="2.2551279527559056in"}
 
 One of those terms is breakpoint. People hear it talk about it all the
 time when they\'re talking about responsive design, but what are they?
@@ -1884,13 +1888,13 @@ honest, it may not be the best phrase to use. That\'s because most
 people don\'t actually resize their window when they\'re on it. You open
 up your screen and there it is.
 
-![](images/image065.png){width="4.0in" height="2.2551279527559056in"}
+![](images/image065.webp){width="4.0in" height="2.2551279527559056in"}
 
 As developers I encourage you to open up your browser, make it big, make
 it small, kind of resize it all the time. But most people aren\'t going
 to do that when they\'re viewing your page.
 
-![](images/image066.png){width="4.0in" height="2.2551279527559056in"}
+![](images/image066.webp){width="4.0in" height="2.2551279527559056in"}
 
 So, when we talk about triggering these changes, we often mean
 triggering rules in your style sheet instead. That\'s why I\'m going to
@@ -1911,7 +1915,7 @@ your breakpoints based on the content of your page. You figure out what
 it is you want there and decide when will it really look good next to
 each other versus not. Let\'s talk about using devices as a breakpoint.
 
-![](images/image067.png){width="4.0in" height="2.2551279527559056in"}
+![](images/image067.webp){width="4.0in" height="2.2551279527559056in"}
 
 So, what I have here is just a quick little shot of some of the most
 common devices and their screen sizes.
@@ -1944,7 +1948,7 @@ be impossible for you to go in and try to have a different view for each
 one of these sizes. And of course, when we talk about breakpoints, we
 want to talk about mobile first.
 
-![](images/image068.png){width="4.0in" height="2.2551290463692037in"}
+![](images/image068.webp){width="4.0in" height="2.2551290463692037in"}
 
 In a lot of paradigms, you\'re never going to see a breakpoint of 320
 pixels or even 360 pixels. You\'re not going to see that because
@@ -1980,13 +1984,13 @@ me do it than doing it yourself. So today, three simple steps that I
 want you to try at your best to follow and then, we\'ll look at an
 example.
 
-![](images/image069.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image069.webp){width="4.0in" height="2.2465813648293964in"}
 
 The key to understanding media queries is to actually use them in
 responsive design. This lecture is going to describe that process in
 three steps, but you won\'t necessarily need to use all of them.
 
-![](images/image070.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image070.webp){width="4.0in" height="2.2465813648293964in"}
 
 So, the best I can do is give you guidelines. Step one, this is
 something that will cause your page to work or not work many times on
@@ -2002,7 +2006,7 @@ Now, if you ever been to a site where things are really small and you
 want to make it bigger so you can read it a little better. And it just
 won\'t let you do that.
 
-![](images/image071.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image071.webp){width="4.0in" height="2.2465813648293964in"}
 
 That is because somebody has put this very horrible, horrible piece of
 code into their HTML. Instead of saying just initial-scale equals one,
@@ -2015,7 +2019,7 @@ things bigger or smaller. So that\'s step one. It\'s not only going to
 help your browser know that you\'re going to be doing responsive design.
 It may actually help your search engine optimization as well.
 
-![](images/image072.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image072.webp){width="4.0in" height="2.2465813648293964in"}
 
 In step two, I really want to encourage you to use fluid layouts. It\'s
 very often the case that when people use breakpoints, they then use
@@ -2027,7 +2031,7 @@ going to be, they can hard code the width of some of their elements.
 You\'re going to see this in Bootstrap all the time. But, just because
 somebody else does it, doesn\'t mean the you should.
 
-![](images/image073.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image073.webp){width="4.0in" height="2.2465813648293964in"}
 
 I want you to use those other things such as percentages, and ems. These
 are really great fluid measurements. Percentages you tend to use more on
@@ -2037,7 +2041,7 @@ remember that, don\'t forget to go back and look at some of the fluid
 measurement modules. I also hear that Bootstrap 4, one of the platforms
 we\'re going to use is going switch over to ems and rems, too.
 
-![](images/image074.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image074.webp){width="4.0in" height="2.2465813648293964in"}
 
 The last thing I just like to remind people is that when you use these
 fluid measurements for things like padding and margin, the percents are
@@ -2051,7 +2055,7 @@ seem like a big deal until you\'re stuck trying to code it. Just
 remember paddings and margins, when you use percent, they\'re affected
 by the width of the page, not the height.
 
-![](images/image075.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image075.webp){width="4.0in" height="2.2465813648293964in"}
 
 That third step is really the biggest step. And that is including those
 media queries. The fluid layout is triggered by these certain break
@@ -2068,7 +2072,7 @@ downloaded. And this can affect performance. They\'re still downloading
 big things like pictures. And you\'re eating up their data. So think
 small screen and grow bigger.
 
-![](images/image076.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image076.webp){width="4.0in" height="2.2465813648293964in"}
 
 When you put in these media queries, it\'s common to have a few
 different sets of rules. You might have your large screen, and then a
@@ -2110,7 +2114,7 @@ really simple to nod along, say yep, yep, I got it. And it isn\'t until
 you write your own code that you\'re going to accidentally make these
 mistakes and not know what\'s going on.
 
-![](images/image077.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image077.webp){width="4.0in" height="2.2465813648293964in"}
 
 My advice to you is to always add one media query at a time, and make it
 something simple. Put in that media query, add a rule, test it, build
@@ -2200,13 +2204,13 @@ navigation. In particular we want to make one page where the navigation
 bar is at the top on a small screen and off to the side on larger
 screens.
 
-![](images/image078.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image078.webp){width="6.0in" height="3.3698720472440944in"}
 
 So, let\'s look at some code. What I have here is some HTML that
 doesn\'t have any styling on the navigation bar. What you have is a nice
 horizontal line of links right up here at the top of your page.
 
-![](images/image079.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image079.webp){width="6.0in" height="3.3698720472440944in"}
 
 What I would like to do is design my page, so that on small screens, the
 navigation bar is still on the top. But instead, when I\'m on larger
@@ -2217,7 +2221,7 @@ you\'d have all the content. But on a larger screen, it can be this big,
 then I want my navigation bar to be along the side and we can put all
 the content right off to the right.
 
-![](images/image080.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image080.webp){width="6.0in" height="3.3698720472440944in"}
 
 So, let\'s take a look at how we\'re going to do that. Because we want
 to do mobile first, that means by default we already have it set up
@@ -2257,7 +2261,7 @@ going to do that thought. What I always recommend is somebody write a
 very simple, clear rule. The reason is, it\'s really easy for you to
 figure out whether or not your rules are triggering.
 
-![](images/image081.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image081.webp){width="6.0in" height="3.3698720472440944in"}
 
 So, let\'s go ahead and just change the entire color of the body of this
 page. So put in body, curly bracket, background, color, I\'ll just make
@@ -2266,7 +2270,7 @@ it didn\'t change anything on your screen, You want to stop. Don\'t
 start doing new complicated things if you can\'t even get this little
 one to get going. See if I can get away with grey. There we go.
 
-![](images/image082.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image082.webp){width="6.0in" height="3.3698720472440944in"}
 
 You can still see everything. If you run into problems, the parts you
 want to check are go in did you remember to have minimum width? If you
@@ -2276,7 +2280,7 @@ it\'s looking for. Make sure you have two sets of curly brackets. Notice
 I have one set that starts my media query. And then a second one that
 goes with the body selector.
 
-![](images/image083.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image083.webp){width="6.0in" height="3.3698720472440944in"}
 
 If that\'s going, let\'s go ahead and move on to how we would change
 that navigation bar to be off to the side instead of on the top. So, one
@@ -2292,7 +2296,7 @@ still doesn\'t look quite right. What I need, is I need to style those
 individual links as well. So that they go right underneath each other.
 Let\'s do that next code. So how do I do that?
 
-![](images/image084.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image084.webp){width="6.0in" height="3.3698720472440944in"}
 
 How do I get the links to go underneath each other? Well, that\'s not
 too hard if you remember some of the more advanced CSS you\'ve learned
@@ -2309,7 +2313,7 @@ takes up some of the space. But we really wanted the content to be next
 to it. We wanted it to be over here to the side. And instead, it ended
 up underneath.
 
-![](images/image085.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image085.webp){width="6.0in" height="3.3698720472440944in"}
 
 What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
@@ -2329,7 +2333,7 @@ do the math of the margins and the padding right now. I also set the
 height to 100 viewport height to take up the whole screen. I did have to
 go back and change one thing up in my nav as well.
 
-![](images/image086.png){width="6.0in" height="3.3698720472440944in"}
+![](images/image086.webp){width="6.0in" height="3.3698720472440944in"}
 
 I had to add a float left, right down here if you look. And this is what
 lets these two things be next to each other off to the side. So let\'s
@@ -2576,7 +2580,7 @@ overflow:auto;
 
 # Week 3-14. Frameworks {#week-3-14.-frameworks .unnumbered}
 
-![](images/image087.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image087.webp){width="4.0in" height="2.2465813648293964in"}
 
 Hi, everybody. Frameworks is one of those words or terms that people
 really love to throw out there. The term framework can really mean
@@ -2588,7 +2592,7 @@ framework, you\'re able to develop your sites quickly and easily without
 changing too much code. So again, when we talk about framework, we want
 to think about what does framework mean here in this class.
 
-![](images/image088.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image088.webp){width="4.0in" height="2.2465813648293964in"}
 
 For front-end developers, frameworks provide tools for CSS, JavaScript,
 and jQuery. They\'re these little bits of code that you can use to get
@@ -2596,7 +2600,7 @@ an instant look that you\'re looking for. And sometimes an instant
 behavior that you\'re looking for as well with the JavaScript and the
 jQuery.
 
-![](images/image089.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image089.webp){width="4.0in" height="2.2465813648293964in"}
 
 If you\'re a back-end developer, this is something completely different
 as far as frameworks go. Now you\'re looking at code that\'s going to
@@ -2608,7 +2612,7 @@ realize that we\'re doing front-end development, not back-end
 development. In saying that, I think it\'s important that you know at
 least a handful of frameworks that people are using today.
 
-![](images/image090.png){width="4.0in" height="2.2465813648293964in"}
+![](images/image090.webp){width="4.0in" height="2.2465813648293964in"}
 
 -   The first one that I\'m going to mention, and the one that we\'re
     going to study in this course is Bootstrap. Bootstrap was developed
@@ -2673,7 +2677,7 @@ side](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolutio
 This allows the user to interact with the page right away, while the
 JavaScript code is still loading and running.
 
-![hydration in web development](images/image091.png){width="5.0in"
+![hydration in web development](images/image091.webp){width="5.0in"
 height="2.911324365704287in"}
 
 Image
@@ -2697,7 +2701,7 @@ speed.
 Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
 
-![Single Page Applications](images/image092.png){width="6.0in"
+![Single Page Applications](images/image092.webp){width="6.0in"
 height="3.433333333333333in"}
 
 In fact, many of the most successful modern web applications, such as
@@ -2716,7 +2720,7 @@ easier to develop and maintain large-scale applications.
 
 ## JAMStack {#jamstack .unnumbered}
 
-![](images/image093.png){width="4.0in" height="1.4726498250218722in"}
+![](images/image093.webp){width="4.0in" height="1.4726498250218722in"}
 
 JAMstack is a unique concept for building static web pages. Rather than
 implementing a back-end solution for content generation, an API is used
@@ -2885,7 +2889,7 @@ the frameworks, as well as links to GitHub and the framework\'s website.
 
 ## #01 -- React {#react .unnumbered}
 
-## ![React Logo](images/image094.jpeg){width="1.0in" height="1.0in"} - ![ReactJS front-end framework](images/image095.png){width="5.0in" height="0.9145297462817148in"} {#react-logo---reactjs-front-end-framework .unnumbered}
+## ![React Logo](images/image094.webp){width="1.0in" height="1.0in"} - ![ReactJS front-end framework](images/image095.webp){width="5.0in" height="0.9145297462817148in"} {#react-logo---reactjs-front-end-framework .unnumbered}
 
 [React.js](https://reactjs.org/) (also known as ReactJS or React) is an
 open-source, front-end JavaScript library. It was created in 2013 by
@@ -3398,7 +3402,7 @@ elements like classes, typography, and color scheme.\
 
 ## #02 -- jQuery {#jquery .unnumbered}
 
-![](images/image096.png){width="2.8854166666666665in" height="1.125in"}
+![](images/image096.webp){width="2.8854166666666665in" height="1.125in"}
 
 [jQuery](https://jquery.com/) is a classic JavaScript library that's
 fast, light-weight, and feature-rich. It was built in 2006 by John Resig
@@ -3417,7 +3421,7 @@ Center](https://learn.jquery.com/).
 
 ##### jQuery UI {#jquery-ui .unnumbered}
 
-![](images/image097.png){width="6.5in" height="4.098611111111111in"}
+![](images/image097.webp){width="6.5in" height="4.098611111111111in"}
 
 ### jQuery UI in Action is a practical guide to using and customizing jQuery UI library components to build rich, user-friendly web applications.  {#jquery-ui-in-action-is-a-practical-guide-to-using-and-customizing-jquery-ui-library-components-to-build-rich-user-friendly-web-applications. .unnumbered}
 
@@ -3538,15 +3542,15 @@ the [demos](https://jqueryui.com/demos/) and read through the [API
 documentation](http://api.jqueryui.com/) to get an idea of what\'s
 possible.
 
-![](images/image098.png){width="6.5in" height="4.86875in"}
+![](images/image098.webp){width="6.5in" height="4.86875in"}
 
 ##### The above Download Builder from jQuery UI. {#the-above-download-builder-from-jquery-ui. .unnumbered}
 
-![](images/image099.png){width="6.5in" height="4.13125in"}
+![](images/image099.webp){width="6.5in" height="4.13125in"}
 
 ##### Page 2 (above) {#page-2-above .unnumbered}
 
-![](images/image100.png){width="6.5in" height="3.0541666666666667in"}
+![](images/image100.webp){width="6.5in" height="3.0541666666666667in"}
 
 ##### Page 3, last page of jQuery v1.13.2 User Interface Download. {#page-3-last-page-of-jquery-v1.13.2-user-interface-download. .unnumbered}
 
@@ -3578,19 +3582,19 @@ Like this:
 
 \$( \"#date\" ).datepicker();
 
-![](images/image101.png){width="2.5104166666666665in"
+![](images/image101.webp){width="2.5104166666666665in"
 height="1.9479166666666667in"}
 
 ## #03 -- Bootstrap v5.2.3 {#bootstrap-v5.2.3 .unnumbered}
 
-![Bootstrap v5 \| Drifting Ruby](images/image102.jpeg){width="1.0in"
+![Bootstrap v5 \| Drifting Ruby](images/image102.webp){width="1.0in"
 height="0.6308016185476816in"} - ![Bootstrap官方中文站 · 全球最流行的
-HTML、CSS 和 JS 工具库。](images/image103.jpeg){width="2.0in"
+HTML、CSS 和 JS 工具库。](images/image103.webp){width="2.0in"
 height="1.2109700349956256in"} - ![Free download \| HD PNG bootstrap
 featured image bootstrap 3 logo PNG
-\...](images/image104.jpeg){width="1.0in"
+\...](images/image104.webp){width="1.0in"
 height="1.0210968941382328in"} - ![Bootstrap Izgara
-Sistemi](images/image105.jpeg){width="2.0in"
+Sistemi](images/image105.webp){width="2.0in"
 height="1.0464140419947507in"}
 
 Bootstrap is a powerful, feature-packed frontend toolkit. Build
@@ -3661,9 +3665,9 @@ crossorigin=\"anonymous\"\>\</script\>
 ## #04 -- D3.js {#d3.js .unnumbered}
 
 ![\"D3.js Logo\" Poster by bryngo \|
-Redbubble](images/image106.jpeg){width="1.0in" height="1.0in"} - ![D3.js
+Redbubble](images/image106.webp){width="1.0in" height="1.0in"} - ![D3.js
 Logo PNG Vector (SVG) Free
-Download](images/image107.png){width="3.529411636045494in"
+Download](images/image107.webp){width="3.529411636045494in"
 height="1.0in"}
 
 Data-Driven Documents (D3) or [D3.js](https://d3js.org/) is another
@@ -3705,9 +3709,9 @@ data. It was released in 2011.
 ## #05 -- anime.js {#anime.js .unnumbered}
 
 ![Как сделать js анимацию с помощью Anime.js --- простая и мощная
-библиотека](images/image108.jpeg){width="3.4347823709536307in"
+библиотека](images/image108.webp){width="3.4347823709536307in"
 height="1.0in"} - ![Anime.js Review -
-Slant](images/image109.jpeg){width="1.7111909448818898in" height="1.0in"}
+Slant](images/image109.webp){width="1.7111909448818898in" height="1.0in"}
 
 If you want to add animations to your site or
 application, [Anime.js](https://animejs.com/) is one of the best
@@ -3726,12 +3730,12 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 ## #06 -- chart.js {#chart.js .unnumbered}
 
 ![Getting Started With Chart.js:
-Introduction](images/image110.jpeg){width="1.4451224846894137in"
+Introduction](images/image110.webp){width="1.4451224846894137in"
 height="1.0in"}- ![Pie Chart Using Chart.JS Tutorials \| Responsive
 Chart \| How To Use
-\...](images/image111.jpeg){width="1.7777777777777777in"
+\...](images/image111.webp){width="1.7777777777777777in"
 height="1.0in"} - ![Chart.js \|
-Drupal.org](images/image112.jpeg){width="2.4432994313210847in"
+Drupal.org](images/image112.webp){width="2.4432994313210847in"
 height="1.0in"}
 
 Do you need to present lots of statistics?
@@ -3769,10 +3773,10 @@ in creating charts and visualizations.
 ## #07 -- lodash  {#lodash .unnumbered}
 
 ![Lodash Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image113.jpeg){width="1.0997681539807524in"
+Supply](images/image113.webp){width="1.0997681539807524in"
 height="1.0in"} - ![Is Lodash That Good? Performance Comparison of
 JavaScript and Lodash
-\...](images/image114.jpeg){width="2.9286603237095363in" height="1.0in"}
+\...](images/image114.webp){width="2.9286603237095363in" height="1.0in"}
 
 [Lodash](https://lodash.com/) is a JavaScript library that provides
 utility functions for common programming tasks. It is similar to jQuery
@@ -3792,7 +3796,7 @@ than jQuery.
 ## #08 -- Bideo.js {#bideo.js .unnumbered}
 
 ![Bideo Launch Offers the Best Way to Get Bids from Video Pros
-\...](images/image115.jpeg){width="1.9190288713910761in" height="1.0in"}
+\...](images/image115.webp){width="1.9190288713910761in" height="1.0in"}
 
 [Bideo.js ](https://rishabhp.github.io/bideo.js/)is a free and open
 source HTML5 video player library that creates a unified look and feel
@@ -3812,11 +3816,11 @@ features like playback speed control and full screen mode.
 ## #09 - Angular {#angular .unnumbered}
 
 ![Angular Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image116.jpeg){width="0.75in"
+Supply](images/image116.webp){width="0.75in"
 height="0.7958858267716535in"} - ![Angular Logo Black and White --
-Brands Logos](images/image117.png){width="0.75in"
+Brands Logos](images/image117.webp){width="0.75in"
 height="0.7967147856517935in"} - ![Angular front-end
-framework](images/image118.png){width="4.373833114610673in"
+framework](images/image118.webp){width="4.373833114610673in"
 height="0.8in"}
 
 While Angular retains a rather large usage percentage, the interest in
@@ -3847,12 +3851,12 @@ preferences.
 ## #10 - VueJS {#vuejs .unnumbered}
 
 ![VUE Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image119.png){width="1.1582720909886264in"
+Supply](images/image119.webp){width="1.1582720909886264in"
 height="1.0in"} - ![Vue.js Logo History -- dwGlogo -- Logo service
-marketplace blog](images/image120.jpeg){width="2.097344706911636in"
+marketplace blog](images/image120.webp){width="2.097344706911636in"
 height="1.0in"}
 
-![Vue front-end framework](images/image121.png){width="5.0in"
+![Vue front-end framework](images/image121.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 Vue remains a solid choice for truly modern web development.
@@ -3883,14 +3887,14 @@ support for TypeScript, and testing tools.
 ## #11 - Svelte {#svelte .unnumbered}
 
 ![Svelte Logo PNG Vector (SVG) Free
-Download](images/image122.png){width="3.125in"
+Download](images/image122.webp){width="3.125in"
 height="0.7708333333333334in"} - ![A new OpenSource opponent for the
 Web, SvelteJS - OpenExpo Europe
-2020](images/image123.jpeg){width="1.8588232720909885in"
-height="1.0in"} - ![](images/image124.jpeg){width="0.8315791776027996in"
+2020](images/image123.webp){width="1.8588232720909885in"
+height="1.0in"} - ![](images/image124.webp){width="0.8315791776027996in"
 height="1.0in"}
 
-![Svelte front-end framework](images/image125.png){width="5.0in"
+![Svelte front-end framework](images/image125.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 So, what\'s the deal with Svelte? The framework has seen quite a bit of
@@ -3962,17 +3966,17 @@ text-align: none;
 ## #12 - Preact {#preact .unnumbered}
 
 ![Preact Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image126.jpeg){width="0.8649639107611549in"
+Supply](images/image126.webp){width="0.8649639107611549in"
 height="1.0in"} - ![使用Preact作为反应替代方案 Using Preact as a React
-Alternative - Quick博客](images/image127.jpeg){width="3.125in"
+Alternative - Quick博客](images/image127.webp){width="3.125in"
 height="0.9375in"}- ![Replacing React with Preact in Your
-Projects](images/image128.jpeg){width="3.2465748031496062in"
+Projects](images/image128.webp){width="3.2465748031496062in"
 height="1.0in"}
 
 ![Preact Logo Animation by Luka Mushkudiani on
-Dribbble](images/image129.jpeg){width="1.3352110673665791in"
+Dribbble](images/image129.webp){width="1.3352110673665791in"
 height="1.0in"}![Preact front-end
-framework](images/image130.png){width="5.0in"
+framework](images/image130.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 Meta frameworks have always been a thing. And, in this case, Preact aims
@@ -3998,15 +4002,15 @@ stability.
 ## #13 - EmberJS {#emberjs .unnumbered}
 
 ![ember logo 10 free Cliparts \| Download images on Clipground
-2022](images/image131.jpeg){width="1.3352110673665791in"
+2022](images/image131.webp){width="1.3352110673665791in"
 height="1.0in"} - ![Ember: Making a set of radio buttons that change a
-value set on the \...](images/image132.jpeg){width="2.2679429133858267in"
+value set on the \...](images/image132.webp){width="2.2679429133858267in"
 height="1.0in"} - ![Ember logo \~ Single Colour \| I\'m very pleased to
 show this o... \|
-Flickr](images/image133.jpeg){width="0.8893055555555556in"
+Flickr](images/image133.webp){width="0.8893055555555556in"
 height="1.0in"}
 
-![Ember front-end framework](images/image134.png){width="5.0in"
+![Ember front-end framework](images/image134.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 Ember goes back so long that it predates all the aforementioned
@@ -4026,12 +4030,12 @@ with major changes in the framework itself.
 
 ## #14 - Solid {#solid .unnumbered}
 
-![solid-js - npm](images/image135.jpeg){width="1.0in"
+![solid-js - npm](images/image135.webp){width="1.0in"
 height="0.6582283464566929in"} - ![Testing your Solid.js code \|
-DevsDay.ru](images/image136.jpeg){width="3.0in"
+DevsDay.ru](images/image136.webp){width="3.0in"
 height="0.5506332020997375in"}
 
-![Solid front-end framework](images/image137.png){width="5.0in"
+![Solid front-end framework](images/image137.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 SolidJS has been in active development since 2019. But, it was in the
@@ -4061,14 +4065,14 @@ Vue and Redux.
 ## #15 - Lit {#lit .unnumbered}
 
 ![Build a Lightweight Web Component with
-Lit.js](images/image138.jpeg){width="1.7819553805774277in"
+Lit.js](images/image138.webp){width="1.7819553805774277in"
 height="1.0in"} - ![9 popular JavaScript frameworks (and how to choose
-one for your project \...](images/image139.jpeg){width="3.0in"
+one for your project \...](images/image139.webp){width="3.0in"
 height="0.9556955380577428in"} - ![LAB launches a new logo and web
 design for LIT \| LAB Digital
-Creative](images/image140.jpeg){width="1.0in" height="1.0in"}
+Creative](images/image140.webp){width="1.0in" height="1.0in"}
 
-![Lit front-end framework](images/image141.png){width="5.0in"
+![Lit front-end framework](images/image141.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 Lit (formerly lit-HTML and LitElement) is a web components framework
@@ -4090,15 +4094,15 @@ implements standardized web components.
 ## #16 - Alpine {#alpine .unnumbered}
 
 ![Alpine.js Logo PNG Vector (SVG) Free
-Download](images/image142.jpeg){width="1.9736843832020998in"
+Download](images/image142.webp){width="1.9736843832020998in"
 height="1.0in"} - ![Alpine.js ·
-GitHub](images/image143.jpeg){width="1.0in" height="1.0in"} - ![Alpine.js
-example · GitHub](images/image144.jpeg){width="3.0in"
+GitHub](images/image143.webp){width="1.0in" height="1.0in"} - ![Alpine.js
+example · GitHub](images/image144.webp){width="3.0in"
 height="0.5696205161854768in"}![Alpine.js -- Ein kurzer Einstieg --
-SEOTheater.de](images/image145.jpeg){width="3.0in"
+SEOTheater.de](images/image145.webp){width="3.0in"
 height="1.9746839457567804in"}
 
-![Alpine front-end framework](images/image146.png){width="5.0in"
+![Alpine front-end framework](images/image146.webp){width="5.0in"
 height="0.9145297462817148in"}
 
 Alpine.js is a JavaScript front-end framework for customizing UI
@@ -4126,12 +4130,12 @@ Hugo, etc.
 ## #17 -- Stencil {#stencil .unnumbered}
 
 ![Stencil.js: crear web components nunca fue tan fácil -
-Paradigma](images/image147.jpeg){width="1.7819553805774277in"
+Paradigma](images/image147.webp){width="1.7819553805774277in"
 height="1.0in"}- ![Top JavaScript Frameworks 2021 - Software
-Development](images/image148.jpeg){width="2.708571741032371in"
+Development](images/image148.webp){width="2.708571741032371in"
 height="1.0in"}
 
-![](images/image149.png){width="5.0in" height="0.9145297462817148in"}
+![](images/image149.webp){width="5.0in" height="0.9145297462817148in"}
 
 Stencil is a library for building reusable, scalable Design Systems. It
 is designed to make the front-end development process simple and
@@ -4166,13 +4170,13 @@ doc generation, and types.
 ## #18 - Qwik {#qwik .unnumbered}
 
 ![GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework
-\...](images/image150.jpeg){width="2.72413823272091in" height="1.0in"} -
+\...](images/image150.webp){width="2.72413823272091in" height="1.0in"} -
 ![\"Qwik Logo\" Greeting Card by cosimochellini \|
-Redbubble](images/image151.jpeg){width="1.0in" height="1.0in"} - ![\"Qwik
+Redbubble](images/image151.webp){width="1.0in" height="1.0in"} - ![\"Qwik
 Logo\" Sticker by cosimochellini \|
-Redbubble](images/image152.jpeg){width="0.75in" height="1.0in"}
+Redbubble](images/image152.webp){width="0.75in" height="1.0in"}
 
-![](images/image153.png){width="5.0in" height="0.9145297462817148in"}
+![](images/image153.webp){width="5.0in" height="0.9145297462817148in"}
 
 Qwik is a next-generation front-end framework designed to meet the
 demands of modern web development. With a focus on performance,
@@ -4198,12 +4202,12 @@ or executed.
 ## #19 -- Moment.js {#moment.js .unnumbered}
 
 ![10 Awesome JavaScript Libraries You Should Try Out in
-2021](images/image154.jpeg){width="1.225353237095363in" height="1.0in"}-
-![Moment JS logo vector](images/image155.jpeg){width="1.0in"
+2021](images/image154.webp){width="1.225353237095363in" height="1.0in"}-
+![Moment JS logo vector](images/image155.webp){width="1.0in"
 height="1.0in"} - ![Useful Open Source JavaScript Libraries and Plugins
-for Web Developer](images/image156.jpeg){width="2.3939391951006126in"
+for Web Developer](images/image156.webp){width="2.3939391951006126in"
 height="1.0in"} - ![Collection of Javascript Logo Vector PNG. \|
-PlusPNG](images/image157.jpeg){width="1.0in" height="1.0in"}
+PlusPNG](images/image157.webp){width="1.0in" height="1.0in"}
 
 **Moment.js** is a JavaScript package that makes it simple to parse,
 validate, manipulate, and display date/time in JavaScript. It allows you
@@ -4225,12 +4229,12 @@ run the code (see documentation).
 ## #20 -- popper.js {#popper.js .unnumbered}
 
 ![10 impresionantes bibliotecas de JavaScript que deberías probar en
-2020 \...](images/image158.jpeg){width="2.0in"
+2020 \...](images/image158.webp){width="2.0in"
 height="1.0421937882764654in"} - ![Popper.js首页、文档和下载 -
 在web应用中创建Poppers - OSCHINA -
-中文开源技术交流社区](images/image159.jpeg){width="2.0in"
+中文开源技术交流社区](images/image159.webp){width="2.0in"
 height="2.0in"} - ![\@popperjs/core -
-npm](images/image160.jpeg){width="1.0in" height="1.0in"}
+npm](images/image160.webp){width="1.0in" height="1.0in"}
 
 Popper.js is a positioning, popover and drop-down tooltip utility.
 
@@ -4243,11 +4247,11 @@ document and floats near a target element. The most common example is a
 tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a \"popper\" element.
 
-![](images/image161.png){width="7.0in" height="2.6264971566054243in"}
+![](images/image161.webp){width="7.0in" height="2.6264971566054243in"}
 
 <https://popper.js.org/>
 
-![](images/image162.png){width="6.5in" height="2.60625in"}
+![](images/image162.webp){width="6.5in" height="2.60625in"}
 
 <https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement>
 
@@ -4272,10 +4276,10 @@ a [long list of real-world
 projects](https://backbonejs.org/#examples) that use Backbone.
 
 ![Creating simple tasks app with Backbone.js and Slim micro framework
-\...](images/image163.jpeg){width="1.0in" height="1.0in"} - ![All About
-Backbone.js \| Javascript Frameworks](images/image164.jpeg){width="2.0in"
+\...](images/image163.webp){width="1.0in" height="1.0in"} - ![All About
+Backbone.js \| Javascript Frameworks](images/image164.webp){width="2.0in"
 height="1.2827001312335957in"} -
-![Backbone.js](images/image165.jpeg){width="4.0in"
+![Backbone.js](images/image165.webp){width="4.0in"
 height="0.7088604549431321in"}
 
 Backbone.js Stack
@@ -4319,14 +4323,14 @@ And it integrates with React, Angular, Meteor, Ember and many other
 frameworks to help organize UI layer alongside application logic.
 
 ![Semantic UI Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image166.jpeg){width="1.0in" height="1.0in"} - ![En İyi 6
-CSS Framework](images/image167.png){width="2.0in" height="1.0in"} -
+Supply](images/image166.webp){width="1.0in" height="1.0in"} - ![En İyi 6
+CSS Framework](images/image167.webp){width="2.0in" height="1.0in"} -
 ![Taking a Look at Semantic UI: A Lightweight Alternative to Bootstrap
-\...](images/image168.png){width="3.1967213473315836in" height="1.0in"}
+\...](images/image168.webp){width="3.1967213473315836in" height="1.0in"}
 
-![](images/image169.png){width="4.0in" height="2.674786745406824in"}
+![](images/image169.webp){width="4.0in" height="2.674786745406824in"}
 
-![](images/image170.png){width="4.0in" height="2.1465813648293963in"}
+![](images/image170.webp){width="4.0in" height="2.1465813648293963in"}
 
 Example Semantic UI website theme.
 
@@ -4334,7 +4338,7 @@ For more information go to <https://semantic-ui-forest.com/>.
 
 ## #23 -- Gatsby {#gatsby .unnumbered}
 
-## ![Blazing speed with Gatsby Js - EasyCoders - code made easy](images/image171.png){width="3.0in" height="1.3762817147856519in"} ![Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free](images/image172.jpeg){width="1.38in" height="1.38in"} {#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
+## ![Blazing speed with Gatsby Js - EasyCoders - code made easy](images/image171.webp){width="3.0in" height="1.3762817147856519in"} ![Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free](images/image172.webp){width="1.38in" height="1.38in"} {#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
 
 It is an **open-source static website generator**, which "allows
 developers to create fast, secure and powerful websites using a
@@ -4346,7 +4350,7 @@ his [website](https://www.gatsbyjs.com/why-gatsby).
 ## #24 -- The MEAN Stack {#the-mean-stack .unnumbered}
 
 ![What is MEAN Stack? MEAN Stack Components and Benefits \| Thirdock
-Techkno](images/image173.png){width="4.0in"
+Techkno](images/image173.webp){width="4.0in"
 height="2.0931627296587925in"}
 
 The MEAN stack is a JavaScript-based framework for developing web
@@ -4369,11 +4373,11 @@ popular technology concepts for building web applications.
 ## #25 -- Aurelia {#aurelia .unnumbered}
 
 ![Pegatina «Logotipo de Aurelia - marco JS» de hipstuff \|
-Redbubble](images/image174.jpeg){width="1.5in" height="2.0in"}
+Redbubble](images/image174.webp){width="1.5in" height="2.0in"}
 ![JavaScript Frameworks Every Developer Must Have! - Tutorials & Methods
-\...](images/image175.jpeg){width="3.0in" height="1.077244094488189in"}
+\...](images/image175.webp){width="3.0in" height="1.077244094488189in"}
 ![5 Benefits Of Choosing Aurelia js Over AngulrJS-
-ValueCoders](images/image176.png){width="2.0in"
+ValueCoders](images/image176.webp){width="2.0in"
 height="0.5933683289588801in"}
 
 Aurelia is an open-source JavaScript framework for building web
@@ -4384,10 +4388,10 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 ## #26 -- Knockout.js {#knockout.js .unnumbered}
 
 ![Knockout.js Reviews 2022: Details, Pricing, & Features \|
-G2](images/image177.png){width="3.0in" height="1.575in"} ![Challenges
+G2](images/image177.webp){width="3.0in" height="1.575in"} ![Challenges
 with Monitoring Knockout.js Web Applications - Dotcom
-\...](images/image178.png){width="2.0in" height="2.0in"} ![Knockout
-(@knockout_js) \| Twitter](images/image179.png){width="1.0in"
+\...](images/image178.webp){width="2.0in" height="2.0in"} ![Knockout
+(@knockout_js) \| Twitter](images/image179.webp){width="1.0in"
 height="1.0in"}
 
 Knockout.js is a lightweight JavaScript framework that helps you build
@@ -4398,11 +4402,11 @@ managing data and UI synchronization.
 
 ## #27 -- Mithril {#mithril .unnumbered}
 
-![Mithril. Js -- DEV.BG](images/image180.jpeg){width="3.0in"
+![Mithril. Js -- DEV.BG](images/image180.webp){width="3.0in"
 height="1.145569772528434in"} ![Mithril.js. The brave little framework
---- An... \| by DAN \| Medium](images/image181.jpeg){width="2.0in"
+--- An... \| by DAN \| Medium](images/image181.webp){width="2.0in"
 height="1.1898731408573928in"} ![D20 - Mithril Js Logo, HD Png
-Download - 1605x1605 PNG - DLF.PT](images/image182.png){width="1.0in"
+Download - 1605x1605 PNG - DLF.PT](images/image182.webp){width="1.0in"
 height="0.9442311898512686in"}
 
 Mithril is a lightweight and fast JavaScript framework for building
@@ -4414,9 +4418,9 @@ features for building robust web applications.
 ## #28 -- Riot.js {#riot.js .unnumbered}
 
 ![Introducing Riot.js, RiotControl and
-RiotGear](images/image183.png){width="3.0in"
+RiotGear](images/image183.webp){width="3.0in"
 height="1.4285258092738409in"} ![2021 年 5 月現在の
-Riot.js](images/image184.png){width="3.0in" height="2.565064523184602in"}
+Riot.js](images/image184.webp){width="3.0in" height="2.565064523184602in"}
 
 Riot.js is a lightweight and intuitive JavaScript framework for building
 user interfaces. It emphasizes simplicity, reusability, and a
@@ -4426,7 +4430,7 @@ crucial.
 
 ## #29 -- Stimulus {#stimulus .unnumbered}
 
-## ![Stimulus: A JavaScript Framework for People Who Love HTML](images/image185.png){width="2.0in" height="1.385in"} ![Episode #112 - Stimulus Javascript Framework \| Preview - YouTube](images/image186.jpeg){width="2.0in" height="1.5in"} {#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
+## ![Stimulus: A JavaScript Framework for People Who Love HTML](images/image185.webp){width="2.0in" height="1.385in"} ![Episode #112 - Stimulus Javascript Framework \| Preview - YouTube](images/image186.webp){width="2.0in" height="1.5in"} {#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
 
 Stimulus is a JavaScript framework designed to add interactivity to HTML
 pages with minimal setup and a focus on progressive enhancement. It aims
@@ -4436,10 +4440,10 @@ applications by enhancing existing HTML elements with behavior.
 ## #30 -- Tailwind CSS {#tailwind-css .unnumbered}
 
 ![How to access Tailwind CSS colors from
-Javascript](images/image187.jpeg){width="2.0in" height="1.0in"}
+Javascript](images/image187.webp){width="2.0in" height="1.0in"}
 ![Tailwind CSS ⭐ con React.js ⭐ \[Parte 6\] -
-YouTube](images/image188.jpeg){width="2.0in" height="1.125in"}
-![CodeKit - TailwindCSS](images/image189.png){width="2.0in"
+YouTube](images/image188.webp){width="2.0in" height="1.125in"}
+![CodeKit - TailwindCSS](images/image189.webp){width="2.0in"
 height="1.2320002187226597in"}
 
 Tailwind CSS is a popular utility-first CSS framework that provides a
@@ -4449,10 +4453,10 @@ functional approach.
 
 ## #31 -- Foundation {#foundation .unnumbered}
 
-![JS Foundation -- Logos Download](images/image190.png){width="2.0in"
+![JS Foundation -- Logos Download](images/image190.webp){width="2.0in"
 height="0.601496062992126in"} ![JS Foundation Announced To Bring
 JavaScript Open Source Community Under
-\...](images/image191.jpeg){width="2.0in" height="1.1111111111111112in"}
+\...](images/image191.webp){width="2.0in" height="1.1111111111111112in"}
 
 Foundation is a responsive front-end framework that provides a
 collection of pre-built HTML, CSS, and JavaScript components and
@@ -4500,7 +4504,7 @@ on practical skills rather than just trendy technologies.
 
 # Week 3-15. Introduction to Twitter Bootstrap 3 {#week-3-15.-introduction-to-twitter-bootstrap-3 .unnumbered}
 
-![](images/image192.png){width="4.0in" height="2.24957239720035in"}
+![](images/image192.webp){width="4.0in" height="2.24957239720035in"}
 
 Today we\'re going to talk about Bootstrap.
 
@@ -4524,7 +4528,7 @@ Today we\'re going to talk about Bootstrap.
     layouts\'. It gives us this very familiar look and feel to sights
     that were made with Bootstrap.
 
-![](images/image193.png){width="4.0in" height="2.249573490813648in"}
+![](images/image193.webp){width="4.0in" height="2.249573490813648in"}
 
 Speaking of that, who uses Bootstrap?
 
@@ -4539,7 +4543,7 @@ Speaking of that, who uses Bootstrap?
     place to go to give you ideas for all the different layout designs
     that are out there for you to use as a building block.
 
-![](images/image194.png){width="4.0in" height="2.24957239720035in"}
+![](images/image194.webp){width="4.0in" height="2.24957239720035in"}
 
 There are a number of benefits of using Bootstrap 3.0.
 
@@ -4574,7 +4578,7 @@ There are a number of benefits of using Bootstrap 3.0.
         for people to have confidence in your site when they go to visit
         it.
 
-![](images/image195.png){width="4.0in" height="2.24957239720035in"}
+![](images/image195.webp){width="4.0in" height="2.24957239720035in"}
 
 So why should you consider using Bootstrap? Or at least know a little
 bit about it?
@@ -4593,7 +4597,7 @@ bit about it?
     don\'t like, that\'s okay. You can go in and you can change the
     values to give it the look that you want it to have.
 
-![](images/image196.png){width="4.0in" height="2.24957239720035in"}
+![](images/image196.webp){width="4.0in" height="2.24957239720035in"}
 
 But there are reasons why you might not want to use Bootstrap.
 
@@ -4618,7 +4622,7 @@ But there are reasons why you might not want to use Bootstrap.
     really an innovative thinker. Then you might not want to use
     Bootstrap. You might really want to head off on your own.
 
-![](images/image197.png){width="4.0in" height="2.24957239720035in"}
+![](images/image197.webp){width="4.0in" height="2.24957239720035in"}
 
 -   When we talk about Bootstrap in this class, there are a number of
     different ways we can approach it.
@@ -4648,7 +4652,7 @@ want to use, not something that you feel confined by.
 
 # Week 3-16. Bootstrap Breakpoints {#week-3-16.-bootstrap-breakpoints .unnumbered}
 
-![](images/image198.png){width="4.0in" height="2.24957239720035in"}
+![](images/image198.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Earlier in this course, we talked about setting breakpoints in your
     code for responsive design. Bootstrap has default breakpoints that
@@ -4662,7 +4666,7 @@ want to use, not something that you feel confined by.
     -   You want to make sure you plan for the smallest screen and then
         make adjustments as the screen size potentially is larger.
 
-![](images/image199.png){width="4.0in" height="2.24957239720035in"}
+![](images/image199.webp){width="4.0in" height="2.24957239720035in"}
 
 -   First let's talk about the smallest screen size that Bootstrap deals
     with. It\'s kind of a custom iPhone retina screen. It basically
@@ -4678,7 +4682,7 @@ want to use, not something that you feel confined by.
     It\'s also not very common right now, so let\'s go on to the extra
     small devices and phones.
 
-![](images/image200.png){width="4.0in" height="2.24957239720035in"}
+![](images/image200.webp){width="4.0in" height="2.24957239720035in"}
 
 -   In Bootstrap, these extra small sizes are referred to with an xs.
 
@@ -4689,7 +4693,7 @@ want to use, not something that you feel confined by.
     landscape position. You assume the phone is at least 480 pixels
     wide.
 
-![](images/image201.png){width="4.0in" height="2.24957239720035in"}
+![](images/image201.webp){width="4.0in" height="2.24957239720035in"}
 
 -   The next step up for small devices and tablets is referred to as sm
     for small.
@@ -4703,7 +4707,7 @@ want to use, not something that you feel confined by.
     that from many desktop browsers, people open up smaller window
     sizes, so it also triggers this viewpoint as well.
 
-![](images/image202.png){width="4.0in" height="2.24957239720035in"}
+![](images/image202.webp){width="4.0in" height="2.24957239720035in"}
 
 -   For medium devices and desktops, we use this code md for media.
 
@@ -4718,7 +4722,7 @@ want to use, not something that you feel confined by.
     they might be using the style sheet, of a larger screen. And we\'re
     going to talk about how we can deal with this a little bit later.
 
-![](images/image203.png){width="4.0in" height="2.24957239720035in"}
+![](images/image203.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Finally, the last viewport is referred to as lg, and this is for
     large devices and wide screens.
@@ -4742,7 +4746,7 @@ want to use, not something that you feel confined by.
     being triggered. I\'m hoping you can avoid them by knowing what\'s
     going on there.
 
-![](images/image204.png){width="4.0in" height="2.24957239720035in"}
+![](images/image204.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Now it is possible to change these default values for your
     breakpoints. Even though Bootstrap hardcodes them, you can go in and
@@ -4756,7 +4760,7 @@ want to use, not something that you feel confined by.
     -   You can always write your own media queries to add new trigger
         points.
 
-![](images/image205.png){width="4.0in" height="2.24957239720035in"}
+![](images/image205.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Now, when we talk about Bootstrap grid points, it\'s not important
     that you go back and you memorize these exact values of the
@@ -4775,7 +4779,7 @@ want to use, not something that you feel confined by.
 
 # Week 3-17. Getting Started with Twitter Bootstrap {#week-3-17.-getting-started-with-twitter-bootstrap .unnumbered}
 
-![](images/image206.png){width="4.0in" height="2.24957239720035in"}
+![](images/image206.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Hi everybody. If I\'ve done a good job up to this point, you\'re
     really excited to use Bootstrap and your kind of annoyed with me
@@ -4794,7 +4798,7 @@ want to use, not something that you feel confined by.
     -   We can also talk about how we can link to the code from our
         CodePen account.
 
-![](images/image207.png){width="4.0in" height="2.24957239720035in"}
+![](images/image207.webp){width="4.0in" height="2.24957239720035in"}
 
 If you want to save your own copy of bootstrap, you can go to the
 website, getbootstrap.com, and there\'s a quick an easy get started link
@@ -4810,7 +4814,7 @@ before you download. This will save you time, if you know there are
 certain break points, colors, or other styles that you want to happen,
 and you don\'t want to go around and overwrite them later.
 
-![](images/image208.png){width="6.0in" height="3.374359142607174in"}
+![](images/image208.webp){width="6.0in" height="3.374359142607174in"}
 
 <https://codepen.io/ColleenEMc/pen/obwJGp/>
 
@@ -4818,7 +4822,7 @@ and you don\'t want to go around and overwrite them later.
 
 <https://getbootstrap.com/docs/3.4/customize/>
 
-![](images/image209.png){width="4.0in" height="2.2559831583552055in"}
+![](images/image209.webp){width="4.0in" height="2.2559831583552055in"}
 
 \<!doctype html\>
 
@@ -4881,7 +4885,7 @@ bootstrap code. Down here, again, we can go to the link
 getbootstrap.com/getting-started and they will give you the code that
 you need to include.
 
-![](images/image210.png){width="6.0in" height="3.3839752843394577in"}
+![](images/image210.webp){width="6.0in" height="3.3839752843394577in"}
 
 I\'ve got it right here. You will need to copy and paste this code and
 this code into the header of your document. It\'s really important to
@@ -4892,7 +4896,7 @@ longer have to keep a copy yourself. And that\'s really handy if you
 plan on having many different versions of your site. And you don\'t want
 to have lots of different copies of the bootstrap code.
 
-![](images/image211.png){width="4.0in" height="2.2559831583552055in"}
+![](images/image211.webp){width="4.0in" height="2.2559831583552055in"}
 
 I\'m adding a third option to this lecture because so many of us use
 CodePen. I wanted to show you how you can link the bootstrap from
@@ -4902,7 +4906,7 @@ got an example here for us, where I am starting fresh. I don\'t want to
 go in and put in those links, because I really want to keep this code
 clean. I really want to keep it to just HTML.
 
-![](images/image212.png){width="6.0in" height="3.383973097112861in"}
+![](images/image212.webp){width="6.0in" height="3.383973097112861in"}
 
 If you follow along, I\'m going to go here to settings. I need to click
 here on the CSS. And, if you go down here to add external add, right
@@ -4913,14 +4917,14 @@ options. Once you have that put in there. As long as it\'s in here. It
 now knows this is how you can add the external CSS. Now you may remember
 that I said, you\'re going to connect to the CSS and JavaScript files.
 
-![](images/image213.png){width="6.0in" height="3.383973097112861in"}
+![](images/image213.webp){width="6.0in" height="3.383973097112861in"}
 
 Once you added the CSS you want to click on JavaScript. Right here.
 Quick add, and add bootstrap as well. Once we\'ve done this, our site is
 now ready to use any of the bootstrap classes or any of the bootstrap
 JavaScript that we may need to use.
 
-![](images/image214.png){width="4.0in" height="2.2559831583552055in"}
+![](images/image214.webp){width="4.0in" height="2.2559831583552055in"}
 
 It\'s very common when you\'re first getting started with bootstrap, or
 even once you\'re a bit of a pro, to start with a template that\'s
@@ -4934,7 +4938,7 @@ and link to bootstrap using the settings. Instead, I wanted to show you
 this code both with and without the links because that way if you write
 it up yourself you can still have it.
 
-![](images/image215.png){width="6.0in" height="3.383974190726159in"}
+![](images/image215.webp){width="6.0in" height="3.383974190726159in"}
 
 So, here\'s the link to the bootstrap, CSS, and JavaScript, and down
 here is my actual code, all right? It doesn\'t look like there\'s that
@@ -4946,7 +4950,7 @@ using that bootstrap font. One way is for me to delete the link to the
 style sheet. I\'ll do that right here. And now you can see that the font
 has changed a little bit.
 
-![](images/image216.png){width="4.0in" height="2.2559831583552055in"}
+![](images/image216.webp){width="4.0in" height="2.2559831583552055in"}
 
 This is actually really important and let\'s talk about why. So, on a
 simple file, like I said, one of the things you can do to test to see if
@@ -4978,7 +4982,7 @@ let me show it to you again, just so you know what I\'m talking about.
 I\'m back at our original template code. And I\'ll put back in the style
 sheet.
 
-![](images/image217.png){width="6.0in" height="3.3839752843394577in"}
+![](images/image217.webp){width="6.0in" height="3.3839752843394577in"}
 
 When you scroll down, you can see that after I have hello world, I have
 the template code that includes a link to some bootstrap code. Even
@@ -4998,7 +5002,7 @@ what\'s going on.
 
 ### Bootstrap HTML Template {#bootstrap-html-template .unnumbered}
 
-![](images/image218.png){width="4.0in" height="2.2645297462817147in"}
+![](images/image218.webp){width="4.0in" height="2.2645297462817147in"}
 
 Finally, you can also always go in and overwrite those bootstrap
 defaults. Remember how I said the font looks a little bit different than
@@ -5083,18 +5087,18 @@ Get three equal-width columns **starting at desktops and scaling to
 large desktops**. On mobile devices, tablets and below, the columns will
 automatically stack.
 
-### ![](images/image219.png){width="6.5in" height="0.3111111111111111in"}Three unequal columns {#three-unequal-columns .unnumbered}
+### ![](images/image219.webp){width="6.5in" height="0.3111111111111111in"}Three unequal columns {#three-unequal-columns .unnumbered}
 
 Get three columns **starting at desktops and scaling to large
 desktops** of various widths. Remember, grid columns should add up to
 twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
 
-### ![](images/image220.png){width="6.5in" height="0.3111111111111111in"}Two columns {#two-columns .unnumbered}
+### ![](images/image220.webp){width="6.5in" height="0.3111111111111111in"}Two columns {#two-columns .unnumbered}
 
 Get two columns **starting at desktops and scaling to large desktops**.
 
-### ![](images/image221.png){width="6.5in" height="0.29444444444444445in"}Full width, single column {#full-width-single-column .unnumbered}
+### ![](images/image221.webp){width="6.5in" height="0.29444444444444445in"}Full width, single column {#full-width-single-column .unnumbered}
 
 No grid classes are necessary for full-width elements.
 
@@ -5108,7 +5112,7 @@ widths) within the larger column.
 At mobile device sizes, tablets and down, these columns and their nested
 columns will stack.
 
-![](images/image222.png){width="6.5in" height="0.6381944444444444in"}
+![](images/image222.webp){width="6.5in" height="0.6381944444444444in"}
 
 ### Mixed: mobile and desktop {#mixed-mobile-and-desktop .unnumbered}
 
@@ -5120,11 +5124,11 @@ layouts.
 Each tier of classes scales up, meaning if you plan on setting the same
 widths for xs and sm, you only need to specify xs.
 
-![](images/image223.png){width="6.5in" height="1.1215277777777777in"}
+![](images/image223.webp){width="6.5in" height="1.1215277777777777in"}
 
 ### Mixed: mobile, tablet, and desktop {#mixed-mobile-tablet-and-desktop .unnumbered}
 
-![](images/image224.png){width="6.5in" height="0.7159722222222222in"}
+![](images/image224.webp){width="6.5in" height="0.7159722222222222in"}
 
 ### Column clearing {#column-clearing .unnumbered}
 
@@ -5132,13 +5136,13 @@ widths for xs and sm, you only need to specify xs.
 floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at
 specific breakpoints to prevent awkward wrapping with uneven content.
 
-![](images/image225.png){width="6.5in" height="0.54375in"}
+![](images/image225.webp){width="6.5in" height="0.54375in"}
 
 ### Offset, push, and pull resets {#offset-push-and-pull-resets .unnumbered}
 
 Reset offsets, pushes, and pulls at specific breakpoints.
 
-![](images/image226.png){width="6.5in" height="0.7104166666666667in"}
+![](images/image226.webp){width="6.5in" height="0.7104166666666667in"}
 
 # Week 3-18. Bootstrap Grid System {#week-3-18.-bootstrap-grid-system .unnumbered}
 
@@ -5155,7 +5159,7 @@ I\'m hoping that you\'ll follow along with me. We\'ll do an example in
 one of the next modules, and then you come back and you read this
 material again, and see if it\'s starting to really make sense.
 
-![](images/image227.png){width="4.0in" height="2.2529910323709537in"}
+![](images/image227.webp){width="4.0in" height="2.2529910323709537in"}
 
 Bootstrap can see every element as something you can break down into 12
 columns. So, if you have a page, Bootstrap can take any element, and
@@ -5170,25 +5174,25 @@ that\'s why everyone says Bootstrap uses a grid. It\'s not a table.
 So, you kind of have to throw that practical reasoning out for a little
 bit, if you\'re going to be using Bootstrap.
 
-![](images/image228.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image228.webp){width="4.0in" height="2.2572648731408576in"}
 
 With this table, we can basically say if you want to use three columns,
 it\'s the same as saying a width of maybe 25%. Six columns is 50%. Nine
 columns is 75%.
 
-![](images/image229.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image229.webp){width="4.0in" height="2.2572648731408576in"}
 
 All 12 columns mean you\'re taking up the full width of the page or that
 element.
 
-![](images/image230.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image230.webp){width="4.0in" height="2.2572648731408576in"}
 
 Every grid in Bootstrap consists of a container class, a row class and
 then one or more column classes. The actual code itself is going to look
 like this, where xx is going to be the viewport size. And yy is going to
 be the number of columns that you want to use. Let\'s take a look.
 
-![](images/image231.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image231.webp){width="4.0in" height="2.2572648731408576in"}
 
 Let\'s look at our example. The class is always going to start with
 those three letters, col. The xx component is the viewport size. It\'s
@@ -5197,7 +5201,7 @@ those tablets. md for medium. And lg is for large. Again, if you want to
 kind of think of numbers, you can think of something along the lines
 about 480, 720, 992, and 1200.
 
-![](images/image232.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image232.webp){width="4.0in" height="2.2572648731408576in"}
 
 Now, I promised you a while ago, you don\'t actually have to remember
 these numbers. I\'m pretty sure that I got them wrong myself. So just
@@ -5205,36 +5209,36 @@ remember more general concepts than the numbers. But you have to
 remember xs, sm, md, or large. It has to be one of those four
 abbreviations.
 
-![](images/image233.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image233.webp){width="4.0in" height="2.2572648731408576in"}
 
 Once you\'ve declared the viewport size, you can now say exactly how
 many columns you want this element to take up. Anything from zero, which
 means it shouldn\'t show up at all to 12 which means take up the maximum
 width that it possibly can.
 
-![](images/image234.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image234.webp){width="4.0in" height="2.2572648731408576in"}
 
 So, if you have an element that has class equals col-xs-12, you\'re
 saying, if you\'re viewing this on a small screen, it should take up the
 full width.
 
-![](images/image235.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image235.webp){width="4.0in" height="2.2572648731408576in"}
 
 If you\'re looking at one that has a class of col-sm-8, now you want to
 take up eight out of those 12 columns, but only on the smallest screen.
 
-![](images/image236.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image236.webp){width="4.0in" height="2.2572648731408576in"}
 
 For col-md-4, you\'re saying, if I\'m on a medium screen I want to use
 up four columns or one third of the entire screen size.
 
-![](images/image237.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image237.webp){width="4.0in" height="2.2572648731408576in"}
 
 And for col-lg-3, you\'re saying, well this is a large screen, it
 doesn\'t need to be as big as it was on those other screens. Let\'s just
 use up a quarter or 25%.
 
-![](images/image238.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image238.webp){width="4.0in" height="2.2572648731408576in"}
 
 Now, this is the interesting thing. Many times you\'re going to combine
 these classes together. Let\'s think about if you\'re going to put
@@ -5244,7 +5248,7 @@ whole width of the viewport. But if I\'m on a larger screen, well, then
 maybe there can be three across, and on a different screen maybe four
 across.
 
-![](images/image239.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image239.webp){width="4.0in" height="2.2572648731408576in"}
 
 Let\'s imagine that I have an image, some sort of pic.jpg. And then we
 have our four screen sizes. I might have my extra small, small, my
@@ -5261,24 +5265,24 @@ picture. It\'s the same HTML code. The difference is that, on different
 viewports, the picture is going to look relatively big on a small screen
 and relatively small on a larger screen.
 
-![](images/image240.png){width="4.0in" height="2.0884612860892386in"}
+![](images/image240.webp){width="4.0in" height="2.0884612860892386in"}
 
 So, let\'s review that grid picture but using the classes this time.
 Right here we have nothing on there.
 
-![](images/image241.png){width="4.0in" height="2.2529910323709537in"}
+![](images/image241.webp){width="4.0in" height="2.2529910323709537in"}
 
 But if I use col-XX-3, we\'re using three of the 12 or 25%.
 
-![](images/image242.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image242.webp){width="4.0in" height="2.0927351268591425in"}
 
 If I say col-XX-6, I\'m using 50% now.
 
-![](images/image243.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image243.webp){width="4.0in" height="2.0927351268591425in"}
 
 Col-XX-9, 75% and
 
-![](images/image244.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image244.webp){width="4.0in" height="2.0927351268591425in"}
 
 col-XX-12 means used up the full width that\'s available to you.
 
@@ -5286,18 +5290,18 @@ But what if you want two elements next to each other? For instance, but
 only on a larger screen. Separate block, small screen. In line block on
 a large screen.
 
-![](images/image245.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image245.webp){width="4.0in" height="2.0927351268591425in"}
 
 Well, what we could do is we can start off by saying, that yellow part
 of our page, well, on a small screen, I want it to take up the full
 width. But, on a medium screen, I want it to take up only three.
 
-![](images/image246.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image246.webp){width="4.0in" height="2.0927351268591425in"}
 
 So, on here when I\'m looking at a large screen, I\'m only taking up
 one, two, three columns. All right.
 
-![](images/image247.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image247.webp){width="4.0in" height="2.0927351268591425in"}
 
 Then if we add another div next to it, that div can say for this orange
 part, if I\'m on a small screen, again, I want to use up the full width.
@@ -5318,12 +5322,12 @@ medium. And then that\'s going to override everything for medium and
 large. You can really get away with just specifying one or two rules and
 still hit multiple break points.
 
-![](images/image248.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image248.webp){width="4.0in" height="2.0927351268591425in"}
 
 It\'s actually quite possible to write even easier or cleaner code than
 what I just wrote here.
 
-![](images/image249.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image249.webp){width="4.0in" height="2.0927351268591425in"}
 
 Whenever you want to say something should be the full 12 columns and it
 is block already by default, it takes up the whole width. You can pretty
@@ -5332,31 +5336,31 @@ default. It says I didn\'t know you were supposed to take up the full
 width, you don\'t need to tell me. Instead, you can just specify those
 rules where it\'s going to change.
 
-![](images/image250.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image250.webp){width="4.0in" height="2.0927351268591425in"}
 
 I\'ve dropped the smaller part and this new rule now says basically any
 time you are on a medium viewport or larger, make it three columns.
 
-![](images/image251.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image251.webp){width="4.0in" height="2.0927351268591425in"}
 
 By default, Bootstrap is going to put things as far to the left as it
 possibly can when it\'s positioning them.
 
-![](images/image252.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image252.webp){width="4.0in" height="2.0927351268591425in"}
 
 However, it is possible to add a push and a pull class on different
 elements. If you have col-XX-push-YY. You\'re basically saying, hey, on
 any viewport that\'s X, I want you to go ahead and push this element Y
 columns to the left.
 
-![](images/image253.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image253.webp){width="4.0in" height="2.0927351268591425in"}
 
 In the same way, there\'s a pull. In here, you move columns to the
 right. We\'re not going to play with this right now, but it was
 something that I want you to be aware of. In the same way, I want you to
 know about the responsive utility classes.
 
-![](images/image254.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image254.webp){width="4.0in" height="2.0927351268591425in"}
 
 Earlier, I mentioned that you can have XX, or something like XX column
 zero, or really for anything, you can have column zero, hides it from
@@ -5364,19 +5368,19 @@ the screen. It\'s usually a lot easier to use the hidden class instead.
 Hidden-XX basically says, make this visible on every viewport except for
 the one we\'re going to mention right here.
 
-![](images/image255.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image255.webp){width="4.0in" height="2.0927351268591425in"}
 
 In the same way, visible-XX says, hide something. It shouldn\'t be
 visible unless I\'m on this certain size screen.
 
-![](images/image256.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image256.webp){width="4.0in" height="2.0927351268591425in"}
 
 The last one we have is sr-only. And this is a special Bootstrap utility
 class for screen readers. It hides the content for everyone, unless
 they\'re using a screen reader to access the page. If they are, then
 this element is visible to them, and them only.
 
-![](images/image257.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image257.webp){width="4.0in" height="2.0927351268591425in"}
 
 So, we mentioned and we talk a lot about Bootstrap is this mobile first
 idea and that larger screens inherit values from smaller screens. I
@@ -5388,7 +5392,7 @@ that\'s bigger. There\'s a great site at Bootstrap,
 bootstrap.com/examples/grid, where you can go through and you can see
 some of the examples that they have coded up for you.
 
-![](images/image258.png){width="4.0in" height="2.0927351268591425in"}
+![](images/image258.webp){width="4.0in" height="2.0927351268591425in"}
 
 Really important, do the math.
 
@@ -5409,7 +5413,7 @@ Bootstrap Grid System. I\'m going to go into CodePen and use this code
 so you can start from scratch or mess with the code and play with it
 with me.
 
-![](images/image259.png){width="6.0in" height="3.053205380577428in"}
+![](images/image259.webp){width="6.0in" height="3.053205380577428in"}
 
 So, as you may recall, whenever you want to use the grid system for
 Bootstrap, it\'s important that you put two kind of wrapper classes
@@ -5420,7 +5424,7 @@ here is, it\'s time to look for those col-md-6, col-lg-2 different
 classes. And I want you to put these elements together based on being in
 the same row at times. I\'m actually going to move this.
 
-![](images/image260.png){width="6.0in" height="5.575in"}
+![](images/image260.webp){width="6.0in" height="5.575in"}
 
 I\'m going to bit of a smaller screen to start with. And when we do
 this, we\'re going to go through and look at how the code works
@@ -5429,7 +5433,7 @@ I\'ll pull that out of the way. I have four divs inside here. Now, in
 each case, each one of these divs is exactly the same. The code doesn\'t
 change at all. You can kind of trust me on that one.
 
-![](images/image261.png){width="6.0in" height="2.6814107611548557in"}
+![](images/image261.webp){width="6.0in" height="2.6814107611548557in"}
 
 So, we\'re just going to look at the first one, and look at what that
 code does. The first thing we need to realize is col-md-6 and col-lg-3.
@@ -5457,7 +5461,7 @@ want you to display unless you're on a large screen.
 As we transition from smaller to bigger, this one\'s going to go away,
 and this one will suddenly show up.
 
-![](images/image262.png){width="6.0in" height="5.0378204286964126in"}
+![](images/image262.webp){width="6.0in" height="5.0378204286964126in"}
 
 Let\'s take a look. Right here, I\'ve just hit the medium view port
 screen size, and a few things have happened. First, the div that said
@@ -5476,7 +5480,7 @@ not taking up 12. So, we\'ve really changed the look of this. We\'ve
 changed the content, but we\'ve also changed the layout. So instead of
 having four on top of each other, we have two pairs of two.
 
-![](images/image263.png){width="6.0in" height="4.208333333333333in"}
+![](images/image263.webp){width="6.0in" height="4.208333333333333in"}
 
 Last thing I\'m going to do next, of course, is go to the even larger
 screen. So, in this next step, as we reach the larger screen, the same
@@ -5612,7 +5616,7 @@ color:green;
 
 Hi, everybody. Today, we\'re going to talk about navigation bars.
 
-![](images/image264.png){width="4.0in" height="2.076068460192476in"}
+![](images/image264.webp){width="4.0in" height="2.076068460192476in"}
 
 Navigation is one of those things about Bootstrap, that\'s very familiar
 to people when they see sites that use Bootstrap. It always looks about
@@ -5620,7 +5624,7 @@ the same. It works about the same. People are comfortable with it. The
 nav class is typically combined with other classes to create each
 different style navigation that you\'re going to see.
 
-![](images/image265.png){width="4.0in" height="2.076068460192476in"}
+![](images/image265.webp){width="4.0in" height="2.076068460192476in"}
 
 When you make a navigation bar, one of the first things you have to
 decide is what type of links you want. Bootstrap provides nav-tabs and
@@ -5637,19 +5641,19 @@ correct, looks great, but I don\'t see any difference. This is something
 that\'s going to happen to you. The problem is I haven\'t linked to the
 Bootstrap CSS.
 
-![](images/image266.png){width="6.0in" height="3.114103237095363in"}
+![](images/image266.webp){width="6.0in" height="3.114103237095363in"}
 
 Let\'s go ahead and do that now. I\'m going to go into Settings, I\'m
 going to click on CSS and I\'m going to go down here to quick add and
 add Bootstrap. And as soon as I save that, boom, there you go.
 
-![](images/image267.png){width="4.09375in" height="3.4166666666666665in"}
+![](images/image267.webp){width="4.09375in" height="3.4166666666666665in"}
 
 That looks like a much more professionally designed navigation bar. When
 you use the tabs, it\'s supposed to simulate that kind of look you see
 in a file tabbing system where you kind of flip through.
 
-![](images/image268.png){width="4.09375in" height="3.4166666666666665in"}
+![](images/image268.webp){width="4.09375in" height="3.4166666666666665in"}
 
 Now, let\'s look at nav-pills. Here you can see that each one of the
 links, basically, has a different color. You can go in, this one is
@@ -5664,7 +5668,7 @@ active. It\'s not really a big deal whether you\'re going to use pills
 or tabs. It\'s just a design decision that you want to make a little bit
 early on.
 
-![](images/image269.png){width="4.0in" height="2.260683508311461in"}
+![](images/image269.webp){width="4.0in" height="2.260683508311461in"}
 
 Once you\'ve decided on either tabs or pills, another thing you're going
 to consider is the layout. Do you want your navigation bar to be
@@ -5673,13 +5677,13 @@ I\'m going to show you right now how you can quickly change them. Let\'s
 go ahead and just use the nav-pills code. When I go back up to that
 unordered list element, I have that it should be nav in nav pills.
 
-![](images/image270.png){width="4.0in" height="4.186528871391076in"}
+![](images/image270.webp){width="4.0in" height="4.186528871391076in"}
 
 What I want to add now is to say, you know what? Instead of being
 horizontal, I want to change it, so that it\'s vertical or stacked. This
 simple class completely changes the look of our page.
 
-![](images/image271.png){width="6.0in" height="2.257050524934383in"}
+![](images/image271.webp){width="6.0in" height="2.257050524934383in"}
 
 Another option that we can use is nav-justified. When you use
 nav-justified, by default, it\'s going to take as many links as you have
@@ -5689,14 +5693,14 @@ take up 20% and different things like that. Now the interesting thing
 about nav-justified is that when you resize the window, it actually
 changes the look of the page.
 
-![](images/image272.png){width="6.0in" height="4.391304680664917in"}
+![](images/image272.webp){width="6.0in" height="4.391304680664917in"}
 
 So now as I make it smaller, it changes from justified per stack. This
 gives a kind of really cool look without you having to do much about it.
 So, on the small view, you go to stacks. On the larger views, you\'re
 horizontal.
 
-![](images/image273.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image273.webp){width="4.0in" height="2.2572648731408576in"}
 
 Another thing you see a lot of people like to add to their navigation
 bars are these drop-down menus where you have different options, but
@@ -5804,11 +5808,11 @@ RD: navbar
 
 \<div\>6Lots and lots of Content!!!\</div\>
 
-![](images/image274.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image274.webp){width="4.0in" height="2.2572648731408576in"}
 
 The example on Bootstrap is called pills with drop-downs.
 
-![](images/image275.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image275.webp){width="4.0in" height="2.2572648731408576in"}
 
 I\'ve made my own example and we\'re going to look at it now, it\'s
 called responsive design drop downs. So, I\'ve taken the code that
@@ -5860,7 +5864,7 @@ the drop-down, something should drop-down and it didn\'t. I do this on
 purpose, because I really like to make the same mistakes that you guys
 possibly make.
 
-![](images/image276.png){width="6.0in" height="3.385897856517935in"}
+![](images/image276.webp){width="6.0in" height="3.385897856517935in"}
 
 So first, I need to know, did I link to the Bootstrap JavaScript files?
 I can check up and there\'s nothing there. I can check my settings and I
@@ -5872,7 +5876,7 @@ happening? This occurs a lot.
 So, while I haven\'t actually forgotten it as you may have, I did
 comment it out.
 
-![](images/image277.png){width="6.0in" height="3.385897856517935in"}
+![](images/image277.webp){width="6.0in" height="3.385897856517935in"}
 
 I\'m going to go back here and say, oop, I know there\'s a script I\'m
 supposed to have down at the bottom. The one that links to jQuery, I\'m
@@ -5914,7 +5918,7 @@ that you\'re on the right path.
 
 \<div\>6Lots and lots of Content!!!\</div\>
 
-![](images/image278.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image278.webp){width="4.0in" height="2.2572648731408576in"}
 
 The last class I\'m going to talk to you about, with respect to
 navigation right now, is the navbar class.
@@ -5926,7 +5930,7 @@ the top or navbar-fixed to the bottom and this is going to affect where
 your different, where your navbar is going to show up and how it
 interacts with the other elements.
 
-![](images/image279.png){width="6.0in" height="3.385897856517935in"}
+![](images/image279.webp){width="6.0in" height="3.385897856517935in"}
 
 Let\'s take a quick look. What I have here is that I\'ve wrapped up my
 typical nav with nav-pills and I\'ve put it inside of a navbar class. I
@@ -5942,14 +5946,14 @@ moved. I have changed the positioning of my navbar from static to fixed
 and fixed is what I call the annoying pop ad version of positioning. It
 means it\'s on top, it\'s not going to move.
 
-![](images/image280.png){width="6.0in" height="3.385897856517935in"}
+![](images/image280.webp){width="6.0in" height="3.385897856517935in"}
 
 So, if I go back down to my screen now, you can see that it actually
 hides some of the other stuff that\'s there. I\'m going to make my
 screen smaller. You can see I can scroll up and down here, but it\'s
 impossible to see the things that are underneath the navbar.
 
-![](images/image281.png){width="6.0in" height="3.385897856517935in"}
+![](images/image281.webp){width="6.0in" height="3.385897856517935in"}
 
 When you use fixed just be careful, the last option was to use bottom.
 And here what I\'ve done is I\'ve simply moved my navbar from the top to
@@ -5957,7 +5961,7 @@ the bottom. But many times, with fixed content, this works out much
 better, because it doesn\'t cover up other things and at least take away
 the ability to scroll up and down and at least see them.
 
-![](images/image282.png){width="4.0in" height="2.2572648731408576in"}
+![](images/image282.webp){width="4.0in" height="2.2572648731408576in"}
 
 Back when you were learning about HTML, hopefully, you learned about
 semantic tags. Some tags are very generic div, P, different things like
@@ -6099,7 +6103,7 @@ current trends. You can\'t live in a bubble.
 
 # Week 4-21. Responsive Images {#week-4-21.-responsive-images .unnumbered}
 
-![](images/image283.png){width="4.0in" height="2.247435476815398in"}
+![](images/image283.webp){width="4.0in" height="2.247435476815398in"}
 
 Hi everybody. Let\'s talk about images. I think we\'ve all been to
 places, where you\'ve been on a website and particularly if it\'s not a
@@ -6113,7 +6117,7 @@ big. Since so many web pages now are made up of images, it\'s really
 important for us to think about how we can make them responsive. And
 we\'re going to talk about two different approaches.
 
-![](images/image284.png){width="4.0in" height="2.247435476815398in"}
+![](images/image284.webp){width="4.0in" height="2.247435476815398in"}
 
 One is to write your own code to do this, and the second is to use
 Bootstrap and some of the built-in Bootstrap classes. In your own code,
@@ -6132,7 +6136,7 @@ responsive. But you really want it to top off at 750 pixels, maybe
 because you think the quality of the image will degrade, or you just
 don\'t want it to have so much emphasis.
 
-![](images/image285.png){width="4.0in" height="2.247435476815398in"}
+![](images/image285.webp){width="4.0in" height="2.247435476815398in"}
 
 In the same way, you can also set a min-width, where if the screen is
 very small, you don\'t necessarily be proportional to the screen any
@@ -6141,12 +6145,12 @@ you start setting the width on images, you might be wondering if you
 should be setting the height as well. In general, you do not, because
 what\'s going to happen is it\'s going to skew.
 
-![](images/image286.png){width="4.0in" height="2.247435476815398in"}
+![](images/image286.webp){width="4.0in" height="2.247435476815398in"}
 
 You can\'t get it exactly right. So usually, you just set the height to
 auto or leave it along.
 
-![](images/image287.png){width="4.0in" height="2.247435476815398in"}
+![](images/image287.webp){width="4.0in" height="2.247435476815398in"}
 
 Many people really like to use the Bootstrap classes with their images,
 and that\'s because they provide a number of image classes, some of them
@@ -6160,7 +6164,7 @@ img-thumbnail. What this one will do, is give your image the kind of
 look that is often associated with thumbnails. A little bit of a border,
 a small size, we\'ll take a look at those in just a second.
 
-![](images/image288.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image288.webp){width="6.0in" height="3.3711537620297465in"}
 
 But first, let's take a closer look at that img-responsive class. What
 I\'ve done here is I\'ve taken a quick screenshot of what the inspect
@@ -6170,13 +6174,13 @@ one at a time, the max-width: 100%, and the height: auto. This is very
 similar to the code we were talking about, if you wanted to put it in
 yourself. Let\'s look at those other classes as well.
 
-![](images/image289.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image289.webp){width="6.0in" height="3.3711537620297465in"}
 
 So, what I have right here is a single image in code pen. There are no
 classes applied. I went ahead and I put it inside a div. And I\'m going
 to re-size the screen a bit.
 
-![](images/image290.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image290.webp){width="6.0in" height="3.3711537620297465in"}
 
 That you can see my dog stays there, he doesn\'t shrink, he doesn\'t do
 anything like that.
@@ -6195,7 +6199,7 @@ Width: 75%;
 
 }
 
-![](images/image291.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image291.webp){width="6.0in" height="3.3711537620297465in"}
 
 It would be possible for me to go in and do something along the lines of
 image with 75%. And what that means, is it\'s going to take its width
@@ -6203,7 +6207,7 @@ based on the width of its parent, that div. So, if I re-size again. You
 can see that the picture of Bacon is actually changing. This is great,
 this is exactly the kind of responsive behavior that we want to see.
 
-![](images/image292.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image292.webp){width="6.0in" height="3.3711537620297465in"}
 
 Let\'s see how it works, if we use Bootstrap instead. I\'m going to go
 in and get rid of that. Now, one of the things I\'ve done when I created
@@ -6214,19 +6218,19 @@ add different classes. We\'ll start with image responsive. When I do
 this one, you can see that now when I re-size it, again, great
 responsive behavior.
 
-![](images/image293.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image293.webp){width="6.0in" height="3.3711537620297465in"}
 
 Let\'s see what those other kinds of visual ones do for us. We can have
 image rounded. And, it\'s probably barely perceptible to you, but you
 can have this little tiny curving, right here, curved just a little bit.
 
-![](images/image294.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image294.webp){width="6.0in" height="3.3711537620297465in"}
 
 Let\'s go for image circle, so you can really see when something
 happens. And as you can see, it really just cuts off part of the
 pictures, so you can have that circle look.
 
-![](images/image295.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image295.webp){width="6.0in" height="3.3711537620297465in"}
 
 The last one I\'m going to do, which we can actually add at the same
 time actually just do it here, image thumbnail, hit save. It probably is
@@ -6242,7 +6246,7 @@ are reasons for doing that. Personally, I would have liked a much
 thicker border, so you all could have seen it. But in many cases,
 you\'re really happy with the defaults. Let\'s look at one more example.
 
-![](images/image296.png){width="6.0in" height="3.3711537620297465in"}
+![](images/image296.webp){width="6.0in" height="3.3711537620297465in"}
 
 So, let\'s go ahead and look at this example, where I put together the
 Thumbnail class, along with some of our Grid classes to give you an idea
@@ -6251,7 +6255,7 @@ spent some time berating myself, because I couldn\'t add the seven
 pictures. I combine these with the thumbnail class to really have a kind
 of cool gallery effect.
 
-![](images/image297.png){width="6.0in" height="3.4191174540682416in"}
+![](images/image297.webp){width="6.0in" height="3.4191174540682416in"}
 
 So let me start by showing you the code. It\'s really simple. Kind of
 quick. Every single line says this same exact thing. It simply, I give
@@ -6266,7 +6270,7 @@ messing me up. I was trying to figure out why this extra picture was off
 to the side. Well, I actually put it there because I wanted to show that
 there were one, two, three, four, five, six. All right.
 
-![](images/image298.png){width="6.0in" height="6.9375in"}
+![](images/image298.webp){width="6.0in" height="6.9375in"}
 
 So, let\'s look at the small screen. Well, now this is interesting
 because I\'m looking at it and nowhere do I say that something should
@@ -6281,13 +6285,13 @@ about it. And by default, if you don\'t declare a rule for extra small,
 it\'s going to default for 12. So that\'s why on the extra small screen,
 you get one dog.
 
-![](images/image299.png){width="6.0in" height="6.9375in"}
+![](images/image299.webp){width="6.0in" height="6.9375in"}
 
 The small screen you get two in each row.
 
 Then you go to three on the media screen image size.
 
-![](images/image300.png){width="6.0in" height="4.747436570428697in"}
+![](images/image300.webp){width="6.0in" height="4.747436570428697in"}
 
 And then, you pop over to six. That\'s the way things are going on here.
 Have some fun with images. Images are always fun. People like to see
@@ -6356,7 +6360,7 @@ class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
 
 # Week 4-22. Bootstrap Tables {#week-4-22.-bootstrap-tables .unnumbered}
 
-![](images/image301.png){width="4.0in" height="2.0858978565179354in"}
+![](images/image301.webp){width="4.0in" height="2.0858978565179354in"}
 
 Hi everybody. Today, we\'re going to talk about tables. Many people use
 Bootstrap for styling their tables. I find that Bootstrap is very
@@ -6371,12 +6375,12 @@ I\'m going to make this special class and it\'s going to style
 everything beautifully. In Bootstrap, instead you need to layer multiple
 classes on top of each other to get a really specific look.
 
-![](images/image302.png){width="4.0in" height="2.0858978565179354in"}
+![](images/image302.webp){width="4.0in" height="2.0858978565179354in"}
 
 The table class, the class just class equals table, it\'s the
 foundation. You need to have that class every time you style tables.
 
-![](images/image303.png){width="4.0in" height="2.0858978565179354in"}
+![](images/image303.webp){width="4.0in" height="2.0858978565179354in"}
 
 Let\'s talk about that one. The simple table class it just adds some
 padding and horizontal dividers. It doesn\'t sound like much but I\'m
@@ -6388,7 +6392,7 @@ class. This stripes your table with a kind of odd and even look. Every
 odd row has a little bit of color, every even row is just background
 transparent.
 
-![](images/image304.png){width="4.0in" height="2.2576924759405075in"}
+![](images/image304.webp){width="4.0in" height="2.2576924759405075in"}
 
 You can also add borders to your table where it will add a border to the
 tables and the cells inside the table.
@@ -6398,7 +6402,7 @@ mouse or whenever you access the different rows it can change the look.
 It\'s also possible to have responsive tables. It actually sounds I
 think a little cooler than it is.
 
-![](images/image305.png){width="4.0in" height="2.2576924759405075in"}
+![](images/image305.webp){width="4.0in" height="2.2576924759405075in"}
 
 How it works is that Bootstrap sets one breakpoint for responsive
 tables.
@@ -6410,7 +6414,7 @@ screen. You just kind of scroll.
 But anything over 768 pixels. Well, then you\'re just going to get that
 default view. There\'s no default scrolling at the bottom.
 
-![](images/image306.png){width="4.0in" height="2.2576924759405075in"}
+![](images/image306.webp){width="4.0in" height="2.2576924759405075in"}
 
 It\'s also possible to style some of the individual elements. Instead of
 the entire table, you can style a single cell, part of a row, or part of
@@ -6430,7 +6434,7 @@ check out this Bootstrap tables code from the responsive design section.
 So, what I\'ve done here is I\'ve made a very simple table. I already
 went in and included the link to Bootstrap style in CodePen.
 
-![](images/image307.png){width="7.0in" height="3.9449792213473316in"}
+![](images/image307.webp){width="7.0in" height="3.9449792213473316in"}
 
 So now, I\'m just going to add some classes so you can see how it looks.
 When I add table class equals table, right away you can see wow, that
@@ -6438,7 +6442,7 @@ looks so much better, all right? You didn\'t have to add any of your own
 styling at all. And now it went from just a bunch of text to something
 that really does look like a table.
 
-![](images/image308.png){width="7.0in" height="3.9449792213473316in"}
+![](images/image308.webp){width="7.0in" height="3.9449792213473316in"}
 
 I can add in table-striped, and before I hit that D, I want you to look
 at the picture, and then look again. You\'re going to want to look at
@@ -6454,7 +6458,7 @@ forget whether it\'s table border, or bordered. Apparently, it\'s
 bordered. And once we add that you can see that it\'s added the lines in
 between.
 
-![](images/image309.png){width="7.0in" height="3.9449792213473316in"}
+![](images/image309.webp){width="7.0in" height="3.9449792213473316in"}
 
 The last one I\'m going to add right here is the table hover. When I
 save that one, again, it\'s a very gentle look. It\'s not something you
@@ -6464,7 +6468,7 @@ you about is the table responsive. It actually took me quite a bit of
 time to get this one to work, and I couldn\'t figure out what was going
 on.
 
-![](images/image310.png){width="4.0in" height="2.4218755468066493in"}
+![](images/image310.webp){width="4.0in" height="2.4218755468066493in"}
 
 First, let\'s look at this table when I make the screen really small.
 Here we go, as I make it smaller and smaller it\'s just going to shrink
@@ -6486,7 +6490,7 @@ table responsive, you need to put this class on the parent container,
 all right. I\'m going to go here, so I\'m going to add the class equals
 responsive, oops, table responsive, to the div class.
 
-![](images/image311.png){width="4.0in" height="2.1333333333333333in"}
+![](images/image311.webp){width="4.0in" height="2.1333333333333333in"}
 
 I\'m going to save it, and now when I resize it, at first, it doesn\'t
 look very much different, but now, if I actually go to the table, you
@@ -6498,7 +6502,7 @@ get that scroll right up to I think I said about 768. So even here, it
 takes up all the space, I don\'t need it. But that response is just
 basically going to let people scroll.
 
-![](images/image312.png){width="7.0in" height="2.975748031496063in"}
+![](images/image312.webp){width="7.0in" height="2.975748031496063in"}
 
 I\'m going to get rid of some of this extra ugliness for just a second.
 Get it back to our old one, and then the last thing I was going to show
@@ -6512,7 +6516,7 @@ even see it. It\'s barely even colored but it\'s there. You can also do
 danger. That\'s your pink. And warning. Oops that will not work. And in
 this one again you can see that it turns in a kind of yellowish color.
 
-![](images/image313.png){width="4.0in" height="2.2547003499562557in"}
+![](images/image313.webp){width="4.0in" height="2.2547003499562557in"}
 
 I\'m not a super big fan of some of these classes just because they\'re
 so nuanced and hard to even tell. Visually, I think it\'d probably be
@@ -6560,7 +6564,7 @@ today is take some code that you\'re really likely to find online. And
 that\'s the code for using Bootstrap to make a collapsible navigation
 menu (see end of module for source).
 
-![](images/image314.png){width="6.0in" height="3.382050524934383in"}
+![](images/image314.webp){width="6.0in" height="3.382050524934383in"}
 
 Let\'s take a look at what happens when we put it into CodePen. So, what
 I have here is the HTML that\'s needed to make a really kind of cool,
@@ -6576,19 +6580,19 @@ to go in and actually edit the head of your document because you need to
 remember to link to the style sheets. When we use CodePen, we can just
 do this.
 
-![](images/image315.png){width="6.5in" height="3.6638888888888888in"}
+![](images/image315.webp){width="6.5in" height="3.6638888888888888in"}
 
 Settings \> CSS, you know what? I want to add Bootstrap, and I\'ve got
 it. As soon as I do that, you can see like, hey, this is a really much
 better-looking navigation bar. I\'ve got all the different components.
 
-![](images/image316.png){width="4.0in" height="2.581560586176728in"}
+![](images/image316.webp){width="4.0in" height="2.581560586176728in"}
 
 And if you watch, as I re-size it and make it smaller, we get this kind
 of collapsible menu. People tend to call this the hamburger, because you
 have the three lines.
 
-![](images/image317.png){width="4.0in" height="4.728132108486439in"}
+![](images/image317.webp){width="4.0in" height="4.728132108486439in"}
 
 Where do these different parts come from? Well, if you look right here,
 you can see that I\'ve got three classes called icon-bar, icon-bar,
@@ -6627,7 +6631,7 @@ What do they mean because if you\'re going to use Bootstrap, and you
 want the coolest things, you find that it can be a little overwhelming
 at times, so let\'s take a look.
 
-![](images/image318.png){width="6.0in" height="3.2980774278215224in"}
+![](images/image318.webp){width="6.0in" height="3.2980774278215224in"}
 
 I\'m going to start with the mobile view because I\'m really curious how
 this showed up. Why is this here when it wasn\'t here before, so if I
@@ -6723,20 +6727,20 @@ ahead and talk about some of those free templates that I\'m talking
 about because, if it sounds really good to you, I want to get you in the
 right direction.
 
-![](images/image319.png){width="4.0in" height="2.2658114610673667in"}
+![](images/image319.webp){width="4.0in" height="2.2658114610673667in"}
 
 This first link comes from getbootstrap.com. These are just the ones
 that provide you when you first get started. These other two,
 bootstrapzero.com and startbootstrap.com, these are just ones I found
 either through word of mouth or through a search engine.
 
-![](images/image320.png){width="6.0in" height="3.424359142607174in"}
+![](images/image320.webp){width="6.0in" height="3.424359142607174in"}
 
 Let\'s take a look. So here I am at the getbootstrap.com kind of default
 page where you can find out where to download, and where to get the
 different links, and things like that.
 
-![](images/image321.png){width="6.0in" height="3.527564523184602in"}
+![](images/image321.webp){width="6.0in" height="3.527564523184602in"}
 
 What I\'m going to show you is that if I quickly scroll down.
 
@@ -6746,13 +6750,13 @@ different examples of other templates. So, you could click in and say,
 you know what? I want this template right here. I want my site to look
 like this one right here.
 
-![](images/image322.png){width="6.0in" height="3.527564523184602in"}
+![](images/image322.webp){width="6.0in" height="3.527564523184602in"}
 
 Or I really like the look of this one. And you can use it to build very
 basic templates. Again, nothing too fancy, because the assumption is
 that you\'re here to learn, more than to use as your professional site.
 
-![](images/image323.png){width="6.0in" height="3.527564523184602in"}
+![](images/image323.webp){width="6.0in" height="3.527564523184602in"}
 
 If you want to go a couple steps up, let\'s go ahead and take a look at
 this next option. So here I am at bootstrapzero.com, and you can see
@@ -6760,7 +6764,7 @@ that, again, they\'re listing a bunch of free Bootstrap themes. They
 tend to go in these general ideas of, do you want it to be a landing
 zone, do you want it to have kind of a dashboard look, you can pick.
 
-![](images/image324.png){width="6.0in" height="3.527564523184602in"}
+![](images/image324.webp){width="6.0in" height="3.527564523184602in"}
 
 So, if I clicked on this landing zone theme, I\'m going to go right
 here, Then, what you get is a much more detailed description of what
@@ -6769,14 +6773,14 @@ mobile view, as well as well as different views. It can talk about
 different things that you use. Different keywords, we use Bootstrap and
 the grid, and we use a form, and we have a video background.
 
-![](images/image325.png){width="4.0in" height="2.3517093175853017in"}
+![](images/image325.webp){width="4.0in" height="2.3517093175853017in"}
 
 But what you probably really care about at this point is, what does it
 look like? So let\'s hit this preview button right down here. And
 quickly you can see what the page would look like on the different
 platforms.
 
-![](images/image326.png){width="4.0in" height="6.0625in"}
+![](images/image326.webp){width="4.0in" height="6.0625in"}
 
 I\'m going to resize the screen, and you go a little bit further down.
 And they have that kind of drop-down menu here. Still have the video,
@@ -6785,7 +6789,7 @@ what do you with it if you really like it? What you do is they always
 offer this download option right here. And you can download the code and
 then start playing with it yourself.
 
-![](images/image327.png){width="4.0in" height="2.439744094488189in"}
+![](images/image327.webp){width="4.0in" height="2.439744094488189in"}
 
 The same is true if you go to Start Bootstrap where you can get other
 themes and templates. Again, it\'s open source which means it\'s
@@ -6797,7 +6801,7 @@ to help them become better programmers.
 
 So again, they break it down in different ideas.
 
-![](images/image328.png){width="6.0in" height="3.6596161417322834in"}
+![](images/image328.webp){width="6.0in" height="3.6596161417322834in"}
 
 Do you want a blog page? Hey, let\'s go ahead and preview and download
 that one. Each one of these elements are going to have things that you
@@ -6805,7 +6809,7 @@ really like about them, but they might have some things that you don\'t
 like about them as well. So how do we use them? I mentioned that one of
 the things you can do is you can just download the code.
 
-![](images/image329.png){width="4.0in" height="2.235042650918635in"}
+![](images/image329.webp){width="4.0in" height="2.235042650918635in"}
 
 But before you go across and you go, that one\'s awesome, I really like
 the look at that page, you need to decide if the template is really
@@ -6827,7 +6831,7 @@ that basic understanding, you\'re really left at the mercy of other
 people. When you know a little bit, it can really help you make huge
 changes in the templates.
 
-![](images/image330.png){width="4.0in" height="2.235042650918635in"}
+![](images/image330.webp){width="4.0in" height="2.235042650918635in"}
 
 The last thing you\'re going to with the modify HTML is add or remove
 components.
@@ -6840,7 +6844,7 @@ okay. You can go in and just remove the parts that you don\'t want. If
 you\'re feeling really powerful, you can also go in and add parts that
 you do want.
 
-![](images/image331.png){width="4.0in" height="2.235042650918635in"}
+![](images/image331.webp){width="4.0in" height="2.235042650918635in"}
 
 So, using Bootstrap is really that easy. Even if you don\'t understand
 HTML or CSS, or you understand JavaScript but you hate it so much, it\'s
@@ -7467,7 +7471,7 @@ Codeschool has free course about DevTools:
 
 # Keep Learning with Michigan Online {#keep-learning-with-michigan-online .unnumbered}
 
-![](images/image332.png){width="3.0in" height="0.3961537620297463in"}
+![](images/image332.webp){width="3.0in" height="0.3961537620297463in"}
 
 Want to keep learning? Explore hundreds of learning experiences from the
 University of Michigan faculty and instructional teams on [Michigan
