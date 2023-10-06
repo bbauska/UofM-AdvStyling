@@ -86,7 +86,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 
 <h3>Course Outline:</h3>
 
-# Syllabus
+## Syllabus
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -217,7 +217,7 @@ section to view them.
 ![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.webp)
 style="width:6.5in height:4.603945756780402in"
 
-# There are 4 modules in this course
+## There are 4 modules in this course
 
 It used to be the case that everyone viewed webpages on about the same
 size screen. But with the explosion of the use of smartphones to access
@@ -269,9 +269,9 @@ capstone project.
 > **@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
 ```
 
-# Week One: Style with Responsive Design {#week-one-style-with-responsive-design .unnumbered}
+## Week One: Style with Responsive Design
 
-### Week one details {#week-one-details .unnumbered}
+### Week one details
 
 What does it mean to have responsive design for your site? How can you
 tell if your existing site is responsive? This week we will begin with
@@ -306,14 +306,11 @@ using fluid measurements in your CSS.
 
 -   Pixel to Em conversion tool
 
-```{=html}
-<!-- -->
-```
 -   Dynamically change the size of font with sliders
 
 -   CSS definitions of relative and absolute
 
-# Week Two: Basic Concepts
+## Week Two: Basic Concepts
 
 This week you will get a chance to put the theories into practice using
 media queries in your CSS. These queries can automatically detect the
@@ -359,7 +356,7 @@ JavaScript yourself).
 
 ### What\'s included
 
-### Week 3; {#week-3 .unnumbered}
+### Week 3;
 
 1.  Frameworks
 
@@ -373,7 +370,7 @@ JavaScript yourself).
 
 6.  Bootstrap Navigation
 
-### Add'l Readings {#addl-readings-2 .unnumbered}
+### Add'l Readings
 
 -   Demystifying Bootstrap
 
@@ -384,16 +381,16 @@ JavaScript yourself).
 
 -   Grid System Check
 
-# Week Four: Experiment! {#week-four-experiment .unnumbered}
+# Week Four: Experiment!
 
 This week is dedicated to solving those little issues that pop up when
 you move from theory to practice. We look at more advanced framework
 options and also hear from people who are using the techniques covered
 in this course.
 
-### What\'s included {#whats-included-3 .unnumbered}
+### What\'s included
 
-### Week 4; {#week-4 .unnumbered}
+### Week 4;
 
 1.  Responsive Images
 
@@ -413,7 +410,7 @@ in this course.
 
 9.  Conclusion
 
-### Add'l Readings {#addl-readings-3 .unnumbered}
+### Add'l Readings
 
 -   The Evolution of the Airbnb front-end development
 
@@ -423,9 +420,9 @@ in this course.
 
 -   Keep Learning with Michigan Online
 
-# Resources {#resources-1 .unnumbered}
+## Resources
 
-## Pixel to Em conversion tool {#pixel-to-em-conversion-tool .unnumbered}
+## Pixel to Em conversion tool
 
 Here is a link to a Pixel to Em conversion tool:
 
@@ -434,7 +431,7 @@ Here is a link to a Pixel to Em conversion tool:
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-## Dynamically change the size of font with sliders {#dynamically-change-the-size-of-font-with-sliders .unnumbered}
+## Dynamically change the size of font with sliders
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -447,7 +444,7 @@ it here if you want to know how to use the tool.
 
 <https://css-tricks.com/rems-ems/>
 
-## CSS definitions of relative and absolute {#css-definitions-of-relative-and-absolute .unnumbered}
+## CSS definitions of relative and absolute
 
 Someone provided me with a link that helped them better understand the
 meaning of \"relative\" and \"absolute\" as they relate to CSS. Here is
@@ -458,11 +455,12 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 
-# Week 1-01. Introduction to Responsive Design {#week-1-01.-introduction-to-responsive-design .unnumbered}
+# Week 1-01. Introduction to Responsive Design
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![The BASICS of Responsive Design.](images/image005.webp)
+![The BASICS of Responsive Design.]
+(images/image005.webp)
 {width="4.0in" height="2.0931627296587925in"}
 
 Welcome to introduction to responsive design. In this course, we\'re
@@ -484,7 +482,8 @@ it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. week 1 - theory (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Week One: - Theory - What does responsive design mean? - What makes for good design? 
-- Role of fluid measurements.](images/image006.webp)
+- Role of fluid measurements.]
+(images/image006.webp)
 {width="4.0in" height="2.0931627296587925in"}
 
 In week **one**, we\'re really going to focus on the theory.
@@ -508,7 +507,8 @@ changes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 2 - media queries (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Week Two: - Media queries - What are they? - How do you plan 1st for best practices? - 
-What is the relationship with break points? - How to make a navigation bar?](images/image007.webp)
+What is the relationship with break points? - How to make a navigation bar?]
+(images/image007.webp)
 {width="4.0in" height="2.0931627296587925in"}
 
 In week **two** we\'re going to tackle media queries.
@@ -6475,8 +6475,9 @@ CSS even though there\'s free software out there. If you don\'t have
 that basic understanding, you\'re really left at the mercy of other
 people. When you know a little bit, it can really help you make huge
 changes in the templates.
-
-![](images/image330.webp){width="4.0in" height="2.235042650918635in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. how to use bootstrap templates (204) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![How to use Bootstrap Templates.](images/image330.webp){width="4.0in" height="2.235042650918635in"}
 
 The last thing you\'re going to with the modify HTML is add or remove
 components.
@@ -6488,8 +6489,9 @@ kind of layout where it\'s three columns, and you only want two, that\'s
 okay. You can go in and just remove the parts that you don\'t want. If
 you\'re feeling really powerful, you can also go in and add parts that
 you do want.
-
-![](images/image331.webp){width="4.0in" height="2.235042650918635in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. that's it - bootstrap (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![That's it - Bootstrap Template](images/image331.webp){width="4.0in" height="2.235042650918635in"}
 
 So, using Bootstrap is really that easy. Even if you don\'t understand
 HTML or CSS, or you understand JavaScript but you hate it so much, it\'s
@@ -7115,8 +7117,10 @@ Codeschool has free course about DevTools:
 <https://www.codeschool.com/courses/discover-devtools>
 
 # Keep Learning with Michigan Online
-
-![](images/image332.webp){width="3.0in" height="0.3961537620297463in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. michigan online logo (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Michigan Online Logo.](images/image332.webp)
+{width="3.0in" height="0.3961537620297463in"}
 
 Want to keep learning? Explore hundreds of learning experiences from the
 University of Michigan faculty and instructional teams on [Michigan
@@ -7129,3 +7133,6 @@ to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
 <!-- 10-6-2023 10:06am -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
