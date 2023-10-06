@@ -153,9 +153,9 @@ will be sufficient to get a decent base on how responsive design works.
 For other learners however, there is nothing better than when they
 decide they can write better versions of the code.
 
-# Resources {#resources .unnumbered}
+# Resources
 
-## Course Site {#course-site .unnumbered}
+## Course Site
 
 All of the reading material you will need to pass this course is
 contained within Coursera.
@@ -163,7 +163,7 @@ contained within Coursera.
 Additional resources may be added as optional material, but everything
 will be online and free.
 
-## CodePEN {#codepen .unnumbered}
+## CodePEN
 
 For the coding content you may want to access my CodePEN account.
 CodePEN is a website that allows you to modify copies of my code. In
@@ -281,9 +281,9 @@ mobile site should provide everything needed, not a pared-down version
 of a good page. We end the week by taking the first concrete step of
 using fluid measurements in your CSS.
 
-### What\'s included: {#whats-included .unnumbered}
+### What\'s included:
 
-### Week 1; {#week-1 .unnumbered}
+### Week 1;
 
 1.  Introduction to Responsive Design
 
@@ -297,7 +297,7 @@ using fluid measurements in your CSS.
 
 6.  Code With Me: Fluid Measurements
 
-### Add'l Readings: {#addl-readings .unnumbered}
+### Add'l Readings:
 
 -   Syllabus
 
@@ -314,7 +314,7 @@ using fluid measurements in your CSS.
 
 -   CSS definitions of relative and absolute
 
-# Week Two: Basic Concepts {#week-two-basic-concepts .unnumbered}
+# Week Two: Basic Concepts
 
 This week you will get a chance to put the theories into practice using
 media queries in your CSS. These queries can automatically detect the
@@ -323,9 +323,9 @@ what type of look you want to achieve. There will also be a discussion
 on common practices for designing your different views at various screen
 sizes (\"viewports\").
 
-### What\'s included {#whats-included-1 .unnumbered}
+### What\'s included
 
-### Week 2; {#week-2 .unnumbered}
+### Week 2;
 
 1.  Media Queries
 
@@ -339,7 +339,7 @@ sizes (\"viewports\").
 
 6.  Code With Me: Responsive Navigation
 
-### Add'l Readings {#addl-readings-1 .unnumbered}
+### Add'l Readings
 
 -   Good examples of responsive design
 
@@ -348,7 +348,7 @@ sizes (\"viewports\").
 ```
 -   Week Two Review: Media Queries and breakpoints
 
-# Week Three: Use Existing Frameworks {#week-three-use-existing-frameworks .unnumbered}
+# Week Three: Use Existing Frameworks
 
 After every good programmer has put in time creating sites from scratch,
 it is common to utilize existing tools out there. After all, why
@@ -358,7 +358,7 @@ frameworks. This week we will work with Bootstrap, a framework that uses
 HTML5, CSS, and JavaScript (but don\'t worry if you have never used
 JavaScript yourself).
 
-### What\'s included {#whats-included-2 .unnumbered}
+### What\'s included
 
 ### Week 3; {#week-3 .unnumbered}
 
@@ -3309,7 +3309,7 @@ applications to the Web. All widgets provide a solid core with plenty of
 extension points for customizing behavior, as well as full theming
 support.
 
-##### jQuery UI\'s fourteen widgets---  {#jquery-uis-fourteen-widgets .unnumbered}
+##### jQuery UI\'s fourteen widgets---  
 
 1.  [Accordion](https://jqueryui.com/accordion/),
 
@@ -3339,7 +3339,7 @@ support.
 
 14. [Tooltip](https://jqueryui.com/tooltip/).
 
-##### Effects {#effects .unnumbered}
+##### Effects
 
 Effects add support for animating colors and class transitions, as well
 as providing several additional easings. In addition, a full suite of
@@ -3368,7 +3368,7 @@ just to add some visual appeal.
 
 -   [Color Animation](https://jqueryui.com/animate/)
 
-##### Utilities {#utilities .unnumbered}
+##### Utilities
 
 Utilities used by jQuery UI to build interactions and widgets.
 
@@ -3376,7 +3376,7 @@ Utilities used by jQuery UI to build interactions and widgets.
 
 -   [Widget Factory](https://jqueryui.com/widget/)
 
-##### jQuery UI Demos {#jquery-ui-demos .unnumbered}
+##### jQuery UI Demos
 
 jQuery UI offers a combination of interaction, effects, widgets,
 utilities, and themes designed to work well together or on their own.
@@ -3402,28 +3402,28 @@ possible.
 
 ![](images/image098.webp){width="6.5in" height="4.86875in"}
 
-##### The above Download Builder from jQuery UI. {#the-above-download-builder-from-jquery-ui. .unnumbered}
+##### The above Download Builder from jQuery UI.
 
 ![](images/image099.webp){width="6.5in" height="4.13125in"}
 
-##### Page 2 (above) {#page-2-above .unnumbered}
+##### Page 2 (above)
 
 ![](images/image100.webp){width="6.5in" height="3.0541666666666667in"}
 
-##### Page 3, last page of jQuery v1.13.2 User Interface Download. {#page-3-last-page-of-jquery-v1.13.2-user-interface-download. .unnumbered}
+##### Page 3, last page of jQuery v1.13.2 User Interface Download.
 
-### Basic Overview: Using jQuery UI on a Web Page {#basic-overview-using-jquery-ui-on-a-web-page .unnumbered}
+### Basic Overview: Using jQuery UI on a Web Page
 
 Next, open up index.html from the downloaded zip in a text editor.
 You\'ll see that it references your theme, jQuery, and jQuery UI.
 Generally, you\'ll need to include these three files on any page to use
 the jQuery UI widgets and interactions:
 
-\<link rel=\"stylesheet\" href=\"jquery-ui.min.css\"\>
-
-\<script src=\"external/jquery/jquery.js\"\>\</script\>
-
-\<script src=\"jquery-ui.min.js\"\>\</script\>
+```
+<link rel="stylesheet" href="jquery-ui.min.css">
+<script src="external/jquery/jquery.js"></script>
+<script src="jquery-ui.min.js"></script>
+```
 
 <https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js>
 
@@ -3432,18 +3432,22 @@ widgets to your page. For example, to make a datepicker widget, you\'ll
 add a text input element to your page and then call .datepicker() on it.
 Like this:
 
-#### HTML: {#html-2 .unnumbered}
+#### HTML:
 
-\<input type=\"text\" name=\"date\" id=\"date\"\>
+```
+<input type="text" name="date" id="date">
+```
 
-#### JavaScript: {#javascript .unnumbered}
+#### JavaScript:
 
-\$( \"#date\" ).datepicker();
+```
+$( "#date" ).datepicker();
+```
 
 ![](images/image101.webp){width="2.5104166666666665in"
 height="1.9479166666666667in"}
 
-## #03 -- Bootstrap v5.2.3 {#bootstrap-v5.2.3 .unnumbered}
+## #03 -- Bootstrap v5.2.3
 
 ![Bootstrap v5 \| Drifting Ruby](images/image102.webp){width="1.0in"
 height="0.6308016185476816in"} - ![Bootstrap官方中文站 · 全球最流行的
@@ -3464,63 +3468,54 @@ bundle (including Popper for positioning dropdowns, poppers, and
 tooltips) before the closing \</body\>. Learn more about our [CDN
 links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links).
 
-\<!doctype html\>
+```
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<title>Bootstrap demo</title>
+<link
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+rel="stylesheet"
+integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+crossorigin="anonymous">
+</head>
+<body>
+<h1>Hello, world!</h1>
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+crossorigin="anonymous"></script>
+</body>
+</html>
+```
 
-\<html lang=\"en\"\>
+#### Additionally, popper for dropdowns, tooltips and popovers;
 
-\<head\>
+```
+<script
+src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+crossorigin="anonymous"></script>
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+crossorigin="anonymous"></script>
+```
 
-\<meta charset=\"utf-8\"\>
+##### CDN Links
 
-\<meta name=\"viewport\" content=\"width=device-width,
-initial-scale=1\"\>
-
-\<title\>Bootstrap demo\</title\>
-
-\<link
-href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css\"
-rel=\"stylesheet\"
-integrity=\"sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65\"
-crossorigin=\"anonymous\"\>
-
-\</head\>
-
-\<body\>
-
-\<h1\>Hello, world!\</h1\>
-
-\<script
-src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js\"
-integrity=\"sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4\"
-crossorigin=\"anonymous\"\>\</script\>
-
-\</body\>
-
-\</html\>
-
-#### Additionally, popper for dropdowns, tooltips and popovers; {#additionally-popper-for-dropdowns-tooltips-and-popovers .unnumbered}
-
-\<script
-src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js\"
-integrity=\"sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3\"
-crossorigin=\"anonymous\"\>\</script\>
-
-\<script
-src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js\"
-integrity=\"sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V\"
-crossorigin=\"anonymous\"\>\</script\>
-
-##### CDN Links {#cdn-links .unnumbered}
-
-#### CSS {#css-2 .unnumbered}
+#### CSS
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css>
 
-#### JS {#js .unnumbered}
+#### JS
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js>
 
-## #04 -- D3.js {#d3.js .unnumbered}
+## #04 -- D3.js
 
 ![\"D3.js Logo\" Poster by bryngo \|
 Redbubble](images/image106.webp){width="1.0in" height="1.0in"} - ![D3.js
@@ -3534,7 +3529,7 @@ data. It was released in 2011.
 
 <https://d3js.org/>
 
-##### D3 Gallery: {#d3-gallery .unnumbered}
+##### D3 Gallery:
 
 -   Voronoi stippling
 
@@ -3564,7 +3559,7 @@ data. It was released in 2011.
 
 -   Animation
 
-## #05 -- anime.js {#anime.js .unnumbered}
+## #05 -- anime.js
 
 ![Как сделать js анимацию с помощью Anime.js --- простая и мощная
 библиотека](images/image108.webp){width="3.4347823709536307in"
@@ -3585,7 +3580,7 @@ And because it's built on top of jQuery, you can take advantage of all
 the features that jQuery offers, such as [event
 handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 
-## #06 -- chart.js {#chart.js .unnumbered}
+## #06 -- chart.js
 
 ![Getting Started With Chart.js:
 Introduction](images/image110.webp){width="1.4451224846894137in"
@@ -3604,7 +3599,7 @@ to use.
 Chart.js is a flexible and simple library for designers and developers
 who can add beautiful charts and graphs to their projects in no time.
 
-[[Chart.js]{.underline}](https://www.chartjs.org/) is a powerful and
+[[Chart.js]](https://www.chartjs.org/) is a powerful and
 flexible open-source charting library for JavaScript. It allows
 developers to create line, bar, pie, and other types of charts with
 ease.
@@ -3628,7 +3623,7 @@ among developers who are already familiar with the library.
 Additionally, chart.js has a wide range of features that can be helpful
 in creating charts and visualizations.
 
-## #07 -- lodash  {#lodash .unnumbered}
+## #07 -- lodash
 
 ![Lodash Logo PNG Transparent & SVG Vector - Freebie
 Supply](images/image113.webp){width="1.0997681539807524in"
@@ -3651,7 +3646,7 @@ offers a chainable API for manipulating data.
 However, lodash is more functional in nature and provides more features
 than jQuery.
 
-## #08 -- Bideo.js {#bideo.js .unnumbered}
+## #08 -- Bideo.js
 
 ![Bideo Launch Offers the Best Way to Get Bids from Video Pros
 \...](images/image115.webp){width="1.9190288713910761in" height="1.0in"}
@@ -3671,7 +3666,7 @@ Microsoft. Video.js is open source and free to use.
 Bideo.js can be used to create custom controls for a video, or to add
 features like playback speed control and full screen mode.
 
-## #09 - Angular {#angular .unnumbered}
+## #09 - Angular
 
 ![Angular Logo PNG Transparent & SVG Vector - Freebie
 Supply](images/image116.webp){width="0.75in"
@@ -3706,7 +3701,7 @@ preferences.
 
 [**Website**](https://angular.io/) [**GitHub**](https://github.com/angular/angular)
 
-## #10 - VueJS {#vuejs .unnumbered}
+## #10 - VueJS
 
 ![VUE Logo PNG Transparent & SVG Vector - Freebie
 Supply](images/image119.webp){width="1.1582720909886264in"
@@ -3742,7 +3737,7 @@ support for TypeScript, and testing tools.
 
 [**Website**](https://vuejs.org/) [**GitHub**](https://github.com/vuejs/)
 
-## #11 - Svelte {#svelte .unnumbered}
+## #11 - Svelte
 
 ![Svelte Logo PNG Vector (SVG) Free
 Download](images/image122.webp){width="3.125in"
@@ -3783,17 +3778,17 @@ Which is ideal for fast front-end development. Here is an example:
 // Example.svelte
 
 ```
-\<script lang=\"typescript\"\>
-export let name = \'Svelte\';
-export let textColor = \'#000\';
+<script lang="typescript">
+export let name = 'Svelte';
+export let textColor = '#000';
 function reset() {
-name = \'Svelte\';
-textColor = \'#000\';
+name = 'Svelte';
+textColor = '#000';
 }
-\</script\>
-\<h1 style=\"color: {textColor}\" on:dblclick={reset}\>Hello,
-{name}!\</h1\>
-\<style\>
+</script>
+<h1 style="color: {textColor}" on:dblclick={reset}>Hello,
+{name}!</h1>
+<style>
 h1 {
 margin: auto;
 font-family: Georgia, system-ui;
@@ -3801,12 +3796,12 @@ font-size: 3rem;
 font-weight: regular;
 text-align: none;
 }
-\</style\>
+</style>
 ```
 
 [**Website**](https://svelte.dev/) [**GitHub**](https://github.com/sveltejs/svelte)
 
-## #12 - Preact {#preact .unnumbered}
+## #12 - Preact
 
 ![Preact Logo PNG Transparent & SVG Vector - Freebie
 Supply](images/image126.webp){width="0.8649639107611549in"
@@ -4042,7 +4037,7 @@ or executed.
 
 [**Website**](https://qwik.builder.io/) [**GitHub**](https://github.com/BuilderIO/qwik)
 
-## #19 -- Moment.js {#moment.js .unnumbered}
+## #19 -- Moment.js
 
 ![10 Awesome JavaScript Libraries You Should Try Out in
 2021](images/image154.webp){width="1.225353237095363in" height="1.0in"}-
@@ -4069,7 +4064,7 @@ the latest moment.js file available and then add the link inside the
 script tag. Without downloading the file, you can also use CDN link to
 run the code (see documentation).
 
-## #20 -- popper.js {#popper.js .unnumbered}
+## #20 -- popper.js
 
 ![10 impresionantes bibliotecas de JavaScript que deberías probar en
 2020 \...](images/image158.webp){width="2.0in"
@@ -4100,7 +4095,7 @@ these can be generically described as a \"popper\" element.
 
 For more documentation, see <https://popper.js.org/docs/v2/>.
 
-## #21 -- BackboneJS {#backbonejs .unnumbered}
+## #21 -- BackboneJS
 
 Backbone.js gives structure to web applications by providing models with
 key-value binding and custom events, collections with a rich API of
@@ -4127,7 +4122,7 @@ height="0.7088604549431321in"}
 
 Backbone.js Stack
 
-## Bootstrap your project {#bootstrap-your-project .unnumbered}
+## Bootstrap your project
 
 There are 2 ways to use it in your project:
 
@@ -4152,7 +4147,7 @@ the reference example project using this stack.
 For more documentation on Backbone Stack, try
 <https://resthub.github.io/docs/backbone/layout/>.
 
-## #22 -- SemanticUI {#semanticui .unnumbered}
+## #22 -- SemanticUI
 
 Semantic UI is a front-end development framework similar to bootstrap
 designed for theming. It contains pre-built semantic components that
@@ -4179,7 +4174,7 @@ Example Semantic UI website theme.
 
 For more information go to <https://semantic-ui-forest.com/>.
 
-## #23 -- Gatsby {#gatsby .unnumbered}
+## #23 -- Gatsby
 
 ## ![Blazing speed with Gatsby Js - EasyCoders - code made easy](images/image171.webp){width="3.0in" height="1.3762817147856519in"} ![Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free](images/image172.webp){width="1.38in" height="1.38in"} {#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
 
@@ -4190,7 +4185,7 @@ integration of different content, APIs and services in a web experience
 is incredibly simple", explains Gatsby js on
 his [website](https://www.gatsbyjs.com/why-gatsby).
 
-## #24 -- The MEAN Stack {#the-mean-stack .unnumbered}
+## #24 -- The MEAN Stack
 
 ![What is MEAN Stack? MEAN Stack Components and Benefits \| Thirdock
 Techkno](images/image173.webp){width="4.0in"
@@ -4213,7 +4208,7 @@ as [MERN](https://www.mongodb.com/mern-stack) (replacing Angular.js with
 React.js) and MEVN (using Vue.js). The MEAN stack is one of the most
 popular technology concepts for building web applications.
 
-## #25 -- Aurelia {#aurelia .unnumbered}
+## #25 -- Aurelia
 
 ![Pegatina «Logotipo de Aurelia - marco JS» de hipstuff \|
 Redbubble](images/image174.webp){width="1.5in" height="2.0in"}
@@ -4228,7 +4223,7 @@ applications. It follows a modular and extensible architecture,
 promoting clean code practices and a developer-friendly experience.
 Aurelia focuses on simplicity, flexibility, and modern web standards.
 
-## #26 -- Knockout.js {#knockout.js .unnumbered}
+## #26 -- Knockout.js
 
 ![Knockout.js Reviews 2022: Details, Pricing, & Features \|
 G2](images/image177.webp){width="3.0in" height="1.575in"} ![Challenges
@@ -4243,7 +4238,7 @@ model. It follows the MVVM (Model-View-ViewModel) pattern and provides
 declarative bindings, automatic UI updates, and a simple API for
 managing data and UI synchronization.
 
-## #27 -- Mithril {#mithril .unnumbered}
+## #27 -- Mithril
 
 ![Mithril. Js -- DEV.BG](images/image180.webp){width="3.0in"
 height="1.145569772528434in"} ![Mithril.js. The brave little framework
@@ -4258,7 +4253,7 @@ a minimalistic API and focuses on simplicity, performance, and size
 optimization. Despite its small footprint, Mithril offers powerful
 features for building robust web applications.
 
-## #28 -- Riot.js {#riot.js .unnumbered}
+## #28 -- Riot.js
 
 ![Introducing Riot.js, RiotControl and
 RiotGear](images/image183.webp){width="3.0in"
@@ -4271,7 +4266,7 @@ minimalistic approach. Riot.js provides a small footprint, making it
 suitable for projects where performance and size optimization are
 crucial.
 
-## #29 -- Stimulus {#stimulus .unnumbered}
+## #29 -- Stimulus
 
 ## ![Stimulus: A JavaScript Framework for People Who Love HTML](images/image185.webp){width="2.0in" height="1.385in"} ![Episode #112 - Stimulus Javascript Framework \| Preview - YouTube](images/image186.webp){width="2.0in" height="1.5in"} {#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
 
@@ -4280,7 +4275,7 @@ pages with minimal setup and a focus on progressive enhancement. It aims
 to provide a lightweight and pragmatic approach to building dynamic web
 applications by enhancing existing HTML elements with behavior.
 
-## #30 -- Tailwind CSS {#tailwind-css .unnumbered}
+## #30 -- Tailwind CSS
 
 ![How to access Tailwind CSS colors from
 Javascript](images/image187.webp){width="2.0in" height="1.0in"}
@@ -4294,7 +4289,7 @@ comprehensive set of pre-built CSS classes. It aims to simplify the
 process of styling user interfaces by offering a highly customizable and
 functional approach.
 
-## #31 -- Foundation {#foundation .unnumbered}
+## #31 -- Foundation
 
 ![JS Foundation -- Logos Download](images/image190.webp){width="2.0in"
 height="0.601496062992126in"} ![JS Foundation Announced To Bring
@@ -4307,15 +4302,15 @@ utilities. It aims to simplify the process of building responsive and
 accessible web interfaces by offering a solid foundation of customizable
 and reusable elements.
 
-## #32 - \< even more libraries/frameworks to come\> {#even-more-librariesframeworks-to-come .unnumbered}
+## #32 - \< even more libraries/frameworks to come\>
 
-## #33 - \< even more libraries/frameworks to come\> {#even-more-librariesframeworks-to-come-1 .unnumbered}
+## #33 - \< even more libraries/frameworks to come\>
 
-## #34 - \< even more libraries/frameworks to come\> {#even-more-librariesframeworks-to-come-2 .unnumbered}
+## #34 - \< even more libraries/frameworks to come\>
 
-## #35 - \< even more libraries/frameworks to come\> {#even-more-librariesframeworks-to-come-3 .unnumbered}
+## #35 - \< even more libraries/frameworks to come\>
 
-## Front-end Frameworks: A Summary {#front-end-frameworks-a-summary .unnumbered}
+## Front-end Frameworks: A Summary
 
 Developers in the front-end world are facing a number of challenges that
 are making their lives difficult. The biggest problem they\'re facing
@@ -4345,7 +4340,7 @@ So, in conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 
-# Week 3-15. Introduction to Twitter Bootstrap 3 {#week-3-15.-introduction-to-twitter-bootstrap-3 .unnumbered}
+# Week 3-15. Introduction to Twitter Bootstrap 3
 
 ![](images/image192.webp){width="4.0in" height="2.24957239720035in"}
 
@@ -4493,7 +4488,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 
-# Week 3-16. Bootstrap Breakpoints {#week-3-16.-bootstrap-breakpoints .unnumbered}
+# Week 3-16. Bootstrap Breakpoints
 
 ![](images/image198.webp){width="4.0in" height="2.24957239720035in"}
 
@@ -4620,7 +4615,7 @@ want to use, not something that you feel confined by.
     fours things and you\'ll be able to really code and understand the
     things that are coming up.
 
-# Week 3-17. Getting Started with Twitter Bootstrap {#week-3-17.-getting-started-with-twitter-bootstrap .unnumbered}
+# Week 3-17. Getting Started with Twitter Bootstrap
 
 ![](images/image206.webp){width="4.0in" height="2.24957239720035in"}
 
@@ -4833,7 +4828,7 @@ going to do it. I don\'t think you should do it, but it\'s something
 that I want you to know is possible once you really get the hang of
 what\'s going on.
 
-### Bootstrap HTML Template {#bootstrap-html-template .unnumbered}
+### Bootstrap HTML Template
 
 ![](images/image218.webp){width="4.0in" height="2.2645297462817147in"}
 
@@ -4848,94 +4843,72 @@ practice, and you write some code again. Thanks.
 
 HTML:
 
-\<!DOCTYPE html\>
-
-\<html lang=\"en\"\>
-
-\<head\>
-
-\<meta charset=\"utf-8\"\>
-
-\<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"\>
-
-\<meta name=\"viewport\" content=\"width=device-width,
-initial-scale=1\"\>
-
-\<!\-- The above 3 meta tags \*must\* come first in the head; any other
-head content must come \*after\* these tags \--\>
-
-\<title\>Bootstrap 101 Template\</title\>
-
-\<!\-- Bootstrap \--\>
-
-\<!\-- Latest compiled and minified CSS \--\>
-
-\<link rel=\"stylesheet\"
-href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\"
-integrity=\"sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7\"
-crossorigin=\"anonymous\"\>
-
-\<!\-- Latest compiled and minified JavaScript \--\>
-
-\<script
-src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\"
-integrity=\"sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS\"
-crossorigin=\"anonymous\"\>\</script\>
-
-\<!\--Include Your Style Sheets next \--\>
-
-\</head\>
-
-\<body\>
-
-\<h1\>Hello, world!\</h1\>
-
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other
+head content must come *after* these tags -->
+<title>Bootstrap 101 Template</title>
+<!-- Bootstrap -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script
+src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+crossorigin="anonymous"></script>
+<!--Include Your Style Sheets next -->
+</head>
+<body>
+<h1>Hello, world!</h1>
 How are you?
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files
+as needed -->
+<script src="js/bootstrap.min.js"></script>
+<!-- If you don't have the files saved locally, make sure to link it
+in CodePen, just like you linked the CSS. -->
+</body>
+</html>
+```
 
-\<!\-- jQuery (necessary for Bootstrap\'s JavaScript plugins) \--\>
-
-\<script
-src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"\>\</script\>
-
-\<!\-- Include all compiled plugins (below), or include individual files
-as needed \--\>
-
-\<script src=\"js/bootstrap.min.js\"\>\</script\>
-
-\<!\-- If you don\'t have the files saved locally, make sure to link it
-in CodePen, just like you linked the CSS. \--\>
-
-\</body\>
-
-\</html\>
-
-### Bootstrap grid examples {#bootstrap-grid-examples .unnumbered}
+### Bootstrap grid examples
 
 Basic grid layouts to get you familiar with building within the
 Bootstrap grid system.
 
-### Three equal columns {#three-equal-columns .unnumbered}
+### Three equal columns
 
 Get three equal-width columns **starting at desktops and scaling to
 large desktops**. On mobile devices, tablets and below, the columns will
 automatically stack.
 
-### ![](images/image219.webp){width="6.5in" height="0.3111111111111111in"}Three unequal columns {#three-unequal-columns .unnumbered}
+### ![](images/image219.webp){width="6.5in" height="0.3111111111111111in"}Three unequal columns
 
 Get three columns **starting at desktops and scaling to large
 desktops** of various widths. Remember, grid columns should add up to
 twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
 
-### ![](images/image220.webp){width="6.5in" height="0.3111111111111111in"}Two columns {#two-columns .unnumbered}
+### ![](images/image220.webp){width="6.5in" height="0.3111111111111111in"}Two columns
 
 Get two columns **starting at desktops and scaling to large desktops**.
 
-### ![](images/image221.webp){width="6.5in" height="0.29444444444444445in"}Full width, single column {#full-width-single-column .unnumbered}
+### ![](images/image221.webp){width="6.5in" height="0.29444444444444445in"}Full width, single column
 
 No grid classes are necessary for full-width elements.
 
-### Two columns with two nested columns {#two-columns-with-two-nested-columns .unnumbered}
+### Two columns with two nested columns
 
 Per the documentation, nesting is easy---just put a row of columns
 within an existing column. This gives you two columns **starting at
@@ -4947,7 +4920,7 @@ columns will stack.
 
 ![](images/image222.webp){width="6.5in" height="0.6381944444444444in"}
 
-### Mixed: mobile and desktop {#mixed-mobile-and-desktop .unnumbered}
+### Mixed: mobile and desktop
 
 The Bootstrap 3 grid system has four tiers of classes: xs (phones), sm
 (tablets), md (desktops), and lg (larger desktops). You can use nearly
@@ -4959,11 +4932,11 @@ widths for xs and sm, you only need to specify xs.
 
 ![](images/image223.webp){width="6.5in" height="1.1215277777777777in"}
 
-### Mixed: mobile, tablet, and desktop {#mixed-mobile-tablet-and-desktop .unnumbered}
+### Mixed: mobile, tablet, and desktop
 
 ![](images/image224.webp){width="6.5in" height="0.7159722222222222in"}
 
-### Column clearing {#column-clearing .unnumbered}
+### Column clearing
 
 [Clear
 floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at
@@ -4971,13 +4944,13 @@ specific breakpoints to prevent awkward wrapping with uneven content.
 
 ![](images/image225.webp){width="6.5in" height="0.54375in"}
 
-### Offset, push, and pull resets {#offset-push-and-pull-resets .unnumbered}
+### Offset, push, and pull resets
 
 Reset offsets, pushes, and pulls at specific breakpoints.
 
 ![](images/image226.webp){width="6.5in" height="0.7104166666666667in"}
 
-# Week 3-18. Bootstrap Grid System {#week-3-18.-bootstrap-grid-system .unnumbered}
+# Week 3-18. Bootstrap Grid System
 
 Hi everybody. Today, we\'re going to talk about the grid system for
 Bootstrap three.
@@ -5359,7 +5332,7 @@ luck.
 
 RD-Bootstrap Grid Example:
 
-#### HTML: {#html-3 .unnumbered}
+#### HTML:
 
 ```
 <div class = "container">
@@ -5391,7 +5364,7 @@ Screen</div>
 </div>
 ```
 
-####  CSS: {#css-3 .unnumbered}
+####  CSS:
 
 ```
 div{
@@ -5412,7 +5385,7 @@ color:green;
 }
 ```
 
-# Week 3-20. Bootstrap Navigation {#week-3-20.-bootstrap-navigation .unnumbered}
+# Week 3-20. Bootstrap Navigation
 
 Hi, everybody. Today, we\'re going to talk about navigation bars.
 
@@ -5511,102 +5484,75 @@ code to jQuery. So, let's go ahead and take a look at what we can do.
 
 RD: nav-tabs
 
-\<ul class=\"nav nav-tabs\"\>
-
-\<li role=\"presentation\" class=\"active\"\>\<a
-href=\"#\"\>Home\</a\>\</li\>
-
-\<li role=\"presentation\"\>\<a href=\"#\"\>Profile\</a\>\</li\>
-
-\<li role=\"presentation\"\>\<a href=\"#\"\>Messages\</a\>\</li\>
-
-\</ul\>
+```
+<ul class="nav nav-tabs">
+<li role="presentation" class="active"><a
+href="#">Home</a></li>
+<li role="presentation"><a href="#">Profile</a></li>
+<li role="presentation"><a href="#">Messages</a></li>
+</ul>
+```
 
 RD: nav-pills
 
-> \<ul class=\"nav nav-pills\" role=\"navigation\"\>
+```
+> <ul class="nav nav-pills" role="navigation">
 >
-> \<li role=\"presentation\" class=\"active\"\>\<a
-> href=\"#\"\>Home\</a\>\</li\>
+> <li role="presentation" class="active"><a
+> href="#">Home</a></li>
 >
-> \<li role=\"presentation\"\>\<a href=\"#\"\>Profile\</a\>\</li\>
+> <li role="presentation"><a href="#">Profile</a></li>
 >
-> \<li role=\"presentation\"\>\<a href=\"#\"\>Messages\</a\>\</li\>
+> <li role="presentation"><a href="#">Messages</a></li>
 >
-> \</ul\>
+> </ul>
+```
 
 RD: dropdowns
 
-\<ul class=\"nav nav-pills\"\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\<li role=\"presentation\" class=\"dropdown\"\>
-
-\<a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"
-role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\"\>
-
-Dropdown \<span class=\"caret\"\>\</span\>
-
-\</a\>
-
-\<ul class=\"dropdown-menu\"\>
-
-\<li\> \<a href =\"#\"\>Option One\</a\>
-
-\<li\> \<a href =\"#\"\>Option Two\</a\>
-
-\</ul\>
-
-\</li\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\</ul\>
-
-\<!\-- jQuery (necessary for Bootstrap\'s JavaScript plugins) \--\>
-
-\<script
-src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"\>\</script\>
-
-\<!\-- Include all compiled plugins (below), or include individual files
-as needed \--\>
+```
+<ul class="nav nav-pills">
+<li> <a href="#">Regular Link</a></li>
+<li> <a href="#">Regular Link</a></li>
+<li role="presentation" class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#"
+role="button" aria-haspopup="true" aria-expanded="false">
+Dropdown <span class="caret"></span>
+</a>
+<ul class="dropdown-menu">
+<li> <a href ="#">Option One</a>
+<li> <a href ="#">Option Two</a>
+</ul>
+</li>
+<li> <a href="#">Regular Link</a></li>
+</ul>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files
+as needed -->
+```
 
 RD: navbar
 
-\<nav class=\"navbar navbar-default navbar-fixed-bottom\"\>
-
-\<div class=\"container\"\>
-
-\<ul class=\"nav nav-pills\"\>
-
-\<li\> \<a href=\"#\"\>Link One\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Two\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Three\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Four\</a\>\</li\>
-
-\</ul\>
-
-\</div\>
-
-\</nav\>
-
-\<div\>1 Lots and lots of Content!!!\</div\>
-
-\<div\>2 Lots and lots of Content!!!\</div\>
-
-\<div\>3 Lots and lots of Content!!!\</div\>
-
-\<div\>4 Lots and lots of Content!!!\</div\>
-
-\<div\>5 Lots and lots of Content!!!\</div\>
-
-\<div\>6Lots and lots of Content!!!\</div\>
+```
+<nav class="navbar navbar-default navbar-fixed-bottom">
+<div class="container">
+<ul class="nav nav-pills">
+<li> <a href="#">Link One</a></li>
+<li> <a href="#">Link Two</a></li>
+<li> <a href="#">Link Three</a></li>
+<li> <a href="#">Link Four</a></li>
+</ul>
+</div>
+</nav>
+<div>1 Lots and lots of Content!!!</div>
+<div>2 Lots and lots of Content!!!</div>
+<div>3 Lots and lots of Content!!!</div>
+<div>4 Lots and lots of Content!!!</div>
+<div>5 Lots and lots of Content!!!</div>
+<div>6Lots and lots of Content!!!</div>
+```
 
 ![](images/image274.webp){width="4.0in" height="2.2572648731408576in"}
 
@@ -5622,42 +5568,28 @@ drop-down link.
 
 HTML (RD:dropdowns)
 
-\<ul class=\"nav nav-pills\"\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\<li role=\"presentation\" class=\"dropdown\"\>
-
-\<a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"
-role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\"\>
-
-Dropdown \<span class=\"caret\"\>\</span\>
-
-\</a\>
-
-\<ul class=\"dropdown-menu\"\>
-
-\<li\> \<a href =\"#\"\>Option One\</a\>
-
-\<li\> \<a href =\"#\"\>Option Two\</a\>
-
-\</ul\>
-
-\</li\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\</ul\>
-
-\<!\-- jQuery (necessary for Bootstrap\'s JavaScript plugins) \--\>
-
-\<script
-src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"\>\</script\>
-
-\<!\-- Include all compiled plugins (below), or include individual files
-as needed \--\>
+```
+<ul class="nav nav-pills">
+<li> <a href="#">Regular Link</a></li>
+<li> <a href="#">Regular Link</a></li>
+<li role="presentation" class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#"
+role="button" aria-haspopup="true" aria-expanded="false">
+Dropdown <span class="caret"></span>
+</a>
+<ul class="dropdown-menu">
+<li> <a href ="#">Option One</a>
+<li> <a href ="#">Option Two</a>
+</ul>
+</li>
+<li> <a href="#">Regular Link</a></li>
+</ul>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files
+as needed -->
+```
 
 Now hopefully, when we go through, you would think that when I click on
 the drop-down, something should drop-down and it didn\'t. I do this on
@@ -5686,37 +5618,24 @@ these little tripping points. That\'s why I encourage people to add code
 slowly and incrementally and keep testing every few minutes to make sure
 that you\'re on the right path.
 
-\<nav class=\"navbar navbar-default navbar-fixed-bottom\"\>
-
-\<div class=\"container\"\>
-
-\<ul class=\"nav nav-pills\"\>
-
-\<li\> \<a href=\"#\"\>Link One\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Two\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Three\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Four\</a\>\</li\>
-
-\</ul\>
-
-\</div\>
-
-\</nav\>
-
-\<div\>1 Lots and lots of Content!!!\</div\>
-
-\<div\>2 Lots and lots of Content!!!\</div\>
-
-\<div\>3 Lots and lots of Content!!!\</div\>
-
-\<div\>4 Lots and lots of Content!!!\</div\>
-
-\<div\>5 Lots and lots of Content!!!\</div\>
-
-\<div\>6Lots and lots of Content!!!\</div\>
+```
+<nav class="navbar navbar-default navbar-fixed-bottom">
+<div class="container">
+<ul class="nav nav-pills">
+<li> <a href="#">Link One</a></li>
+<li> <a href="#">Link Two</a></li>
+<li> <a href="#">Link Three</a></li>
+<li> <a href="#">Link Four</a></li>
+</ul>
+</div>
+</nav>
+<div>1 Lots and lots of Content!!!</div>
+<div>2 Lots and lots of Content!!!</div>
+<div>3 Lots and lots of Content!!!</div>
+<div>4 Lots and lots of Content!!!</div>
+<div>5 Lots and lots of Content!!!</div>
+<div>6Lots and lots of Content!!!</div>
+```
 
 ![](images/image278.webp){width="4.0in" height="2.2572648731408576in"}
 
@@ -5783,104 +5702,73 @@ show up on the screen.
 
 RD-Nav Tabs:
 
-\<ul class=\"nav nav-tabs\"\>
-
-\<li role=\"presentation\" class=\"active\"\>\<a
-href=\"#\"\>Home\</a\>\</li\>
-
-\<li role=\"presentation\"\>\<a href=\"#\"\>Profile\</a\>\</li\>
-
-\<li role=\"presentation\"\>\<a href=\"#\"\>Messages\</a\>\</li\>
-
-\</ul\>
+```
+<ul class="nav nav-tabs">
+<li role="presentation" class="active"><a
+href="#">Home</a></li>
+<li role="presentation"><a href="#">Profile</a></li>
+<li role="presentation"><a href="#">Messages</a></li>
+</ul>
+```
 
 RD-Nav-Pills:
 
-\<ul class=\"nav nav-pills\" role=\"navigation\"\>
-
-\<li role=\"presentation\" class=\"active\"\>\<a
-href=\"#\"\>Home\</a\>\</li\>
-
-\<li role=\"presentation\"\>\<a href=\"#\"\>Profile\</a\>\</li\>
-
-\<li role=\"presentation\"\>\<a href=\"#\"\>Messages\</a\>\</li\>
-
-\</ul\>
+```
+<ul class="nav nav-pills" role="navigation">
+<li role="presentation" class="active"><a
+href="#">Home</a></li>
+<li role="presentation"><a href="#">Profile</a></li>
+<li role="presentation"><a href="#">Messages</a></li>
+</ul>
+```
 
 RD-Dropdowns:
 
-\<ul class=\"nav nav-pills\"\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\<li role=\"presentation\" class=\"dropdown\"\>
-
-\<a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\"
-role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\"\>
-
-Dropdown \<span class=\"caret\"\>\</span\>
-
-\</a\>
-
-\<ul class=\"dropdown-menu\"\>
-
-\<li\> \<a href =\"#\"\>Option One\</a\>
-
-\<li\> \<a href =\"#\"\>Option Two\</a\>
-
-\</ul\>
-
-\</li\>
-
-\<li\> \<a href=\"#\"\>Regular Link\</a\>\</li\>
-
-\</ul\>
-
-\<!\-- jQuery (necessary for Bootstrap\'s JavaScript plugins) \--\>
-
-\<script
-src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"\>\</script\>
-
-\<!\-- Include all compiled plugins (below), or include individual files
-as needed \--\>
+```
+<ul class="nav nav-pills">
+<li> <a href="#">Regular Link</a></li>
+<li> <a href="#">Regular Link</a></li>
+<li role="presentation" class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#"
+role="button" aria-haspopup="true" aria-expanded="false">
+Dropdown <span class="caret"></span>
+</a>
+<ul class="dropdown-menu">
+<li> <a href ="#">Option One</a>
+<li> <a href ="#">Option Two</a>
+</ul>
+</li>
+<li> <a href="#">Regular Link</a></li>
+</ul>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files
+as needed -->
+```
 
 RD-Navbar:
 
-\<nav class=\"navbar navbar-default navbar-fixed-bottom\"\>
+```
+<nav class="navbar navbar-default navbar-fixed-bottom">
+<div class="container">
+<ul class="nav nav-pills">
+<li> <a href="#">Link One</a></li>
+<li> <a href="#">Link Two</a></li>
+<li> <a href="#">Link Three</a></li>
+<li> <a href="#">Link Four</a></li>
+</ul>
+</div>
+</nav>
+<div>1 Lots and lots of Content!!!</div>
+<div>2 Lots and lots of Content!!!</div>
+<div>3 Lots and lots of Content!!!</div>
+<div>4 Lots and lots of Content!!!</div>
+<div>5 Lots and lots of Content!!!</div>
+<div>6Lots and lots of Content!!!</div>
+```
 
-\<div class=\"container\"\>
-
-\<ul class=\"nav nav-pills\"\>
-
-\<li\> \<a href=\"#\"\>Link One\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Two\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Three\</a\>\</li\>
-
-\<li\> \<a href=\"#\"\>Link Four\</a\>\</li\>
-
-\</ul\>
-
-\</div\>
-
-\</nav\>
-
-\<div\>1 Lots and lots of Content!!!\</div\>
-
-\<div\>2 Lots and lots of Content!!!\</div\>
-
-\<div\>3 Lots and lots of Content!!!\</div\>
-
-\<div\>4 Lots and lots of Content!!!\</div\>
-
-\<div\>5 Lots and lots of Content!!!\</div\>
-
-\<div\>6Lots and lots of Content!!!\</div\>
-
-# Demystifying Bootstrap {#demystifying-bootstrap .unnumbered}
+# Demystifying Bootstrap
 
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
@@ -5901,7 +5789,7 @@ current trends. You can\'t live in a bubble.
 
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 
-# Week 4-21. Responsive Images {#week-4-21.-responsive-images .unnumbered}
+# Week 4-21. Responsive Images
 
 ![](images/image283.webp){width="4.0in" height="2.247435476815398in"}
 
@@ -5985,19 +5873,16 @@ to re-size the screen a bit.
 That you can see my dog stays there, he doesn\'t shrink, he doesn\'t do
 anything like that.
 
-#### CSS: {#css-4 .unnumbered}
+#### CSS:
 
+```
 Div {
-
 Width: 50%;
-
 }
-
 Img {
-
 Width: 75%;
-
 }
+```
 
 ![](images/image291.webp){width="6.0in" height="3.3711537620297465in"}
 
@@ -6104,61 +5989,45 @@ part is to get as much experience and practice as possible.
 
 RD-Responsive Images:
 
-\<div\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"img-responsive img-thumbnail\"\>
-
-\</div\>
-
-\<!\-- responsive, rounded, circle, thumbnail \--\>
+```
+<div>
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="img-responsive img-thumbnail">
+</div>
+<!-- responsive, rounded, circle, thumbnail -->
+```
 
 RD-Responsive Image Thumbnails:
 
-\<div class = \"container\"\>
+```
+<div class = "container">
+<div class = "row">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+<img src =
+"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+</div>
+```
 
-\<div class = \"row\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\<img src =
-\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg\"
-
-class=\"col-sm-6 col-md-4 col-lg-2 img-thumbnail\"\>
-
-\</div\>
-
-# Week 4-22. Bootstrap Tables {#week-4-22.-bootstrap-tables .unnumbered}
+# Week 4-22. Bootstrap Tables
 
 ![](images/image301.webp){width="4.0in" height="2.0858978565179354in"}
 
@@ -6331,33 +6200,24 @@ responsive design, CSS and just good coding skills.
 
 RD-Bootstrap Tables:
 
-\<!\-- The bootstrap class is already linked.
-
+```
+<!-- The bootstrap class is already linked.
 Try these classes: table, table-striped, table-bordered, table-hover,
-table-responsive, active, success, info, danger, warning \--\>
+table-responsive, active, success, info, danger, warning -->
+<div class="table-responsive">
+<table class="table table-striped table-bordered table-hover ">
+<tr><th>City</th><th>State</th></tr>
+<tr class = "warning"><td
+>Ashtabula</td><td>Ohio</td></tr>
+<tr><td>Los Angeles</td><td>California</td></tr>
+<tr><td>Fort Myers</td><td>Florida</td></tr>
+<tr><td>Tucson</td><td>Arizona</td></tr>
+<tr><td>Tulsa</td><td>Oklahoma</td></tr>
+</table>
+</div>
+```
 
-\<div class=\"table-responsive\"\>
-
-\<table class=\"table table-striped table-bordered table-hover \"\>
-
-\<tr\>\<th\>City\</th\>\<th\>State\</th\>\</tr\>
-
-\<tr class = \"warning\"\>\<td
-\>Ashtabula\</td\>\<td\>Ohio\</td\>\</tr\>
-
-\<tr\>\<td\>Los Angeles\</td\>\<td\>California\</td\>\</tr\>
-
-\<tr\>\<td\>Fort Myers\</td\>\<td\>Florida\</td\>\</tr\>
-
-\<tr\>\<td\>Tucson\</td\>\<td\>Arizona\</td\>\</tr\>
-
-\<tr\>\<td\>Tulsa\</td\>\<td\>Oklahoma\</td\>\</tr\>
-
-\</table\>
-
-\</div\>
-
-# Week 4-23. Code with Me: Advanced Navigation {#week-4-23.-code-with-me-advanced-navigation .unnumbered}
+# Week 4-23. Code with Me: Advanced Navigation
 
 Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you\'re really likely to find online. And
@@ -6462,58 +6322,37 @@ write your own code effectively.
 
 RD-Advanced Navigation:
 
-\<nav class=\"navbar navbar-inverse\"\>
+```
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle"
+data-toggle="collapse" data-target="#myNavbar">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="#">WebSiteName</a>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav">
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#">Page 1</a></li>
+<li><a href="#">Page 2</a></li>
+<li><a href="#">Page 3</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="#"><span class="glyphicon
+glyphicon-user"></span> Sign Up</a></li>
+<li><a href="#"><span class="glyphicon
+glyphicon-log-in"></span> Login</a></li>
+</ul>
+</div>
+</div>
+</nav>
+```
 
-\<div class=\"container-fluid\"\>
-
-\<div class=\"navbar-header\"\>
-
-\<button type=\"button\" class=\"navbar-toggle\"
-data-toggle=\"collapse\" data-target=\"#myNavbar\"\>
-
-\<span class=\"icon-bar\"\>\</span\>
-
-\<span class=\"icon-bar\"\>\</span\>
-
-\<span class=\"icon-bar\"\>\</span\>
-
-\</button\>
-
-\<a class=\"navbar-brand\" href=\"#\"\>WebSiteName\</a\>
-
-\</div\>
-
-\<div class=\"collapse navbar-collapse\" id=\"myNavbar\"\>
-
-\<ul class=\"nav navbar-nav\"\>
-
-\<li class=\"active\"\>\<a href=\"#\"\>Home\</a\>\</li\>
-
-\<li\>\<a href=\"#\"\>Page 1\</a\>\</li\>
-
-\<li\>\<a href=\"#\"\>Page 2\</a\>\</li\>
-
-\<li\>\<a href=\"#\"\>Page 3\</a\>\</li\>
-
-\</ul\>
-
-\<ul class=\"nav navbar-nav navbar-right\"\>
-
-\<li\>\<a href=\"#\"\>\<span class=\"glyphicon
-glyphicon-user\"\>\</span\> Sign Up\</a\>\</li\>
-
-\<li\>\<a href=\"#\"\>\<span class=\"glyphicon
-glyphicon-log-in\"\>\</span\> Login\</a\>\</li\>
-
-\</ul\>
-
-\</div\>
-
-\</div\>
-
-\</nav\>
-
-# Week 4-24. What Are Templates? {#week-4-24.-what-are-templates .unnumbered}
+# Week 4-24. What Are Templates?
 
 Hi everybody. Many times, if you\'re talking to people who do web
 design, you\'ve got the people who think, I hate Bootstrap, and other
@@ -6655,7 +6494,7 @@ these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
 
-# Week 4-25. Interview: M W {#week-4-25.-interview-m-w .unnumbered}
+# Week 4-25. Interview: M W
 
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn\'t show up, but luckily, I ran into one of my old
@@ -6808,7 +6647,7 @@ hope it\'s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you\'re going to go into. So thank you
 
-# Week 4-26. Interview: H W {#week-4-26.-interview-h-w .unnumbered}
+# Week 4-26. Interview: H W
 
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I\'ve just run into
@@ -6965,7 +6804,7 @@ the fact that they\'re following what they enjoy and they\'re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 
-# Week 4-27. Interview with H N {#week-4-27.-interview-with-h-n .unnumbered}
+# Week 4-27. Interview with H N
 
 Hi everybody. Welcome back.
 
@@ -7162,7 +7001,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 
-# Week 4-28. Bootstrap 4/5 {#week-4-28.-bootstrap-45 .unnumbered}
+# Week 4-28. Bootstrap 4/5
 
 Hi, everybody. Let\'s talk about Bootstrap 4 and 5. In this class I\'ve
 been talking about Bootstrap 3 exclusively. Those are the materials I
@@ -7209,7 +7048,7 @@ really useful and you\'re going to be able to use it for long time.
 Bootstrap 4 can only make things better, so if it\'s something you\'re
 interested in, go ahead. I myself am excited to see where it goes.
 
-# Week 4-29. Conclusion {#week-4-29.-conclusion .unnumbered}
+# Week 4-29. Conclusion
 
 Congratulations everybody. I\'m really glad that we had this chance to
 learn about responsive design.
@@ -7244,7 +7083,7 @@ really have all the knowledge you need.
 So, thank you for coming along with us, and I hope you enjoyed the
 class.
 
-### The Evolution of the Airbnb front-end development {#the-evolution-of-the-airbnb-front-end-development .unnumbered}
+### The Evolution of the Airbnb front-end development
 
 This is an interesting article on the evolution of the Airbnb website.
 
@@ -7255,21 +7094,21 @@ CSS tutorial actually uses a similar platform to teach about Bootstrap.
 
 ***This material is not required for the course.***
 
-### Debugging your style with Firebug {#debugging-your-style-with-firebug .unnumbered}
+### Debugging your style with Firebug
 
 I tend to use Chrome as my browser, and Inspect Element to debug my
 site. However, here is a tutorial for another very popular development
 tool - Firebug. This video by Vicki Watson will walk you through how it
 works. <https://www.ostraining.com/blog/coding/bootstrap-firebug/>
 
-### More resources for learning to debug/develop {#more-resources-for-learning-to-debugdevelop .unnumbered}
+### More resources for learning to debug/develop
 
 If anyone wants to improve testing and debugging skills using Chrome.
 Codeschool has free course about DevTools:
 
 <https://www.codeschool.com/courses/discover-devtools>
 
-# Keep Learning with Michigan Online {#keep-learning-with-michigan-online .unnumbered}
+# Keep Learning with Michigan Online
 
 ![](images/image332.webp){width="3.0in" height="0.3961537620297463in"}
 
