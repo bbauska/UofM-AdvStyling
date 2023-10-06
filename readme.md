@@ -8,7 +8,6 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofmichigan-advstyling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction to resp design (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.webp?raw=true"
   width="45%"
@@ -19,7 +18,6 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h3 align="center"> </h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image002.webp?raw=true"
   width="25%"
@@ -214,9 +212,10 @@ has a pdf and powerpoint copy of all of the slides.
 I have also attached the pdf and powerpoint slide for each module
 directly in the module text themselves. Just look in the Downloads
 section to view them.
-
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.webp){width="6.5in"
-height="4.603945756780402in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. media queries review (04) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.webp)
+style="width:6.5in height:4.603945756780402in"
 
 # There are 4 modules in this course
 
@@ -461,8 +460,10 @@ course.
 
 # Week 1-01. Introduction to Responsive Design {#week-1-01.-introduction-to-responsive-design .unnumbered}
 
-![The BASICS of Responsive Design.](images/image005.webp){width="4.0in"
-height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![The BASICS of Responsive Design.](images/image005.webp)
+{width="4.0in" height="2.0931627296587925in"}
 
 Welcome to introduction to responsive design. In this course, we\'re
 going to talk about different ways that you can make your website look
@@ -480,11 +481,11 @@ However, we also want to talk about using ***frameworks.***
 Because if other people are using software or different code to make
 their site look great, why not take advantage of it and learn how to use
 it yourself.
-
-![Week One: - Theory - What does responsive design mean? - What makes
-for good design? - Role of fluid
-measurements.](images/image006.webp){width="4.0in"
-height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. week 1 - theory (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Week One: - Theory - What does responsive design mean? - What makes for good design? 
+- Role of fluid measurements.](images/image006.webp)
+{width="4.0in" height="2.0931627296587925in"}
 
 In week **one**, we\'re really going to focus on the theory.
 
@@ -504,11 +505,11 @@ Finally, we\'re going to end the week talking about something very
 concrete and that\'s the role of what we call fluid measurements; these
 different type of measurements that can change as the screen size
 changes.
-
-![Week Two: - Media queries - What are they? - How do you plan 1st for
-best practices? - What is the relationship with break points? - How to
-make a navigation bar?](images/image007.webp){width="4.0in"
-height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 2 - media queries (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Week Two: - Media queries - What are they? - How do you plan 1st for best practices? - 
+What is the relationship with break points? - How to make a navigation bar?](images/image007.webp)
+{width="4.0in" height="2.0931627296587925in"}
 
 In week **two** we\'re going to tackle media queries.
 
@@ -532,10 +533,12 @@ code together to make a navigation bar.
 
 By the end of week two, you\'re going to be ready and feel like you can
 really tackle this.
-
-![Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - Getting
-Started, grid system, and navigation.](images/image008.webp){width="4.0in"
-height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Week Three: - Frameworks - Benefits & pitfalls - 
+Bootstrap 3 - Getting Started, grid system, and navigation.]
+(images/image008.webp)
+{width="4.0in" height="2.0931627296587925in"}
 
 In week **three**, we\'re going to shift a little bit and instead of
 writing our own code.
@@ -567,9 +570,11 @@ also again, a navigation bar.
 Because these are the keys to really getting your site to have that
 responsive feel.
 
-![Week Four: - More bootstrap - Images, tables, advanced navigation -
-Case studies](images/image009.webp){width="4.0in"
-height="2.110255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. week 4 - more bootstrap (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies]
+(images/image009.webp)
+{width="4.0in" height="2.110255905511811in"}
 
 Finally, in week **four**, we\'re going to continue with more bootstrap,
 but we\'re going to talk about things such as images, tables, and maybe
@@ -582,11 +587,12 @@ So, we leave them at the end to make them something more we can play
 around with. We\'re also, I\'m hoping to get to some case studies.
 We\'re going to talk to people about how they approached designing the
 responsiveness their real-life sites.
-
-![Final Project - Use your coding skills to create a responsive page
-using multiple methods (framework & media
-queries).](images/image010.webp){width="4.0in"
-height="2.110255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 10. final project - responsive page lab (12) ~~~~~~~~~~~~~~~~~~~~~~~-->
+![Final Project - Use your coding skills to create a 
+responsive page using multiple methods (framework & media queries).]
+(images/image010.webp)
+{width="4.0in" height="2.110255905511811in"}
 
 We will do this with the culmination of a final project.
 
@@ -7122,3 +7128,4 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
+<!-- 10-6-2023 10:06am -->
