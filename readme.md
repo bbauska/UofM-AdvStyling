@@ -5975,12 +5975,15 @@ thinking about that extra small screen, even if you\'re not thinking
 about it. And by default, if you don\'t declare a rule for extra small,
 it\'s going to default for 12. So that\'s why on the extra small screen,
 you get one dog.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image299.webp){width="6.0in" height="6.9375in"}
 
 The small screen you get two in each row.
 
 Then you go to three on the media screen image size.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image300.webp){width="6.0in" height="4.747436570428697in"}
 
@@ -6034,6 +6037,8 @@ class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
 ```
 
 # Week 4-22. Bootstrap Tables
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image301.webp){width="4.0in" height="2.0858978565179354in"}
 
@@ -6049,11 +6054,15 @@ When we write our own code, we tend to make classes that stand alone.
 I\'m going to make this special class and it\'s going to style
 everything beautifully. In Bootstrap, instead you need to layer multiple
 classes on top of each other to get a really specific look.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image302.webp){width="4.0in" height="2.0858978565179354in"}
 
 The table class, the class just class equals table, it\'s the
 foundation. You need to have that class every time you style tables.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image303.webp){width="4.0in" height="2.0858978565179354in"}
 
@@ -6066,6 +6075,8 @@ You can also us the class, table-striped, in addition to the table
 class. This stripes your table with a kind of odd and even look. Every
 odd row has a little bit of color, every even row is just background
 transparent.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image304.webp){width="4.0in" height="2.2576924759405075in"}
 
@@ -6076,6 +6087,8 @@ We can also add a hover. This adds a hovering state so as you move your
 mouse or whenever you access the different rows it can change the look.
 It\'s also possible to have responsive tables. It actually sounds I
 think a little cooler than it is.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image305.webp){width="4.0in" height="2.2576924759405075in"}
 
@@ -6088,6 +6101,8 @@ screen. You just kind of scroll.
 
 But anything over 768 pixels. Well, then you\'re just going to get that
 default view. There\'s no default scrolling at the bottom.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 306.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image306.webp){width="4.0in" height="2.2576924759405075in"}
 
@@ -6108,6 +6123,8 @@ really encourage you in this particular case to go onto CodePen and
 check out this Bootstrap tables code from the responsive design section.
 So, what I\'ve done here is I\'ve made a very simple table. I already
 went in and included the link to Bootstrap style in CodePen.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image307.webp){width="7.0in" height="3.9449792213473316in"}
 
@@ -6116,6 +6133,8 @@ When I add table class equals table, right away you can see wow, that
 looks so much better, all right? You didn\'t have to add any of your own
 styling at all. And now it went from just a bunch of text to something
 that really does look like a table.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image308.webp){width="7.0in" height="3.9449792213473316in"}
 
@@ -6132,6 +6151,8 @@ just table, yeah. I always forget. I\'m going to be honest. I always
 forget whether it\'s table border, or bordered. Apparently, it\'s
 bordered. And once we add that you can see that it\'s added the lines in
 between.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image309.webp){width="7.0in" height="3.9449792213473316in"}
 
@@ -6142,6 +6163,8 @@ little bit of a hover styling effect. The next thing I want to talk to
 you about is the table responsive. It actually took me quite a bit of
 time to get this one to work, and I couldn\'t figure out what was going
 on.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image310.webp){width="4.0in" height="2.4218755468066493in"}
 
@@ -6164,6 +6187,8 @@ smaller, still nothing happened. That\'s because if you want to use
 table responsive, you need to put this class on the parent container,
 all right. I\'m going to go here, so I\'m going to add the class equals
 responsive, oops, table responsive, to the div class.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image311.webp){width="4.0in" height="2.1333333333333333in"}
 
@@ -6176,6 +6201,8 @@ other information underneath, it won\'t be spread out as much, so I can
 get that scroll right up to I think I said about 768. So even here, it
 takes up all the space, I don\'t need it. But that response is just
 basically going to let people scroll.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image312.webp){width="7.0in" height="2.975748031496063in"}
 
@@ -6190,6 +6217,8 @@ active it\'s going to set it to, did I do that right? Yeah, you can\'t
 even see it. It\'s barely even colored but it\'s there. You can also do
 danger. That\'s your pink. And warning. Oops that will not work. And in
 this one again you can see that it turns in a kind of yellowish color.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image313.webp){width="4.0in" height="2.2547003499562557in"}
 
@@ -6229,6 +6258,8 @@ Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you\'re really likely to find online. And
 that\'s the code for using Bootstrap to make a collapsible navigation
 menu (see end of module for source).
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image314.webp){width="6.0in" height="3.382050524934383in"}
 
@@ -6245,18 +6276,24 @@ Now, if you were using an editor such as Sublime or Atom, you would want
 to go in and actually edit the head of your document because you need to
 remember to link to the style sheets. When we use CodePen, we can just
 do this.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 315.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image315.webp){width="6.5in" height="3.6638888888888888in"}
 
 Settings \> CSS, you know what? I want to add Bootstrap, and I\'ve got
 it. As soon as I do that, you can see like, hey, this is a really much
 better-looking navigation bar. I\'ve got all the different components.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image316.webp){width="4.0in" height="2.581560586176728in"}
 
 And if you watch, as I re-size it and make it smaller, we get this kind
 of collapsible menu. People tend to call this the hamburger, because you
 have the three lines.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image317.webp){width="4.0in" height="4.728132108486439in"}
 
@@ -6296,6 +6333,8 @@ what\'s going on with these individual lines of code?
 What do they mean because if you\'re going to use Bootstrap, and you
 want the coolest things, you find that it can be a little overwhelming
 at times, so let\'s take a look.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image318.webp){width="6.0in" height="3.2980774278215224in"}
 
@@ -6371,6 +6410,8 @@ believe that every website should be unique and original. Let\'s go
 ahead and talk about some of those free templates that I\'m talking
 about because, if it sounds really good to you, I want to get you in the
 right direction.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image319.webp){width="4.0in" height="2.2658114610673667in"}
 
@@ -6378,12 +6419,16 @@ This first link comes from getbootstrap.com. These are just the ones
 that provide you when you first get started. These other two,
 bootstrapzero.com and startbootstrap.com, these are just ones I found
 either through word of mouth or through a search engine.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image320.webp){width="6.0in" height="3.424359142607174in"}
 
 Let\'s take a look. So here I am at the getbootstrap.com kind of default
 page where you can find out where to download, and where to get the
 different links, and things like that.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image321.webp){width="6.0in" height="3.527564523184602in"}
 
@@ -6394,12 +6439,16 @@ your pages with a simple, hello world. They also include a lot of
 different examples of other templates. So, you could click in and say,
 you know what? I want this template right here. I want my site to look
 like this one right here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image322.webp){width="6.0in" height="3.527564523184602in"}
 
 Or I really like the look of this one. And you can use it to build very
 basic templates. Again, nothing too fancy, because the assumption is
 that you\'re here to learn, more than to use as your professional site.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image323.webp){width="6.0in" height="3.527564523184602in"}
 
@@ -6408,6 +6457,8 @@ this next option. So here I am at bootstrapzero.com, and you can see
 that, again, they\'re listing a bunch of free Bootstrap themes. They
 tend to go in these general ideas of, do you want it to be a landing
 zone, do you want it to have kind of a dashboard look, you can pick.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image324.webp){width="6.0in" height="3.527564523184602in"}
 
@@ -6417,6 +6468,8 @@ kind of things you can have. It mentions that it\'s built for laptop and
 mobile view, as well as well as different views. It can talk about
 different things that you use. Different keywords, we use Bootstrap and
 the grid, and we use a form, and we have a video background.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](images/image325.webp){width="4.0in" height="2.3517093175853017in"}
 
@@ -6424,8 +6477,14 @@ But what you probably really care about at this point is, what does it
 look like? So let\'s hit this preview button right down here. And
 quickly you can see what the page would look like on the different
 platforms.
-
-![](images/image326.webp){width="4.0in" height="6.0625in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. simple one page design (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image326.webp"
+  width="40%"
+  alt="Simple one page design." />
+</p>
+<!-- {width="4.0in" height="6.0625in"} -->
 
 I\'m going to resize the screen, and you go a little bit further down.
 And they have that kind of drop-down menu here. Still have the video,
@@ -6433,8 +6492,14 @@ they talk about their reflexive layout. So, this is great and all, but
 what do you with it if you really like it? What you do is they always
 offer this download option right here. And you can download the code and
 then start playing with it yourself.
-
-![](images/image327.webp){width="4.0in" height="2.439744094488189in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 327. start bootstrap themes and templates (203) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image327.webp"
+  width="40%"
+  alt="Start Bootstrap themes and templates." />
+</p>
+<!-- {width="4.0in" height="2.439744094488189in"} -->
 
 The same is true if you go to Start Bootstrap where you can get other
 themes and templates. Again, it\'s open source which means it\'s
@@ -6445,16 +6510,29 @@ kind of mention it in your comments, give them a thumbs up, it\'s going
 to help them become better programmers.
 
 So again, they break it down in different ideas.
-
-![](images/image328.webp){width="6.0in" height="3.6596161417322834in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 328. bootstrap download and preview blog example (203) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image328.webp"
+  width="60%"
+  alt="Bootstrap download and preview blog example." />
+</p>
+<!-- {width="6.0in" height="3.6596161417322834in"} -->
 
 Do you want a blog page? Hey, let\'s go ahead and preview and download
 that one. Each one of these elements are going to have things that you
 really like about them, but they might have some things that you don\'t
 like about them as well. So how do we use them? I mentioned that one of
 the things you can do is you can just download the code.
-
-![](images/image329.webp){width="4.0in" height="2.235042650918635in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 329. bootstrap template examples (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image329.webp"
+  width="40%"
+  alt="Bootstrap template examples." />
+</p>
+<!-- {width="4.0in" height="2.235042650918635in"} -->
 
 But before you go across and you go, that one\'s awesome, I really like
 the look at that page, you need to decide if the template is really
@@ -6477,7 +6555,13 @@ people. When you know a little bit, it can really help you make huge
 changes in the templates.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. how to use bootstrap templates (204) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![How to use Bootstrap Templates.](images/image330.webp){width="4.0in" height="2.235042650918635in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image330.webp"
+  width="40%"
+  alt="How to use Bootstrap Templates." />
+</p>
+<!-- {width="4.0in" height="2.235042650918635in"} -->
 
 The last thing you\'re going to with the modify HTML is add or remove
 components.
@@ -6491,7 +6575,12 @@ you\'re feeling really powerful, you can also go in and add parts that
 you do want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. that's it - bootstrap (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![That's it - Bootstrap Template](images/image331.webp){width="4.0in" height="2.235042650918635in"}
+<p align="center" width="100%">
+<img src="/images/image331.webp"
+  width="40%"
+  alt="That's it - Bootstrap Template." />
+</p>
+<!-- {width="4.0in" height="2.235042650918635in"} -->
 
 So, using Bootstrap is really that easy. Even if you don\'t understand
 HTML or CSS, or you understand JavaScript but you hate it so much, it\'s
