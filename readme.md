@@ -6102,9 +6102,13 @@ screen. You just kind of scroll.
 But anything over 768 pixels. Well, then you\'re just going to get that
 default view. There\'s no default scrolling at the bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 306.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image306.webp){width="4.0in" height="2.2576924759405075in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. row, header and cell classes (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image306.webp"
+  width="40%"
+  alt="Row, header &amp; cell classes." />
+</p>
+<!-- {width="4.0in" height="2.2576924759405075in"} -->
 
 It\'s also possible to style some of the individual elements. Instead of
 the entire table, you can style a single cell, part of a row, or part of
@@ -6124,9 +6128,13 @@ check out this Bootstrap tables code from the responsive design section.
 So, what I\'ve done here is I\'ve made a very simple table. I already
 went in and included the link to Bootstrap style in CodePen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image307.webp){width="7.0in" height="3.9449792213473316in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. add some classes (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image307.webp"
+  width="80%"
+  alt="Add some classes." />
+</p>
+<!-- {width="7.0in" height="3.9449792213473316in"} -->
 
 So now, I\'m just going to add some classes so you can see how it looks.
 When I add table class equals table, right away you can see wow, that
@@ -6134,9 +6142,13 @@ looks so much better, all right? You didn\'t have to add any of your own
 styling at all. And now it went from just a bunch of text to something
 that really does look like a table.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image308.webp){width="7.0in" height="3.9449792213473316in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. table-striped (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image308.webp"
+  width="80%"
+  alt="Table striped example." />
+</p>
+<!-- {width="7.0in" height="3.9449792213473316in"} -->
 
 I can add in table-striped, and before I hit that D, I want you to look
 at the picture, and then look again. You\'re going to want to look at
@@ -6152,9 +6164,13 @@ forget whether it\'s table border, or bordered. Apparently, it\'s
 bordered. And once we add that you can see that it\'s added the lines in
 between.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image309.webp){width="7.0in" height="3.9449792213473316in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. table hover (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image309.webp"
+  width="80%"
+  alt="Table hover example." />
+</p>
+<!-- {width="7.0in" height="3.9449792213473316in"} -->
 
 The last one I\'m going to add right here is the table hover. When I
 save that one, again, it\'s a very gentle look. It\'s not something you
@@ -6164,9 +6180,13 @@ you about is the table responsive. It actually took me quite a bit of
 time to get this one to work, and I couldn\'t figure out what was going
 on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image310.webp){width="4.0in" height="2.4218755468066493in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. table hover example (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image310.webp"
+  width="40%"
+  alt="Table hover example." />
+</p>
+<!-- {width="4.0in" height="2.4218755468066493in"} -->
 
 First, let\'s look at this table when I make the screen really small.
 Here we go, as I make it smaller and smaller it\'s just going to shrink
@@ -6188,9 +6208,13 @@ table responsive, you need to put this class on the parent container,
 all right. I\'m going to go here, so I\'m going to add the class equals
 responsive, oops, table responsive, to the div class.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image311.webp){width="4.0in" height="2.1333333333333333in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. scroll bar example (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image311.webp"
+  width="40%"
+  alt="Scroll example bar." />
+</p>
+<!-- {width="4.0in" height="2.1333333333333333in"} -->
 
 I\'m going to save it, and now when I resize it, at first, it doesn\'t
 look very much different, but now, if I actually go to the table, you
@@ -6202,9 +6226,13 @@ get that scroll right up to I think I said about 768. So even here, it
 takes up all the space, I don\'t need it. But that response is just
 basically going to let people scroll.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image312.webp){width="7.0in" height="2.975748031496063in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. example in codepen (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image312.webp"
+  width="80%"
+  alt="Example in CodePen." />
+</p>
+<!-- {width="7.0in" height="2.975748031496063in"} -->
 
 I\'m going to get rid of some of this extra ugliness for just a second.
 Get it back to our old one, and then the last thing I was going to show
@@ -6218,9 +6246,13 @@ even see it. It\'s barely even colored but it\'s there. You can also do
 danger. That\'s your pink. And warning. Oops that will not work. And in
 this one again you can see that it turns in a kind of yellowish color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image313.webp){width="4.0in" height="2.2547003499562557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 313. tables - should you use them? (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image313.webp"
+  width="40%"
+  alt="Tables - Should You Use Them?" />
+</p>
+<!-- {width="4.0in" height="2.2547003499562557in"} -->
 
 I\'m not a super big fan of some of these classes just because they\'re
 so nuanced and hard to even tell. Visually, I think it\'d probably be
@@ -6259,9 +6291,13 @@ today is take some code that you\'re really likely to find online. And
 that\'s the code for using Bootstrap to make a collapsible navigation
 menu (see end of module for source).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image314.webp){width="6.0in" height="3.382050524934383in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. example in codepen (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image314.webp"
+  width="80%"
+  alt="Example in CodePen." />
+</p>
+<!-- {width="6.0in" height="3.382050524934383in"} -->
 
 Let\'s take a look at what happens when we put it into CodePen. So, what
 I have here is the HTML that\'s needed to make a really kind of cool,
@@ -6277,25 +6313,37 @@ to go in and actually edit the head of your document because you need to
 remember to link to the style sheets. When we use CodePen, we can just
 do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 315.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image315.webp){width="6.5in" height="3.6638888888888888in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 315. codepen settings for bootstrap (194) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image315.webp"
+  width="90%"
+  alt="CodePen settings." />
+</p>
+<!-- {width="6.5in" height="3.6638888888888888in"} -->
 
 Settings \> CSS, you know what? I want to add Bootstrap, and I\'ve got
 it. As soon as I do that, you can see like, hey, this is a really much
 better-looking navigation bar. I\'ve got all the different components.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image316.webp){width="4.0in" height="2.581560586176728in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 316. collapsible menu - websitename (194) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image316.webp"
+  width="40%"
+  alt="Collapsible menu - websitename." />
+</p>
+<!-- {width="4.0in" height="2.581560586176728in"} -->
 
 And if you watch, as I re-size it and make it smaller, we get this kind
 of collapsible menu. People tend to call this the hamburger, because you
 have the three lines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image317.webp){width="4.0in" height="4.728132108486439in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 317. where do these parts come from? (195) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image317.webp"
+  width="40%"
+  alt="Where do these different parts come from?" />
+</p>
+<!-- {width="4.0in" height="4.728132108486439in"} -->
 
 Where do these different parts come from? Well, if you look right here,
 you can see that I\'ve got three classes called icon-bar, icon-bar,
@@ -6334,9 +6382,13 @@ What do they mean because if you\'re going to use Bootstrap, and you
 want the coolest things, you find that it can be a little overwhelming
 at times, so let\'s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image318.webp){width="6.0in" height="3.2980774278215224in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. start with mobile view (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image318.webp"
+  width="80%"
+  alt="Start with mobile view." />
+</p>
+<!-- {width="6.0in" height="3.2980774278215224in"} -->
 
 I\'m going to start with the mobile view because I\'m really curious how
 this showed up. Why is this here when it wasn\'t here before, so if I
@@ -7233,7 +7285,7 @@ Codeschool has free course about DevTools:
 
 <https://www.codeschool.com/courses/discover-devtools>
 
-# Keep Learning with Michigan Online
+### Keep Learning with Michigan Online
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. michigan online logo (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
