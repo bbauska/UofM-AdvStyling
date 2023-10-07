@@ -10,7 +10,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction to resp design (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.webp?raw=true"
-  width="45%"
+  style="width:45%;"
   alt="Introduction to Responsive Design by Colleen van Lent, 
     Ph.D. (lecturer, school of information)." />
 </p>
@@ -20,63 +20,62 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image002.webp?raw=true"
-  width="25%"
+  style="width:25%;"
   alt="University of Michigan logo." />
 </p>
 
-## [Table of Contents](#table-of-contents)
+<h2><a href="table-of-contents">Table of Contents</a></h2>
 
-## [**About **](#cha)
+## [**About**](#cha)
 >### - [**About **](#cha-1)
->### - [** **](#cha-2)
->### - [** **](#cha-3)
+>### - [**Source Code for Each Week**](#cha-2)
+>### - [**Course Slides**](#cha-3)
 
-## [**Course information**](#chb)
->### * [** **](#chb-1)
->### * [** **](#chb-2)
->### * [** **](#chb-3)
+## [**Course Information**](#chb)
+>### * [**Syllabus**](#chb-1)
+>### * [**Resources**](#chb-2)
+>### * [**Fluid Measurements background readings**](#chb-3)
+>### * [**Pixel to Em conversion tool**](#chb-4)
+>### * [**Dynamically change size of font with sliders**](#chb-5)
+>### * [**Good Examples of Responsive Design**](#chb-6)
+>### * [**Media Queries and Breakpoints**](#chb-7)
+>### * [**Demystifying Bootstrap**](#chb-8)
+>### * [**Grid System Check**](#chb-9)
+>### * [**The Evolution of the Airbnb front-end development**](#chb-10)
+>### * [**Debugging Your Style**](#chb-11)
+>### * [**More Resources for Learning to Debug/Develop**](#chb-12)
 
-## [Module 1: My first Web page in HTML5](#ch1)
->### 1.1 [**Introduction to Module 1**](#ch1)
->### 1.2 [**The big three: HTML5, CSS3 and JavaScript**](#ch1-2-1)
->### 1.3 [**Elements, tags and attributes**](#ch1-3-1)
->### 1.4 [**Character encoding**](#ch1-4-1)
->### 1.5 [**Best practices**](#ch1-5-1)
->### 1.6 [**More on tags**](#ch1-6-1)
+## [**Week 1: Style with Responsive Design**](#ch1)
+>### 1.1 [**Introduction to Responsive Design**](#ch1-1-1)
+>### 1.2 [**What is Responsive Design?**](#ch1-2-1)
+>### 1.3 [**Testing Existing Sites**](#ch1-3-1)
+>### 1.4 [**Benefits of Responsive Design**](#ch1-4-1)
+>### 1.5 [**Fluid Measurements**](#ch1-5-1)
+>### 1.6 [**Code With Me: Fluid Measurements**](#ch1-6-1)
 
-## [Module 2: Attributes, images and links](#ch2)
->### 2.1 [**Introduction to Module 2**](#ch2)
->### 2.2 [**Attributes**](#ch2-2-1)
->### 2.3 [**Semantic meaning**](#ch2-3-1)
->### 2.4 [**images**](#ch2-4-1)
->### 2.5 [**Hyperlinks**](#ch2-5-1)
+## [**Week 2: Basic Concepts**](#ch2)
+>### 2.1 [**Media Queries**](#ch2-1-1)
+>### 2.2 [**Code With Me: Fluid Measurements and Media Queries**](#ch2-2-1)
+>### 2.3 [**Wire Frames**](#ch2-3-1)
+>### 2.4 [**Breakpoints**](#ch2-4-1)
+>### 2.5 [**Media Queries Part Two**](#ch2-5-1)
+>### 2.6 [**Code With Me: Responsive Navigation**](#ch2-6-1)
 
-## [Module 3: Adding style with CSS](#ch3)
->### 3.1 [**Introduction to Module 3**](#ch3)
->### 3.2 [**CSS basic syntax**](#ch3-2-1)
->### 3.3 [**CSS properties**](#ch3-3-1)
->### 3.4 [**Lists and selectors**](#ch3-4-1)
+## **[Week 3: Use Existing Frameworks**](#ch3)
+>### 3.1 [**Frameworks**](#ch3-1-1)
+>### 3.2 [**Introduction to Twitter Bootstrap 3**](#ch3-2-1)
+>### 3.3 [**Bootstrap Breakpoints**](#ch3-3-1)
+>### 3.4 [**Bootstrap Grid System**](#ch3-4-1)
+>### 3.5 [**Code With Me: Grid Example**](#ch3-5-1)
+>### 3.6 [**Bootstrap Navigation**](#ch3-6-1)
 
-## [Module 4: Fixing and debugging](#ch4)
->### 4.1 [**Introduction to Module 4**](#ch4)
->### 4.2 [**Debugging tools and HTML5**](#ch4-2-1)
->### 4.3 [**Debugging and the CSS box model**](#ch4-3-1)
->### 4.4 [**Debugging CSS precedence**](#ch4-4-1)
-
-## [Module 5: More HTML5 and CSS](#ch5)
->### 5.1 [**Introduction to Module 5**](#ch5)
->### 5.2 [**Tables**](#ch5-2-1)
->### 5.3 [**Multimedia**](#ch5-3-1)
->### 5.4 [**Embedding content**](#ch5-4-1)
->### 5.5 [**CSS tricks**](#ch5-5-1)
-
-## [Module 6: Basics of page Layout](#ch6)
->### 6.1 [**Introduction to Module 6**](#ch6)
->### 6.2 [**Concepts**](#ch6-2-1)
->### 6.3 [**CSS Flexbox**](#ch6-3-1)
->### 6.4 [**More Flexbox**](#ch6-4-1)
->### 6.5 [**CSS Grid**](#ch6-5-1)
->### 6.6 [**Recipe project**](#ch6-6-1)
+## [**Week 4: Experiment!**](#ch4)
+>### 4.1 [**Responsive Images**](#ch4-1-1)
+>### 4.2 [**Bootstrap Tables**](#ch4-2-1)
+>### 4.3 [**Code With Me: Advanced Navigation**](#ch4-3-1)
+>### 4.4 [**What Are Templates?**](#ch4-4-1)
+>### 4.5 [**Bootstrap 4/5**](#ch4-5-1)
+>### 4.6 [**Conclusion**](#ch4-6-1)
 
 <a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">UofM - Advanced Styling - git</a>
 
@@ -86,7 +85,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 
 <h3>Course Outline:</h3>
 
-## Syllabus
+<h2>Syllabus</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -105,7 +104,7 @@ audial, physical, and cognitive impairments.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive design? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.webp?raw=true"
-  width="45%"
+  style="width:45%"
   alt="What is Responsive Design?" />
 </p>
 <!-- {width="4.0in" height="2.086324365704287in"} -->
@@ -127,7 +126,7 @@ go back when you have access to a laptop or desktop?
 
 The following are examples of sites that do not use responsive design;
 
-Irs.gov
+<b>Irs.gov</b>
 
 This course is meant for people who are comfortable using HTML and CSS,
 but want to take the first steps to creating a single site that can
@@ -135,14 +134,13 @@ display a different layout (or \"look\") on different platforms.
 
 There are three common approaches to responsive design.
 
-1.  The first is to create your own site using fluid measurements and
-    media queries.
-
-2.  The second is to use an existing framework (such as Bootstrap) that
-    does all of the responsive design for you.
-
-3.  The third is to use a hybrid approach - use a framework in
-    combination with your own responsive code.
+<ol type="1">
+  <li>The first is to create your own site using fluid measurements and media queries,</li>
+  <li>The second is to use an existing framework (such as Bootstrap) that does all of 
+    the responsive design for you, and</li>
+  <li>The third is to use a hybrid approach - use a framework in combination with your 
+    own responsive code.</li>
+</ol>
 
 Throughout the entire course there will be an emphasis on the importance
 of good habits and examples of potential pitfalls. All of the example
@@ -151,9 +149,9 @@ will be sufficient to get a decent base on how responsive design works.
 For other learners however, there is nothing better than when they
 decide they can write better versions of the code.
 
-# Resources
+### Resources
 
-## Course Site
+### Course Site
 
 All of the reading material you will need to pass this course is
 contained within Coursera.
@@ -161,7 +159,7 @@ contained within Coursera.
 Additional resources may be added as optional material, but everything
 will be online and free.
 
-## CodePEN
+### CodePEN
 
 For the coding content you may want to access my CodePEN account.
 CodePEN is a website that allows you to modify copies of my code. In
@@ -173,13 +171,13 @@ the code. Don\'t worry, I do cover that in class.
 
 Here is a link to a collection of code for each week of the course:
 
-Week One: <http://codepen.io/collection/nmyRWM/>
+<h4>Week One: <http://codepen.io/collection/nmyRWM/></h4>
 
-Week Two: <http://codepen.io/collection/nYwVkZ/>
+<h4>Week Two: <http://codepen.io/collection/nYwVkZ/></h4>
 
-Week Three: <http://codepen.io/collection/DZQyBr/>
+<h4>Week Three: <http://codepen.io/collection/DZQyBr/></h4>
 
-Week Four: <http://codepen.io/collection/XkkwBb/>
+<h4>Week Four: <http://codepen.io/collection/XkkwBb/></h4>
 
 When you read the modules, you can check the resources section to find a
 link to any code that is used in the lectures.
@@ -5984,8 +5982,13 @@ The small screen you get two in each row.
 Then you go to three on the media screen image size.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image300.webp"
+  style="width:30%"
+  alt="." />
+</p>
 
-![](images/image300.webp){width="6.0in" height="4.747436570428697in"}
+<!-- {width="6.0in" height="4.747436570428697in"} -->
 
 And then, you pop over to six. That\'s the way things are going on here.
 Have some fun with images. Images are always fun. People like to see
@@ -6105,7 +6108,7 @@ default view. There\'s no default scrolling at the bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. row, header and cell classes (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image306.webp"
-  width="40%"
+  style="width:40%"
   alt="Row, header &amp; cell classes." />
 </p>
 <!-- {width="4.0in" height="2.2576924759405075in"} -->
@@ -6131,7 +6134,7 @@ went in and included the link to Bootstrap style in CodePen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. add some classes (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image307.webp"
-  width="80%"
+  style="width:80%"
   alt="Add some classes." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
@@ -6145,7 +6148,7 @@ that really does look like a table.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. table-striped (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image308.webp"
-  width="80%"
+  style="width:80%"
   alt="Table striped example." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
@@ -6167,7 +6170,7 @@ between.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. table hover (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image309.webp"
-  width="80%"
+  style="width:80%"
   alt="Table hover example." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
@@ -6183,7 +6186,7 @@ on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. table hover example (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image310.webp"
-  width="40%"
+  style="width:40%"
   alt="Table hover example." />
 </p>
 <!-- {width="4.0in" height="2.4218755468066493in"} -->
@@ -6211,7 +6214,7 @@ responsive, oops, table responsive, to the div class.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. scroll bar example (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image311.webp"
-  width="40%"
+  style="width:40%"
   alt="Scroll example bar." />
 </p>
 <!-- {width="4.0in" height="2.1333333333333333in"} -->
@@ -6229,7 +6232,7 @@ basically going to let people scroll.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. example in codepen (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image312.webp"
-  width="80%"
+  style="width:80%"
   alt="Example in CodePen." />
 </p>
 <!-- {width="7.0in" height="2.975748031496063in"} -->
@@ -6249,7 +6252,7 @@ this one again you can see that it turns in a kind of yellowish color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 313. tables - should you use them? (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image313.webp"
-  width="40%"
+  style="width:40%"
   alt="Tables - Should You Use Them?" />
 </p>
 <!-- {width="4.0in" height="2.2547003499562557in"} -->
@@ -6294,7 +6297,7 @@ menu (see end of module for source).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. example in codepen (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image314.webp"
-  width="80%"
+  style="width:80%"
   alt="Example in CodePen." />
 </p>
 <!-- {width="6.0in" height="3.382050524934383in"} -->
@@ -6316,7 +6319,7 @@ do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 315. codepen settings for bootstrap (194) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image315.webp"
-  width="90%"
+  style="width:90%"
   alt="CodePen settings." />
 </p>
 <!-- {width="6.5in" height="3.6638888888888888in"} -->
@@ -6328,7 +6331,7 @@ better-looking navigation bar. I\'ve got all the different components.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 316. collapsible menu - websitename (194) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image316.webp"
-  width="40%"
+  style="width:40%"
   alt="Collapsible menu - websitename." />
 </p>
 <!-- {width="4.0in" height="2.581560586176728in"} -->
@@ -6340,7 +6343,7 @@ have the three lines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 317. where do these parts come from? (195) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image317.webp"
-  width="40%"
+  style="width:40%"
   alt="Where do these different parts come from?" />
 </p>
 <!-- {width="4.0in" height="4.728132108486439in"} -->
@@ -6385,7 +6388,7 @@ at times, so let\'s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. start with mobile view (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image318.webp"
-  width="80%"
+  style="width:80%"
   alt="Start with mobile view." />
 </p>
 <!-- {width="6.0in" height="3.2980774278215224in"} -->
@@ -6466,7 +6469,7 @@ right direction.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 319. where to find bootstrap templates? (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image319.webp"
-  width="40%"
+  style="width:40%"
   alt="getbootstrap.com - Getting Started." />
 </p>
 <!-- {width="4.0in" height="2.2658114610673667in"} -->
@@ -6479,7 +6482,7 @@ either through word of mouth or through a search engine.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 320. getbootstrap.com - getting started (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image320.webp"
-  width="80%"
+  style="width:80%"
   alt="getbootstrap.com - Getting Started." />
 </p>
 <!-- {width="6.0in" height="3.424359142607174in"} -->
@@ -6491,7 +6494,7 @@ different links, and things like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. basic template (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image321.webp"
-  width="80%"
+  style="width:80%"
   alt="Basic template." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -6507,7 +6510,7 @@ like this one right here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322. starter template (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image322.webp"
-  width="80%"
+  style="width:80%"
   alt="Starter template." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -6519,7 +6522,7 @@ that you\'re here to learn, more than to use as your professional site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. free bootstrap themes (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image323.webp"
-  width="80%"
+  style="width:80%"
   alt="Free Bootstrap themes." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -6533,7 +6536,7 @@ zone, do you want it to have kind of a dashboard look, you can pick.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. landing zone theme (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image324.webp"
-  width="80%"
+  style="width:80%"
   alt="Landing zone theme." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -6548,7 +6551,7 @@ the grid, and we use a form, and we have a video background.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325. simple one page design (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image325.webp"
-  width="60%"
+  style="width:60%"
   alt="Simple one page design." />
 </p>
 <!-- {width="4.0in" height="2.3517093175853017in"} -->
@@ -6561,7 +6564,7 @@ platforms.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. simple one page design (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image326.webp"
-  width="40%"
+  style="width:40%"
   alt="Simple one page design." />
 </p>
 <!-- {width="4.0in" height="6.0625in"} -->
@@ -6576,7 +6579,7 @@ then start playing with it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~ 327. start bootstrap themes and templates (203) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image327.webp"
-  width="40%"
+  style="width:40%"
   alt="Start Bootstrap themes and templates." />
 </p>
 <!-- {width="4.0in" height="2.439744094488189in"} -->
@@ -6594,7 +6597,7 @@ So again, they break it down in different ideas.
 <!--~~~~~~~~~~~~~~~~~ 328. bootstrap download and preview blog example (203) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image328.webp"
-  width="60%"
+  style="width:60%"
   alt="Bootstrap download and preview blog example." />
 </p>
 <!-- {width="6.0in" height="3.6596161417322834in"} -->
@@ -6609,7 +6612,7 @@ the things you can do is you can just download the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image329.webp"
-  width="40%"
+  style="width:40%"
   alt="Bootstrap template examples." />
 </p>
 <!-- {width="4.0in" height="2.235042650918635in"} -->
@@ -6638,7 +6641,7 @@ changes in the templates.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image330.webp"
-  width="40%"
+  style="width:40%"
   alt="How to use Bootstrap Templates." />
 </p>
 <!-- {width="4.0in" height="2.235042650918635in"} -->
@@ -6657,7 +6660,7 @@ you do want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. that's it - bootstrap (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image331.webp"
-  width="40%"
+  style="width:40%"
   alt="That's it - Bootstrap Template." />
 </p>
 <!-- {width="4.0in" height="2.235042650918635in"} -->
@@ -7290,7 +7293,7 @@ Codeschool has free course about DevTools:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. michigan online logo (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image332.webp"
-  width="30%"
+  style="width:30%"
   alt="Michigan Online Logo." />
 </p>
 <!-- {width="3.0in" height="0.3961537620297463in"} -->
@@ -7305,7 +7308,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-6-2023 10:06am -->
+<!-- 10-6-2023 6:42pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
