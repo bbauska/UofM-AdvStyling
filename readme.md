@@ -1058,7 +1058,7 @@ Additional best practices for separate URLs;
 
 ![](images/image036.webp){width="7.5in" height="4.358975284339458in"}
 
-## Week1-05. Fluid Measurements: Background readings {#week-1-05.-fluid-measurements-background-readings .unnumbered}
+## Week1-05. Fluid Measurements: Background readings
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -1942,7 +1942,7 @@ mean again, is this an example of triggering, and I really hope you\'ll
 really understand mobile first by the time that we\'re done with this
 course.
 
-## Week2-12. Media Queries Part Two {#week-2-12.-media-queries-part-two .unnumbered}
+## Week2-12. Media Queries Part Two
 
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
@@ -2112,27 +2112,27 @@ RD-Media Queries Part 2:
 HTML:
 
 ```
-\<h1\>Media Queries Part Two\</h1\>
-\<main\>
-\<p\>\</p\>
-This page should be Green on Small screen\<br\>
-This page should be Yellow on Medium screen\<br\>
-This page should be Blue on Large screen\<br\>
-\</p\>
-\</main\>
+<h1>Media Queries Part Two</h1>
+<main>
+<p></p>
+This page should be Green on Small screen<br>
+This page should be Yellow on Medium screen<br>
+This page should be Blue on Large screen<br>
+</p>
+</main>
 ```
 
 CSS:
 
 ```
-/\* Do these need to be reordered? \*/
-\@media only screen and (min-width: 1024px) {
+/* Do these need to be reordered? */
+@media only screen and (min-width: 1024px) {
 body{
 background: #0000FF;
 width:25%;
 }
 }
-\@media only screen and (min-width: 780px) {
+@media only screen and (min-width: 780px) {
 body{
 background: #FFFF00;
 width:50%;
@@ -2312,32 +2312,32 @@ RD-Responsive Navigation (starter)
 HTML
 
 ```
-\<!DOCTYPE html\>
-\<html lang=\"en\"\>
-\<head\>
-\<meta charset=\"UTF-8\"\>
-\<title\>Styled Navigation\</title\>
-\<link rel=\"stylesheet\" href=\"css/navigation.css\"\>
-\</head\>
-\<body\>
-\<nav\>
-\<a href=\"\"\>Home\</a\>
-\<a href=\"\"\>Photos\</a\>
-\<a href=\"\"\>Recipes\</a\>
-\<a href=\"\"\>Contact\</a\>
-\</nav\>
-\<section\>
-\<h2\>Playing with Vertical Navigation Bars\</h2\>
-\<p\>This is a separate section that will hold the content for each
-page. The next paragraph is just filler text. It doesn\'t mean
-anything.\</p\>
-\<p\>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Styled Navigation</title>
+<link rel="stylesheet" href="css/navigation.css">
+</head>
+<body>
+<nav>
+<a href="">Home</a>
+<a href="">Photos</a>
+<a href="">Recipes</a>
+<a href="">Contact</a>
+</nav>
+<section>
+<h2>Playing with Vertical Navigation Bars</h2>
+<p>This is a separate section that will hold the content for each
+page. The next paragraph is just filler text. It doesn't mean
+anything.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
 temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
 quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
-dolorum commodi magni.\</p\>
-\</section\>
-\</body\>
-\</html\>
+dolorum commodi magni.</p>
+</section>
+</body>
+</html>
 ```
 
 CSS:
@@ -2362,22 +2362,22 @@ RD-Responsive Navigation (complete):
 HTML:
 
 ```
-\<nav\>
-\<a href=\"\"\>Home\</a\>
-\<a href=\"\"\>Photos\</a\>
-\<a href=\"\"\>Recipes\</a\>
-\<a href=\"\"\>Contact\</a\>
-\</nav\>
-\<section\>
-\<h2\>Playing with Horizontal and Vertical Navigation Menus\</h2\>
-\<p\>This is a separate section that will hold the content for each
-page. The next paragraph is just filler text. It doesn\'t mean
-anything.\</p\>
-\<p\>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
+<nav>
+<a href="">Home</a>
+<a href="">Photos</a>
+<a href="">Recipes</a>
+<a href="">Contact</a>
+</nav>
+<section>
+<h2>Playing with Horizontal and Vertical Navigation Menus</h2>
+<p>This is a separate section that will hold the content for each
+page. The next paragraph is just filler text. It doesn't mean
+anything.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
 temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
 quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
-dolorum commodi magni.\</p\>
-\</section\>
+dolorum commodi magni.</p>
+</section>
 ```
 
 CSS:
@@ -2407,7 +2407,7 @@ margin:1% 2% 1% 8%;
 padding:1% 2%;
 border-radius: 25px;
 }
-\@media all and (min-width:900px){
+@media all and (min-width:900px){
 body{
 background-color:grey;
 }
@@ -2440,7 +2440,7 @@ overflow:auto;
 }
 ```
 
-## Week3-14. Frameworks {#week-3-14.-frameworks .unnumbered}
+## Week3-14. Frameworks
 
 ![](images/image087.webp){width="4.0in" height="2.2465813648293964in"}
 
