@@ -212,8 +212,12 @@ directly in the module text themselves. Just look in the Downloads
 section to view them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. media queries review (04) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0](images/image004.webp)
-style="width:6.5in height:4.603945756780402in"
+<p align="center" width="100%">
+<img src="./images/image004.webp?raw=true"
+  style="width:65%"
+  alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0" />
+</p>
+<!-- "width:6.5in height:4.603945756780402in" -->
 
 ## There are 4 modules in this course
 
@@ -456,10 +460,12 @@ course.
 ## Week 1-01. Introduction to Responsive Design
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![The BASICS of Responsive Design.]
-(images/image005.webp)
-{width="4.0in" height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image005.webp?raw=true"
+  style="width:40%"
+  alt="What this course will cover. The BASICS of Responsive Design." />
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 Welcome to introduction to responsive design. In this course, we\'re
 going to talk about different ways that you can make your website look
@@ -479,10 +485,12 @@ their site look great, why not take advantage of it and learn how to use
 it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. week 1 - theory (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week One: - Theory - What does responsive design mean? - What makes for good design? 
-- Role of fluid measurements.]
-(images/image006.webp)
-{width="4.0in" height="2.0931627296587925in"}
+<p align="center" width="100%">
+<img src="./images/image006.webp?raw=true"
+  style="width:40%"
+  alt="Week One: - Theory - What does responsive design mean? - 
+    What makes for good design? - Role of fluid measurements." />
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **one**, we\'re really going to focus on the theory.
 
@@ -504,10 +512,12 @@ different type of measurements that can change as the screen size
 changes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 2 - media queries (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Two: - Media queries - What are they? - How do you plan 1st for best practices? - 
-What is the relationship with break points? - How to make a navigation bar?]
-(images/image007.webp)
-{width="4.0in" height="2.0931627296587925in"}
+<p align="center" width="100%">
+<img src="./images/image007.webp?raw=true"
+  style="width:40%"
+  alt="Week Two: - Media queries - What are they? - How do you plan 1st for best 
+    practices? - What is the relationship with break points? - How to make a navigation bar?" />
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **two** we\'re going to tackle media queries.
 
@@ -532,11 +542,13 @@ code together to make a navigation bar.
 By the end of week two, you\'re going to be ready and feel like you can
 really tackle this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Three: - Frameworks - Benefits & pitfalls - 
-Bootstrap 3 - Getting Started, grid system, and navigation.]
-(images/image008.webp)
-{width="4.0in" height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image008.webp?raw=true"
+  style="width:40%"
+  alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
+    Getting Started, grid system, and navigation."  />
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **three**, we\'re going to shift a little bit and instead of
 writing our own code.
@@ -569,10 +581,12 @@ Because these are the keys to really getting your site to have that
 responsive feel.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. week 4 - more bootstrap (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies]
-(images/image009.webp)
-{width="4.0in" height="2.110255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. week 4 - more bootstrap (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image009.webp?raw=true"
+  style="width:40%"
+  alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies."
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 Finally, in week **four**, we\'re going to continue with more bootstrap,
 but we\'re going to talk about things such as images, tables, and maybe
@@ -587,10 +601,12 @@ We\'re going to talk to people about how they approached designing the
 responsiveness their real-life sites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 10. final project - responsive page lab (12) ~~~~~~~~~~~~~~~~~~~~~~~-->
-![Final Project - Use your coding skills to create a 
-responsive page using multiple methods (framework & media queries).]
-(images/image010.webp)
-{width="4.0in" height="2.110255905511811in"}
+<p align="center" width="100%">
+<img src="./images/image010.webp?raw=true"
+  style="width:40%"
+  alt="Final Project - Use your coding skills to create a responsive page 
+    using multiple methods (framework & media queries)." />
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 We will do this with the culmination of a final project.
 
@@ -639,10 +655,14 @@ on in web design right now.
 
 So how do you succeed in this class?
 
-![Succeeding in this class - Use message boards. - Don\'t spend more
-than 20 minutes on a problem. Move on. - Look things up. - Practice,
-practice, practice.](images/image011.webp){width="4.0in"
-height="2.110255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. how to succeed in this class (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image011.webp?raw=true"
+  style="width:40%"
+  alt="Succeeding in this class - Use message boards. - Don\'t spend more than 20 minutes 
+    on a problem. Move on. - Look things up. - Practice, practice, practice." />
+<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 I will always say that the best way to code is with a friend but that\'s
 not always possible, so I hope that you\'ll use the message boards not
@@ -660,7 +680,13 @@ you will probably find the answer.
 You\'ll find three or four wrong answers, but eventually, the answer
 will be there.
 
-![](images/image012.webp){width="4.0in" height="2.086324365704287in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image012.webp?raw=true"
+  style="width:40%"
+  alt="Concepts to consider." />
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you\'re getting as much
@@ -669,7 +695,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you\'ll
 learn a lot. Thanks.
 
-## Week 1-02. What is Responsive Design? {#week-1-02.-what-is-responsive-design .unnumbered}
+## Week 1-02. What is Responsive Design?
 
 Hi, everybody, so you\'re here and I\'m here, and we\'re here to talk
 about responsive design.
@@ -709,7 +735,13 @@ work for us.
 So here are some of the concepts that we\'re going to be considering
 throughout this entire course.
 
-![](images/image012.webp){width="4.0in" height="2.086324365704287in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image012.webp?raw=true"
+  style="width:40%"
+  alt="Concepts to consider, again." />
+<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -731,35 +763,64 @@ doesn\'t need to waste their time scrolling back and forth or trying to
 resize things to be able to see everything.
 
 We want it to happen really automatically.
-
-![](images/image013.webp){width="6.0in" height="4.245512904636921in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 13. media queries; media screen and min-width (16) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image013.webp?raw=true"
+  style="width:60%"
+  alt="Media queries; media screen and min-width." />
+<!-- {width="6.0in" height="4.245512904636921in"} -->
 
 Let\'s take a look at some examples that have great responsive design.
 
 The first place I\'m going to take you is a website called
 ***mediaqueri.es.***
 
-![](images/image014.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 14. mediaqueri.es; media screen and min-width (16) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image014.webp?raw=true"
+  style="width:60%"
+  alt="Mediaqueri.es; media screen and min-width." />
+<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 This site has a really nice collection of different sites that it\'s
 found that really kind of find that key to responsive design. Let\'s go
 ahead and take a look at, I\'ll scroll down a few.
 
-![](images/image015.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image015.webp?raw=true"
+  style="width:60%"
+  alt="Capital Public Radio; capradioraffle.org." />
+<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 How about this one right here? CapRadio, go anyplace.
 
 This site right now, when I\'m looking at the large screen, you can see
 that there\'s a definite look to the layout.
 
-![](images/image016.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image016.webp?raw=true"
+  style="width:60%"
+  alt="Capital Public Radio; capradioraffle.org." />
+<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 As I resize the screen, as if I\'m looking perhaps on a tablet, and I
 reload it you can see that things have moved over.
 
 The navigation bar is now over to the left when it wasn\'t there before.
 
-![](images/image017.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image017.webp?raw=true"
+  style="width:60%"
+  alt="Capital Public Radio; capradioraffle.org." />
+<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 I\'m going to go ahead and make it smaller still. I don\'t even need to
 refresh.
@@ -783,13 +844,25 @@ Unfortunately, when you Google that out, or you look for that on your
 search engine, nobody really wants to advertise the fact that they\'re
 really bad at web design so I found one for you.
 
-![](images/image018.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image018.webp?raw=true"
+  style="width:60%"
+  alt="." />
+<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 It\'s the Internal Revenue Service. And what we have here is a site that
 not only looks the same, but is laid out the same no matter what type of
 screen you\'re looking at.
 
-![](images/image019.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image019.webp?raw=true"
+  style="width:60%"
+  alt="." />
+<!-- width="6.0in" height="3.3807699037620296in"} -->
 
 It looks okay right here, but when I make the screen much smaller, you
 can see that it didn\'t really do anything. Now I actually have to
@@ -802,7 +875,7 @@ Let\'s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we\'re going to get started
 coding right away.
 
-## Week 1-03. Testing Existing Sites {#week-1-03.-testing-existing-sites .unnumbered}
+## Week 1-03. Testing Existing Sites
 
 Hi, everybody. One of the things that you\'re going to want to do is
 test your site to see how it\'s doing across multiple devices and
@@ -814,7 +887,13 @@ access to all these different types of platforms.
 What can you do? Well, one option if you\'re using a desktop or a
 laptop, that you can resize your window and refresh the site.
 
-![](images/image020.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image020.webp?raw=true"
+  style="width:60%"
+  alt="." />
+<!-- width="6.0in" height="3.3807688101487314in"} -->
 
 So, if I go here;
 \<<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org>\>.
@@ -822,7 +901,13 @@ The Introduction to Wed Design for everybody, of course. I can just use
 my mouse and resize it, take a look and see how things are going to
 change.
 
-![](images/image021.webp){width="6.0in" height="3.3807699037620296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image021.webp?raw=true"
+  style="width:60%"
+  alt="." />
+<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 Here, large view, tablet and mobile view. So, I can see that I have
 three different break points that all work. That works great if you\'re
@@ -943,7 +1028,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren\'t
 responsive. Don\'t worry, yours will be.
 
-## Week1-04. Benefits of Responsive Design {#week-1-04.-benefits-of-responsive-design .unnumbered}
+## Week1-04. Benefits of Responsive Design
 
 Hi everybody. Today, let\'s talk about some of the benefits of
 responsive design.
@@ -1082,7 +1167,7 @@ lecture on Fluid Measurements.
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
 
-## Week1-06. Fluid Measurements {#week-1-06.-fluid-measurements .unnumbered}
+## Week1-06. Fluid Measurements
 
 ![](images/image037.webp){width="4.0in" height="2.252564523184602in"}
 
@@ -1216,7 +1301,7 @@ of see what you can make it do. For that reason, our next module is
 going to be an example of me moving from absolute to relative
 measurements.
 
-## Week1-07. Code With Me: Fluid Measurements {#week-1-07.-code-with-me-fluid-measurements .unnumbered}
+## Week1-07. Code With Me: Fluid Measurements
 
 One of the things we always talk about is that there\'s a real
 difference between sitting and listening to me talk about something, and
@@ -1315,7 +1400,7 @@ percents, ems, and other things like that. Good luck.
 
 Completed;
 
-### [HTML:]{.mark} {#html .unnumbered}
+### [HTML:]
 
 ```
 1.  <!DOCTYPE html>
@@ -1366,7 +1451,7 @@ Completed;
 32. </html>
 ```
 
-### [CSS:]{.mark} {#css .unnumbered}
+### [CSS:]
 
 ```
 1.  main {
@@ -1400,7 +1485,7 @@ Completed;
 29. }
 ```
 
-## Week2-08. Media Queries {#week-2-08.-media-queries .unnumbered}
+## Week2-08. Media Queries
 
 Hi everybody. Today we are going to talk about Media queries.
 
@@ -1521,7 +1606,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we\'ll go ahead and we\'ll do something together.
 Good luck,
 
-## Week2-09. Code With Me: Fluid Measurements and Media Queries {#week-2-09.-code-with-me-fluid-measurements-and-media-queries .unnumbered}
+## Week2-09. Code With Me: Fluid Measurements and Media Queries
 
 Hey everybody, welcome back. Let\'s go look at some code together.
 
@@ -1596,7 +1681,7 @@ back and make sure you understand these simple ones first. Good luck.
 
 Completed;
 
-### [HTML:]{.mark} {#html-1 .unnumbered}
+### [HTML:]
 
 ```
 1.  <!DOCTYPE html>
@@ -1647,7 +1732,7 @@ Completed;
 32. </html>
 ```
 
-### [CSS:]{.mark} {#css-1 .unnumbered}
+### [CSS:]
 
 ```
 1.  main {
@@ -1684,7 +1769,7 @@ Completed;
 32. }
 ```
 
-## Week2-10. Wire Frames {#week-2-10.-wire-frames .unnumbered}
+## Week2-10. Wire Frames
 
 Hi. Today, we\'re going to talk about wireframes and as we talk about
 them, I have to admit the way in which I teach web design doesn\'t
@@ -1828,7 +1913,7 @@ really too big. Maybe I should be breaking it up in to more sections.
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
 
-## Week2-11. Breakpoints {#week-2-11.-breakpoints .unnumbered}
+## Week2-11. Breakpoints
 
 Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I\'ve actually
@@ -2145,7 +2230,7 @@ font-size:150%;
 }
 ```
 
-## Week2-13. Code with Me: Responsive Navigation {#week-2-13.-code-with-me-responsive-navigation .unnumbered}
+## Week2-13. Code with Me: Responsive Navigation
 
 Hi everybody, today, with this lecture I\'m hoping you\'ll sit with me
 and write up some code where we use media queries to produce responsive
@@ -2301,7 +2386,7 @@ sense. Where you know that on small screen phones they really do do
 their navigation differently than if you\'re on a laptop. Good luck, and
 make sure to post questions if you run into trouble.
 
-## Good examples of responsive design {#good-examples-of-responsive-design .unnumbered}
+## Good examples of responsive design
 
 The following is a link to good examples of responsive design:
 
@@ -2521,9 +2606,9 @@ it\'s a tool, and it\'s supposed to be making your life easier. If it
 isn\'t, that\'s okay, you can go back to coding on your own, but you
 still want to know a little bit about it.
 
-## Most popular frontend frameworks 2023; {#most-popular-frontend-frameworks-2023 .unnumbered}
+## Most popular frontend frameworks 2023;
 
-### Hydration {#hydration .unnumbered}
+### Hydration
 
 One key challenge of popular frameworks is how to make them work
 efficiently in the browser. When a user loads a web page, the browser
@@ -2558,7 +2643,7 @@ browser. By separating the initial HTML rendering from the JavaScript
 functionality, you can optimize all aspects of the page/app loading
 speed.
 
-## Single Page Applications (SPAs) {#single-page-applications-spas .unnumbered}
+## Single Page Applications (SPAs)
 
 Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
@@ -2580,7 +2665,7 @@ handling user interactions, while the back-end is responsible for
 providing data and API endpoints. This separation of concerns makes it
 easier to develop and maintain large-scale applications.
 
-## JAMStack {#jamstack .unnumbered}
+## JAMStack
 
 ![](images/image093.webp){width="4.0in" height="1.4726498250218722in"}
 
@@ -2605,9 +2690,9 @@ follows the JAM structure.
 ***Learn more:** [Jamstack.org](https://jamstack.org/) // [WTF is
 Jamstack?](https://jamstack.wtf/)*
 
-## Top Front-end Frameworks & Libraries for 2023 {#top-front-end-frameworks-libraries-for-2023 .unnumbered}
+## Top Front-end Frameworks & Libraries for 2023
 
-### How to Use JavaScript Libraries {#how-to-use-javascript-libraries .unnumbered}
+### How to Use JavaScript Libraries
 
 To use a JavaScript library in your app, add \<script\> to
 the \<head\> element using the src attribute that references the library
@@ -2616,7 +2701,7 @@ source path or the URL.
 Read the JavaScript library's documentation you intend to use for more
 information and follow the steps provided there.
 
-### What Are JavaScript Libraries Used For? {#what-are-javascript-libraries-used-for .unnumbered}
+### What Are JavaScript Libraries Used For?
 
 As we've said, JavaScript libraries are used to perform specific
 functions. There are around 83 of them, each created to serve some
@@ -2640,7 +2725,7 @@ data easily and make informed business decisions.
 
 #### **DOM Manipulation**
 
-#### [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) represents a web page (a document) as objects and nodes that you can modify using JavaScript. You can change its content, style, and structure. {#document-object-model-dom-represents-a-web-page-a-document-as-objects-and-nodes-that-you-can-modify-using-javascript.-you-can-change-its-content-style-and-structure. .unnumbered}
+#### [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) represents a web page (a document) as objects and nodes that you can modify using JavaScript. You can change its content, style, and structure.
 
 *Examples: [jQuery](https://kinsta.com/knowledgebase/what-is-jquery/),
 Umbrella JS*
@@ -2749,9 +2834,13 @@ frameworks themselves. The list goes down in accordance with the
 rankings we saw earlier. I have provided a general overview of each of
 the frameworks, as well as links to GitHub and the framework\'s website.
 
-## #01 -- React {#react .unnumbered}
+## #01 -- React
 
-## ![React Logo](images/image094.webp){width="1.0in" height="1.0in"} - ![ReactJS front-end framework](images/image095.webp){width="5.0in" height="0.9145297462817148in"} {#react-logo---reactjs-front-end-framework .unnumbered}
+## ![React Logo]
+(images/image094.webp)
+{width="1.0in" height="1.0in"} - ![ReactJS front-end framework]
+(images/image095.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 [React.js](https://reactjs.org/) (also known as ReactJS or React) is an
 open-source, front-end JavaScript library. It was created in 2013 by
@@ -2777,33 +2866,23 @@ hours this saves from the development process can be enormous.
 
 [**Website**](https://reactjs.org/) [**GitHub**](https://github.com/facebook/react/)
 
-### 17 React UI Frameworks {#react-ui-frameworks .unnumbered}
+### 17 React UI Frameworks
 
-###### **[Next.js --]{.underline}** 
+###### **[Next.js --]**
 
 Next.js is a React framework for building full-stack web applications.
-You
 
-use React Components to build user interfaces, and Next.js for
-additional
-
-features and optimizations.
+You use React Components to build user interfaces, and Next.js for
+additional features and optimizations.
 
 Under the hood, Next.js also abstracts and automatically configures
-tooling
-
-needed for React, like bundling, compiling, and more. This allows you to
-
-focus on building your application instead of spending time with
-
-configuration.
+tooling needed for React, like bundling, compiling, and more. This allows you to 
+focus on building your application instead of spending time with configuration.
 
 Whether you\'re an individual developer or part of a larger team,
-Next.js can
+Next.js can help you build interactive, dynamic, and fast React applications.
 
-help you build interactive, dynamic, and fast React applications.
-
-###### **[Material Kit React](https://www.turing.com/blog/react-ui-frameworks-for-developers/#material) [-- ]{.underline}**
+###### **[Material Kit React](https://www.turing.com/blog/react-ui-frameworks-for-developers/#material) [-- ]**
 
 This feature enables you to maintain a similarity of appearance and
 functions in your project throughout. The layout is like that of
@@ -2820,7 +2899,7 @@ project but also restyle any old Bootstrap project. What's more, the
 Material Kit React Pro version comes equipped with several other
 components, sections, and example pages.
 
-###### **[Storybook](https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook) [-- ]{.underline}**
+###### **[Storybook](https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook) [-- ]**
 
 > It is more like an [open-source
 > tool](https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/) that
@@ -3262,9 +3341,10 @@ elements like classes, typography, and color scheme.\
 > and Semantic UI are some of the best UIs for ReactJS. Ant Design,
 > Chakra UI, Fluent UI, and Evergreen are also popular UIs.
 
-## #02 -- jQuery {#jquery .unnumbered}
+## #02 -- jQuery
 
-![](images/image096.webp){width="2.8854166666666665in" height="1.125in"}
+![](images/image096.webp)
+{width="2.8854166666666665in" height="1.125in"}
 
 [jQuery](https://jquery.com/) is a classic JavaScript library that's
 fast, light-weight, and feature-rich. It was built in 2006 by John Resig
@@ -3272,7 +3352,7 @@ at BarCamp NYC.
 
 <https://jqueryui.com/>
 
-##### jQuery API {#jquery-api .unnumbered}
+##### jQuery API
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes
 things like HTML document traversal and manipulation, event handling,
@@ -3281,20 +3361,21 @@ across a multitude of browsers. If you\'re new to jQuery, we recommend
 that you check out the [jQuery Learning
 Center](https://learn.jquery.com/).
 
-##### jQuery UI {#jquery-ui .unnumbered}
+##### jQuery UI
 
-![](images/image097.webp){width="6.5in" height="4.098611111111111in"}
+![](images/image097.webp)
+{width="6.5in" height="4.098611111111111in"}
 
-### jQuery UI in Action is a practical guide to using and customizing jQuery UI library components to build rich, user-friendly web applications.  {#jquery-ui-in-action-is-a-practical-guide-to-using-and-customizing-jquery-ui-library-components-to-build-rich-user-friendly-web-applications. .unnumbered}
+### jQuery UI in Action is a practical guide to using and customizing jQuery UI library components to build rich, user-friendly web applications.
 
-### Interactions {#interactions .unnumbered}
+### Interactions
 
 Interactions add basic mouse-based behaviors to any element. You can
 create sortable lists, resizable elements, drag & drop behaviors and
 more with just a few lines of code. Interactions also make great
 building blocks for more complex widgets and applications.
 
-##### jQuery UI\'s five main interactions--- {#jquery-uis-five-main-interactions .unnumbered}
+##### jQuery UI\'s five main interactions---
 
 ### draggable, 
 
@@ -3306,7 +3387,7 @@ building blocks for more complex widgets and applications.
 
 ### sortable.
 
-##### Widgets {#widgets .unnumbered}
+##### Widgets
 
 Widgets are full-featured UI controls that bring the richness of desktop
 applications to the Web. All widgets provide a solid core with plenty of
@@ -3404,15 +3485,18 @@ the [demos](https://jqueryui.com/demos/) and read through the [API
 documentation](http://api.jqueryui.com/) to get an idea of what\'s
 possible.
 
-![](images/image098.webp){width="6.5in" height="4.86875in"}
+![](images/image098.webp)
+{width="6.5in" height="4.86875in"}
 
 ##### The above Download Builder from jQuery UI.
 
-![](images/image099.webp){width="6.5in" height="4.13125in"}
+![](images/image099.webp)
+{width="6.5in" height="4.13125in"}
 
 ##### Page 2 (above)
 
-![](images/image100.webp){width="6.5in" height="3.0541666666666667in"}
+![](images/image100.webp)
+{width="6.5in" height="3.0541666666666667in"}
 
 ##### Page 3, last page of jQuery v1.13.2 User Interface Download.
 
@@ -3453,15 +3537,19 @@ height="1.9479166666666667in"}
 
 ## #03 -- Bootstrap v5.2.3
 
-![Bootstrap v5 \| Drifting Ruby](images/image102.webp){width="1.0in"
-height="0.6308016185476816in"} - ![Bootstrap官方中文站 · 全球最流行的
-HTML、CSS 和 JS 工具库。](images/image103.webp){width="2.0in"
-height="1.2109700349956256in"} - ![Free download \| HD PNG bootstrap
-featured image bootstrap 3 logo PNG
-\...](images/image104.webp){width="1.0in"
-height="1.0210968941382328in"} - ![Bootstrap Izgara
-Sistemi](images/image105.webp){width="2.0in"
-height="1.0464140419947507in"}
+![Bootstrap v5 \| Drifting Ruby]
+(images/image102.webp)
+{width="1.0in" height="0.6308016185476816in"} 
+- ![Bootstrap官方中文站 · 全球最流行的 HTML、CSS 和 JS 工具库。]
+(images/image103.webp)
+{width="2.0in" height="1.2109700349956256in"} 
+- ![Free download \| HD PNG bootstrap featured image bootstrap 3 logo PNG
+\...]
+(images/image104.webp)
+{width="1.0in" height="1.0210968941382328in"}
+ - ![Bootstrap Izgara Sistemi]
+ (images/image105.webp)
+{width="2.0in" height="1.0464140419947507in"}
 
 Bootstrap is a powerful, feature-packed frontend toolkit. Build
 anything---from prototype to production---in minutes.
@@ -3522,10 +3610,11 @@ crossorigin="anonymous"></script>
 ## #04 -- D3.js
 
 ![\"D3.js Logo\" Poster by bryngo \|
-Redbubble](images/image106.webp){width="1.0in" height="1.0in"} - ![D3.js
-Logo PNG Vector (SVG) Free
-Download](images/image107.webp){width="3.529411636045494in"
-height="1.0in"}
+Redbubble](images/image106.webp)
+{width="1.0in" height="1.0in"}
+ - ![D3.js Logo PNG Vector (SVG) Free Download]
+ (images/image107.webp)
+ {width="3.529411636045494in" height="1.0in"}
 
 Data-Driven Documents (D3) or [D3.js](https://d3js.org/) is another
 famous JS library that developers use to document manipulation based on
@@ -3566,9 +3655,11 @@ data. It was released in 2011.
 ## #05 -- anime.js
 
 ![Как сделать js анимацию с помощью Anime.js --- простая и мощная
-библиотека](images/image108.webp){width="3.4347823709536307in"
-height="1.0in"} - ![Anime.js Review -
-Slant](images/image109.webp){width="1.7111909448818898in" height="1.0in"}
+библиотека](images/image108.webp)
+{width="3.4347823709536307in" height="1.0in"}
+- ![Anime.js Review - Slant]
+(images/image109.webp)
+{width="1.7111909448818898in" height="1.0in"}
 
 If you want to add animations to your site or
 application, [Anime.js](https://animejs.com/) is one of the best
@@ -3587,13 +3678,14 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 ## #06 -- chart.js
 
 ![Getting Started With Chart.js:
-Introduction](images/image110.webp){width="1.4451224846894137in"
-height="1.0in"}- ![Pie Chart Using Chart.JS Tutorials \| Responsive
-Chart \| How To Use
-\...](images/image111.webp){width="1.7777777777777777in"
-height="1.0in"} - ![Chart.js \|
-Drupal.org](images/image112.webp){width="2.4432994313210847in"
-height="1.0in"}
+Introduction](images/image110.webp)
+{width="1.4451224846894137in" height="1.0in"}
+- ![Pie Chart Using Chart.JS Tutorials \| Responsive Chart \| How To Use \...]
+(images/image111.webp)
+{width="1.7777777777777777in" height="1.0in"}
+ - ![Chart.js \| Drupal.org]
+(images/image112.webp)
+{width="2.4432994313210847in" height="1.0in"}
 
 Do you need to present lots of statistics?
 
@@ -3630,10 +3722,11 @@ in creating charts and visualizations.
 ## #07 -- lodash
 
 ![Lodash Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image113.webp){width="1.0997681539807524in"
-height="1.0in"} - ![Is Lodash That Good? Performance Comparison of
-JavaScript and Lodash
-\...](images/image114.webp){width="2.9286603237095363in" height="1.0in"}
+Supply](images/image113.webp)
+{width="1.0997681539807524in" height="1.0in"}
+- ![Is Lodash That Good? Performance Comparison of JavaScript and Lodash\...]
+(images/image114.webp)
+{width="2.9286603237095363in" height="1.0in"}
 
 [Lodash](https://lodash.com/) is a JavaScript library that provides
 utility functions for common programming tasks. It is similar to jQuery
@@ -7308,7 +7401,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-6-2023 6:42pm -->
+<!-- 10-6-2023 11:11pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
