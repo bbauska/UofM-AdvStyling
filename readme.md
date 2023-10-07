@@ -344,7 +344,7 @@ sizes (\"viewports\").
 ```
 -   Week Two Review: Media Queries and breakpoints
 
-# Week Three: Use Existing Frameworks
+## Week Three: Use Existing Frameworks
 
 After every good programmer has put in time creating sites from scratch,
 it is common to utilize existing tools out there. After all, why
@@ -381,7 +381,7 @@ JavaScript yourself).
 
 -   Grid System Check
 
-# Week Four: Experiment!
+## Week Four: Experiment!
 
 This week is dedicated to solving those little issues that pop up when
 you move from theory to practice. We look at more advanced framework
@@ -455,7 +455,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 
-# Week 1-01. Introduction to Responsive Design
+## Week 1-01. Introduction to Responsive Design
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (08) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -671,7 +671,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you\'ll
 learn a lot. Thanks.
 
-# Week 1-02. What is Responsive Design? {#week-1-02.-what-is-responsive-design .unnumbered}
+## Week 1-02. What is Responsive Design? {#week-1-02.-what-is-responsive-design .unnumbered}
 
 Hi, everybody, so you\'re here and I\'m here, and we\'re here to talk
 about responsive design.
@@ -804,7 +804,7 @@ Let\'s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we\'re going to get started
 coding right away.
 
-# Week 1-03. Testing Existing Sites {#week-1-03.-testing-existing-sites .unnumbered}
+## Week 1-03. Testing Existing Sites {#week-1-03.-testing-existing-sites .unnumbered}
 
 Hi, everybody. One of the things that you\'re going to want to do is
 test your site to see how it\'s doing across multiple devices and
@@ -945,7 +945,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren\'t
 responsive. Don\'t worry, yours will be.
 
-# Week 1-04. Benefits of Responsive Design {#week-1-04.-benefits-of-responsive-design .unnumbered}
+## Week1-04. Benefits of Responsive Design {#week-1-04.-benefits-of-responsive-design .unnumbered}
 
 Hi everybody. Today, let\'s talk about some of the benefits of
 responsive design.
@@ -1060,7 +1060,7 @@ Additional best practices for separate URLs;
 
 ![](images/image036.webp){width="7.5in" height="4.358975284339458in"}
 
-# Week 1-05. Fluid Measurements: Background readings {#week-1-05.-fluid-measurements-background-readings .unnumbered}
+## Week1-05. Fluid Measurements: Background readings {#week-1-05.-fluid-measurements-background-readings .unnumbered}
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -1084,7 +1084,7 @@ lecture on Fluid Measurements.
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
 
-# Week 1-06. Fluid Measurements {#week-1-06.-fluid-measurements .unnumbered}
+## Week1-06. Fluid Measurements {#week-1-06.-fluid-measurements .unnumbered}
 
 ![](images/image037.webp){width="4.0in" height="2.252564523184602in"}
 
@@ -1218,7 +1218,7 @@ of see what you can make it do. For that reason, our next module is
 going to be an example of me moving from absolute to relative
 measurements.
 
-# Week 1-07. Code With Me: Fluid Measurements {#week-1-07.-code-with-me-fluid-measurements .unnumbered}
+## Week1-07. Code With Me: Fluid Measurements {#week-1-07.-code-with-me-fluid-measurements .unnumbered}
 
 One of the things we always talk about is that there\'s a real
 difference between sitting and listening to me talk about something, and
@@ -1402,7 +1402,7 @@ Completed;
 29. }
 ```
 
-# Week 2-08. Media Queries {#week-2-08.-media-queries .unnumbered}
+## Week2-08. Media Queries {#week-2-08.-media-queries .unnumbered}
 
 Hi everybody. Today we are going to talk about Media queries.
 
@@ -1523,7 +1523,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we\'ll go ahead and we\'ll do something together.
 Good luck,
 
-# Week 2-09. Code With Me: Fluid Measurements and Media Queries {#week-2-09.-code-with-me-fluid-measurements-and-media-queries .unnumbered}
+## Week2-09. Code With Me: Fluid Measurements and Media Queries {#week-2-09.-code-with-me-fluid-measurements-and-media-queries .unnumbered}
 
 Hey everybody, welcome back. Let\'s go look at some code together.
 
@@ -1686,7 +1686,7 @@ Completed;
 32. }
 ```
 
-# Week 2-10. Wire Frames {#week-2-10.-wire-frames .unnumbered}
+## Week2-10. Wire Frames {#week-2-10.-wire-frames .unnumbered}
 
 Hi. Today, we\'re going to talk about wireframes and as we talk about
 them, I have to admit the way in which I teach web design doesn\'t
@@ -1830,7 +1830,7 @@ really too big. Maybe I should be breaking it up in to more sections.
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
 
-# Week 2-11. Breakpoints {#week-2-11.-breakpoints .unnumbered}
+## Week2-11. Breakpoints {#week-2-11.-breakpoints .unnumbered}
 
 Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I\'ve actually
@@ -1944,7 +1944,7 @@ mean again, is this an example of triggering, and I really hope you\'ll
 really understand mobile first by the time that we\'re done with this
 course.
 
-# Week 2-12. Media Queries Part Two {#week-2-12.-media-queries-part-two .unnumbered}
+## Week2-12. Media Queries Part Two {#week-2-12.-media-queries-part-two .unnumbered}
 
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
@@ -2147,7 +2147,7 @@ font-size:150%;
 }
 ```
 
-# Week 2-13. Code with Me: Responsive Navigation {#week-2-13.-code-with-me-responsive-navigation .unnumbered}
+## Week2-13. Code with Me: Responsive Navigation {#week-2-13.-code-with-me-responsive-navigation .unnumbered}
 
 Hi everybody, today, with this lecture I\'m hoping you\'ll sit with me
 and write up some code where we use media queries to produce responsive
@@ -2442,7 +2442,7 @@ overflow:auto;
 }
 ```
 
-# Week 3-14. Frameworks {#week-3-14.-frameworks .unnumbered}
+## Week3-14. Frameworks {#week-3-14.-frameworks .unnumbered}
 
 ![](images/image087.webp){width="4.0in" height="2.2465813648293964in"}
 
@@ -4346,7 +4346,7 @@ So, in conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 
-# Week 3-15. Introduction to Twitter Bootstrap 3
+## Week3-15. Introduction to Twitter Bootstrap 3
 
 ![](images/image192.webp){width="4.0in" height="2.24957239720035in"}
 
@@ -4494,7 +4494,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 
-# Week 3-16. Bootstrap Breakpoints
+## Week3-16. Bootstrap Breakpoints
 
 ![](images/image198.webp){width="4.0in" height="2.24957239720035in"}
 
@@ -4621,7 +4621,7 @@ want to use, not something that you feel confined by.
     fours things and you\'ll be able to really code and understand the
     things that are coming up.
 
-# Week 3-17. Getting Started with Twitter Bootstrap
+## Week3-17. Getting Started with Twitter Bootstrap
 
 ![](images/image206.webp){width="4.0in" height="2.24957239720035in"}
 
@@ -4956,7 +4956,7 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 
 ![](images/image226.webp){width="6.5in" height="0.7104166666666667in"}
 
-# Week 3-18. Bootstrap Grid System
+## Week3-18. Bootstrap Grid System
 
 Hi everybody. Today, we\'re going to talk about the grid system for
 Bootstrap three.
@@ -5218,7 +5218,7 @@ In the next module (19) we\'re going to code together and do some work
 with this grid class. I hope you\'ll join me and you\'ll get a really
 good feeling about how this works with Bootstrap.
 
-# Week 3-19. Code With Me: Grid Example {#week-3-19.-code-with-me-grid-example .unnumbered}
+## Week3-19. Code With Me: Grid Example {#week-3-19.-code-with-me-grid-example .unnumbered}
 
 Hi everybody. Let\'s go over an example together where we\'re using the
 Bootstrap Grid System. I\'m going to go into CodePen and use this code
@@ -5391,7 +5391,7 @@ color:green;
 }
 ```
 
-# Week 3-20. Bootstrap Navigation
+## Week3-20. Bootstrap Navigation
 
 Hi, everybody. Today, we\'re going to talk about navigation bars.
 
@@ -5795,7 +5795,7 @@ current trends. You can\'t live in a bubble.
 
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 
-# Week 4-21. Responsive Images
+## Week4-21. Responsive Images
 
 ![](images/image283.webp){width="4.0in" height="2.247435476815398in"}
 
@@ -6036,7 +6036,7 @@ class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
 </div>
 ```
 
-# Week 4-22. Bootstrap Tables
+## Week4-22. Bootstrap Tables
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
@@ -6252,7 +6252,7 @@ table-responsive, active, success, info, danger, warning -->
 </div>
 ```
 
-# Week 4-23. Code with Me: Advanced Navigation
+## Week4-23. Code with Me: Advanced Navigation
 
 Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you\'re really likely to find online. And
@@ -6397,7 +6397,7 @@ glyphicon-log-in"></span> Login</a></li>
 </nav>
 ```
 
-# Week 4-24. What Are Templates?
+## Week 4-24. What Are Templates?
 
 Hi everybody. Many times, if you\'re talking to people who do web
 design, you\'ve got the people who think, I hate Bootstrap, and other
@@ -6411,26 +6411,38 @@ ahead and talk about some of those free templates that I\'m talking
 about because, if it sounds really good to you, I want to get you in the
 right direction.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image319.webp){width="4.0in" height="2.2658114610673667in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~ 319. where to find bootstrap templates? (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image319.webp"
+  width="40%"
+  alt="getbootstrap.com - Getting Started." />
+</p>
+<!-- {width="4.0in" height="2.2658114610673667in"} -->
 
 This first link comes from getbootstrap.com. These are just the ones
 that provide you when you first get started. These other two,
 bootstrapzero.com and startbootstrap.com, these are just ones I found
 either through word of mouth or through a search engine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image320.webp){width="6.0in" height="3.424359142607174in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~ 320. getbootstrap.com - getting started (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image320.webp"
+  width="80%"
+  alt="getbootstrap.com - Getting Started." />
+</p>
+<!-- {width="6.0in" height="3.424359142607174in"} -->
 
 Let\'s take a look. So here I am at the getbootstrap.com kind of default
 page where you can find out where to download, and where to get the
 different links, and things like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image321.webp){width="6.0in" height="3.527564523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. basic template (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image321.webp"
+  width="80%"
+  alt="Basic template." />
+</p>
+<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 What I\'m going to show you is that if I quickly scroll down.
 
@@ -6440,17 +6452,25 @@ different examples of other templates. So, you could click in and say,
 you know what? I want this template right here. I want my site to look
 like this one right here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image322.webp){width="6.0in" height="3.527564523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322. starter template (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image322.webp"
+  width="80%"
+  alt="Starter template." />
+</p>
+<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 Or I really like the look of this one. And you can use it to build very
 basic templates. Again, nothing too fancy, because the assumption is
 that you\'re here to learn, more than to use as your professional site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image323.webp){width="6.0in" height="3.527564523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. free bootstrap themes (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image323.webp"
+  width="80%"
+  alt="Free Bootstrap themes." />
+</p>
+<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 If you want to go a couple steps up, let\'s go ahead and take a look at
 this next option. So here I am at bootstrapzero.com, and you can see
@@ -6458,9 +6478,13 @@ that, again, they\'re listing a bunch of free Bootstrap themes. They
 tend to go in these general ideas of, do you want it to be a landing
 zone, do you want it to have kind of a dashboard look, you can pick.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image324.webp){width="6.0in" height="3.527564523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. landing zone theme (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image324.webp"
+  width="80%"
+  alt="Landing zone theme." />
+</p>
+<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 So, if I clicked on this landing zone theme, I\'m going to go right
 here, Then, what you get is a much more detailed description of what
@@ -6469,9 +6493,13 @@ mobile view, as well as well as different views. It can talk about
 different things that you use. Different keywords, we use Bootstrap and
 the grid, and we use a form, and we have a video background.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image325.webp){width="4.0in" height="2.3517093175853017in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325. simple one page design (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image325.webp"
+  width="60%"
+  alt="Simple one page design." />
+</p>
+<!-- {width="4.0in" height="2.3517093175853017in"} -->
 
 But what you probably really care about at this point is, what does it
 look like? So let\'s hit this preview button right down here. And
@@ -6591,7 +6619,7 @@ these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
 
-# Week 4-25. Interview: M W
+## Week 4-25. Interview: M W
 
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn\'t show up, but luckily, I ran into one of my old
@@ -6744,7 +6772,7 @@ hope it\'s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you\'re going to go into. So thank you
 
-# Week 4-26. Interview: H W
+## Week 4-26. Interview: H W
 
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I\'ve just run into
@@ -6901,7 +6929,7 @@ the fact that they\'re following what they enjoy and they\'re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 
-# Week 4-27. Interview with H N
+## Week 4-27. Interview with H N
 
 Hi everybody. Welcome back.
 
@@ -7098,7 +7126,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 
-# Week 4-28. Bootstrap 4/5
+## Week 4-28. Bootstrap 4/5
 
 Hi, everybody. Let\'s talk about Bootstrap 4 and 5. In this class I\'ve
 been talking about Bootstrap 3 exclusively. Those are the materials I
@@ -7145,7 +7173,7 @@ really useful and you\'re going to be able to use it for long time.
 Bootstrap 4 can only make things better, so if it\'s something you\'re
 interested in, go ahead. I myself am excited to see where it goes.
 
-# Week 4-29. Conclusion
+## Week 4-29. Conclusion
 
 Congratulations everybody. I\'m really glad that we had this chance to
 learn about responsive design.
@@ -7208,8 +7236,12 @@ Codeschool has free course about DevTools:
 # Keep Learning with Michigan Online
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. michigan online logo (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Michigan Online Logo.](images/image332.webp)
-{width="3.0in" height="0.3961537620297463in"}
+<p align="center" width="100%">
+<img src="/images/image332.webp"
+  width="30%"
+  alt="Michigan Online Logo." />
+</p>
+<!-- {width="3.0in" height="0.3961537620297463in"} -->
 
 Want to keep learning? Explore hundreds of learning experiences from the
 University of Michigan faculty and instructional teams on [Michigan
