@@ -1063,7 +1063,13 @@ iPhone 6? It is a little bit bigger, what if I look at it on a google
 nexus seven. Same thing. So, you can pick a number of different options
 to kind of see what the site would look like.
 
-![](images/image030.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 30.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image030.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 Let\'s see, do one last one, a laptop. Depending on which type of
 platform people are using.
@@ -1085,6 +1091,12 @@ things to different people. We\'re going to talk about three different
 options that people often use, and why the responsive web design that
 we\'re going to adopt has its true benefits.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 30.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image030.webp?raw=true"
+  style="width:60%"
+  alt="" />
 ![](images/image031.webp){width="4.0in" height="2.2538462379702535in"}
 
 The first option, ***responsive web design or RWD***, is really dealing
@@ -1098,7 +1110,13 @@ used.
 The third type is the ***separate mobile site***, or ***.m***. This is
 when you create a completely separate page URL for the mobile site.
 
-![](images/image032.webp){width="4.0in" height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 32.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image032.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 First, let\'s talk about **responsive web design**. With the definition
 that we\'re using, the test really is, are you getting back the same
@@ -1117,7 +1135,13 @@ for certain meta tag named viewport. It can be detected automatically
 and would really, kind of help boost your search engine score, is what
 many people think.
 
-![](images/image033.webp){width="4.0in" height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 33.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image033.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 The second type, **adaptive design**, means that the server figures out
 what kind of device you\'re running on and then returns specific HTML
@@ -1130,7 +1154,13 @@ is that no matter where you\'re doing it from, you\'re using the same
 URL. Now, there\'s a few issues with this, in that the server might
 return the wrong code if the wrong device type is detected.
 
-![](images/image034.webp){width="4.0in" height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 34.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image034.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 That third option of having a **dedicated mobile site**, or **a .m
 URL**, means that you\'re going to get a different page completely on a
@@ -1147,7 +1177,13 @@ would you bother doing this? Again, it\'s for search engine
 optimization. It really helps if the search engines can know that this
 is the same type of information just on different URLs.
 
-![](images/image035.webp){width="4.0in" height="2.2538462379702535in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 35.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image035.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image035.webp){width="4.0in" height="2.2538462379702535in"} -->
 
 So why am I stressing responsive web design?
 
@@ -1188,7 +1224,13 @@ Additional best practices for separate URLs;
 
 <https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing#supported-redirection-techniques>
 
-![](images/image036.webp){width="7.5in" height="4.358975284339458in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 36.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image036.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image036.webp){width="7.5in" height="4.358975284339458in"} -->
 
 ## Week1-05. Fluid Measurements: Background readings
 
@@ -1216,7 +1258,13 @@ lecture on Fluid Measurements.
 
 ## Week1-06. Fluid Measurements
 
-![](images/image037.webp){width="4.0in" height="2.252564523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 37.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image037.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image037.webp){width="4.0in" height="2.252564523184602in"} -->
 
 Hi, everybody. Today we\'re going to talk about fluid measurements.
 They\'re really important to responsive design. I\'ve seen some really
@@ -1241,7 +1289,13 @@ When you\'re on a page and everything doesn\'t fit in the screen so
 you\'ve got to kind of look for it. We want to avoid that whenever
 possible.
 
-![](images/image038.webp){width="4.0in" height="2.251709317585302in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 38.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image038.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image038.webp){width="4.0in" height="2.251709317585302in"} -->
 
 First, let\'s talk about absolute measurements. For many people, these
 may be the only type of measurements they\'ve used when doing web
@@ -1271,7 +1325,13 @@ them.
     are sized based either on their parents or their neighbors or on the
     screen size, different things like that.
 
-![](images/image039.webp){width="4.0in" height="2.2376071741032373in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 39.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image039.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image039.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 So, let\'s start with percent. Percentage values are always relative to
 some other value, for example, a length. If you say you want something
@@ -1287,7 +1347,13 @@ Another thing that you can use is rem. rem is very similar to but it
 helps avoid that problem of something getting smaller and smaller and
 smaller. Let me show you an example.
 
-![](images/image040.webp){width="4.0in" height="2.252564523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 40.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image040.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image040.webp){width="4.0in" height="2.252564523184602in"} -->
 
 Let\'s assume we\'re going to set something up to be 0.5em and it\'s
 going to be inside this element in here. I\'m going to make up a size
@@ -1304,7 +1370,13 @@ the exact same size and the exact size in here. rem really helped people
 out when they were doing these kinds of complex sites where you had a
 lot of things embedded inside the other.
 
-![](images/image039.webp){width="4.0in" height="2.2376071741032373in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 39.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image39..webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image039.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 Now, the problem with teaching and learning about relative measurements,
 is that it\'s very abstract. I tried to include a little thing here to
@@ -1319,7 +1391,13 @@ bigger or smaller, only the em and percent would adjust to the size of
 the screen. If you used point or pixel, as the screen gets bigger, the
 font stays the exact same size. Same if the screen gets smaller.
 
-![](images/image041.webp){width="4.0in" height="2.2376071741032373in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 41.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image041.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image041.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 Two of the newer relative measurements are based on the viewport. vw
 stands for viewport width, so if you were to use one vw, you\'re saying,
@@ -1334,7 +1412,13 @@ have if you want something to show up exactly in the middle. This comes
 in really handy when you\'re trying to set headers and footers in
 specific positions.
 
-![](images/image042.webp){width="4.0in" height="2.241025809273841in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 42.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image042.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image042.webp){width="4.0in" height="2.241025809273841in"} -->
 
 Now, there are times that you\'re going to want to hardcode values with
 those absolute measurements. But, whenever possible, when you\'re coming
@@ -1355,7 +1439,13 @@ difference between sitting and listening to me talk about something, and
 getting in there and coding it yourself, or at least following along
 with me while I code it.
 
-![](images/image043.webp){width="6.0in" height="2.3493591426071743in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 43.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image043.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image043.webp){width="6.0in" height="2.3493591426071743in"} -->
 
 So, let\'s do an example as we go from static or absolute measurements
 to something that\'s more fluid. So, what I have here is a site where
@@ -1400,28 +1490,52 @@ out what you want your page to look like before you code it, and we\'re
 going to talk about that in week two. But right here, for week one,
 let\'s just wing it a little bit.
 
-![](images/image044.webp){width="6.0in" height="3.1044870953630794in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 44.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image044.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image044.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 I\'m going to make it so I can see my code. And the first thing I\'m
 going to do is I\'m going to go to the first place I hard coded a value,
 which is the width of this main part. Saying that I always want it to be
 980 pixels, it\'s just a mistake.
 
-![](images/image045.webp){width="6.0in" height="3.1044870953630794in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 45.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image045.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image045.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 Instead, let\'s use percent here, and say I want this to take up, let\'s
 say somewhere between 95 and I\'ll pick 95% of my page. Already, you
 could see that things happened in there. Not everything we wanted to
 happen, but a little. I\'ll resize it again.
 
-![](images/image046.webp){width="6.0in" height="3.1044870953630794in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 46.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image046.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image046.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 You can see that my paragraph down here still fits, but the columns just
 look at little bit awkward. Particularly, if I\'m somewhere in that
 awkward range of two columns fit, but not the third. So, while the main
 page is responsive, let\'s work on those columns.
 
-![](images/image047.webp){width="6.0in" height="3.1044870953630794in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 47.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image047.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image047.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 Here, I\'ve set them to 300 pixels. Let\'s change that. Since I have
 three columns, again, I can set it to 33, 33, 33, but I\'m probably
@@ -1431,7 +1545,13 @@ see this is a huge difference in our page. Whether I make it big,
 there\'s not a lot of wasted white space along the side. And if I make
 it small, the columns are still together. This is really good.
 
-![](images/image048.webp){width="6.0in" height="3.1044870953630794in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 48.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image048.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image048.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 The last thing I\'m going to change, I\'m going to go ahead and change
 my H1, so I\'m using the percent instead. I\'ll make it 300%. That\'ll
@@ -1536,7 +1656,13 @@ Completed;
 
 Hi everybody. Today we are going to talk about Media queries.
 
-![](images/image049.webp){width="4.0in" height="2.0952996500437444in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 49.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image049.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image049.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Media queries are going to allow us to adjust the style of out webpages,
 depending upon, the properties of the media we\'re looking at. We can
@@ -1548,7 +1674,13 @@ So, inside your HTML you could have multiple links to different style
 sheets. But it wouldn\'t apply all the style sheets just some of them so
 here\'s an example.
 
-![](images/image050.webp){width="4.0in" height="2.0952996500437444in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 50.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image050.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image050.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Right here the style sheet style is only going to apply when the content
 is being displayed on a screen. And for many of you, that\'s the only
@@ -1564,6 +1696,12 @@ completely different style sheet. And this was a big step forward for
 us, because it allowed us to, again, have different content and style
 depending upon the platform.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 51.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image051.webp?raw=true"
+  style="width:40%"
+  alt="" />
 ![](images/image051.webp){width="4.0in" height="2.0952996500437444in"}
 
 With CSS3, we have even more capabilities because the style can depend
@@ -1573,7 +1711,13 @@ Boolean operators to increase the power. And what Boolean operators are
 just simple "ands" and "ors". So, you might want to say something along
 the line of, if it's a screen and fill in some other properties there.
 
-![](images/image052.webp){width="4.0in" height="2.0952996500437444in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image052.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 So, let\'s look at some examples. Every media query has two components.
 The first is the media type. We often think of this as something along
@@ -1586,7 +1730,13 @@ The second component is the actual query of the media feature and the
 trigger size that we want to be looking for. For example, we might be
 looking for very specific width, height, orientation or resolution.
 
-![](images/image052.webp){width="4.0in" height="2.0952996500437444in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image052.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Here\'s an example for you right here.
 
@@ -1601,7 +1751,13 @@ type and then some sort of trigger size and media feature.
 
 There are three ways to implement media queries.
 
-![](images/image053.webp){width="4.0in" height="2.260255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 53.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image053.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image053.webp){width="4.0in" height="2.260255905511811in"} -->
 
 The first is to use the import rule. Inside your CSS, you would use
 import, you\'d include the URL for the style sheet that you want to
@@ -1609,7 +1765,13 @@ import, as well as the different size and conditions on when you want to
 import it. In this case if my screen has a minimum width of 600 pixels,
 we would want to use smallstyle.css.
 
-![](images/image054.webp){width="4.0in" height="2.260255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image054.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image054.webp){width="4.0in" height="2.260255905511811in"} -->
 
 The second approach is to put the media query directly in the style
 sheet itself. We would have before any of our rules, we\'d have the
@@ -1618,21 +1780,39 @@ all of our usual CSS rules for the color, or the font, the size,
 different things like that. So, it\'s all contained inside a single
 file.
 
-![](images/image055.webp){width="4.0in" height="2.260255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image055.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image055.webp){width="4.0in" height="2.260255905511811in"} -->
 
 The third approach is to include the query in the actual link in the
 header of your HTML. So here, instead of just saying link this style
 sheet, we\'ve included the trigger and the different rules right inside
 our HTML link tag.
 
-![](images/image056.webp){width="4.0in" height="2.260255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image056.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image056.webp){width="4.0in" height="2.260255905511811in"} -->
 
 In general, I\'m going to always stick to the second approach; Put media
 query directly in the style sheet. This is the one that I personally use
 for doing my responsive design, but that doesn\'t mean you shouldn\'t
 feel free to play with all three of these different approaches.
 
-![](images/image057.webp){width="4.0in" height="2.260255905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image057.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image057.webp){width="4.0in" height="2.260255905511811in"} -->
 
 Let\'s review for just a second to make sure that we\'re on the same
 page with how we implement media queries.
@@ -1659,7 +1839,13 @@ Hey everybody, welcome back. Let\'s go look at some code together.
 
 <https://codepen.io/ColleenEMc/pen/pgrYpK/>
 
-![](images/image058.webp){width="6.0in" height="3.362179571303587in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image058.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image058.webp){width="6.0in" height="3.362179571303587in"} -->
 
 What we\'re looking at here is an example from when we first learned
 about fluid measurements. We went in and we switched our absolute
@@ -1667,7 +1853,13 @@ measurements of pixels and started using percents. And it works out
 really well, unless you take it and you look at a small screen. Right
 now, the three columns are fine.
 
-![](images/image059.webp){width="6.0in" height="3.362179571303587in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image059.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image059.webp){width="6.0in" height="3.362179571303587in"} -->
 
 But when we get smaller, right here, it really doesn\'t make sense to
 try to shove three columns worth of content into such a small screen.
@@ -1676,7 +1868,13 @@ would be a much better look is to have each column stacked on top of
 each other and only go to three columns when you\'re on a large screen.
 So, let\'s take a look at how we can make that change together.
 
-![](images/image060.webp){width="6.0in" height="3.0724365704286964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 60.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image060.webp){width="6.0in" height="3.0724365704286964in"} -->
 
 The first thing that we need to look at is what these columns are. And
 what we have is we have dibs each of type class equals column. The nice
@@ -1885,7 +2083,13 @@ Did you want it to be a drop-down menu, a hover actions, we need to
 think about this functionality from the beginning. Many people refer to
 sketches and wireframes and kind of wonder what the difference is.
 
-![](images/image061.webp){width="4.0in" height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 61.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image061.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image061.webp){width="4.0in" height="2.2508552055993003in"} -->
 
 I always recommend starting with a sketch. With this idea with a sketch,
 is that you\'re just kind of drawing with your hand and it\'s very
@@ -1905,7 +2109,13 @@ myself, but there are places where you can figure out these kind of best
 design practices as you start sketching out your page and eventually
 moving on.
 
-![](images/image062.webp){width="6.0in" height="3.3762817147856516in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image062.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image062.webp){width="6.0in" height="3.3762817147856516in"} -->
 
 One of the reasons I like this site is well because I agree with many of
 the things they\'re talking about and they agree with me. But as you
@@ -1927,7 +2137,13 @@ in your page because when you do this it really helps you visually look
 at the page and realize, this part\'s getting lost or this section is
 really too big. Maybe I should be breaking it up in to more sections.
 
-![](images/image063.webp){width="4.0in" height="2.2423075240594925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image063.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image063.webp){width="4.0in" height="2.2423075240594925in"} -->
 
 -   This last one I\'m going to talk about and then you can kind of do
     the page alone if you like, is this idea that you never wire a loan.
@@ -1967,7 +2183,13 @@ some of the terms I use in this class and make sure I\'ve actually
 defined them for you so we\'re all in agreement or understand what the
 general meaning is.
 
-![](images/image064.webp){width="4.0in" height="2.2551279527559056in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image064.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image064.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 One of those terms is breakpoint. People hear it talk about it all the
 time when they\'re talking about responsive design, but what are they?
@@ -1989,13 +2211,25 @@ honest, it may not be the best phrase to use. That\'s because most
 people don\'t actually resize their window when they\'re on it. You open
 up your screen and there it is.
 
-![](images/image065.webp){width="4.0in" height="2.2551279527559056in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image065.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image065.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 As developers I encourage you to open up your browser, make it big, make
 it small, kind of resize it all the time. But most people aren\'t going
 to do that when they\'re viewing your page.
 
-![](images/image066.webp){width="4.0in" height="2.2551279527559056in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image066.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image066.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 So, when we talk about triggering these changes, we often mean
 triggering rules in your style sheet instead. That\'s why I\'m going to
@@ -2016,7 +2250,13 @@ your breakpoints based on the content of your page. You figure out what
 it is you want there and decide when will it really look good next to
 each other versus not. Let\'s talk about using devices as a breakpoint.
 
-![](images/image067.webp){width="4.0in" height="2.2551279527559056in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image067.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image067.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 So, what I have here is just a quick little shot of some of the most
 common devices and their screen sizes.
@@ -2049,7 +2289,13 @@ be impossible for you to go in and try to have a different view for each
 one of these sizes. And of course, when we talk about breakpoints, we
 want to talk about mobile first.
 
-![](images/image068.webp){width="4.0in" height="2.2551290463692037in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image068.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image068.webp){width="4.0in" height="2.2551290463692037in"} -->
 
 In a lot of paradigms, you\'re never going to see a breakpoint of 320
 pixels or even 360 pixels. You\'re not going to see that because
@@ -2085,13 +2331,25 @@ me do it than doing it yourself. So today, three simple steps that I
 want you to try at your best to follow and then, we\'ll look at an
 example.
 
-![](images/image069.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image069.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image069.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 The key to understanding media queries is to actually use them in
 responsive design. This lecture is going to describe that process in
 three steps, but you won\'t necessarily need to use all of them.
 
-![](images/image070.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image070.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image070.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 So, the best I can do is give you guidelines. Step one, this is
 something that will cause your page to work or not work many times on
@@ -2107,7 +2365,13 @@ Now, if you ever been to a site where things are really small and you
 want to make it bigger so you can read it a little better. And it just
 won\'t let you do that.
 
-![](images/image071.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image071.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image071.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 That is because somebody has put this very horrible, horrible piece of
 code into their HTML. Instead of saying just initial-scale equals one,
@@ -2120,7 +2384,13 @@ things bigger or smaller. So that\'s step one. It\'s not only going to
 help your browser know that you\'re going to be doing responsive design.
 It may actually help your search engine optimization as well.
 
-![](images/image072.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image072.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image072.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 In step two, I really want to encourage you to use fluid layouts. It\'s
 very often the case that when people use breakpoints, they then use
@@ -2132,7 +2402,13 @@ going to be, they can hard code the width of some of their elements.
 You\'re going to see this in Bootstrap all the time. But, just because
 somebody else does it, doesn\'t mean the you should.
 
-![](images/image073.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image073.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image073.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 I want you to use those other things such as percentages, and ems. These
 are really great fluid measurements. Percentages you tend to use more on
@@ -2142,7 +2418,13 @@ remember that, don\'t forget to go back and look at some of the fluid
 measurement modules. I also hear that Bootstrap 4, one of the platforms
 we\'re going to use is going switch over to ems and rems, too.
 
-![](images/image074.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 74.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image074.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image074.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 The last thing I just like to remind people is that when you use these
 fluid measurements for things like padding and margin, the percents are
@@ -2156,7 +2438,13 @@ seem like a big deal until you\'re stuck trying to code it. Just
 remember paddings and margins, when you use percent, they\'re affected
 by the width of the page, not the height.
 
-![](images/image075.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 75.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image075.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image075.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 That third step is really the biggest step. And that is including those
 media queries. The fluid layout is triggered by these certain break
@@ -2173,7 +2461,13 @@ downloaded. And this can affect performance. They\'re still downloading
 big things like pictures. And you\'re eating up their data. So think
 small screen and grow bigger.
 
-![](images/image076.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 76.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image076.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image076.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 When you put in these media queries, it\'s common to have a few
 different sets of rules. You might have your large screen, and then a
@@ -2215,7 +2509,13 @@ really simple to nod along, say yep, yep, I got it. And it isn\'t until
 you write your own code that you\'re going to accidentally make these
 mistakes and not know what\'s going on.
 
-![](images/image077.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image077.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image077.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 My advice to you is to always add one media query at a time, and make it
 something simple. Put in that media query, add a rule, test it, build
@@ -2285,13 +2585,25 @@ navigation. In particular we want to make one page where the navigation
 bar is at the top on a small screen and off to the side on larger
 screens.
 
-![](images/image078.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image078.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image078.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 So, let\'s look at some code. What I have here is some HTML that
 doesn\'t have any styling on the navigation bar. What you have is a nice
 horizontal line of links right up here at the top of your page.
 
-![](images/image079.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image079.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image079.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 What I would like to do is design my page, so that on small screens, the
 navigation bar is still on the top. But instead, when I\'m on larger
@@ -2302,7 +2614,13 @@ you\'d have all the content. But on a larger screen, it can be this big,
 then I want my navigation bar to be along the side and we can put all
 the content right off to the right.
 
-![](images/image080.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image080.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image080.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 So, let\'s take a look at how we\'re going to do that. Because we want
 to do mobile first, that means by default we already have it set up
@@ -2342,7 +2660,13 @@ going to do that thought. What I always recommend is somebody write a
 very simple, clear rule. The reason is, it\'s really easy for you to
 figure out whether or not your rules are triggering.
 
-![](images/image081.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image081.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image081.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 So, let\'s go ahead and just change the entire color of the body of this
 page. So put in body, curly bracket, background, color, I\'ll just make
@@ -2351,7 +2675,13 @@ it didn\'t change anything on your screen, You want to stop. Don\'t
 start doing new complicated things if you can\'t even get this little
 one to get going. See if I can get away with grey. There we go.
 
-![](images/image082.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image082.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image082.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 You can still see everything. If you run into problems, the parts you
 want to check are go in did you remember to have minimum width? If you
@@ -2361,7 +2691,13 @@ it\'s looking for. Make sure you have two sets of curly brackets. Notice
 I have one set that starts my media query. And then a second one that
 goes with the body selector.
 
-![](images/image083.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image083.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image083.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 If that\'s going, let\'s go ahead and move on to how we would change
 that navigation bar to be off to the side instead of on the top. So, one
@@ -2377,7 +2713,13 @@ still doesn\'t look quite right. What I need, is I need to style those
 individual links as well. So that they go right underneath each other.
 Let\'s do that next code. So how do I do that?
 
-![](images/image084.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image084.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image084.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 How do I get the links to go underneath each other? Well, that\'s not
 too hard if you remember some of the more advanced CSS you\'ve learned
@@ -2394,7 +2736,13 @@ takes up some of the space. But we really wanted the content to be next
 to it. We wanted it to be over here to the side. And instead, it ended
 up underneath.
 
-![](images/image085.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image085.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image085.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
@@ -2414,7 +2762,13 @@ do the math of the margins and the padding right now. I also set the
 height to 100 viewport height to take up the whole screen. I did have to
 go back and change one thing up in my nav as well.
 
-![](images/image086.webp){width="6.0in" height="3.3698720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image086.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image086.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 I had to add a float left, right down here if you look. And this is what
 lets these two things be next to each other off to the side. So let\'s
@@ -2574,7 +2928,13 @@ overflow:auto;
 
 ## Week3-14. Frameworks
 
-![](images/image087.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image087.webp?raw=true"
+  style="width:60%"
+  alt="" />
+<!-- ![](images/image087.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 Hi, everybody. Frameworks is one of those words or terms that people
 really love to throw out there. The term framework can really mean
@@ -2586,7 +2946,13 @@ framework, you\'re able to develop your sites quickly and easily without
 changing too much code. So again, when we talk about framework, we want
 to think about what does framework mean here in this class.
 
-![](images/image088.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image088.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image088.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 For front-end developers, frameworks provide tools for CSS, JavaScript,
 and jQuery. They\'re these little bits of code that you can use to get
@@ -2594,7 +2960,13 @@ an instant look that you\'re looking for. And sometimes an instant
 behavior that you\'re looking for as well with the JavaScript and the
 jQuery.
 
-![](images/image089.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image089.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image089.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 If you\'re a back-end developer, this is something completely different
 as far as frameworks go. Now you\'re looking at code that\'s going to
@@ -2606,7 +2978,13 @@ realize that we\'re doing front-end development, not back-end
 development. In saying that, I think it\'s important that you know at
 least a handful of frameworks that people are using today.
 
-![](images/image090.webp){width="4.0in" height="2.2465813648293964in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 90.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image090.webp?raw=true"
+  style="width:40%"
+  alt="" />
+<!-- ![](images/image090.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 -   The first one that I\'m going to mention, and the one that we\'re
     going to study in this course is Bootstrap. Bootstrap was developed
