@@ -815,7 +815,7 @@ reload it you can see that things have moved over.
 The navigation bar is now over to the left when it wasn\'t there before.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. capital public radio (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image017.webp?raw=true"
   style="width:60%"
@@ -845,11 +845,11 @@ search engine, nobody really wants to advertise the fact that they\'re
 really bad at web design so I found one for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. irs.gov - poorly responsive (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image018.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="IRS.gov - example with poor responsiveness." />
 <!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 It\'s the Internal Revenue Service. And what we have here is a site that
@@ -857,11 +857,11 @@ not only looks the same, but is laid out the same no matter what type of
 screen you\'re looking at.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. irs.gov, again - no change (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image019.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="IRS.gov - no change showing poor responsive design." />
 <!-- width="6.0in" height="3.3807699037620296in"} -->
 
 It looks okay right here, but when I make the screen much smaller, you
@@ -888,11 +888,11 @@ What can you do? Well, one option if you\'re using a desktop or a
 laptop, that you can resize your window and refresh the site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 20. sample web site using responsive - 3 breakpoints (20) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image020.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="intro-webdesign.com - sample web site using reponsiveness - 3 breakpoints/sizes." />
 <!-- width="6.0in" height="3.3807688101487314in"} -->
 
 So, if I go here;
@@ -902,11 +902,11 @@ my mouse and resize it, take a look and see how things are going to
 change.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 21. intro-webdesign.com - 3 different breakpoints (21) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image021.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="intro-webdesign.com - mobile view." />
 <!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 Here, large view, tablet and mobile view. So, I can see that I have
@@ -928,12 +928,24 @@ these webpages.
 
 Here we go.
 
-![](images/image022.webp){width="6.0in" height="3.922435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 22. https://ui.dev/amiresponsive - 3 different breakpoints (22) ~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image022.webp?raw=true"
+  style="width:60%"
+  alt="ui.dev/amiresponsive - mobile view." />
+<!-- {width="6.0in" height="3.922435476815398in"} -->
 
 Here\'s a website that you can go to. Down at the bottom of the screen,
 you can fill in the URL of the site you want to look at.
 
-![](images/image023.webp){width="6.0in" height="3.922435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 23. intro-webdesign.com - 3 different breakpoints (22) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image021.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - mobile view." />
+<!-- {width="6.0in" height="3.922435476815398in"} -->
 
 Just so you know, this is made with an HTML tag that makes it so that
 you have to put in a URL. It\'s always going to be looking for at least
@@ -946,11 +958,23 @@ desktop, the laptop, a tablet view and a mobile view, and you can see
 that each one is a little bit different depending upon the platform I\'m
 using.
 
-![](images/image024.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 24. sample responsive - mlive.com (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image024.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - mobile view." />
+<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 Let\'s check out another site.
 
-![](images/image025.webp){width="6.0in" height="3.635897856517935in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 25. sample responsive - umich.edu (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image025.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu." />
+<!-- {width="6.0in" height="3.635897856517935in"} -->
 
 In this case, again we can see that this is a responsive setup. Now,
 even though the pages may look very similar, you can see that on the
@@ -962,7 +986,13 @@ see that in the tablet view, we\'ve really broken it down and they use
 more of a two-column grid system rather than having quite as much
 content.
 
-![](images/image026.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 26. sample responsive - umich.edu (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image026.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu - mobile view." />
+<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 The next site I\'m going to check is one that I\'ve made from my umich
 site. Going here, paste in that URL, and we can take a look. What I\'ve
@@ -990,8 +1020,13 @@ The next option you can try is to use tools on your Chrome or Firefox,
 or whatever browser you\'re using. It\'s often the case that your
 browser is going to have special tools that let you simulate looking at
 things from different viewpoints.
-
-![](images/image027.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 27. colleen e van lent's website (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image027.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
+<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 With Chrome, you can use inspect element to see the different viewpoints
 in real-time. Let\'s take a look. So, I\'ve gone here to my website
@@ -1000,14 +1035,26 @@ to drag it out a little bit here. You can see I\'ve got my large screen
 I\'ve got a lot of spacing in it. So, I\'m going to go in and do inspect
 element by right clicking Click over here.
 
-![](images/image028.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 28. colleen e van lent's smartphone view (26) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image028.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
+<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 And what I can do now is up in the upper left-hand corner, there\'s
 something that looks like a small little mobile phone. It says Toggle
 device mode. I\'m going to click on that. And when I do, I am now
 viewing my site as if I\'m viewing it on a small mobile phone.
 
-![](images/image029.webp){width="6.0in" height="3.3807688101487314in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 29. colleen e van lent's website (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image029.webp?raw=true"
+  style="width:60%"
+  alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
+<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 Depending upon your operating system in the browser of the addition that
 you have, you can go up to the device in the upper left-hand corner
@@ -7401,7 +7448,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-6-2023 11:11pm -->
+<!-- 10-7-2023 9:55pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
