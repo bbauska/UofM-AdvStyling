@@ -7700,6 +7700,12 @@ in tech is going to help you in all these different fields.
 So, thank you very much.
 
 ## Week 4-28. Bootstrap 4/5
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. bootstrap 5 & 4 logos (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image332.webp?raw=true"
+  style="width:40%"
+  alt="Logos for Bootstrap 5 and 4." />
 
 Hi, everybody. Let\'s talk about Bootstrap 4 and 5. In this class I\'ve
 been talking about Bootstrap 3 exclusively. Those are the materials I
