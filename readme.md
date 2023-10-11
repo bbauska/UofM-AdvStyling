@@ -2084,11 +2084,12 @@ think about this functionality from the beginning. Many people refer to
 sketches and wireframes and kind of wonder what the difference is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 61.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. sketches vs. wireframes (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image061.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Sketches vs. Wireframes." />
+</p>
 <!-- ![](images/image061.webp){width="4.0in" height="2.2508552055993003in"} -->
 
 I always recommend starting with a sketch. With this idea with a sketch,
@@ -2110,11 +2111,12 @@ design practices as you start sketching out your page and eventually
 moving on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 62. best design practices, example (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image062.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Best design practices - example." />
+</p>
 <!-- ![](images/image062.webp){width="6.0in" height="3.3762817147856516in"} -->
 
 One of the reasons I like this site is well because I agree with many of
@@ -2138,11 +2140,12 @@ at the page and realize, this part\'s getting lost or this section is
 really too big. Maybe I should be breaking it up in to more sections.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. wireframes - review (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image063.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Wireframes - review." />
+</p>
 <!-- ![](images/image063.webp){width="4.0in" height="2.2423075240594925in"} -->
 
 -   This last one I\'m going to talk about and then you can kind of do
@@ -2184,11 +2187,12 @@ defined them for you so we\'re all in agreement or understand what the
 general meaning is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64. breakpoints - what are they? (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image064.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Breakpoints - What are They?" />
+</p>
 <!-- ![](images/image064.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 One of those terms is breakpoint. People hear it talk about it all the
@@ -2212,11 +2216,12 @@ people don\'t actually resize their window when they\'re on it. You open
 up your screen and there it is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65. what does trigger mean? (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image065.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="What does trigger mean?" />
+</p>
 <!-- ![](images/image065.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 As developers I encourage you to open up your browser, make it big, make
@@ -2224,11 +2229,12 @@ it small, kind of resize it all the time. But most people aren\'t going
 to do that when they\'re viewing your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66. determining the breakpoints (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image066.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Determining the breakpoints." />
+</p>
 <!-- ![](images/image066.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 So, when we talk about triggering these changes, we often mean
@@ -2251,11 +2257,12 @@ it is you want there and decide when will it really look good next to
 each other versus not. Let\'s talk about using devices as a breakpoint.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 67. screen shots - smartphone px (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image067.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Screen shots - smartphone px." />
+</p>
 <!-- ![](images/image067.webp){width="4.0in" height="2.2551279527559056in"} -->
 
 So, what I have here is just a quick little shot of some of the most
@@ -2295,6 +2302,7 @@ want to talk about mobile first.
 <img src="./images/image068.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image068.webp){width="4.0in" height="2.2551290463692037in"} -->
 
 In a lot of paradigms, you\'re never going to see a breakpoint of 320
@@ -2337,6 +2345,7 @@ example.
 <img src="./images/image069.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image069.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 The key to understanding media queries is to actually use them in
@@ -2349,6 +2358,7 @@ three steps, but you won\'t necessarily need to use all of them.
 <img src="./images/image070.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image070.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 So, the best I can do is give you guidelines. Step one, this is
@@ -2371,6 +2381,7 @@ won\'t let you do that.
 <img src="./images/image071.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image071.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 That is because somebody has put this very horrible, horrible piece of
@@ -2390,6 +2401,7 @@ It may actually help your search engine optimization as well.
 <img src="./images/image072.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image072.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 In step two, I really want to encourage you to use fluid layouts. It\'s
@@ -2408,6 +2420,7 @@ somebody else does it, doesn\'t mean the you should.
 <img src="./images/image073.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image073.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 I want you to use those other things such as percentages, and ems. These
@@ -2424,6 +2437,7 @@ we\'re going to use is going switch over to ems and rems, too.
 <img src="./images/image074.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image074.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 The last thing I just like to remind people is that when you use these
@@ -2444,6 +2458,7 @@ by the width of the page, not the height.
 <img src="./images/image075.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image075.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 That third step is really the biggest step. And that is including those
@@ -2467,6 +2482,7 @@ small screen and grow bigger.
 <img src="./images/image076.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image076.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 When you put in these media queries, it\'s common to have a few
@@ -2719,6 +2735,7 @@ Let\'s do that next code. So how do I do that?
 <img src="./images/image084.webp?raw=true"
   style="width:60%"
   alt="" />
+</p>
 <!-- ![](images/image084.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 How do I get the links to go underneath each other? Well, that\'s not
@@ -2742,6 +2759,7 @@ up underneath.
 <img src="./images/image085.webp?raw=true"
   style="width:60%"
   alt="" />
+</p>
 <!-- ![](images/image085.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 What do we need to do? If we were in class, in real life, I would sit
@@ -2768,6 +2786,7 @@ go back and change one thing up in my nav as well.
 <img src="./images/image086.webp?raw=true"
   style="width:60%"
   alt="" />
+</p>
 <!-- ![](images/image086.webp){width="6.0in" height="3.3698720472440944in"} -->
 
 I had to add a float left, right down here if you look. And this is what
@@ -2934,6 +2953,7 @@ overflow:auto;
 <img src="./images/image087.webp?raw=true"
   style="width:60%"
   alt="" />
+</p>
 <!-- ![](images/image087.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 Hi, everybody. Frameworks is one of those words or terms that people
@@ -2952,6 +2972,7 @@ to think about what does framework mean here in this class.
 <img src="./images/image088.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image088.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 For front-end developers, frameworks provide tools for CSS, JavaScript,
@@ -2966,6 +2987,7 @@ jQuery.
 <img src="./images/image089.webp?raw=true"
   style="width:40%"
   alt="" />
+</p>
 <!-- ![](images/image089.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 If you\'re a back-end developer, this is something completely different
@@ -2979,11 +3001,12 @@ development. In saying that, I think it\'s important that you know at
 least a handful of frameworks that people are using today.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 90.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 90. popular front-end frameworks (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Popular front-end frameworks, as of 2013." />
+</p>
 <!-- ![](images/image090.webp){width="4.0in" height="2.2465813648293964in"} -->
 
 -   The first one that I\'m going to mention, and the one that we\'re
@@ -3049,8 +3072,14 @@ side](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolutio
 This allows the user to interact with the page right away, while the
 JavaScript code is still loading and running.
 
-![hydration in web development](images/image091.webp){width="5.0in"
-height="2.911324365704287in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 91. hydration in web development (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image091.webp"
+  style="width:50%"
+  alt="Hydration in web development." />
+</p>
+<!-- ![hydration in web development](images/image091.webp){width="5.0in" height="2.911324365704287in"} -->
 
 Image
 credit: [Reddit](https://www.reddit.com/r/webdev/comments/xqd4i8/what_is_hydration/)
@@ -3119,8 +3148,8 @@ Jamstack?](https://jamstack.wtf/)*
 
 ### How to Use JavaScript Libraries
 
-To use a JavaScript library in your app, add \<script\> to
-the \<head\> element using the src attribute that references the library
+To use a JavaScript library in your app, add &lt;script&gt; to
+the &lt;head&gt; element using the src attribute that references the library
 source path or the URL.
 
 Read the JavaScript library's documentation you intend to use for more
@@ -3261,11 +3290,18 @@ the frameworks, as well as links to GitHub and the framework\'s website.
 
 ## #01 -- React
 
-## ![React Logo]
-(images/image094.webp)
-{width="1.0in" height="1.0in"} - ![ReactJS front-end framework]
-(images/image095.webp)
-{width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94/95. react logo and framework (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image094.webp?raw=true"
+  style="width:15%"
+  alt="React logo." />
+<!-- {width="1.0in" height="1.0in"} - ![ReactJS front-end framework] -->
+<img src="./images/image095.webp?raw=true"
+  style="width:50%"
+  alt="React front-end framework." />
+</p>
+<!-- {width="5.0in" height="0.9145297462817148in"} -->
 
 [React.js](https://reactjs.org/) (also known as ReactJS or React) is an
 open-source, front-end JavaScript library. It was created in 2013 by
@@ -3768,8 +3804,14 @@ elements like classes, typography, and color scheme.\
 
 ## #02 -- jQuery
 
-![](images/image096.webp)
-{width="2.8854166666666665in" height="1.125in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image096.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="2.8854166666666665in" height="1.125in"} -->
 
 [jQuery](https://jquery.com/) is a classic JavaScript library that's
 fast, light-weight, and feature-rich. It was built in 2006 by John Resig
