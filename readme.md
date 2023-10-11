@@ -6005,7 +6005,14 @@ active. It\'s not really a big deal whether you\'re going to use pills
 or tabs. It\'s just a design decision that you want to make a little bit
 early on.
 
-![](images/image269.webp){width="4.0in" height="2.260683508311461in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image269.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.260683508311461in"} -->
 
 Once you\'ve decided on either tabs or pills, another thing you're going
 to consider is the layout. Do you want your navigation bar to be
@@ -6014,13 +6021,27 @@ I\'m going to show you right now how you can quickly change them. Let\'s
 go ahead and just use the nav-pills code. When I go back up to that
 unordered list element, I have that it should be nav in nav pills.
 
-![](images/image270.webp){width="4.0in" height="4.186528871391076in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image270.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="4.186528871391076in"} -->
 
 What I want to add now is to say, you know what? Instead of being
 horizontal, I want to change it, so that it\'s vertical or stacked. This
 simple class completely changes the look of our page.
 
-![](images/image271.webp){width="6.0in" height="2.257050524934383in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image271.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- ![](images/image271.webp){width="6.0in" height="2.257050524934383in"} -->
 
 Another option that we can use is nav-justified. When you use
 nav-justified, by default, it\'s going to take as many links as you have
@@ -6030,14 +6051,28 @@ take up 20% and different things like that. Now the interesting thing
 about nav-justified is that when you resize the window, it actually
 changes the look of the page.
 
-![](images/image272.webp){width="6.0in" height="4.391304680664917in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image272.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- ![](images/image272.webp){width="6.0in" height="4.391304680664917in"} -->
 
 So now as I make it smaller, it changes from justified per stack. This
 gives a kind of really cool look without you having to do much about it.
 So, on the small view, you go to stacks. On the larger views, you\'re
 horizontal.
 
-![](images/image273.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image273.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- ![](images/image273.webp){width="4.0in" height="2.2572648731408576in"} -->
 
 Another thing you see a lot of people like to add to their navigation
 bars are these drop-down menus where you have different options, but
@@ -6118,11 +6153,25 @@ RD: navbar
 <div>6Lots and lots of Content!!!</div>
 ```
 
-![](images/image274.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image274.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- ![](images/image274.webp){width="4.0in" height="2.2572648731408576in"} -->
 
 The example on Bootstrap is called pills with drop-downs.
 
-![](images/image275.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image275.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- ![](images/image275.webp){width="4.0in" height="2.2572648731408576in"} -->
 
 I\'ve made my own example and we\'re going to look at it now, it\'s
 called responsive design drop downs. So, I\'ve taken the code that
@@ -6160,7 +6209,14 @@ the drop-down, something should drop-down and it didn\'t. I do this on
 purpose, because I really like to make the same mistakes that you guys
 possibly make.
 
-![](images/image276.webp){width="6.0in" height="3.385897856517935in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 276.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image276.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- ![](images/image276.webp){width="6.0in" height="3.385897856517935in"} -->
 
 So first, I need to know, did I link to the Bootstrap JavaScript files?
 I can check up and there\'s nothing there. I can check my settings and I
@@ -6172,7 +6228,14 @@ happening? This occurs a lot.
 So, while I haven\'t actually forgotten it as you may have, I did
 comment it out.
 
-![](images/image277.webp){width="6.0in" height="3.385897856517935in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image277.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- ![](images/image277.webp){width="6.0in" height="3.385897856517935in"} -->
 
 I\'m going to go back here and say, oop, I know there\'s a script I\'m
 supposed to have down at the bottom. The one that links to jQuery, I\'m
@@ -6201,7 +6264,14 @@ that you\'re on the right path.
 <div>6Lots and lots of Content!!!</div>
 ```
 
-![](images/image278.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image278.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- ![](images/image278.webp){width="4.0in" height="2.2572648731408576in"} -->
 
 The last class I\'m going to talk to you about, with respect to
 navigation right now, is the navbar class.
@@ -6213,7 +6283,14 @@ the top or navbar-fixed to the bottom and this is going to affect where
 your different, where your navbar is going to show up and how it
 interacts with the other elements.
 
-![](images/image279.webp){width="6.0in" height="3.385897856517935in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image279.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 Let\'s take a quick look. What I have here is that I\'ve wrapped up my
 typical nav with nav-pills and I\'ve put it inside of a navbar class. I
@@ -6228,23 +6305,42 @@ before I can even hit Save. I hope you notice that my content actually
 moved. I have changed the positioning of my navbar from static to fixed
 and fixed is what I call the annoying pop ad version of positioning. It
 means it\'s on top, it\'s not going to move.
-
-![](images/image280.webp){width="6.0in" height="3.385897856517935in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image280.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 So, if I go back down to my screen now, you can see that it actually
 hides some of the other stuff that\'s there. I\'m going to make my
 screen smaller. You can see I can scroll up and down here, but it\'s
 impossible to see the things that are underneath the navbar.
 
-![](images/image281.webp){width="6.0in" height="3.385897856517935in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image281.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 When you use fixed just be careful, the last option was to use bottom.
 And here what I\'ve done is I\'ve simply moved my navbar from the top to
 the bottom. But many times, with fixed content, this works out much
 better, because it doesn\'t cover up other things and at least take away
 the ability to scroll up and down and at least see them.
-
-![](images/image282.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image282.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 Back when you were learning about HTML, hopefully, you learned about
 semantic tags. Some tags are very generic div, P, different things like
@@ -6354,8 +6450,14 @@ current trends. You can\'t live in a bubble.
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 
 ## Week4-21. Responsive Images
-
-![](images/image283.webp){width="4.0in" height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image283.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 Hi everybody. Let\'s talk about images. I think we\'ve all been to
 places, where you\'ve been on a website and particularly if it\'s not a
@@ -6368,8 +6470,14 @@ got to go scroll, scroll, scroll, scroll because the image is just so
 big. Since so many web pages now are made up of images, it\'s really
 important for us to think about how we can make them responsive. And
 we\'re going to talk about two different approaches.
-
-![](images/image284.webp){width="4.0in" height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image284.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 One is to write your own code to do this, and the second is to use
 Bootstrap and some of the built-in Bootstrap classes. In your own code,
@@ -6387,8 +6495,14 @@ we\'re in certain situations, in which case, you still want it to be
 responsive. But you really want it to top off at 750 pixels, maybe
 because you think the quality of the image will degrade, or you just
 don\'t want it to have so much emphasis.
-
-![](images/image285.webp){width="4.0in" height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image285.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 In the same way, you can also set a min-width, where if the screen is
 very small, you don\'t necessarily be proportional to the screen any
@@ -6396,13 +6510,25 @@ more. You really want it to be at least 200 pixels. When you go in and
 you start setting the width on images, you might be wondering if you
 should be setting the height as well. In general, you do not, because
 what\'s going to happen is it\'s going to skew.
-
-![](images/image286.webp){width="4.0in" height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image286.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 You can\'t get it exactly right. So usually, you just set the height to
 auto or leave it along.
-
-![](images/image287.webp){width="4.0in" height="2.247435476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image287.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 Many people really like to use the Bootstrap classes with their images,
 and that\'s because they provide a number of image classes, some of them
@@ -6416,7 +6542,14 @@ img-thumbnail. What this one will do, is give your image the kind of
 look that is often associated with thumbnails. A little bit of a border,
 a small size, we\'ll take a look at those in just a second.
 
-![](images/image288.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image288.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 But first, let's take a closer look at that img-responsive class. What
 I\'ve done here is I\'ve taken a quick screenshot of what the inspect
@@ -6426,13 +6559,27 @@ one at a time, the max-width: 100%, and the height: auto. This is very
 similar to the code we were talking about, if you wanted to put it in
 yourself. Let\'s look at those other classes as well.
 
-![](images/image289.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image289.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 So, what I have right here is a single image in code pen. There are no
 classes applied. I went ahead and I put it inside a div. And I\'m going
 to re-size the screen a bit.
 
-![](images/image290.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image290.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 That you can see my dog stays there, he doesn\'t shrink, he doesn\'t do
 anything like that.
@@ -6448,7 +6595,14 @@ Width: 75%;
 }
 ```
 
-![](images/image291.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image291.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 It would be possible for me to go in and do something along the lines of
 image with 75%. And what that means, is it\'s going to take its width
@@ -6456,7 +6610,14 @@ based on the width of its parent, that div. So, if I re-size again. You
 can see that the picture of Bacon is actually changing. This is great,
 this is exactly the kind of responsive behavior that we want to see.
 
-![](images/image292.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image292.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 Let\'s see how it works, if we use Bootstrap instead. I\'m going to go
 in and get rid of that. Now, one of the things I\'ve done when I created
@@ -6467,18 +6628,39 @@ add different classes. We\'ll start with image responsive. When I do
 this one, you can see that now when I re-size it, again, great
 responsive behavior.
 
-![](images/image293.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image293.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 Let\'s see what those other kinds of visual ones do for us. We can have
 image rounded. And, it\'s probably barely perceptible to you, but you
 can have this little tiny curving, right here, curved just a little bit.
 
-![](images/image294.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image294.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 Let\'s go for image circle, so you can really see when something
 happens. And as you can see, it really just cuts off part of the
 pictures, so you can have that circle look.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image295.webp"
+  style="width:60%"
+  alt="." />
+</p>
 ![](images/image295.webp){width="6.0in" height="3.3711537620297465in"}
 
 The last one I\'m going to do, which we can actually add at the same
@@ -6495,7 +6677,14 @@ are reasons for doing that. Personally, I would have liked a much
 thicker border, so you all could have seen it. But in many cases,
 you\'re really happy with the defaults. Let\'s look at one more example.
 
-![](images/image296.webp){width="6.0in" height="3.3711537620297465in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image296.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 So, let\'s go ahead and look at this example, where I put together the
 Thumbnail class, along with some of our Grid classes to give you an idea
@@ -6504,7 +6693,14 @@ spent some time berating myself, because I couldn\'t add the seven
 pictures. I combine these with the thumbnail class to really have a kind
 of cool gallery effect.
 
-![](images/image297.webp){width="6.0in" height="3.4191174540682416in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image297.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.4191174540682416in"} -->
 
 So let me start by showing you the code. It\'s really simple. Kind of
 quick. Every single line says this same exact thing. It simply, I give
@@ -6519,7 +6715,14 @@ messing me up. I was trying to figure out why this extra picture was off
 to the side. Well, I actually put it there because I wanted to show that
 there were one, two, three, four, five, six. All right.
 
-![](images/image298.webp){width="6.0in" height="6.9375in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image298.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="6.9375in"} -->
 
 So, let\'s look at the small screen. Well, now this is interesting
 because I\'m looking at it and nowhere do I say that something should
@@ -6535,7 +6738,12 @@ it\'s going to default for 12. So that\'s why on the extra small screen,
 you get one dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image299.webp){width="6.0in" height="6.9375in"}
+<p align="center" width="100%">
+<img src="/images/image300.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="6.9375in"} -->
 
 The small screen you get two in each row.
 
@@ -6547,7 +6755,6 @@ Then you go to three on the media screen image size.
   style="width:30%"
   alt="." />
 </p>
-
 <!-- {width="6.0in" height="4.747436570428697in"} -->
 
 And then, you pop over to six. That\'s the way things are going on here.
@@ -6602,8 +6809,12 @@ class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
 ## Week4-22. Bootstrap Tables
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image301.webp){width="4.0in" height="2.0858978565179354in"}
+<p align="center" width="100%">
+<img src="/images/image301.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.0858978565179354in"} -->
 
 Hi everybody. Today, we\'re going to talk about tables. Many people use
 Bootstrap for styling their tables. I find that Bootstrap is very
@@ -6619,15 +6830,23 @@ everything beautifully. In Bootstrap, instead you need to layer multiple
 classes on top of each other to get a really specific look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image302.webp){width="4.0in" height="2.0858978565179354in"}
+<p align="center" width="100%">
+<img src="/images/image302.webp"
+  style="width:30%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.0858978565179354in"} -->
 
 The table class, the class just class equals table, it\'s the
 foundation. You need to have that class every time you style tables.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image303.webp){width="4.0in" height="2.0858978565179354in"}
+<p align="center" width="100%">
+<img src="/images/image303.webp"
+  style="width:30%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.0858978565179354in"} -->
 
 Let\'s talk about that one. The simple table class it just adds some
 padding and horizontal dividers. It doesn\'t sound like much but I\'m
@@ -6640,8 +6859,12 @@ odd row has a little bit of color, every even row is just background
 transparent.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image304.webp){width="4.0in" height="2.2576924759405075in"}
+<p align="center" width="100%">
+<img src="/images/image304.webp"
+  style="width:30%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.2576924759405075in"} -->
 
 You can also add borders to your table where it will add a border to the
 tables and the cells inside the table.
@@ -6652,8 +6875,12 @@ It\'s also possible to have responsive tables. It actually sounds I
 think a little cooler than it is.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](images/image305.webp){width="4.0in" height="2.2576924759405075in"}
+<p align="center" width="100%">
+<img src="/images/image305.webp"
+  style="width:30%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.2576924759405075in"} -->
 
 How it works is that Bootstrap sets one breakpoint for responsive
 tables.
@@ -7877,7 +8104,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-7-2023 9:55pm -->
+<!-- 10-10-2023 6:43pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
