@@ -3830,8 +3830,14 @@ Center](https://learn.jquery.com/).
 
 ##### jQuery UI
 
-![](images/image097.webp)
-{width="6.5in" height="4.098611111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image096.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="4.098611111111111in"} -->
 
 ### jQuery UI in Action is a practical guide to using and customizing jQuery UI library components to build rich, user-friendly web applications.
 
@@ -3952,18 +3958,36 @@ the [demos](https://jqueryui.com/demos/) and read through the [API
 documentation](http://api.jqueryui.com/) to get an idea of what\'s
 possible.
 
-![](images/image098.webp)
-{width="6.5in" height="4.86875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image098.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- ![](images/image098.webp) {width="6.5in" height="4.86875in"} -->
 
 ##### The above Download Builder from jQuery UI.
 
-![](images/image099.webp)
-{width="6.5in" height="4.13125in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image099.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- ![](images/image099.webp) {width="6.5in" height="4.13125in"} -->
 
 ##### Page 2 (above)
 
-![](images/image100.webp)
-{width="6.5in" height="3.0541666666666667in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image100.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- ![](images/image100.webp) {width="6.5in" height="3.0541666666666667in"} -->
 
 ##### Page 3, last page of jQuery v1.13.2 User Interface Download.
 
@@ -3999,24 +4023,36 @@ Like this:
 $( "#date" ).datepicker();
 ```
 
-![](images/image101.webp){width="2.5104166666666665in"
-height="1.9479166666666667in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image101.webp?raw=true"
+  style="width:25%"
+  alt="." />
+</p>
+<!-- ![](images/image101.webp){width="2.5104166666666665in" height="1.9479166666666667in"} -->
 
 ## #03 -- Bootstrap v5.2.3
 
-![Bootstrap v5 \| Drifting Ruby]
-(images/image102.webp)
-{width="1.0in" height="0.6308016185476816in"} 
-- ![Bootstrap官方中文站 · 全球最流行的 HTML、CSS 和 JS 工具库。]
-(images/image103.webp)
-{width="2.0in" height="1.2109700349956256in"} 
-- ![Free download \| HD PNG bootstrap featured image bootstrap 3 logo PNG
-\...]
-(images/image104.webp)
-{width="1.0in" height="1.0210968941382328in"}
- - ![Bootstrap Izgara Sistemi]
- (images/image105.webp)
-{width="2.0in" height="1.0464140419947507in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102/103/104/105. bootstrap logos (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image102.webp?raw=true"
+  style="width:10%"
+  alt="Bootstrap v5 | Drifting Ruby." />
+<!-- {width="1.0in" height="0.6308016185476816in"} -->
+<img src="./images/image103.webp?raw=true"
+  style="width:20%"
+  alt="Bootstrap官方中文站 · 全球最流行的 HTML、CSS 和 JS 工具库。" />
+<!-- {width="2.0in" height="1.2109700349956256in"} -->
+<img src="./images/image104.webp?raw=true"
+  style="width:10%"
+  alt="Free download | HD PNG bootstrap featured image bootstrap 3 logo PNG..." />
+<!-- {width="1.0in" height="1.0210968941382328in"} -->
+<img src="./images/image105.webp?raw=true"
+  style="width:20%"
+  alt="Bootstrap Izgara Sistemi"
+<!-- {width="2.0in" height="1.0464140419947507in"} -->
 
 Bootstrap is a powerful, feature-packed frontend toolkit. Build
 anything---from prototype to production---in minutes.
