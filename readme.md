@@ -99,7 +99,7 @@ site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive design? (0x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive design? (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.webp?raw=true"
   style="width:45%"
@@ -248,25 +248,24 @@ capstone project.
 ### Media Sizes (in Pixels)
 
 ```
-> **@media (min-width:320px) { /* smartphones, iPhone, portrait
-> 480x320 phones */ }**
->
-> **@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),**
->
-> **smaller tablets @ 600 or @ 640 wide. */ }**
->
-> **@media (min-width:641px) { /* portrait tablets, portrait iPad,
-> landscape e-readers,**
->
-> **landscape 800x480 or 854x480 phones */ }**
->
-> **@media (min-width:961px) { /* tablet, landscape iPad, lo-res
-> laptops and desktops */ }**
->
-> **@media (min-width:1025px) { /* big landscape tablets, laptops, and
-> desktops */ }**
->
-> **@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
+**@media (min-width:320px) { /* smartphones, iPhone, portrait
+480x320 phones */ }**
+
+**@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),**
+
+**smaller tablets @ 600 or @ 640 wide. */ }**
+
+**@media (min-width:641px) { /* portrait tablets, portrait iPad,
+landscape e-readers,**
+
+**landscape 800x480 or 854x480 phones */ }**
+
+**@media (min-width:961px) { /* tablet, landscape iPad, lo-res
+  laptops and desktops */ }**
+**@media (min-width:1025px) { /* big landscape tablets, laptops, and
+desktops */ }**
+
+**@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
 ```
 
 ## Week One: Style with Responsive Design
@@ -1583,35 +1582,35 @@ Completed;
 13. <h2>Colleen van Lent</h2>
 14. </header>
 15. <main>
-16. <!-- Content -->
+16. <!-- content -->
 17. <p>What happens when you hardcode the values of your elements? In
-    > this case, I have a section that is set to 940px. Each of the
-    > content columns is set to 300px. What could go wrong?</p>
+      this case, I have a section that is set to 940px. Each of the
+      content columns is set to 300px. What could go wrong?</p>
 18. <div class="column">
 19. <h2>Content</h2>
 20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-    > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-    > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-    > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.</p>
+      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
+      eget lacinia odio sem nec elit.</p>
 21. </div>
 22. <div class="column">
 23. <h2>Content</h2>
 24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-    > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-    > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-    > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.</p>
+      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
+      eget lacinia odio sem nec elit.</p>
 25. </div>
 26. <div class="column">
 27. <h2>Content</h2>
 28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-    > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-    > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-    > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.</p>
+      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+     Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
+     eget lacinia odio sem nec elit.</p>
 29. </div>
-30. </main><!-- .row -->
+30. </main>  <!-- .row -->
 31. </body>
 32. </html>
 ```
@@ -1942,35 +1941,35 @@ Completed;
 13. <h2>Colleen van Lent</h2>
 14. </header>
 15. <main>
-16. <!-- Content -->
+16. <!-- content -->
 17. <p>What happens when you hardcode the values of your elements? In
-    > this case, I have a section that is set to 940px. Each of the
-    > content columns is set to 300px. What could go wrong?</p>
+      this case, I have a section that is set to 940px. Each of the
+      content columns is set to 300px. What could go wrong?</p>
 18. <div class="column">
 19. <h2>Content</h2>
 20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-    > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-    > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-    > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.</p>
+      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
+      eget lacinia odio sem nec elit.</p>
 21. </div>
 22. <div class="column">
 23. <h2>Content</h2>
 24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-    > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-    > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-    > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.</p>
+      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
+      eget lacinia odio sem nec elit.</p>
 25. </div>
 26. <div class="column">
 27. <h2>Content</h2>
 28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-    > erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-    > quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-    > Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-    > eget lacinia odio sem nec elit.</p>
+      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
+      eget lacinia odio sem nec elit.</p>
 29. </div>
-30. </main><!-- .row -->
+30. </main>  <!-- .row -->
 31. </body>
 32. </html>
 ```
@@ -2626,18 +2625,18 @@ HTML:
 ```
 <h1>Media Queries Part Two</h1>
 <main>
-<p></p>
-This page should be Green on Small screen<br>
-This page should be Yellow on Medium screen<br>
-This page should be Blue on Large screen<br>
-</p>
+  <p>
+    This page should be Green on Small screen<br>
+    This page should be Yellow on Medium screen<br>
+    This page should be Blue on Large screen<br>
+  </p>
 </main>
 ```
 
 CSS:
 
 ```
-/* Do these need to be reordered? */
+/* do these need to be reordered? */
 @media only screen and (min-width: 1024px) {
 body{
 background: #0000FF;
@@ -2885,29 +2884,29 @@ HTML
 ```
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Styled Navigation</title>
-<link rel="stylesheet" href="css/navigation.css">
-</head>
-<body>
-<nav>
-<a href="">Home</a>
-<a href="">Photos</a>
-<a href="">Recipes</a>
-<a href="">Contact</a>
-</nav>
-<section>
-<h2>Playing with Vertical Navigation Bars</h2>
-<p>This is a separate section that will hold the content for each
-page. The next paragraph is just filler text. It doesn't mean
-anything.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
-temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
-quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
-dolorum commodi magni.</p>
-</section>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>Styled Navigation</title>
+    <link rel="stylesheet" href="css/navigation.css">
+  </head>
+  <body>
+    <nav>
+      <a href="">Home</a>
+      <a href="">Photos</a>
+      <a href="">Recipes</a>
+      <a href="">Contact</a>
+    </nav>
+    <section>
+      <h2>Playing with Vertical Navigation Bars</h2>
+      <p>This is a separate section that will hold the content for each
+        page. The next paragraph is just filler text. It doesn't mean
+        anything.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
+        temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
+        quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
+       dolorum commodi magni.</p>
+    </section>
+  </body>
 </html>
 ```
 
@@ -4362,8 +4361,9 @@ than jQuery.
 ## #08 -- Bideo.js
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Bideo Launch Offers the Best Way to Get Bids from Video Pros \...](images/image115.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 115.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Bideo Launch Offers the Best Way to Get Bids from Video Pros \...]
+(images/image115.webp)
 {width="1.9190288713910761in" height="1.0in"}
 
 [Bideo.js ](https://rishabhp.github.io/bideo.js/)is a free and open
@@ -4383,16 +4383,19 @@ features like playback speed control and full screen mode.
 
 ## #09 - Angular
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Angular Logo PNG Transparent & SVG Vector - Freebie Supply](images/image116.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Angular Logo PNG Transparent & SVG Vector - Freebie Supply]
+(images/image116.webp)
 {width="0.75in" height="0.7958858267716535in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Angular Logo Black and White -- Brands Logos](images/image117.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Angular Logo Black and White -- Brands Logos]
+(images/image117.webp)
 {width="0.75in" height="0.7967147856517935in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Angular front-end framework](images/image118.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Angular front-end framework]
+(images/image118.webp)
 {width="4.373833114610673in" height="0.8in"}
 
 While Angular retains a rather large usage percentage, the interest in
@@ -4422,18 +4425,19 @@ preferences.
 
 ## #10 - VueJS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![VUE Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image119.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![VUE Logo PNG Transparent & SVG Vector - Freebie Supply]
+(images/image119.webp)
 {width="1.1582720909886264in" height="1.0in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Vue.js Logo History -- dwGlogo -- Logo service
-marketplace blog](images/image120.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Vue.js Logo History -- dwGlogo -- Logo service marketplace blog]
+(images/image120.webp)
 {width="2.097344706911636in" height="1.0in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Vue front-end framework](images/image121.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Vue front-end framework]
+(images/image121.webp)
 {width="5.0in" height="0.9145297462817148in"}
 
 Vue remains a solid choice for truly modern web development.
@@ -4464,21 +4468,23 @@ support for TypeScript, and testing tools.
 ## #11 - Svelte
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Svelte Logo PNG Vector (SVG) Free
-Download](images/image122.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Svelte Logo PNG Vector (SVG) Free Download]
+(images/image122.webp)
 {width="3.125in" height="0.7708333333333334in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![A new OpenSource opponent for the Web, SvelteJS - OpenExpo Europe 2020](images/image123.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![A new OpenSource opponent for the Web, SvelteJS - OpenExpo Europe 2020]
+(images/image123.webp)
 {width="1.8588232720909885in" height="1.0in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image124.webp)
 {width="0.8315791776027996in" height="1.0in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Svelte front-end framework](images/image125.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Svelte front-end framework]
+(images/image125.webp)
 {width="5.0in" height="0.9145297462817148in"}
 
 So, what\'s the deal with Svelte? The framework has seen quite a bit of
@@ -4506,7 +4512,7 @@ doesn\'t impose a strict structure.
 
 Which is ideal for fast front-end development. Here is an example:
 
-// Example.svelte
+// example.svelte
 
 ```
 <script lang="typescript">
@@ -4534,24 +4540,29 @@ text-align: none;
 
 ## #12 - Preact
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Preact Logo PNG Transparent & SVG Vector - Freebie Supply](images/image126.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Preact Logo PNG Transparent & SVG Vector - Freebie Supply]
+(images/image126.webp)
 {width="0.8649639107611549in" height="1.0in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![使用Preact作为反应替代方案 Using Preact as a React Alternative - Quick博客](images/image127.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![使用Preact作为反应替代方案 Using Preact as a React Alternative - Quick博客]
+(images/image127.webp)
 {width="3.125in" height="0.9375in"}- 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Replacing React with Preact in Your Projects](images/image128.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Replacing React with Preact in Your Projects]
+(images/image128.webp)
 {width="3.2465748031496062in" height="1.0in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Preact Logo Animation by Luka Mushkudiani on Dribbble](images/image129.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Preact Logo Animation by Luka Mushkudiani on Dribbble]
+(images/image129.webp)
 {width="1.3352110673665791in" height="1.0in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Preact front-end framework](images/image130.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Preact front-end framework]
+(images/image130.webp)
 {width="5.0in" height="0.9145297462817148in"}
 
 Meta frameworks have always been a thing. And, in this case, Preact aims
@@ -4577,20 +4588,24 @@ stability.
 ## #13 - EmberJS {#emberjs .unnumbered}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![ember logo 10 free Cliparts \| Download images on Clipground 2022](images/image131.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![ember logo 10 free Cliparts \| Download images on Clipground 2022]
+(images/image131.webp)
 {width="1.3352110673665791in" height="1.0in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Ember: Making a set of radio buttons that change a value set on the \...](images/image132.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 132.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Ember: Making a set of radio buttons that change a value set on the \...]
+(images/image132.webp)
 {width="2.2679429133858267in" height="1.0in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Ember logo \~ Single Colour \| I\'m very pleased to show this o... \| Flickr](images/image133.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 133.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Ember logo \~ Single Colour \| I\'m very pleased to show this o... \| Flickr]
+(images/image133.webp)
 {width="0.8893055555555556in" height="1.0in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Ember front-end framework](images/image134.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Ember front-end framework]
+(images/image134.webp)
 {width="5.0in" height="0.9145297462817148in"}
 
 Ember goes back so long that it predates all the aforementioned
@@ -4611,15 +4626,15 @@ with major changes in the framework itself.
 ## #14 - Solid {#solid .unnumbered}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![solid-js - npm](images/image135.webp)
 {width="1.0in" height="0.6582283464566929in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Testing your Solid.js code \| DevsDay.ru](images/image136.webp)
 {width="3.0in" height="0.5506332020997375in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Solid front-end framework](images/image137.webp)
 {width="5.0in" height="0.9145297462817148in"}
 
@@ -4650,19 +4665,19 @@ Vue and Redux.
 ## #15 - Lit {#lit .unnumbered}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 138.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Build a Lightweight Web Component with Lit.js](images/image138.webp)
 {width="1.7819553805774277in" height="1.0in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 139.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![9 popular JavaScript frameworks (and how to choose one for your project \...]
 (images/image139.webp){width="3.0in" height="0.9556955380577428in"} 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![LAB launches a new logo and web design for LIT \| LAB Digital Creative](images/image140.webp)
-{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![LAB launches a new logo and web design for LIT \| LAB Digital Creative]
+(images/image140.webp) {width="1.0in" height="1.0in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Lit front-end framework](images/image141.webp){width="5.0in"
 height="0.9145297462817148in"}
 
@@ -4684,17 +4699,31 @@ implements standardized web components.
 
 ## #16 - Alpine {#alpine .unnumbered}
 
-![Alpine.js Logo PNG Vector (SVG) Free
-Download](images/image142.webp){width="1.9736843832020998in"
-height="1.0in"} - ![Alpine.js ·
-GitHub](images/image143.webp){width="1.0in" height="1.0in"} - ![Alpine.js
-example · GitHub](images/image144.webp){width="3.0in"
-height="0.5696205161854768in"}![Alpine.js -- Ein kurzer Einstieg --
-SEOTheater.de](images/image145.webp){width="3.0in"
-height="1.9746839457567804in"}
-
-![Alpine front-end framework](images/image146.webp){width="5.0in"
-height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Alpine.js Logo PNG Vector (SVG) Free Download]
+(images/image142.webp)
+{width="1.9736843832020998in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Alpine.js · GitHub]
+(images/image143.webp)
+{width="1.0in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Alpine.js example · GitHub]
+(images/image144.webp)
+{width="3.0in" height="0.5696205161854768in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Alpine.js -- Ein kurzer Einstieg -- SEOTheater.de]
+(images/image145.webp)
+{width="3.0in" height="1.9746839457567804in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Alpine front-end framework]
+(images/image146.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 Alpine.js is a JavaScript front-end framework for customizing UI
 behavior. And, even though Alpine resembles Vue and Angular, it\'s much
@@ -4720,13 +4749,20 @@ Hugo, etc.
 
 ## #17 -- Stencil {#stencil .unnumbered}
 
-![Stencil.js: crear web components nunca fue tan fácil -
-Paradigma](images/image147.webp){width="1.7819553805774277in"
-height="1.0in"}- ![Top JavaScript Frameworks 2021 - Software
-Development](images/image148.webp){width="2.708571741032371in"
-height="1.0in"}
-
-![](images/image149.webp){width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Stencil.js: crear web components nunca fue tan fácil - Paradigma]
+(images/image147.webp)
+{width="1.7819553805774277in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Top JavaScript Frameworks 2021 - Software Development]
+(images/image148.webp)
+{width="2.708571741032371in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image149.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 Stencil is a library for building reusable, scalable Design Systems. It
 is designed to make the front-end development process simple and
@@ -4760,14 +4796,25 @@ doc generation, and types.
 
 ## #18 - Qwik {#qwik .unnumbered}
 
-![GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework
-\...](images/image150.webp){width="2.72413823272091in" height="1.0in"} -
-![\"Qwik Logo\" Greeting Card by cosimochellini \|
-Redbubble](images/image151.webp){width="1.0in" height="1.0in"} - ![\"Qwik
-Logo\" Sticker by cosimochellini \|
-Redbubble](images/image152.webp){width="0.75in" height="1.0in"}
-
-![](images/image153.webp){width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework \...]
+(images/image150.webp)
+{width="2.72413823272091in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![\"Qwik Logo\" Greeting Card by cosimochellini \| Redbubble]
+(images/image151.webp)
+{width="1.0in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![\"Qwik Logo\" Sticker by cosimochellini \| Redbubble]
+(images/image152.webp)
+{width="0.75in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 153.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image153.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 Qwik is a next-generation front-end framework designed to meet the
 demands of modern web development. With a focus on performance,
@@ -4792,13 +4839,26 @@ or executed.
 
 ## #19 -- Moment.js
 
-![10 Awesome JavaScript Libraries You Should Try Out in
-2021](images/image154.webp){width="1.225353237095363in" height="1.0in"}-
-![Moment JS logo vector](images/image155.webp){width="1.0in"
-height="1.0in"} - ![Useful Open Source JavaScript Libraries and Plugins
-for Web Developer](images/image156.webp){width="2.3939391951006126in"
-height="1.0in"} - ![Collection of Javascript Logo Vector PNG. \|
-PlusPNG](images/image157.webp){width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![10 Awesome JavaScript Libraries You Should Try Out in 2021]
+(images/image154.webp)
+{width="1.225353237095363in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Moment JS logo vector]
+(images/image155.webp)
+{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Useful Open Source JavaScript Libraries and Plugins for Web Developer]
+(images/image156.webp)
+{width="2.3939391951006126in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Collection of Javascript Logo Vector PNG. \| PlusPNG]
+(images/image157.webp)
+{width="1.0in" height="1.0in"}
 
 **Moment.js** is a JavaScript package that makes it simple to parse,
 validate, manipulate, and display date/time in JavaScript. It allows you
@@ -4819,13 +4879,21 @@ run the code (see documentation).
 
 ## #20 -- popper.js
 
-![10 impresionantes bibliotecas de JavaScript que deberías probar en
-2020 \...](images/image158.webp){width="2.0in"
-height="1.0421937882764654in"} - ![Popper.js首页、文档和下载 -
-在web应用中创建Poppers - OSCHINA -
-中文开源技术交流社区](images/image159.webp){width="2.0in"
-height="2.0in"} - ![\@popperjs/core -
-npm](images/image160.webp){width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![10 impresionantes bibliotecas de JavaScript que deberías probar en 2020 \...]
+(images/image158.webp)
+{width="2.0in" height="1.0421937882764654in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Popper.js首页、文档和下载 - 在web应用中创建Poppers - OSCHINA - 中文开源技术交流社区]
+(images/image159.webp)
+{width="2.0in" height="2.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![\@popperjs/core - npm]
+(images/image160.webp)
+{width="1.0in" height="1.0in"}
 
 Popper.js is a positioning, popover and drop-down tooltip utility.
 
@@ -4838,11 +4906,16 @@ document and floats near a target element. The most common example is a
 tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a \"popper\" element.
 
-![](images/image161.webp){width="7.0in" height="2.6264971566054243in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image161.webp)
+{width="7.0in" height="2.6264971566054243in"}
 
 <https://popper.js.org/>
-
-![](images/image162.webp){width="6.5in" height="2.60625in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 162.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image162.webp)
+{width="6.5in" height="2.60625in"}
 
 <https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement>
 
@@ -4866,12 +4939,21 @@ tutorials](https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-an
 a [long list of real-world
 projects](https://backbonejs.org/#examples) that use Backbone.
 
-![Creating simple tasks app with Backbone.js and Slim micro framework
-\...](images/image163.webp){width="1.0in" height="1.0in"} - ![All About
-Backbone.js \| Javascript Frameworks](images/image164.webp){width="2.0in"
-height="1.2827001312335957in"} -
-![Backbone.js](images/image165.webp){width="4.0in"
-height="0.7088604549431321in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Creating simple tasks app with Backbone.js and Slim micro framework \...]
+(images/image163.webp)
+{width="1.0in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![All About Backbone.js \| Javascript Frameworks]
+(images/image164.webp)
+{width="2.0in" height="1.2827001312335957in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. backbone.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Backbone.js]
+(images/image165.webp)
+{width="4.0in" height="0.7088604549431321in"}
 
 Backbone.js Stack
 
@@ -4913,15 +4995,29 @@ development a fun and delightful experience.
 And it integrates with React, Angular, Meteor, Ember and many other
 frameworks to help organize UI layer alongside application logic.
 
-![Semantic UI Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image166.webp){width="1.0in" height="1.0in"} - ![En İyi 6
-CSS Framework](images/image167.webp){width="2.0in" height="1.0in"} -
-![Taking a Look at Semantic UI: A Lightweight Alternative to Bootstrap
-\...](images/image168.webp){width="3.1967213473315836in" height="1.0in"}
-
-![](images/image169.webp){width="4.0in" height="2.674786745406824in"}
-
-![](images/image170.webp){width="4.0in" height="2.1465813648293963in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Semantic UI Logo PNG Transparent & SVG Vector - Freebie Supply]
+(images/image166.webp)
+{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![En İyi 6 CSS Framework]
+(images/image167.webp)
+{width="2.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Taking a Look at Semantic UI: A Lightweight Alternative to Bootstrap \...]
+(images/image168.webp)
+{width="3.1967213473315836in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image169.webp)
+{width="4.0in" height="2.674786745406824in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 170.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image170.webp)
+{width="4.0in" height="2.1465813648293963in"}
 
 Example Semantic UI website theme.
 
@@ -4929,7 +5025,18 @@ For more information go to <https://semantic-ui-forest.com/>.
 
 ## #23 -- Gatsby
 
-## ![Blazing speed with Gatsby Js - EasyCoders - code made easy](images/image171.webp){width="3.0in" height="1.3762817147856519in"} ![Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free](images/image172.webp){width="1.38in" height="1.38in"} {#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Blazing speed with Gatsby Js - EasyCoders - code made easy]
+(images/image171.webp)
+{width="3.0in" height="1.3762817147856519in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free]
+(images/image172.webp)
+{width="1.38in" height="1.38in"}
+
+{#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
 
 It is an **open-source static website generator**, which "allows
 developers to create fast, secure and powerful websites using a
@@ -4940,9 +5047,11 @@ his [website](https://www.gatsbyjs.com/why-gatsby).
 
 ## #24 -- The MEAN Stack
 
-![What is MEAN Stack? MEAN Stack Components and Benefits \| Thirdock
-Techkno](images/image173.webp){width="4.0in"
-height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![What is MEAN Stack? MEAN Stack Components and Benefits \| Thirdock Techkno]
+(images/image173.webp)
+{width="4.0in" height="2.0931627296587925in"}
 
 The MEAN stack is a JavaScript-based framework for developing web
 applications. MEAN is named after MongoDB, Express, Angular, and Node,
@@ -4963,13 +5072,21 @@ popular technology concepts for building web applications.
 
 ## #25 -- Aurelia
 
-![Pegatina «Logotipo de Aurelia - marco JS» de hipstuff \|
-Redbubble](images/image174.webp){width="1.5in" height="2.0in"}
-![JavaScript Frameworks Every Developer Must Have! - Tutorials & Methods
-\...](images/image175.webp){width="3.0in" height="1.077244094488189in"}
-![5 Benefits Of Choosing Aurelia js Over AngulrJS-
-ValueCoders](images/image176.webp){width="2.0in"
-height="0.5933683289588801in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Pegatina «Logotipo de Aurelia - marco JS» de hipstuff \| Redbubble]
+(images/image174.webp)
+{width="1.5in" height="2.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![JavaScript Frameworks Every Developer Must Have! - Tutorials & Methods \...]
+(images/image175.webp)
+{width="3.0in" height="1.077244094488189in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![5 Benefits Of Choosing Aurelia js Over AngulrJS- ValueCoders]
+(images/image176.webp)
+{width="2.0in" height="0.5933683289588801in"}
 
 Aurelia is an open-source JavaScript framework for building web
 applications. It follows a modular and extensible architecture,
@@ -4978,12 +5095,21 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 
 ## #26 -- Knockout.js
 
-![Knockout.js Reviews 2022: Details, Pricing, & Features \|
-G2](images/image177.webp){width="3.0in" height="1.575in"} ![Challenges
-with Monitoring Knockout.js Web Applications - Dotcom
-\...](images/image178.webp){width="2.0in" height="2.0in"} ![Knockout
-(@knockout_js) \| Twitter](images/image179.webp){width="1.0in"
-height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Knockout.js Reviews 2022: Details, Pricing, & Features \| G2]
+(images/image177.webp)
+{width="3.0in" height="1.575in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Challenges with Monitoring Knockout.js Web Applications - Dotcom \...]
+(images/image178.webp)
+{width="2.0in" height="2.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Knockout (@knockout_js) \| Twitter]
+(images/image179.webp)
+{width="1.0in" height="1.0in"}
 
 Knockout.js is a lightweight JavaScript framework that helps you build
 dynamic and responsive user interfaces with a clean underlying data
@@ -4993,12 +5119,21 @@ managing data and UI synchronization.
 
 ## #27 -- Mithril
 
-![Mithril. Js -- DEV.BG](images/image180.webp){width="3.0in"
-height="1.145569772528434in"} ![Mithril.js. The brave little framework
---- An... \| by DAN \| Medium](images/image181.webp){width="2.0in"
-height="1.1898731408573928in"} ![D20 - Mithril Js Logo, HD Png
-Download - 1605x1605 PNG - DLF.PT](images/image182.webp){width="1.0in"
-height="0.9442311898512686in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Mithril. Js -- DEV.BG]
+(images/image180.webp)
+{width="3.0in" height="1.145569772528434in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Mithril.js. The brave little framework --- An... \| by DAN \| Medium]
+(images/image181.webp)
+{width="2.0in" height="1.1898731408573928in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![D20 - Mithril Js Logo, HD Png Download - 1605x1605 PNG - DLF.PT]
+(images/image182.webp)
+{width="1.0in" height="0.9442311898512686in"}
 
 Mithril is a lightweight and fast JavaScript framework for building
 single-page applications (SPAs) and dynamic web interfaces. It provides
@@ -5007,11 +5142,16 @@ optimization. Despite its small footprint, Mithril offers powerful
 features for building robust web applications.
 
 ## #28 -- Riot.js
-
-![Introducing Riot.js, RiotControl and
-RiotGear](images/image183.webp){width="3.0in"
-height="1.4285258092738409in"} ![2021 年 5 月現在の
-Riot.js](images/image184.webp){width="3.0in" height="2.565064523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Introducing Riot.js, RiotControl and RiotGear]
+(images/image183.webp)
+{width="3.0in" height="1.4285258092738409in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![2021 年 5 月現在の Riot.js]
+(images/image184.webp)
+{width="3.0in" height="2.565064523184602in"}
 
 Riot.js is a lightweight and intuitive JavaScript framework for building
 user interfaces. It emphasizes simplicity, reusability, and a
@@ -5021,7 +5161,18 @@ crucial.
 
 ## #29 -- Stimulus
 
-## ![Stimulus: A JavaScript Framework for People Who Love HTML](images/image185.webp){width="2.0in" height="1.385in"} ![Episode #112 - Stimulus Javascript Framework \| Preview - YouTube](images/image186.webp){width="2.0in" height="1.5in"} {#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Stimulus: A JavaScript Framework for People Who Love HTML]
+(images/image185.webp)
+{width="2.0in" height="1.385in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Episode #112 - Stimulus Javascript Framework \| Preview - YouTube]
+(images/image186.webp)
+{width="2.0in" height="1.5in"} 
+
+{#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
 
 Stimulus is a JavaScript framework designed to add interactivity to HTML
 pages with minimal setup and a focus on progressive enhancement. It aims
@@ -5030,12 +5181,21 @@ applications by enhancing existing HTML elements with behavior.
 
 ## #30 -- Tailwind CSS
 
-![How to access Tailwind CSS colors from
-Javascript](images/image187.webp){width="2.0in" height="1.0in"}
-![Tailwind CSS ⭐ con React.js ⭐ \[Parte 6\] -
-YouTube](images/image188.webp){width="2.0in" height="1.125in"}
-![CodeKit - TailwindCSS](images/image189.webp){width="2.0in"
-height="1.2320002187226597in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![How to access Tailwind CSS colors from Javascript]
+(images/image187.webp)
+{width="2.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Tailwind CSS ⭐ con React.js ⭐ \[Parte 6\] - YouTube]
+(images/image188.webp)
+{width="2.0in" height="1.125in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![CodeKit - TailwindCSS]
+(images/image189.webp)
+{width="2.0in" height="1.2320002187226597in"}
 
 Tailwind CSS is a popular utility-first CSS framework that provides a
 comprehensive set of pre-built CSS classes. It aims to simplify the
@@ -5044,10 +5204,16 @@ functional approach.
 
 ## #31 -- Foundation
 
-![JS Foundation -- Logos Download](images/image190.webp){width="2.0in"
-height="0.601496062992126in"} ![JS Foundation Announced To Bring
-JavaScript Open Source Community Under
-\...](images/image191.webp){width="2.0in" height="1.1111111111111112in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![JS Foundation -- Logos Download]
+(images/image190.webp)
+{width="2.0in" height="0.601496062992126in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![JS Foundation Announced To Bring JavaScript Open Source Community Under \...]
+(images/image191.webp)
+{width="2.0in" height="1.1111111111111112in"}
 
 Foundation is a responsive front-end framework that provides a
 collection of pre-built HTML, CSS, and JavaScript components and
@@ -5058,10 +5224,6 @@ and reusable elements.
 ## #32 - \< even more libraries/frameworks to come\>
 
 ## #33 - \< even more libraries/frameworks to come\>
-
-## #34 - \< even more libraries/frameworks to come\>
-
-## #35 - \< even more libraries/frameworks to come\>
 
 ## Front-end Frameworks: A Summary
 
@@ -5095,7 +5257,10 @@ on practical skills rather than just trendy technologies.
 
 ## Week3-15. Introduction to Twitter Bootstrap 3
 
-![](images/image192.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image192.webp)
+{width="4.0in" height="2.24957239720035in"}
 
 Today we\'re going to talk about Bootstrap.
 
@@ -5119,7 +5284,10 @@ Today we\'re going to talk about Bootstrap.
     layouts\'. It gives us this very familiar look and feel to sights
     that were made with Bootstrap.
 
-![](images/image193.webp){width="4.0in" height="2.249573490813648in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image193.webp)
+{width="4.0in" height="2.249573490813648in"}
 
 Speaking of that, who uses Bootstrap?
 
@@ -5134,7 +5302,10 @@ Speaking of that, who uses Bootstrap?
     place to go to give you ideas for all the different layout designs
     that are out there for you to use as a building block.
 
-![](images/image194.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image194.webp)
+{width="4.0in" height="2.24957239720035in"}
 
 There are a number of benefits of using Bootstrap 3.0.
 
@@ -5169,6 +5340,8 @@ There are a number of benefits of using Bootstrap 3.0.
         for people to have confidence in your site when they go to visit
         it.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image195.webp){width="4.0in" height="2.24957239720035in"}
 
 So why should you consider using Bootstrap? Or at least know a little
@@ -5188,6 +5361,8 @@ bit about it?
     don\'t like, that\'s okay. You can go in and you can change the
     values to give it the look that you want it to have.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image196.webp){width="4.0in" height="2.24957239720035in"}
 
 But there are reasons why you might not want to use Bootstrap.
@@ -5212,7 +5387,8 @@ But there are reasons why you might not want to use Bootstrap.
     you\'re artistic or creative. Or you want to show that you are
     really an innovative thinker. Then you might not want to use
     Bootstrap. You might really want to head off on your own.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image197.webp){width="4.0in" height="2.24957239720035in"}
 
 -   When we talk about Bootstrap in this class, there are a number of
@@ -5242,7 +5418,8 @@ want to use, not something that you feel confined by.
     Bootstrap to our code. Thanks.
 
 ## Week3-16. Bootstrap Breakpoints
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image198.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Earlier in this course, we talked about setting breakpoints in your
@@ -5256,7 +5433,8 @@ want to use, not something that you feel confined by.
 
     -   You want to make sure you plan for the smallest screen and then
         make adjustments as the screen size potentially is larger.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image199.webp){width="4.0in" height="2.24957239720035in"}
 
 -   First let's talk about the smallest screen size that Bootstrap deals
@@ -5273,6 +5451,8 @@ want to use, not something that you feel confined by.
     It\'s also not very common right now, so let\'s go on to the extra
     small devices and phones.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image200.webp){width="4.0in" height="2.24957239720035in"}
 
 -   In Bootstrap, these extra small sizes are referred to with an xs.
@@ -5284,6 +5464,8 @@ want to use, not something that you feel confined by.
     landscape position. You assume the phone is at least 480 pixels
     wide.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image201.webp){width="4.0in" height="2.24957239720035in"}
 
 -   The next step up for small devices and tablets is referred to as sm
@@ -5298,6 +5480,8 @@ want to use, not something that you feel confined by.
     that from many desktop browsers, people open up smaller window
     sizes, so it also triggers this viewpoint as well.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image202.webp){width="4.0in" height="2.24957239720035in"}
 
 -   For medium devices and desktops, we use this code md for media.
@@ -5313,6 +5497,8 @@ want to use, not something that you feel confined by.
     they might be using the style sheet, of a larger screen. And we\'re
     going to talk about how we can deal with this a little bit later.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image203.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Finally, the last viewport is referred to as lg, and this is for
@@ -5337,6 +5523,8 @@ want to use, not something that you feel confined by.
     being triggered. I\'m hoping you can avoid them by knowing what\'s
     going on there.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image204.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Now it is possible to change these default values for your
@@ -5351,6 +5539,8 @@ want to use, not something that you feel confined by.
     -   You can always write your own media queries to add new trigger
         points.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image205.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Now, when we talk about Bootstrap grid points, it\'s not important
@@ -5370,6 +5560,8 @@ want to use, not something that you feel confined by.
 
 ## Week3-17. Getting Started with Twitter Bootstrap
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image206.webp){width="4.0in" height="2.24957239720035in"}
 
 -   Hi everybody. If I\'ve done a good job up to this point, you\'re
@@ -5389,6 +5581,8 @@ want to use, not something that you feel confined by.
     -   We can also talk about how we can link to the code from our
         CodePen account.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image207.webp){width="4.0in" height="2.24957239720035in"}
 
 If you want to save your own copy of bootstrap, you can go to the
@@ -5405,6 +5599,8 @@ before you download. This will save you time, if you know there are
 certain break points, colors, or other styles that you want to happen,
 and you don\'t want to go around and overwrite them later.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image208.webp){width="6.0in" height="3.374359142607174in"}
 
 <https://codepen.io/ColleenEMc/pen/obwJGp/>
@@ -5413,6 +5609,8 @@ and you don\'t want to go around and overwrite them later.
 
 <https://getbootstrap.com/docs/3.4/customize/>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image209.webp){width="4.0in" height="2.2559831583552055in"}
 
 ```
@@ -5466,6 +5664,8 @@ bootstrap code. Down here, again, we can go to the link
 getbootstrap.com/getting-started and they will give you the code that
 you need to include.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image210.webp){width="6.0in" height="3.3839752843394577in"}
 
 I\'ve got it right here. You will need to copy and paste this code and
@@ -5477,6 +5677,8 @@ longer have to keep a copy yourself. And that\'s really handy if you
 plan on having many different versions of your site. And you don\'t want
 to have lots of different copies of the bootstrap code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image211.webp){width="4.0in" height="2.2559831583552055in"}
 
 I\'m adding a third option to this lecture because so many of us use
@@ -5487,6 +5689,8 @@ got an example here for us, where I am starting fresh. I don\'t want to
 go in and put in those links, because I really want to keep this code
 clean. I really want to keep it to just HTML.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image212.webp){width="6.0in" height="3.383973097112861in"}
 
 If you follow along, I\'m going to go here to settings. I need to click
@@ -5498,6 +5702,8 @@ options. Once you have that put in there. As long as it\'s in here. It
 now knows this is how you can add the external CSS. Now you may remember
 that I said, you\'re going to connect to the CSS and JavaScript files.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image213.webp){width="6.0in" height="3.383973097112861in"}
 
 Once you added the CSS you want to click on JavaScript. Right here.
@@ -5505,6 +5711,8 @@ Quick add, and add bootstrap as well. Once we\'ve done this, our site is
 now ready to use any of the bootstrap classes or any of the bootstrap
 JavaScript that we may need to use.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image214.webp){width="4.0in" height="2.2559831583552055in"}
 
 It\'s very common when you\'re first getting started with bootstrap, or
@@ -5519,6 +5727,8 @@ and link to bootstrap using the settings. Instead, I wanted to show you
 this code both with and without the links because that way if you write
 it up yourself you can still have it.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image215.webp){width="6.0in" height="3.383974190726159in"}
 
 So, here\'s the link to the bootstrap, CSS, and JavaScript, and down
@@ -5531,6 +5741,8 @@ using that bootstrap font. One way is for me to delete the link to the
 style sheet. I\'ll do that right here. And now you can see that the font
 has changed a little bit.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image216.webp){width="4.0in" height="2.2559831583552055in"}
 
 This is actually really important and let\'s talk about why. So, on a
@@ -5563,6 +5775,8 @@ let me show it to you again, just so you know what I\'m talking about.
 I\'m back at our original template code. And I\'ll put back in the style
 sheet.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image217.webp){width="6.0in" height="3.3839752843394577in"}
 
 When you scroll down, you can see that after I have hello world, I have
@@ -5583,6 +5797,8 @@ what\'s going on.
 
 ### Bootstrap HTML Template
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image218.webp){width="4.0in" height="2.2645297462817147in"}
 
 Finally, you can also always go in and overwrite those bootstrap
@@ -5646,18 +5862,24 @@ Get three equal-width columns **starting at desktops and scaling to
 large desktops**. On mobile devices, tablets and below, the columns will
 automatically stack.
 
-### ![](images/image219.webp){width="6.5in" height="0.3111111111111111in"}Three unequal columns
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image219.webp){width="6.5in" height="0.3111111111111111in"}Three unequal columns
 
 Get three columns **starting at desktops and scaling to large
 desktops** of various widths. Remember, grid columns should add up to
 twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
 
-### ![](images/image220.webp){width="6.5in" height="0.3111111111111111in"}Two columns
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image220.webp){width="6.5in" height="0.3111111111111111in"}Two columns
 
 Get two columns **starting at desktops and scaling to large desktops**.
 
-### ![](images/image221.webp){width="6.5in" height="0.29444444444444445in"}Full width, single column
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image221.webp){width="6.5in" height="0.29444444444444445in"}Full width, single column
 
 No grid classes are necessary for full-width elements.
 
@@ -5671,6 +5893,8 @@ widths) within the larger column.
 At mobile device sizes, tablets and down, these columns and their nested
 columns will stack.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image222.webp){width="6.5in" height="0.6381944444444444in"}
 
 ### Mixed: mobile and desktop
@@ -5683,10 +5907,14 @@ layouts.
 Each tier of classes scales up, meaning if you plan on setting the same
 widths for xs and sm, you only need to specify xs.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image223.webp){width="6.5in" height="1.1215277777777777in"}
 
 ### Mixed: mobile, tablet, and desktop
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image224.webp){width="6.5in" height="0.7159722222222222in"}
 
 ### Column clearing
@@ -5695,12 +5923,16 @@ widths for xs and sm, you only need to specify xs.
 floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at
 specific breakpoints to prevent awkward wrapping with uneven content.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image225.webp){width="6.5in" height="0.54375in"}
 
 ### Offset, push, and pull resets
 
 Reset offsets, pushes, and pulls at specific breakpoints.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image226.webp){width="6.5in" height="0.7104166666666667in"}
 
 ## Week3-18. Bootstrap Grid System
@@ -5718,6 +5950,8 @@ I\'m hoping that you\'ll follow along with me. We\'ll do an example in
 one of the next modules, and then you come back and you read this
 material again, and see if it\'s starting to really make sense.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image227.webp){width="4.0in" height="2.2529910323709537in"}
 
 Bootstrap can see every element as something you can break down into 12
@@ -5733,17 +5967,23 @@ that\'s why everyone says Bootstrap uses a grid. It\'s not a table.
 So, you kind of have to throw that practical reasoning out for a little
 bit, if you\'re going to be using Bootstrap.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image228.webp){width="4.0in" height="2.2572648731408576in"}
 
 With this table, we can basically say if you want to use three columns,
 it\'s the same as saying a width of maybe 25%. Six columns is 50%. Nine
 columns is 75%.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image229.webp){width="4.0in" height="2.2572648731408576in"}
 
 All 12 columns mean you\'re taking up the full width of the page or that
 element.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image230.webp){width="4.0in" height="2.2572648731408576in"}
 
 Every grid in Bootstrap consists of a container class, a row class and
@@ -5751,6 +5991,8 @@ then one or more column classes. The actual code itself is going to look
 like this, where xx is going to be the viewport size. And yy is going to
 be the number of columns that you want to use. Let\'s take a look.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image231.webp){width="4.0in" height="2.2572648731408576in"}
 
 Let\'s look at our example. The class is always going to start with
@@ -5760,6 +6002,8 @@ those tablets. md for medium. And lg is for large. Again, if you want to
 kind of think of numbers, you can think of something along the lines
 about 480, 720, 992, and 1200.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image232.webp){width="4.0in" height="2.2572648731408576in"}
 
 Now, I promised you a while ago, you don\'t actually have to remember
@@ -5768,6 +6012,8 @@ remember more general concepts than the numbers. But you have to
 remember xs, sm, md, or large. It has to be one of those four
 abbreviations.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image233.webp){width="4.0in" height="2.2572648731408576in"}
 
 Once you\'ve declared the viewport size, you can now say exactly how
@@ -5775,28 +6021,38 @@ many columns you want this element to take up. Anything from zero, which
 means it shouldn\'t show up at all to 12 which means take up the maximum
 width that it possibly can.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image234.webp){width="4.0in" height="2.2572648731408576in"}
 
 So, if you have an element that has class equals col-xs-12, you\'re
 saying, if you\'re viewing this on a small screen, it should take up the
 full width.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image235.webp){width="4.0in" height="2.2572648731408576in"}
 
 If you\'re looking at one that has a class of col-sm-8, now you want to
 take up eight out of those 12 columns, but only on the smallest screen.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image236.webp){width="4.0in" height="2.2572648731408576in"}
 
 For col-md-4, you\'re saying, if I\'m on a medium screen I want to use
 up four columns or one third of the entire screen size.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image237.webp){width="4.0in" height="2.2572648731408576in"}
 
 And for col-lg-3, you\'re saying, well this is a large screen, it
 doesn\'t need to be as big as it was on those other screens. Let\'s just
 use up a quarter or 25%.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image238.webp){width="4.0in" height="2.2572648731408576in"}
 
 Now, this is the interesting thing. Many times you\'re going to combine
@@ -5807,6 +6063,8 @@ whole width of the viewport. But if I\'m on a larger screen, well, then
 maybe there can be three across, and on a different screen maybe four
 across.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image239.webp){width="4.0in" height="2.2572648731408576in"}
 
 Let\'s imagine that I have an image, some sort of pic.jpg. And then we
@@ -5824,23 +6082,33 @@ picture. It\'s the same HTML code. The difference is that, on different
 viewports, the picture is going to look relatively big on a small screen
 and relatively small on a larger screen.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image240.webp){width="4.0in" height="2.0884612860892386in"}
 
 So, let\'s review that grid picture but using the classes this time.
 Right here we have nothing on there.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image241.webp){width="4.0in" height="2.2529910323709537in"}
 
 But if I use col-XX-3, we\'re using three of the 12 or 25%.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image242.webp){width="4.0in" height="2.0927351268591425in"}
 
 If I say col-XX-6, I\'m using 50% now.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image243.webp){width="4.0in" height="2.0927351268591425in"}
 
 Col-XX-9, 75% and
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image244.webp){width="4.0in" height="2.0927351268591425in"}
 
 col-XX-12 means used up the full width that\'s available to you.
@@ -5849,17 +6117,23 @@ But what if you want two elements next to each other? For instance, but
 only on a larger screen. Separate block, small screen. In line block on
 a large screen.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image245.webp){width="4.0in" height="2.0927351268591425in"}
 
 Well, what we could do is we can start off by saying, that yellow part
 of our page, well, on a small screen, I want it to take up the full
 width. But, on a medium screen, I want it to take up only three.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image246.webp){width="4.0in" height="2.0927351268591425in"}
 
 So, on here when I\'m looking at a large screen, I\'m only taking up
 one, two, three columns. All right.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image247.webp){width="4.0in" height="2.0927351268591425in"}
 
 Then if we add another div next to it, that div can say for this orange
@@ -5881,11 +6155,15 @@ medium. And then that\'s going to override everything for medium and
 large. You can really get away with just specifying one or two rules and
 still hit multiple break points.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image248.webp){width="4.0in" height="2.0927351268591425in"}
 
 It\'s actually quite possible to write even easier or cleaner code than
 what I just wrote here.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image249.webp){width="4.0in" height="2.0927351268591425in"}
 
 Whenever you want to say something should be the full 12 columns and it
@@ -5895,16 +6173,22 @@ default. It says I didn\'t know you were supposed to take up the full
 width, you don\'t need to tell me. Instead, you can just specify those
 rules where it\'s going to change.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image250.webp){width="4.0in" height="2.0927351268591425in"}
 
 I\'ve dropped the smaller part and this new rule now says basically any
 time you are on a medium viewport or larger, make it three columns.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image251.webp){width="4.0in" height="2.0927351268591425in"}
 
 By default, Bootstrap is going to put things as far to the left as it
 possibly can when it\'s positioning them.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image252.webp){width="4.0in" height="2.0927351268591425in"}
 
 However, it is possible to add a push and a pull class on different
@@ -5912,6 +6196,8 @@ elements. If you have col-XX-push-YY. You\'re basically saying, hey, on
 any viewport that\'s X, I want you to go ahead and push this element Y
 columns to the left.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image253.webp){width="4.0in" height="2.0927351268591425in"}
 
 In the same way, there\'s a pull. In here, you move columns to the
@@ -5919,6 +6205,8 @@ right. We\'re not going to play with this right now, but it was
 something that I want you to be aware of. In the same way, I want you to
 know about the responsive utility classes.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image254.webp){width="4.0in" height="2.0927351268591425in"}
 
 Earlier, I mentioned that you can have XX, or something like XX column
@@ -5927,11 +6215,15 @@ the screen. It\'s usually a lot easier to use the hidden class instead.
 Hidden-XX basically says, make this visible on every viewport except for
 the one we\'re going to mention right here.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image255.webp){width="4.0in" height="2.0927351268591425in"}
 
 In the same way, visible-XX says, hide something. It shouldn\'t be
 visible unless I\'m on this certain size screen.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image256.webp){width="4.0in" height="2.0927351268591425in"}
 
 The last one we have is sr-only. And this is a special Bootstrap utility
@@ -5939,6 +6231,8 @@ class for screen readers. It hides the content for everyone, unless
 they\'re using a screen reader to access the page. If they are, then
 this element is visible to them, and them only.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 257.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image257.webp){width="4.0in" height="2.0927351268591425in"}
 
 So, we mentioned and we talk a lot about Bootstrap is this mobile first
@@ -5951,6 +6245,8 @@ that\'s bigger. There\'s a great site at Bootstrap,
 bootstrap.com/examples/grid, where you can go through and you can see
 some of the examples that they have coded up for you.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image258.webp){width="4.0in" height="2.0927351268591425in"}
 
 Really important, do the math.
@@ -6344,65 +6640,59 @@ RD: nav-tabs
 
 ```
 <ul class="nav nav-tabs">
-<li role="presentation" class="active"><a
-href="#">Home</a></li>
-<li role="presentation"><a href="#">Profile</a></li>
-<li role="presentation"><a href="#">Messages</a></li>
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
 </ul>
 ```
 
 RD: nav-pills
 
 ```
-> <ul class="nav nav-pills" role="navigation">
->
-> <li role="presentation" class="active"><a
-> href="#">Home</a></li>
->
-> <li role="presentation"><a href="#">Profile</a></li>
->
-> <li role="presentation"><a href="#">Messages</a></li>
->
-> </ul>
+<ul class="nav nav-pills" role="navigation">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>
 ```
 
 RD: dropdowns
 
 ```
 <ul class="nav nav-pills">
-<li> <a href="#">Regular Link</a></li>
-<li> <a href="#">Regular Link</a></li>
-<li role="presentation" class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#"
-role="button" aria-haspopup="true" aria-expanded="false">
-Dropdown <span class="caret"></span>
-</a>
-<ul class="dropdown-menu">
-<li> <a href ="#">Option One</a>
-<li> <a href ="#">Option Two</a>
+  <li> <a href="#">Regular Link</a></li>
+  <li> <a href="#">Regular Link</a></li>
+  <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#"
+      role="button" aria-haspopup="true" aria-expanded="false">
+      Dropdown <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li> <a href ="#">Option One</a>
+      <li> <a href ="#">Option Two</a>
+    </ul>
+  </li>
+  <li> <a href="#">Regular Link</a></li>
 </ul>
-</li>
-<li> <a href="#">Regular Link</a></li>
-</ul>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+<!-- jquery (necessary for bootstrap's javaScript plugins) -->
 <script
 src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files
-as needed -->
+<!-- include all compiled plugins (below), or include individual files as needed -->
 ```
 
 RD: navbar
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
-<div class="container">
-<ul class="nav nav-pills">
-<li> <a href="#">Link One</a></li>
-<li> <a href="#">Link Two</a></li>
-<li> <a href="#">Link Three</a></li>
-<li> <a href="#">Link Four</a></li>
-</ul>
-</div>
+  <div class="container">
+    <ul class="nav nav-pills">
+      <li> <a href="#">Link One</a></li>
+      <li> <a href="#">Link Two</a></li>
+      <li> <a href="#">Link Three</a></li>
+      <li> <a href="#">Link Four</a></li>
+    </ul>
+  </div>
 </nav>
 <div>1 Lots and lots of Content!!!</div>
 <div>2 Lots and lots of Content!!!</div>
@@ -6442,25 +6732,25 @@ HTML (RD:dropdowns)
 
 ```
 <ul class="nav nav-pills">
-<li> <a href="#">Regular Link</a></li>
-<li> <a href="#">Regular Link</a></li>
-<li role="presentation" class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#"
-role="button" aria-haspopup="true" aria-expanded="false">
-Dropdown <span class="caret"></span>
-</a>
-<ul class="dropdown-menu">
-<li> <a href ="#">Option One</a>
-<li> <a href ="#">Option Two</a>
+  <li> <a href="#">Regular Link</a></li>
+  <li> <a href="#">Regular Link</a></li>
+  <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#"
+      role="button" aria-haspopup="true" aria-expanded="false">
+      Dropdown <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li> <a href ="#">Option One</a>
+      <li> <a href ="#">Option Two</a>
+    </ul>
+  </li>
+  <li> <a href="#">Regular Link</a></li>
 </ul>
-</li>
-<li> <a href="#">Regular Link</a></li>
-</ul>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+<!-- jquery (necessary for bootstrap's javascript plugins) -->
 <script
 src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files
-as needed -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
 ```
 
 Now hopefully, when we go through, you would think that when I click on
@@ -6506,14 +6796,14 @@ that you\'re on the right path.
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
-<div class="container">
-<ul class="nav nav-pills">
-<li> <a href="#">Link One</a></li>
-<li> <a href="#">Link Two</a></li>
-<li> <a href="#">Link Three</a></li>
-<li> <a href="#">Link Four</a></li>
-</ul>
-</div>
+  <div class="container">
+    <ul class="nav nav-pills">
+      <li> <a href="#">Link One</a></li>
+      <li> <a href="#">Link Two</a></li>
+      <li> <a href="#">Link Three</a></li>
+      <li> <a href="#">Link Four</a></li>
+    </ul>
+  </div>
 </nav>
 <div>1 Lots and lots of Content!!!</div>
 <div>2 Lots and lots of Content!!!</div>
@@ -6623,10 +6913,10 @@ RD-Nav Tabs:
 
 ```
 <ul class="nav nav-tabs">
-<li role="presentation" class="active"><a
-href="#">Home</a></li>
-<li role="presentation"><a href="#">Profile</a></li>
-<li role="presentation"><a href="#">Messages</a></li>
+  <li role="presentation" class="active">
+    <a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
 </ul>
 ```
 
@@ -6634,10 +6924,10 @@ RD-Nav-Pills:
 
 ```
 <ul class="nav nav-pills" role="navigation">
-<li role="presentation" class="active"><a
-href="#">Home</a></li>
-<li role="presentation"><a href="#">Profile</a></li>
-<li role="presentation"><a href="#">Messages</a></li>
+  <li role="presentation" class="active">
+    <a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
 </ul>
 ```
 
@@ -6645,39 +6935,39 @@ RD-Dropdowns:
 
 ```
 <ul class="nav nav-pills">
-<li> <a href="#">Regular Link</a></li>
-<li> <a href="#">Regular Link</a></li>
-<li role="presentation" class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#"
-role="button" aria-haspopup="true" aria-expanded="false">
-Dropdown <span class="caret"></span>
-</a>
-<ul class="dropdown-menu">
-<li> <a href ="#">Option One</a>
-<li> <a href ="#">Option Two</a>
+  <li> <a href="#">Regular Link</a></li>
+  <li> <a href="#">Regular Link</a></li>
+  <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#"
+      role="button" aria-haspopup="true" aria-expanded="false">
+      Dropdown <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li> <a href ="#">Option One</a>
+      <li> <a href ="#">Option Two</a>
+    </ul>
+  </li>
+  <li> <a href="#">Regular Link</a></li>
 </ul>
-</li>
-<li> <a href="#">Regular Link</a></li>
-</ul>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+<!-- jquery (necessary for bootstrap's javascript plugins) -->
 <script
 src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files
-as needed -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
 ```
 
 RD-Navbar:
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
-<div class="container">
-<ul class="nav nav-pills">
-<li> <a href="#">Link One</a></li>
-<li> <a href="#">Link Two</a></li>
-<li> <a href="#">Link Three</a></li>
-<li> <a href="#">Link Four</a></li>
-</ul>
-</div>
+  <div class="container">
+    <ul class="nav nav-pills">
+      <li> <a href="#">Link One</a></li>
+      <li> <a href="#">Link Two</a></li>
+      <li> <a href="#">Link Three</a></li>
+      <li> <a href="#">Link Four</a></li>
+    </ul>
+  </div>
 </nav>
 <div>1 Lots and lots of Content!!!</div>
 <div>2 Lots and lots of Content!!!</div>
@@ -7028,41 +7318,39 @@ part is to get as much experience and practice as possible.
 
 RD-Responsive Images:
 
-```
-<div>
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="img-responsive img-thumbnail">
+```<div>
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="img-responsive img-thumbnail">
 </div>
-<!-- responsive, rounded, circle, thumbnail -->
-```
+<!-- responsive, rounded, circle, thumbnail -->```
 
 RD-Responsive Image Thumbnails:
 
 ```
 <div class = "container">
 <div class = "row">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
-<img src =
-"https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
-class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
+  <img src =
+    "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
+    class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
 </div>
 ```
 
@@ -7319,18 +7607,18 @@ RD-Bootstrap Tables:
 
 ```
 <!-- The bootstrap class is already linked.
-Try these classes: table, table-striped, table-bordered, table-hover,
+try these classes: table, table-striped, table-bordered, table-hover,
 table-responsive, active, success, info, danger, warning -->
+
 <div class="table-responsive">
-<table class="table table-striped table-bordered table-hover ">
-<tr><th>City</th><th>State</th></tr>
-<tr class = "warning"><td
->Ashtabula</td><td>Ohio</td></tr>
-<tr><td>Los Angeles</td><td>California</td></tr>
-<tr><td>Fort Myers</td><td>Florida</td></tr>
-<tr><td>Tucson</td><td>Arizona</td></tr>
-<tr><td>Tulsa</td><td>Oklahoma</td></tr>
-</table>
+  <table class="table table-striped table-bordered table-hover ">
+    <tr><th>City</th><th>State</th></tr>
+    <tr class = "warning"><td>Ashtabula</td><td>Ohio</td></tr>
+    <tr><td>Los Angeles</td><td>California</td></tr>
+    <tr><td>Fort Myers</td><td>Florida</td></tr>
+    <tr><td>Tucson</td><td>Arizona</td></tr>
+    <tr><td>Tulsa</td><td>Oklahoma</td></tr>
+  </table>
 </div>
 ```
 
@@ -7471,31 +7759,29 @@ RD-Advanced Navigation:
 
 ```
 <nav class="navbar navbar-inverse">
-<div class="container-fluid">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle"
-data-toggle="collapse" data-target="#myNavbar">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<a class="navbar-brand" href="#">WebSiteName</a>
-</div>
-<div class="collapse navbar-collapse" id="myNavbar">
-<ul class="nav navbar-nav">
-<li class="active"><a href="#">Home</a></li>
-<li><a href="#">Page 1</a></li>
-<li><a href="#">Page 2</a></li>
-<li><a href="#">Page 3</a></li>
-</ul>
-<ul class="nav navbar-nav navbar-right">
-<li><a href="#"><span class="glyphicon
-glyphicon-user"></span> Sign Up</a></li>
-<li><a href="#"><span class="glyphicon
-glyphicon-log-in"></span> Login</a></li>
-</ul>
-</div>
-</div>
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle"
+        data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Page 1</a></li>
+        <li><a href="#">Page 2</a></li>
+        <li><a href="#">Page 3</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
 </nav>
 ```
 
@@ -7656,7 +7942,6 @@ like about them as well. So how do we use them? I mentioned that one of
 the things you can do is you can just download the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 329. bootstrap template examples (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image329.webp"
   style="width:40%"
@@ -7685,7 +7970,6 @@ people. When you know a little bit, it can really help you make huge
 changes in the templates.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. how to use bootstrap templates (204) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image330.webp"
   style="width:40%"
@@ -8364,7 +8648,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-12-2023 10:52am -->
+<!-- 10-12-2023 1:18pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
