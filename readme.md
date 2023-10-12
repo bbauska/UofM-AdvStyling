@@ -2117,7 +2117,7 @@ moving on.
   style="width:60%"
   alt="Best design practices - example." />
 </p>
-<!-- ![](images/image062.webp){width="6.0in" height="3.3762817147856516in"} -->
+<!-- {width="6.0in" height="3.3762817147856516in"} -->
 
 One of the reasons I like this site is well because I agree with many of
 the things they\'re talking about and they agree with me. But as you
@@ -2146,7 +2146,7 @@ really too big. Maybe I should be breaking it up in to more sections.
   style="width:40%"
   alt="Wireframes - review." />
 </p>
-<!-- ![](images/image063.webp){width="4.0in" height="2.2423075240594925in"} -->
+<!-- {width="4.0in" height="2.2423075240594925in"} -->
 
 -   This last one I\'m going to talk about and then you can kind of do
     the page alone if you like, is this idea that you never wire a loan.
@@ -2193,7 +2193,7 @@ general meaning is.
   style="width:40%"
   alt="Breakpoints - What are They?" />
 </p>
-<!-- ![](images/image064.webp){width="4.0in" height="2.2551279527559056in"} -->
+<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
 One of those terms is breakpoint. People hear it talk about it all the
 time when they\'re talking about responsive design, but what are they?
@@ -2222,7 +2222,7 @@ up your screen and there it is.
   style="width:40%"
   alt="What does trigger mean?" />
 </p>
-<!-- ![](images/image065.webp){width="4.0in" height="2.2551279527559056in"} -->
+<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
 As developers I encourage you to open up your browser, make it big, make
 it small, kind of resize it all the time. But most people aren\'t going
@@ -2235,7 +2235,7 @@ to do that when they\'re viewing your page.
   style="width:40%"
   alt="Determining the breakpoints." />
 </p>
-<!-- ![](images/image066.webp){width="4.0in" height="2.2551279527559056in"} -->
+<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
 So, when we talk about triggering these changes, we often mean
 triggering rules in your style sheet instead. That\'s why I\'m going to
@@ -2263,7 +2263,7 @@ each other versus not. Let\'s talk about using devices as a breakpoint.
   style="width:40%"
   alt="Screen shots - smartphone px." />
 </p>
-<!-- ![](images/image067.webp){width="4.0in" height="2.2551279527559056in"} -->
+<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
 So, what I have here is just a quick little shot of some of the most
 common devices and their screen sizes.
@@ -2303,7 +2303,7 @@ want to talk about mobile first.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image068.webp){width="4.0in" height="2.2551290463692037in"} -->
+<!-- {width="4.0in" height="2.2551290463692037in"} -->
 
 In a lot of paradigms, you\'re never going to see a breakpoint of 320
 pixels or even 360 pixels. You\'re not going to see that because
@@ -2346,7 +2346,7 @@ example.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image069.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 The key to understanding media queries is to actually use them in
 responsive design. This lecture is going to describe that process in
@@ -2359,7 +2359,7 @@ three steps, but you won\'t necessarily need to use all of them.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image070.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 So, the best I can do is give you guidelines. Step one, this is
 something that will cause your page to work or not work many times on
@@ -2382,7 +2382,7 @@ won\'t let you do that.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image071.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 That is because somebody has put this very horrible, horrible piece of
 code into their HTML. Instead of saying just initial-scale equals one,
@@ -2402,7 +2402,7 @@ It may actually help your search engine optimization as well.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image072.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 In step two, I really want to encourage you to use fluid layouts. It\'s
 very often the case that when people use breakpoints, they then use
@@ -2421,7 +2421,7 @@ somebody else does it, doesn\'t mean the you should.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image073.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 I want you to use those other things such as percentages, and ems. These
 are really great fluid measurements. Percentages you tend to use more on
@@ -2438,7 +2438,7 @@ we\'re going to use is going switch over to ems and rems, too.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image074.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 The last thing I just like to remind people is that when you use these
 fluid measurements for things like padding and margin, the percents are
@@ -2459,7 +2459,7 @@ by the width of the page, not the height.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image075.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 That third step is really the biggest step. And that is including those
 media queries. The fluid layout is triggered by these certain break
@@ -2483,7 +2483,7 @@ small screen and grow bigger.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image076.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 When you put in these media queries, it\'s common to have a few
 different sets of rules. You might have your large screen, and then a
@@ -2531,7 +2531,7 @@ mistakes and not know what\'s going on.
 <img src="./images/image077.webp?raw=true"
   style="width:40%"
   alt="" />
-<!-- ![](images/image077.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 My advice to you is to always add one media query at a time, and make it
 something simple. Put in that media query, add a rule, test it, build
@@ -2607,7 +2607,7 @@ screens.
 <img src="./images/image078.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image078.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 So, let\'s look at some code. What I have here is some HTML that
 doesn\'t have any styling on the navigation bar. What you have is a nice
@@ -2619,7 +2619,7 @@ horizontal line of links right up here at the top of your page.
 <img src="./images/image079.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image079.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 What I would like to do is design my page, so that on small screens, the
 navigation bar is still on the top. But instead, when I\'m on larger
@@ -2636,7 +2636,7 @@ the content right off to the right.
 <img src="./images/image080.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image080.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 So, let\'s take a look at how we\'re going to do that. Because we want
 to do mobile first, that means by default we already have it set up
@@ -2682,7 +2682,7 @@ figure out whether or not your rules are triggering.
 <img src="./images/image081.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image081.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 So, let\'s go ahead and just change the entire color of the body of this
 page. So put in body, curly bracket, background, color, I\'ll just make
@@ -2697,7 +2697,7 @@ one to get going. See if I can get away with grey. There we go.
 <img src="./images/image082.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image082.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 You can still see everything. If you run into problems, the parts you
 want to check are go in did you remember to have minimum width? If you
@@ -2713,7 +2713,7 @@ goes with the body selector.
 <img src="./images/image083.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image083.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 If that\'s going, let\'s go ahead and move on to how we would change
 that navigation bar to be off to the side instead of on the top. So, one
@@ -2736,7 +2736,7 @@ Let\'s do that next code. So how do I do that?
   style="width:60%"
   alt="" />
 </p>
-<!-- ![](images/image084.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 How do I get the links to go underneath each other? Well, that\'s not
 too hard if you remember some of the more advanced CSS you\'ve learned
@@ -2760,7 +2760,7 @@ up underneath.
   style="width:60%"
   alt="" />
 </p>
-<!-- ![](images/image085.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
@@ -2787,7 +2787,7 @@ go back and change one thing up in my nav as well.
   style="width:60%"
   alt="" />
 </p>
-<!-- ![](images/image086.webp){width="6.0in" height="3.3698720472440944in"} -->
+<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 I had to add a float left, right down here if you look. And this is what
 lets these two things be next to each other off to the side. So let\'s
@@ -2951,10 +2951,10 @@ overflow:auto;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.webp?raw=true"
-  style="width:60%"
+  style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image087.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 Hi, everybody. Frameworks is one of those words or terms that people
 really love to throw out there. The term framework can really mean
@@ -2973,7 +2973,7 @@ to think about what does framework mean here in this class.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image088.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 For front-end developers, frameworks provide tools for CSS, JavaScript,
 and jQuery. They\'re these little bits of code that you can use to get
@@ -2988,7 +2988,7 @@ jQuery.
   style="width:40%"
   alt="" />
 </p>
-<!-- ![](images/image089.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 If you\'re a back-end developer, this is something completely different
 as far as frameworks go. Now you\'re looking at code that\'s going to
@@ -3007,7 +3007,7 @@ least a handful of frameworks that people are using today.
   style="width:40%"
   alt="Popular front-end frameworks, as of 2013." />
 </p>
-<!-- ![](images/image090.webp){width="4.0in" height="2.2465813648293964in"} -->
+<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 -   The first one that I\'m going to mention, and the one that we\'re
     going to study in this course is Bootstrap. Bootstrap was developed
@@ -3079,7 +3079,7 @@ JavaScript code is still loading and running.
   style="width:50%"
   alt="Hydration in web development." />
 </p>
-<!-- ![hydration in web development](images/image091.webp){width="5.0in" height="2.911324365704287in"} -->
+<!-- {width="5.0in" height="2.911324365704287in"} -->
 
 Image
 credit: [Reddit](https://www.reddit.com/r/webdev/comments/xqd4i8/what_is_hydration/)
@@ -5819,7 +5819,14 @@ Bootstrap Grid System. I\'m going to go into CodePen and use this code
 so you can start from scratch or mess with the code and play with it
 with me.
 
-![](images/image259.webp){width="6.0in" height="3.053205380577428in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image259.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.053205380577428in"} -->
 
 So, as you may recall, whenever you want to use the grid system for
 Bootstrap, it\'s important that you put two kind of wrapper classes
@@ -5830,7 +5837,14 @@ here is, it\'s time to look for those col-md-6, col-lg-2 different
 classes. And I want you to put these elements together based on being in
 the same row at times. I\'m actually going to move this.
 
-![](images/image260.webp){width="6.0in" height="5.575in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image260.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="5.575in"} -->
 
 I\'m going to bit of a smaller screen to start with. And when we do
 this, we\'re going to go through and look at how the code works
@@ -5839,7 +5853,14 @@ I\'ll pull that out of the way. I have four divs inside here. Now, in
 each case, each one of these divs is exactly the same. The code doesn\'t
 change at all. You can kind of trust me on that one.
 
-![](images/image261.webp){width="6.0in" height="2.6814107611548557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image261.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="2.6814107611548557in"} -->
 
 So, we\'re just going to look at the first one, and look at what that
 code does. The first thing we need to realize is col-md-6 and col-lg-3.
@@ -5867,7 +5888,14 @@ want you to display unless you're on a large screen.
 As we transition from smaller to bigger, this one\'s going to go away,
 and this one will suddenly show up.
 
-![](images/image262.webp){width="6.0in" height="5.0378204286964126in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image262.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="5.0378204286964126in"} -->
 
 Let\'s take a look. Right here, I\'ve just hit the medium view port
 screen size, and a few things have happened. First, the div that said
@@ -5886,7 +5914,14 @@ not taking up 12. So, we\'ve really changed the look of this. We\'ve
 changed the content, but we\'ve also changed the layout. So instead of
 having four on top of each other, we have two pairs of two.
 
-![](images/image263.webp){width="6.0in" height="4.208333333333333in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image263.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="4.208333333333333in"} -->
 
 Last thing I\'m going to do next, of course, is go to the even larger
 screen. So, in this next step, as we reach the larger screen, the same
@@ -5989,7 +6024,14 @@ color:green;
 
 Hi, everybody. Today, we\'re going to talk about navigation bars.
 
-![](images/image264.webp){width="4.0in" height="2.076068460192476in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image264.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.076068460192476in"} -->
 
 Navigation is one of those things about Bootstrap, that\'s very familiar
 to people when they see sites that use Bootstrap. It always looks about
@@ -5997,7 +6039,14 @@ the same. It works about the same. People are comfortable with it. The
 nav class is typically combined with other classes to create each
 different style navigation that you\'re going to see.
 
-![](images/image265.webp){width="4.0in" height="2.076068460192476in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image265.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.0in" height="2.076068460192476in"} -->
 
 When you make a navigation bar, one of the first things you have to
 decide is what type of links you want. Bootstrap provides nav-tabs and
@@ -6014,19 +6063,40 @@ correct, looks great, but I don\'t see any difference. This is something
 that\'s going to happen to you. The problem is I haven\'t linked to the
 Bootstrap CSS.
 
-![](images/image266.webp){width="6.0in" height="3.114103237095363in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image266.webp"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.114103237095363in"} -->
 
 Let\'s go ahead and do that now. I\'m going to go into Settings, I\'m
 going to click on CSS and I\'m going to go down here to quick add and
 add Bootstrap. And as soon as I save that, boom, there you go.
 
-![](images/image267.webp){width="4.09375in" height="3.4166666666666665in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image267.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.09375in" height="3.4166666666666665in"} -->
 
 That looks like a much more professionally designed navigation bar. When
 you use the tabs, it\'s supposed to simulate that kind of look you see
 in a file tabbing system where you kind of flip through.
 
-![](images/image268.webp){width="4.09375in" height="3.4166666666666665in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image268.webp"
+  style="width:40%"
+  alt="." />
+</p>
+<!-- {width="4.09375in" height="3.4166666666666665in"} -->
 
 Now, let\'s look at nav-pills. Here you can see that each one of the
 links, basically, has a different color. You can go in, this one is
@@ -6077,7 +6147,7 @@ simple class completely changes the look of our page.
   style="width:60%"
   alt="." />
 </p>
-<!-- ![](images/image271.webp){width="6.0in" height="2.257050524934383in"} -->
+<!-- {width="6.0in" height="2.257050524934383in"} -->
 
 Another option that we can use is nav-justified. When you use
 nav-justified, by default, it\'s going to take as many links as you have
@@ -6094,7 +6164,7 @@ changes the look of the page.
   style="width:60%"
   alt="." />
 </p>
-<!-- ![](images/image272.webp){width="6.0in" height="4.391304680664917in"} -->
+<!-- {width="6.0in" height="4.391304680664917in"} -->
 
 So now as I make it smaller, it changes from justified per stack. This
 gives a kind of really cool look without you having to do much about it.
@@ -6108,7 +6178,7 @@ horizontal.
   style="width:60%"
   alt="." />
 </p>
-<!-- ![](images/image273.webp){width="4.0in" height="2.2572648731408576in"} -->
+<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 Another thing you see a lot of people like to add to their navigation
 bars are these drop-down menus where you have different options, but
@@ -6196,7 +6266,7 @@ RD: navbar
   style="width:40%"
   alt="." />
 </p>
-<!-- ![](images/image274.webp){width="4.0in" height="2.2572648731408576in"} -->
+<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 The example on Bootstrap is called pills with drop-downs.
 
@@ -6207,7 +6277,7 @@ The example on Bootstrap is called pills with drop-downs.
   style="width:40%"
   alt="." />
 </p>
-<!-- ![](images/image275.webp){width="4.0in" height="2.2572648731408576in"} -->
+<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 I\'ve made my own example and we\'re going to look at it now, it\'s
 called responsive design drop downs. So, I\'ve taken the code that
@@ -6252,7 +6322,7 @@ possibly make.
   style="width:60%"
   alt="." />
 </p>
-<!-- ![](images/image276.webp){width="6.0in" height="3.385897856517935in"} -->
+<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 So first, I need to know, did I link to the Bootstrap JavaScript files?
 I can check up and there\'s nothing there. I can check my settings and I
@@ -6271,7 +6341,7 @@ comment it out.
   style="width:60%"
   alt="." />
 </p>
-<!-- ![](images/image277.webp){width="6.0in" height="3.385897856517935in"} -->
+<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 I\'m going to go back here and say, oop, I know there\'s a script I\'m
 supposed to have down at the bottom. The one that links to jQuery, I\'m
@@ -6307,7 +6377,7 @@ that you\'re on the right path.
   style="width:40%"
   alt="." />
 </p>
-<!-- ![](images/image278.webp){width="4.0in" height="2.2572648731408576in"} -->
+<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 The last class I\'m going to talk to you about, with respect to
 navigation right now, is the navbar class.
@@ -6486,6 +6556,7 @@ current trends. You can\'t live in a bubble.
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 
 ## Week4-21. Responsive Images
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6697,7 +6768,7 @@ pictures, so you can have that circle look.
   style="width:60%"
   alt="." />
 </p>
-![](images/image295.webp){width="6.0in" height="3.3711537620297465in"}
+<!-- ![](images/image295.webp){width="6.0in" height="3.3711537620297465in"} -->
 
 The last one I\'m going to do, which we can actually add at the same
 time actually just do it here, image thumbnail, hit save. It probably is
