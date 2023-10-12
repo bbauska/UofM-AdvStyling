@@ -1655,7 +1655,7 @@ Completed;
 Hi everybody. Today we are going to talk about Media queries.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 49.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 49. media queries (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image049.webp?raw=true"
   style="width:40%"
@@ -1673,7 +1673,7 @@ sheets. But it wouldn\'t apply all the style sheets just some of them so
 here\'s an example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 50.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 50. media queries, again (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image050.webp?raw=true"
   style="width:40%"
@@ -1695,12 +1695,12 @@ us, because it allowed us to, again, have different content and style
 depending upon the platform.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 51.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 51. css3 (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image051.webp?raw=true"
   style="width:40%"
   alt="" />
-![](images/image051.webp){width="4.0in" height="2.0952996500437444in"}
+<!-- ![](images/image051.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 With CSS3, we have even more capabilities because the style can depend
 upon many more features. We can look at the width, the height, the
@@ -1710,11 +1710,11 @@ just simple "ands" and "ors". So, you might want to say something along
 the line of, if it's a screen and fill in some other properties there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52. the two query components (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="The two query components." />
 <!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 So, let\'s look at some examples. Every media query has two components.
@@ -1729,11 +1729,11 @@ trigger size that we want to be looking for. For example, we might be
 looking for very specific width, height, orientation or resolution.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 52. the two query components, again (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="The two query components, again." />
 <!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Here\'s an example for you right here.
@@ -1750,7 +1750,7 @@ type and then some sort of trigger size and media feature.
 There are three ways to implement media queries.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 53.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 53. how to implement media queries, #1 (50) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image053.webp?raw=true"
   style="width:40%"
@@ -1764,7 +1764,7 @@ import it. In this case if my screen has a minimum width of 600 pixels,
 we would want to use smallstyle.css.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 54. how to implement media queries, #2 (50) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image054.webp?raw=true"
   style="width:40%"
@@ -1779,7 +1779,7 @@ different things like that. So, it\'s all contained inside a single
 file.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 55. how to implement media queries, #3 (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image055.webp?raw=true"
   style="width:40%"
@@ -1792,7 +1792,7 @@ sheet, we\'ve included the trigger and the different rules right inside
 our HTML link tag.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 56. how to implement media queries, #4 (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image056.webp?raw=true"
   style="width:40%"
@@ -1805,7 +1805,7 @@ for doing my responsive design, but that doesn\'t mean you shouldn\'t
 feel free to play with all three of these different approaches.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 57.  (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image057.webp?raw=true"
   style="width:40%"
@@ -1838,7 +1838,7 @@ Hey everybody, welcome back. Let\'s go look at some code together.
 <https://codepen.io/ColleenEMc/pen/pgrYpK/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (52) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image058.webp?raw=true"
   style="width:60%"
@@ -1852,7 +1852,7 @@ really well, unless you take it and you look at a small screen. Right
 now, the three columns are fine.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image059.webp?raw=true"
   style="width:60%"
@@ -1867,7 +1867,7 @@ each other and only go to three columns when you\'re on a large screen.
 So, let\'s take a look at how we can make that change together.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 60.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 60.  (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060.webp?raw=true"
   style="width:60%"
@@ -2027,19 +2027,57 @@ realize that coding comes after your design. And wireframes provide a
 visual representation of your layout. This is what you\'re going to use
 when you decide it\'s time to start coding.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60r.  (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060r.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 What do I mean by a wireframe? Let me show you a few examples. Right
-here, I\'m at a site called wireframeshowcase.com. And If you scroll
-through the page, kind of up and down, you can see that you see a little
-bit of a few different pages. Real pages but also you see some graphical
+here, I\'m at a site called wireframeshowcase.com.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60s. wireframeshowcase.com, #2 (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060s.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+
+And If you scroll through the page, kind of up and down, you can see that you see 
+a little bit of a few different pages. Real pages but also you see some graphical
 sketches underneath them.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60t. wireframeshowcase.com, #3 (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060t.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Let\'s go back up to the first one. Up here I\'m going to go ahead and
 go in and kind of show you what it means when we click on the view
 details. When I hover over the page you can see what the site\'s going
-to look like when it\'s set out on the screen. But when I\'ve come off
+to look like when it\'s set out on the screen. 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60u. wireframeshowcase.com, #4 (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060u.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+But when I\'ve come off
 just a little bit, you can see that all those visual representations are
 actually based on very plain, very unstyled little documents. That\'s
 what we\'re going to talk about today.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60v. decide on major content (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060v.webp?raw=true"
+  style="width:40%"
+  alt="Sketches vs. Wireframes." />
+</p>
 
 So, before you can start drawing, you need to decide what you need to
 have on your page. This includes both text and graphics. If it really
@@ -2052,6 +2090,13 @@ same material just a different layout.
 When we\'re on a laptop view you might decide you want to add a little
 bit of extras but first you need to figure out how you\'re going to lay
 out those necessities.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60w. mobile view (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060w.webp?raw=true"
+  style="width:40%"
+  alt="Mobile view." />
+</p>
 
 Again, as always, I\'m going to remind you that the mobile view is the
 most important view in web design. If you don\'t think about the mobile
@@ -2059,17 +2104,38 @@ view first, it\'s very simple for you to start coming up with a clear
 idea, and then as you shrink it down, throwing things out. No. At the
 beginning you decided this was important. So, if it is important, make
 sure you design it for that mobile view.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60x. mobile view, #2 (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060x.webp?raw=true"
+  style="width:40%"
+  alt="Mobile view, #2." />
+</p>
 
 Let's give an example. You might know that you want to have header, a
 section, inside that section you\'re going to have an article and maybe
 an aside, and you\'re also going to have a footer. Because you\'re on a
 mobile view, things tend to go right from the top down to the bottom and
-very few things side to side. We just don\'t have the space. Once
-you\'ve decided on that mobile view and you\'ve sketched it out, you can
+very few things side to side. We just don\'t have the space. 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60y. larger view (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060y.webp?raw=true"
+  style="width:40%"
+  alt="Mobile view, #2." />
+</p>
+Once you\'ve decided on that mobile view and you\'ve sketched it out, you can
 go on to what you might want it to look like on the larger view. In this
 case the header and the footer are the same but we have more flexibility
 with where we want to put that other content.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60z. functionality (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060z.webp?raw=true"
+  style="width:40%"
+  alt="Functionality." />
+</p>
 You also want to think about functionality when you\'re doing your
 wireframes. The design should be about more than just the layout. You
 can use these wireframes to test out the interaction that your page
@@ -2082,7 +2148,7 @@ think about this functionality from the beginning. Many people refer to
 sketches and wireframes and kind of wonder what the difference is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. sketches vs. wireframes (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. sketches vs. wireframes (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image061.webp?raw=true"
   style="width:40%"
@@ -2109,7 +2175,7 @@ design practices as you start sketching out your page and eventually
 moving on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 62. best design practices, example (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 62. best design practices, example (62) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image062.webp?raw=true"
   style="width:60%"
@@ -2138,7 +2204,7 @@ at the page and realize, this part\'s getting lost or this section is
 really too big. Maybe I should be breaking it up in to more sections.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. wireframes - review (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. wireframes - review (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image063.webp?raw=true"
   style="width:40%"
@@ -2185,7 +2251,7 @@ defined them for you so we\'re all in agreement or understand what the
 general meaning is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64. breakpoints - what are they? (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64. breakpoints - what are they? (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image064.webp?raw=true"
   style="width:40%"
@@ -2214,7 +2280,7 @@ people don\'t actually resize their window when they\'re on it. You open
 up your screen and there it is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65. what does trigger mean? (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65. what does trigger mean? (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image065.webp?raw=true"
   style="width:40%"
@@ -2227,7 +2293,7 @@ it small, kind of resize it all the time. But most people aren\'t going
 to do that when they\'re viewing your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66. determining the breakpoints (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66. determining the breakpoints (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image066.webp?raw=true"
   style="width:40%"
@@ -2255,7 +2321,7 @@ it is you want there and decide when will it really look good next to
 each other versus not. Let\'s talk about using devices as a breakpoint.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 67. screen shots - smartphone px (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 67. screen shots - smartphone px (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image067.webp?raw=true"
   style="width:40%"
@@ -2295,11 +2361,11 @@ one of these sizes. And of course, when we talk about breakpoints, we
 want to talk about mobile first.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68. mobile first (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image068.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Mobile first." />
 </p>
 <!-- {width="4.0in" height="2.2551290463692037in"} -->
 
@@ -2338,7 +2404,7 @@ want you to try at your best to follow and then, we\'ll look at an
 example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 69. easier watched than done (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image069.webp?raw=true"
   style="width:40%"
@@ -2351,11 +2417,11 @@ responsive design. This lecture is going to describe that process in
 three steps, but you won\'t necessarily need to use all of them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70. step 1 grab information, #1 (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image070.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Step 1 grab information, #1." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2374,11 +2440,11 @@ want to make it bigger so you can read it a little better. And it just
 won\'t let you do that.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 71. step 1 grab information, #2 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image071.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Step 1 grab information, #2." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2394,11 +2460,11 @@ help your browser know that you\'re going to be doing responsive design.
 It may actually help your search engine optimization as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. step 2 fluid layout, #1 (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image072.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Step 2 Fluid Layout, #1." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2413,11 +2479,11 @@ You\'re going to see this in Bootstrap all the time. But, just because
 somebody else does it, doesn\'t mean the you should.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73. step 2 fluid layout, #2 (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image073.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Step 2 Fluid Layout, #2." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2430,11 +2496,11 @@ measurement modules. I also hear that Bootstrap 4, one of the platforms
 we\'re going to use is going switch over to ems and rems, too.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 74.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 74. step 2 fluid layout, #3 (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image074.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Step 2 Fluid Layout, #3." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2451,11 +2517,11 @@ remember paddings and margins, when you use percent, they\'re affected
 by the width of the page, not the height.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 75.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. step 3 media queries (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image075.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Step 3 Media Queries." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2475,11 +2541,11 @@ big things like pictures. And you\'re eating up their data. So think
 small screen and grow bigger.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 76.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 76. ordering your rules (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image076.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Ordering your rules." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2524,11 +2590,11 @@ you write your own code that you\'re going to accidentally make these
 mistakes and not know what\'s going on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 77. concept check - top or bottom? (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image077.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Concept Check - Top or Bottom?" />
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 My advice to you is to always add one media query at a time, and make it
@@ -2600,7 +2666,8 @@ bar is at the top on a small screen and off to the side on larger
 screens.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image078.webp?raw=true"
   style="width:60%"
@@ -2612,7 +2679,8 @@ doesn\'t have any styling on the navigation bar. What you have is a nice
 horizontal line of links right up here at the top of your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image079.webp?raw=true"
   style="width:60%"
@@ -2629,7 +2697,8 @@ then I want my navigation bar to be along the side and we can put all
 the content right off to the right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image080.webp?raw=true"
   style="width:60%"
@@ -2675,22 +2744,21 @@ very simple, clear rule. The reason is, it\'s really easy for you to
 figure out whether or not your rules are triggering.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image081.webp?raw=true"
   style="width:60%"
   alt="" />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
-So, let\'s go ahead and just change the entire color of the body of this
-page. So put in body, curly bracket, background, color, I\'ll just make
-it blue. All right it worked. If for some reason you typed that in and
-it didn\'t change anything on your screen, You want to stop. Don\'t
-start doing new complicated things if you can\'t even get this little
-one to get going. See if I can get away with grey. There we go.
+Change the entire color of the body of this page. So put in body, curly bracket, 
+background, color, I\'ll just make it blue. All right it worked. If for some reason 
+you typed that in and it didn\'t change anything on your screen, You want to stop. 
+Don\'t start doing new complicated things if you can\'t even get this little one 
+to get going. See if I can get away with grey. There we go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. codepen - responsive design (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image082.webp?raw=true"
   style="width:60%"
@@ -2706,7 +2774,7 @@ I have one set that starts my media query. And then a second one that
 goes with the body selector.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. codepen - responsive design (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image083.webp?raw=true"
   style="width:60%"
@@ -2728,7 +2796,7 @@ individual links as well. So that they go right underneath each other.
 Let\'s do that next code. So how do I do that?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 84. codepen - responsive design (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image084.webp?raw=true"
   style="width:60%"
@@ -2752,11 +2820,11 @@ to it. We wanted it to be over here to the side. And instead, it ended
 up underneath.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. codepen - responsive design (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image085.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Codepen - Responsive Design." />
 </p>
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
@@ -2779,11 +2847,11 @@ height to 100 viewport height to take up the whole screen. I did have to
 go back and change one thing up in my nav as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 86. codepen - responsive design (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image086.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Codepen - Responsive Design." />
 </p>
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
@@ -2946,11 +3014,11 @@ overflow:auto;
 ## Week3-14. Frameworks
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 87. frameworks - code and structure (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Frameworks - Code and Structure." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2965,7 +3033,7 @@ changing too much code. So again, when we talk about framework, we want
 to think about what does framework mean here in this class.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image088.webp?raw=true"
   style="width:40%"
@@ -2980,7 +3048,7 @@ behavior that you\'re looking for as well with the JavaScript and the
 jQuery.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.webp?raw=true"
   style="width:40%"
@@ -2999,7 +3067,7 @@ development. In saying that, I think it\'s important that you know at
 least a handful of frameworks that people are using today.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 90. popular front-end frameworks (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 90. popular front-end frameworks (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090.webp?raw=true"
   style="width:40%"
@@ -3071,7 +3139,7 @@ This allows the user to interact with the page right away, while the
 JavaScript code is still loading and running.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 91. hydration in web development (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 91. hydration in web development (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image091.webp"
   style="width:50%"
@@ -3101,7 +3169,7 @@ Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. single page applications (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. single page applications (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image092.webp"
   style="width:60%"
@@ -3126,7 +3194,7 @@ easier to develop and maintain large-scale applications.
 ## JAMStack
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 93. jamstack  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 93. jamstack  (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image093.webp"
   style="width:40%"
@@ -3302,7 +3370,7 @@ the frameworks, as well as links to GitHub and the framework\'s website.
 ## #01 -- React
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94/95. react logo and framework (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94/95. react logo and framework (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image094.webp?raw=true"
   style="width:15%"
@@ -3816,7 +3884,7 @@ elements like classes, typography, and color scheme.\
 ## #02 -- jQuery
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image096.webp?raw=true"
   style="width:30%"
@@ -3842,7 +3910,7 @@ Center](https://learn.jquery.com/).
 ##### jQuery UI
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.  (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image097.webp?raw=true"
   style="width:65%"
@@ -3970,7 +4038,7 @@ documentation](http://api.jqueryui.com/) to get an idea of what\'s
 possible.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98.  (105) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image098.webp?raw=true"
   style="width:65%"
@@ -3981,7 +4049,7 @@ possible.
 ##### The above Download Builder from jQuery UI.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99.  (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image099.webp?raw=true"
   style="width:65%"
@@ -3992,7 +4060,7 @@ possible.
 ##### Page 2 (above)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100.  (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image100.webp?raw=true"
   style="width:65%"
@@ -4035,7 +4103,7 @@ $( "#date" ).datepicker();
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101.  (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image101.webp?raw=true"
   style="width:25%"
@@ -4046,7 +4114,7 @@ $( "#date" ).datepicker();
 ## #03 -- Bootstrap v5.2.3
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102/103/104/105. bootstrap logos (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102/103/104/105. bootstrap logos (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image102.webp?raw=true"
   style="width:10%"
@@ -4123,14 +4191,14 @@ crossorigin="anonymous"></script>
 
 ## #04 -- D3.js
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 106. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 106. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image106.webp?raw=true"
   style="width:10%"
   alt="D3.js logo Poster by bryngo redbubble." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 107. d3.js logo png vector (svg) free download (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 107. d3.js logo png vector (svg) free download (xx) ~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image107.webp?raw=true"
   style="width:35%"
   alt="D3.js logo PNG Vector (SVG) Free Download." />
@@ -4176,14 +4244,14 @@ data. It was released in 2011.
 ## #05 -- anime.js
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 108. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 108. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image108.webp?raw=true"
   style="width:35%"
   alt="D3.js logo Poster by bryngo redbubble." />
 <!-- {width="3.4347823709536307in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 109. anime.js review - slant (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. anime.js review - slant (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image109.webp?raw=true"
   style="width:17%"
   alt="Anime.js Review - Slant." />
@@ -4207,7 +4275,7 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 ## #06 -- chart.js
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 110. getting started with chart.js introduction (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 110. getting started with chart.js introduction (xx) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image110.webp?raw=true"
   style="width:15%"
@@ -4220,7 +4288,7 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
   alt="Getting Started with chart.js Introduction." />
 <!-- {width="1.7777777777777777in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~ 112. getting started with chart.js introduction drupal.org (xx) ~~~~~~~-->
+<!--~~~~~~~~~~~~~ 112. getting started with chart.js introduction drupal.org (xx) ~~~~~~~~~~~~~~-->
 <img src="./images/image112.webp?raw=true"
   style="width:25%"
   alt="Getting Started with chart.js Introduction." />
@@ -4262,14 +4330,14 @@ in creating charts and visualizations.
 ## #07 -- lodash
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~ 113. lodash logo png transparent &amp; svg vector - freebie supply (xx) ~~~~~~~-->
+<!--~~~~~~~~~ 113. lodash logo png transparent &amp; svg vector - freebie supply (xx) ~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image113.webp?raw=true"
   style="width:15%"
   alt="Lodash Logo PNG Transparent &amp; SVG Vector - Freebie Supply." />
 <!-- {width="1.0997681539807524in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~ 114. is lodash that good?  performance comparison of javascript and lodash (xx) ~~~~~~~-->
+<!--~~~~~ 114. is lodash that good?  performance comparison of javascript and lodash (xx) ~~~~~~-->
 <img src="./images/image114.webp?raw=true"
   style="width:30%"
   alt="Is Lodash that Good?  Performance Comparison of JavaScript and Lodash." />
@@ -4293,8 +4361,10 @@ than jQuery.
 
 ## #08 -- Bideo.js
 
-![Bideo Launch Offers the Best Way to Get Bids from Video Pros
-\...](images/image115.webp){width="1.9190288713910761in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Bideo Launch Offers the Best Way to Get Bids from Video Pros \...](images/image115.webp)
+{width="1.9190288713910761in" height="1.0in"}
 
 [Bideo.js ](https://rishabhp.github.io/bideo.js/)is a free and open
 source HTML5 video player library that creates a unified look and feel
@@ -4312,14 +4382,18 @@ Bideo.js can be used to create custom controls for a video, or to add
 features like playback speed control and full screen mode.
 
 ## #09 - Angular
-
-![Angular Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image116.webp){width="0.75in"
-height="0.7958858267716535in"} - ![Angular Logo Black and White --
-Brands Logos](images/image117.webp){width="0.75in"
-height="0.7967147856517935in"} - ![Angular front-end
-framework](images/image118.webp){width="4.373833114610673in"
-height="0.8in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Angular Logo PNG Transparent & SVG Vector - Freebie Supply](images/image116.webp)
+{width="0.75in" height="0.7958858267716535in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Angular Logo Black and White -- Brands Logos](images/image117.webp)
+{width="0.75in" height="0.7967147856517935in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Angular front-end framework](images/image118.webp)
+{width="4.373833114610673in" height="0.8in"}
 
 While Angular retains a rather large usage percentage, the interest in
 the framework is at an all-time low. Who knows, maybe the loyal
@@ -4347,15 +4421,20 @@ preferences.
 [**Website**](https://angular.io/) [**GitHub**](https://github.com/angular/angular)
 
 ## #10 - VueJS
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![VUE Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image119.webp){width="1.1582720909886264in"
-height="1.0in"} - ![Vue.js Logo History -- dwGlogo -- Logo service
-marketplace blog](images/image120.webp){width="2.097344706911636in"
-height="1.0in"}
-
-![Vue front-end framework](images/image121.webp){width="5.0in"
-height="0.9145297462817148in"}
+Supply](images/image119.webp)
+{width="1.1582720909886264in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Vue.js Logo History -- dwGlogo -- Logo service
+marketplace blog](images/image120.webp)
+{width="2.097344706911636in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Vue front-end framework](images/image121.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 Vue remains a solid choice for truly modern web development.
 The *progressive* framework has [recently pushed forward its Vue 3
@@ -4384,16 +4463,23 @@ support for TypeScript, and testing tools.
 
 ## #11 - Svelte
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Svelte Logo PNG Vector (SVG) Free
-Download](images/image122.webp){width="3.125in"
-height="0.7708333333333334in"} - ![A new OpenSource opponent for the
-Web, SvelteJS - OpenExpo Europe
-2020](images/image123.webp){width="1.8588232720909885in"
-height="1.0in"} - ![](images/image124.webp){width="0.8315791776027996in"
-height="1.0in"}
-
-![Svelte front-end framework](images/image125.webp){width="5.0in"
-height="0.9145297462817148in"}
+Download](images/image122.webp)
+{width="3.125in" height="0.7708333333333334in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![A new OpenSource opponent for the Web, SvelteJS - OpenExpo Europe 2020](images/image123.webp)
+{width="1.8588232720909885in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](images/image124.webp)
+{width="0.8315791776027996in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Svelte front-end framework](images/image125.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 So, what\'s the deal with Svelte? The framework has seen quite a bit of
 adoption lately and even
@@ -4447,20 +4533,26 @@ text-align: none;
 [**Website**](https://svelte.dev/) [**GitHub**](https://github.com/sveltejs/svelte)
 
 ## #12 - Preact
-
-![Preact Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image126.webp){width="0.8649639107611549in"
-height="1.0in"} - ![使用Preact作为反应替代方案 Using Preact as a React
-Alternative - Quick博客](images/image127.webp){width="3.125in"
-height="0.9375in"}- ![Replacing React with Preact in Your
-Projects](images/image128.webp){width="3.2465748031496062in"
-height="1.0in"}
-
-![Preact Logo Animation by Luka Mushkudiani on
-Dribbble](images/image129.webp){width="1.3352110673665791in"
-height="1.0in"}![Preact front-end
-framework](images/image130.webp){width="5.0in"
-height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Preact Logo PNG Transparent & SVG Vector - Freebie Supply](images/image126.webp)
+{width="0.8649639107611549in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![使用Preact作为反应替代方案 Using Preact as a React Alternative - Quick博客](images/image127.webp)
+{width="3.125in" height="0.9375in"}- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Replacing React with Preact in Your Projects](images/image128.webp)
+{width="3.2465748031496062in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Preact Logo Animation by Luka Mushkudiani on Dribbble](images/image129.webp)
+{width="1.3352110673665791in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Preact front-end framework](images/image130.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 Meta frameworks have always been a thing. And, in this case, Preact aims
 to be the lightweight alternative to React. If you\'ve worked with React
@@ -4484,17 +4576,22 @@ stability.
 
 ## #13 - EmberJS {#emberjs .unnumbered}
 
-![ember logo 10 free Cliparts \| Download images on Clipground
-2022](images/image131.webp){width="1.3352110673665791in"
-height="1.0in"} - ![Ember: Making a set of radio buttons that change a
-value set on the \...](images/image132.webp){width="2.2679429133858267in"
-height="1.0in"} - ![Ember logo \~ Single Colour \| I\'m very pleased to
-show this o... \|
-Flickr](images/image133.webp){width="0.8893055555555556in"
-height="1.0in"}
-
-![Ember front-end framework](images/image134.webp){width="5.0in"
-height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![ember logo 10 free Cliparts \| Download images on Clipground 2022](images/image131.webp)
+{width="1.3352110673665791in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Ember: Making a set of radio buttons that change a value set on the \...](images/image132.webp)
+{width="2.2679429133858267in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Ember logo \~ Single Colour \| I\'m very pleased to show this o... \| Flickr](images/image133.webp)
+{width="0.8893055555555556in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Ember front-end framework](images/image134.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 Ember goes back so long that it predates all the aforementioned
 frameworks. Sure, Ember.js might be seeing a lot less usage over the
@@ -4513,13 +4610,18 @@ with major changes in the framework itself.
 
 ## #14 - Solid {#solid .unnumbered}
 
-![solid-js - npm](images/image135.webp){width="1.0in"
-height="0.6582283464566929in"} - ![Testing your Solid.js code \|
-DevsDay.ru](images/image136.webp){width="3.0in"
-height="0.5506332020997375in"}
-
-![Solid front-end framework](images/image137.webp){width="5.0in"
-height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![solid-js - npm](images/image135.webp)
+{width="1.0in" height="0.6582283464566929in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Testing your Solid.js code \| DevsDay.ru](images/image136.webp)
+{width="3.0in" height="0.5506332020997375in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Solid front-end framework](images/image137.webp)
+{width="5.0in" height="0.9145297462817148in"}
 
 SolidJS has been in active development since 2019. But, it was in the
 June of 2021 that the framework [graduated to
@@ -4547,14 +4649,20 @@ Vue and Redux.
 
 ## #15 - Lit {#lit .unnumbered}
 
-![Build a Lightweight Web Component with
-Lit.js](images/image138.webp){width="1.7819553805774277in"
-height="1.0in"} - ![9 popular JavaScript frameworks (and how to choose
-one for your project \...](images/image139.webp){width="3.0in"
-height="0.9556955380577428in"} - ![LAB launches a new logo and web
-design for LIT \| LAB Digital
-Creative](images/image140.webp){width="1.0in" height="1.0in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![Build a Lightweight Web Component with Lit.js](images/image138.webp)
+{width="1.7819553805774277in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![9 popular JavaScript frameworks (and how to choose one for your project \...]
+(images/image139.webp){width="3.0in" height="0.9556955380577428in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![LAB launches a new logo and web design for LIT \| LAB Digital Creative](images/image140.webp)
+{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Lit front-end framework](images/image141.webp){width="5.0in"
 height="0.9145297462817148in"}
 
@@ -8256,7 +8364,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-10-2023 6:43pm -->
+<!-- 10-12-2023 10:52am -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
