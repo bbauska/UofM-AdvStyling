@@ -83,8 +83,6 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 
 <h2 align="center"></h2>
 
-<h3>Course Outline:</h3>
-
 <h2>Syllabus</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
@@ -3102,8 +3100,14 @@ speed.
 Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
 
-![Single Page Applications](images/image092.webp){width="6.0in"
-height="3.433333333333333in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. single page applications (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image092.webp"
+  style="width:60%"
+  alt="Single Page Applications." />
+</p>
+<!-- {width="6.0in" height="3.433333333333333in"} -->
 
 In fact, many of the most successful modern web applications, such as
 Gmail, Google Maps, and Facebook, are built using SPAs. This is because
@@ -3121,7 +3125,14 @@ easier to develop and maintain large-scale applications.
 
 ## JAMStack
 
-![](images/image093.webp){width="4.0in" height="1.4726498250218722in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 93. jamstack  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/image093.webp"
+  style="width:40%"
+  alt="JAMstack ." />
+</p>
+<!-- {width="4.0in" height="1.4726498250218722in"} -->
 
 JAMstack is a unique concept for building static web pages. Rather than
 implementing a back-end solution for content generation, an API is used
@@ -3808,7 +3819,7 @@ elements like classes, typography, and color scheme.\
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image096.webp?raw=true"
-  style="width:40%"
+  style="width:30%"
   alt="." />
 </p>
 <!-- {width="2.8854166666666665in" height="1.125in"} -->
@@ -3833,7 +3844,7 @@ Center](https://learn.jquery.com/).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image096.webp?raw=true"
+<img src="./images/image097.webp?raw=true"
   style="width:65%"
   alt="." />
 </p>
@@ -3965,7 +3976,7 @@ possible.
   style="width:65%"
   alt="." />
 </p>
-<!-- ![](images/image098.webp) {width="6.5in" height="4.86875in"} -->
+<!-- {width="6.5in" height="4.86875in"} -->
 
 ##### The above Download Builder from jQuery UI.
 
@@ -3976,7 +3987,7 @@ possible.
   style="width:65%"
   alt="." />
 </p>
-<!-- ![](images/image099.webp) {width="6.5in" height="4.13125in"} -->
+<!-- {width="6.5in" height="4.13125in"} -->
 
 ##### Page 2 (above)
 
@@ -3987,7 +3998,7 @@ possible.
   style="width:65%"
   alt="." />
 </p>
-<!-- ![](images/image100.webp) {width="6.5in" height="3.0541666666666667in"} -->
+<!-- {width="6.5in" height="3.0541666666666667in"} -->
 
 ##### Page 3, last page of jQuery v1.13.2 User Interface Download.
 
@@ -4030,7 +4041,7 @@ $( "#date" ).datepicker();
   style="width:25%"
   alt="." />
 </p>
-<!-- ![](images/image101.webp){width="2.5104166666666665in" height="1.9479166666666667in"} -->
+<!-- {width="2.5104166666666665in" height="1.9479166666666667in"} -->
 
 ## #03 -- Bootstrap v5.2.3
 
@@ -4111,13 +4122,20 @@ crossorigin="anonymous"></script>
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js>
 
 ## #04 -- D3.js
-
-![\"D3.js Logo\" Poster by bryngo \|
-Redbubble](images/image106.webp)
-{width="1.0in" height="1.0in"}
- - ![D3.js Logo PNG Vector (SVG) Free Download]
- (images/image107.webp)
- {width="3.529411636045494in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 106. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image106.webp?raw=true"
+  style="width:10%"
+  alt="D3.js logo Poster by bryngo redbubble." />
+<!-- {width="1.0in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 107. d3.js logo png vector (svg) free download (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image107.webp?raw=true"
+  style="width:35%"
+  alt="D3.js logo PNG Vector (SVG) Free Download." />
+</p>
+<!-- {width="3.529411636045494in" height="1.0in"} -->
 
 Data-Driven Documents (D3) or [D3.js](https://d3js.org/) is another
 famous JS library that developers use to document manipulation based on
@@ -4157,12 +4175,20 @@ data. It was released in 2011.
 
 ## #05 -- anime.js
 
-![Как сделать js анимацию с помощью Anime.js --- простая и мощная
-библиотека](images/image108.webp)
-{width="3.4347823709536307in" height="1.0in"}
-- ![Anime.js Review - Slant]
-(images/image109.webp)
-{width="1.7111909448818898in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 108. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image108.webp?raw=true"
+  style="width:35%"
+  alt="D3.js logo Poster by bryngo redbubble." />
+<!-- {width="3.4347823709536307in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 109. anime.js review - slant (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image109.webp?raw=true"
+  style="width:17%"
+  alt="Anime.js Review - Slant." />
+<!-- {width="1.7111909448818898in" height="1.0in"} -->
+</p>
 
 If you want to add animations to your site or
 application, [Anime.js](https://animejs.com/) is one of the best
@@ -4180,15 +4206,26 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 
 ## #06 -- chart.js
 
-![Getting Started With Chart.js:
-Introduction](images/image110.webp)
-{width="1.4451224846894137in" height="1.0in"}
-- ![Pie Chart Using Chart.JS Tutorials \| Responsive Chart \| How To Use \...]
-(images/image111.webp)
-{width="1.7777777777777777in" height="1.0in"}
- - ![Chart.js \| Drupal.org]
-(images/image112.webp)
-{width="2.4432994313210847in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 110. getting started with chart.js introduction (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image110.webp?raw=true"
+  style="width:15%"
+  alt="Getting Started with chart.js Introduction." />
+<!-- {width="1.4451224846894137in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 111. pie chart using chart.js tutorials | responsive chart, how to use  (xx) ~~~~~~~-->
+<img src="./images/image111.webp?raw=true"
+  style="width:15%"
+  alt="Getting Started with chart.js Introduction." />
+<!-- {width="1.7777777777777777in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 112. getting started with chart.js introduction drupal.org (xx) ~~~~~~~-->
+<img src="./images/image112.webp?raw=true"
+  style="width:25%"
+  alt="Getting Started with chart.js Introduction." />
+<!-- {width="2.4432994313210847in" height="1.0in"} -->
+</p>
 
 Do you need to present lots of statistics?
 
@@ -4224,12 +4261,20 @@ in creating charts and visualizations.
 
 ## #07 -- lodash
 
-![Lodash Logo PNG Transparent & SVG Vector - Freebie
-Supply](images/image113.webp)
-{width="1.0997681539807524in" height="1.0in"}
-- ![Is Lodash That Good? Performance Comparison of JavaScript and Lodash\...]
-(images/image114.webp)
-{width="2.9286603237095363in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 113. lodash logo png transparent &amp; svg vector - freebie supply (xx) ~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image113.webp?raw=true"
+  style="width:15%"
+  alt="Lodash Logo PNG Transparent &amp; SVG Vector - Freebie Supply." />
+<!-- {width="1.0997681539807524in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 114. is lodash that good?  performance comparison of javascript and lodash (xx) ~~~~~~~-->
+<img src="./images/image114.webp?raw=true"
+  style="width:30%"
+  alt="Is Lodash that Good?  Performance Comparison of JavaScript and Lodash." />
+<!-- {width="2.9286603237095363in" height="1.0in"} -->
+</p>
 
 [Lodash](https://lodash.com/) is a JavaScript library that provides
 utility functions for common programming tasks. It is similar to jQuery
