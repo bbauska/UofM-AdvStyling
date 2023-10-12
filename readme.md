@@ -4362,9 +4362,12 @@ than jQuery.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 115.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Bideo Launch Offers the Best Way to Get Bids from Video Pros \...]
-(images/image115.webp)
-{width="1.9190288713910761in" height="1.0in"}
+<p align="center" width="100%">
+<img src="./images/image115.webp?raw=true"
+  style="width:20%"
+  alt="Bideo launch offers the best way to get bids from video pros." />
+<!--{width="1.9190288713910761in" height="1.0in"} -->
+</p>
 
 [Bideo.js ](https://rishabhp.github.io/bideo.js/)is a free and open
 source HTML5 video player library that creates a unified look and feel
@@ -4384,19 +4387,24 @@ features like playback speed control and full screen mode.
 ## #09 - Angular
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Angular Logo PNG Transparent & SVG Vector - Freebie Supply]
-(images/image116.webp)
-{width="0.75in" height="0.7958858267716535in"} - 
+<p align="center" width="100%">
+  <img src="./images/image116.webp?raw=true"
+    style="width:10%"
+    alt="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply." />
+<!-- {width="0.75in" height="0.7958858267716535in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Angular Logo Black and White -- Brands Logos]
-(images/image117.webp)
-{width="0.75in" height="0.7967147856517935in"} - 
+  <img src="./images/image117.webp?raw=true"
+    style="width:10%"
+    alt="Angular Logo black and white - brands logo." />
+<!-- {width="0.75in" height="0.7967147856517935in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Angular front-end framework]
-(images/image118.webp)
-{width="4.373833114610673in" height="0.8in"}
+  <img src="./images/image118.webp?raw=true"
+    style="width:45%"
+    alt="Angular front-end framework." />
+<!-- {width="4.373833114610673in" height="0.8in"} -->
+</p>
 
 While Angular retains a rather large usage percentage, the interest in
 the framework is at an all-time low. Who knows, maybe the loyal
@@ -4425,20 +4433,27 @@ preferences.
 
 ## #10 - VueJS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![VUE Logo PNG Transparent & SVG Vector - Freebie Supply]
-(images/image119.webp)
-{width="1.1582720909886264in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. vue.js logos (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image119.webp?raw=true"
+  style="width:20%"
+  alt="VUE logo PNG transparent &amp; SVG vector - freebie supply." />
+<!-- {width="1.1582720909886264in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Vue.js Logo History -- dwGlogo -- Logo service marketplace blog]
-(images/image120.webp)
-{width="2.097344706911636in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. 2nd vue logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image120.webp?raw=true"
+  style="width:20%"
+  alt="VUE.js logo history -- dvGlogo -- Logo service marketplace blog." />
+<!-- {width="2.097344706911636in" height="1.0in"} -->
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Vue front-end framework]
-(images/image121.webp)
-{width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 121. vue.js logo with description (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image121.webp?raw=true"
+  style="width:50%"
+  alt="VUE front-end framework." />
+<!-- {width="5.0in" height="0.9145297462817148in"} -->
+</p>
 
 Vue remains a solid choice for truly modern web development.
 The *progressive* framework has [recently pushed forward its Vue 3
@@ -4468,24 +4483,33 @@ support for TypeScript, and testing tools.
 ## #11 - Svelte
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Svelte Logo PNG Vector (SVG) Free Download]
-(images/image122.webp)
-{width="3.125in" height="0.7708333333333334in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. svelte.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image122.webp?raw=true"
+  style="width:30%"
+  alt="Svelte Logo PNG Vector (SVG) Free Download." />
+<!-- {width="3.125in" height="0.7708333333333334in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![A new OpenSource opponent for the Web, SvelteJS - OpenExpo Europe 2020]
-(images/image123.webp)
-{width="1.8588232720909885in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. svelte.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image123.webp?raw=true"
+  style="width:20%"
+  alt="A new opensource opponent for the web, SvelteJS - OpenExpo Europe 2020." />
+<!-- {width="1.8588232720909885in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image124.webp)
-{width="0.8315791776027996in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. svelte.js logo (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image124.webp?raw=true"
+  style="width:10%"
+  alt="." />
+<!-- {width="0.8315791776027996in" height="1.0in"} -->
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Svelte front-end framework]
-(images/image125.webp)
-{width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. svelte.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image125.webp?raw=true"
+  style="width:50%"
+  alt="Svelte front-end framework." />
+<!-- {width="5.0in" height="0.9145297462817148in"} -->
+</p>
 
 So, what\'s the deal with Svelte? The framework has seen quite a bit of
 adoption lately and even
@@ -8648,7 +8672,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-12-2023 1:18pm -->
+<!-- 10-12-2023 10:52am -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
