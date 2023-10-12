@@ -61,7 +61,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 >### 2.5 [**Media Queries Part Two**](#ch2-5-1)
 >### 2.6 [**Code With Me: Responsive Navigation**](#ch2-6-1)
 
-## **[Week 3: Use Existing Frameworks**](#ch3)
+## [**Week 3: Use Existing Frameworks**](#ch3)
 >### 3.1 [**Frameworks**](#ch3-1-1)
 >### 3.2 [**Introduction to Twitter Bootstrap 3**](#ch3-2-1)
 >### 3.3 [**Bootstrap Breakpoints**](#ch3-3-1)
