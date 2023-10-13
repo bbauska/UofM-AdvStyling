@@ -4240,8 +4240,7 @@ data. It was released in 2011.
 
 -   Animation
 
-## #05 -- anime.js
-
+<h2 id="ch05">05 -- anime.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 108. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4271,23 +4270,22 @@ And because it's built on top of jQuery, you can take advantage of all
 the features that jQuery offers, such as [event
 handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 
-## #06 -- chart.js
-
+<h2 id="ch06">06 -- chart.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 110. getting started with chart.js introduction (xx) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 110. getting started with chart.js introduction (110) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image110.webp?raw=true"
   style="width:15%"
   alt="Getting Started with chart.js Introduction." />
 <!-- {width="1.4451224846894137in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~ 111. pie chart using chart.js tutorials | responsive chart, how to use  (xx) ~~~~~~~-->
+<!--~~~~~~~ 111. pie chart using chart.js tutorials | responsive chart, how to use (110) ~~~~~~~-->
 <img src="./images/image111.webp?raw=true"
-  style="width:15%"
+  style="width:20%"
   alt="Getting Started with chart.js Introduction." />
 <!-- {width="1.7777777777777777in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 112. getting started with chart.js introduction drupal.org (xx) ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 112. getting started with chart.js introduction drupal.org (110) ~~~~~~~~~~~~~-->
 <img src="./images/image112.webp?raw=true"
   style="width:25%"
   alt="Getting Started with chart.js Introduction." />
@@ -4326,17 +4324,17 @@ among developers who are already familiar with the library.
 Additionally, chart.js has a wide range of features that can be helpful
 in creating charts and visualizations.
 
-## #07 -- lodash
+<h2 id="ch07">07 -- lodash</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~ 113. lodash logo png transparent &amp; svg vector - freebie supply (xx) ~~~~~~~~~~-->
+<!--~~~~~~~~~ 113. lodash logo png transparent &amp; svg vector - freebie supply (110) ~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image113.webp?raw=true"
   style="width:15%"
   alt="Lodash Logo PNG Transparent &amp; SVG Vector - Freebie Supply." />
 <!-- {width="1.0997681539807524in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~ 114. is lodash that good?  performance comparison of javascript and lodash (xx) ~~~~~~-->
+<!--~~~~~ 114. is lodash that good?  performance comparison of javascript and lodash (110) ~~~~~-->
 <img src="./images/image114.webp?raw=true"
   style="width:30%"
   alt="Is Lodash that Good?  Performance Comparison of JavaScript and Lodash." />
@@ -4358,10 +4356,9 @@ offers a chainable API for manipulating data.
 However, lodash is more functional in nature and provides more features
 than jQuery.
 
-## #08 -- Bideo.js
-
+<h2 id="ch08">08 -- Bideo.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 115.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 115. bideo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image115.webp?raw=true"
   style="width:20%"
@@ -4384,22 +4381,22 @@ Microsoft. Video.js is open source and free to use.
 Bideo.js can be used to create custom controls for a video, or to add
 features like playback speed control and full screen mode.
 
-## #09 - Angular
+<h2 id="ch09">09 -- Angular</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
   <img src="./images/image116.webp?raw=true"
     style="width:10%"
     alt="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply." />
 <!-- {width="0.75in" height="0.7958858267716535in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <img src="./images/image117.webp?raw=true"
     style="width:10%"
     alt="Angular Logo black and white - brands logo." />
 <!-- {width="0.75in" height="0.7967147856517935in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <img src="./images/image118.webp?raw=true"
     style="width:45%"
     alt="Angular front-end framework." />
@@ -4429,9 +4426,10 @@ at the survey data - satisfaction with this framework has also plummeted
 greatly. And the main reason is the learning curve, among personal
 preferences.
 
-[**Website**](https://angular.io/) [**GitHub**](https://github.com/angular/angular)
+<a href="https://angular.io/">Angular Website</a>
+<a href="https://github.com/angular/angular">Angular GitHub</a>
 
-## #10 - VueJS
+<h2 id="ch10">10 -- VueJS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. vue.js logos (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4478,32 +4476,32 @@ projects due to native tooling, including
 - [CSR](https://bholmes.dev/blog/spas-clientside-routing/), DevTools,
 support for TypeScript, and testing tools.
 
-[**Website**](https://vuejs.org/) [**GitHub**](https://github.com/vuejs/)
+<a href="https://vuejs.org/">Vue Website</a>
+<a href="https://github.com/vuejs">Vue GitHub</a>
 
-## #11 - Svelte
-
+<h2 id="ch11">11 -- Svelte</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. svelte.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image122.webp?raw=true"
   style="width:30%"
   alt="Svelte Logo PNG Vector (SVG) Free Download." />
 <!-- {width="3.125in" height="0.7708333333333334in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. svelte.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image123.webp?raw=true"
   style="width:20%"
   alt="A new opensource opponent for the web, SvelteJS - OpenExpo Europe 2020." />
 <!-- {width="1.8588232720909885in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. svelte.js logo (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image124.webp?raw=true"
   style="width:10%"
-  alt="." />
+  alt="Svelte logo." />
 <!-- {width="0.8315791776027996in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. svelte.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. svelte.js (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image125.webp?raw=true"
   style="width:50%"
@@ -4560,34 +4558,45 @@ text-align: none;
 </style>
 ```
 
-[**Website**](https://svelte.dev/) [**GitHub**](https://github.com/sveltejs/svelte)
+<a href="https://svelte.dev/">Svelte Website</a>
+<a href="https://github.com/sveltejs/svelte">Svelte GitHub</a>
 
-## #12 - Preact
+<h2 id="ch12">12 -- Preact</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Preact Logo PNG Transparent & SVG Vector - Freebie Supply]
-(images/image126.webp)
-{width="0.8649639107611549in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. preact logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![使用Preact作为反应替代方案 Using Preact as a React Alternative - Quick博客]
-(images/image127.webp)
-{width="3.125in" height="0.9375in"}- 
+<p align="center" width="100%">
+<img src="./images/image126.webp?raw=true"
+  style="width:10%"
+  alt="Preact logo PNG transparent &amp; SVG vector - freebie supply." />
+<!-- {width="0.8649639107611549in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Replacing React with Preact in Your Projects]
-(images/image128.webp)
-{width="3.2465748031496062in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~ 127. using preact as a react alternatives - quick (114) ~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image127.webp?raw=true"
+  style="width:35%"
+  alt="Preact as a React alternative." />
+<!-- {width="3.125in" height="0.9375in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Preact Logo Animation by Luka Mushkudiani on Dribbble]
-(images/image129.webp)
-{width="1.3352110673665791in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~ 128. replacing react with preact in your projects (114) ~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image128.webp?raw=true"
+  style="width:35%"
+  alt="Replacing React with Preact in your projects." />
+<!-- {width="3.2465748031496062in" height="1.0in"} -->
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Preact front-end framework]
-(images/image130.webp)
-{width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~ 129. preact logo animation by luka mushkudiani (114) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image129.webp?raw=true"
+  style="width:15%"
+  alt="Preact logo animation by Luka Mushkudiani on Dribbble." />
+<!-- {width="1.3352110673665791in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. preact front-end framework (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image130.webp?raw=true"
+  style="width:50%"
+  alt="Preact front-end framework." />
+<!-- {width="5.0in" height="0.9145297462817148in"} -->
+</p>
 
 Meta frameworks have always been a thing. And, in this case, Preact aims
 to be the lightweight alternative to React. If you\'ve worked with React
@@ -4607,30 +4616,38 @@ The publication is as close as it gets to measuring the benefits, and
 also long-term advantages when it comes to maintainability and migration
 stability.
 
-[**Website**](https://preactjs.com/) [**GitHub**](https://github.com/preactjs/preact)
+<a href="https://preactjs.com/">Preact Website</a>
+<a href="https://github.com/preactjs/preact">Preact GitHub</a>
 
-## #13 - EmberJS {#emberjs .unnumbered}
-
+<h2 id="ch13">13 -- EmberJS</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![ember logo 10 free Cliparts \| Download images on Clipground 2022]
-(images/image131.webp)
-{width="1.3352110673665791in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. ember logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image131.webp?raw=true"
+  style="width:15%"
+  alt="Ember logo." />
+<!-- {width="1.3352110673665791in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 132.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Ember: Making a set of radio buttons that change a value set on the \...]
-(images/image132.webp)
-{width="2.2679429133858267in" height="1.0in"} - 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 132. ember logo radio buttons (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image132.webp?raw=true"
+  style="width:25%"
+  alt="Ember radio buttons." />
+<!-- {width="2.2679429133858267in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 133.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Ember logo \~ Single Colour \| I\'m very pleased to show this o... \| Flickr]
-(images/image133.webp)
-{width="0.8893055555555556in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 133. ember logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image133.webp?raw=true"
+  style="width:10%"
+  alt="Ember logo - single color." />
+<!-- {width="0.8893055555555556in" height="1.0in"} -->
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Ember front-end framework]
-(images/image134.webp)
-{width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. ember logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image134.webp?raw=true"
+  style="width:50%"
+  alt="Ember front-end framework." />
+<!-- {width="5.0in" height="0.9145297462817148in"} -->
+</p>
 
 Ember goes back so long that it predates all the aforementioned
 frameworks. Sure, Ember.js might be seeing a lot less usage over the
@@ -4645,23 +4662,26 @@ Ember special is integrated backward compatibility. As far as frameworks
 go, Ember does an excellent job at making sure your code doesn\'t break
 with major changes in the framework itself.
 
-[**Website**](https://emberjs.com/) [**GitHub**](https://github.com/emberjs/ember.js)
+<a href="https://emberjs.com/">Ember Website</a>
+<a href="https://github.com/emberjs/ember.js">Ember GitHub</a>
 
-## #14 - Solid {#solid .unnumbered}
-
+<h2 id="ch14">14 - Solid</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
 ![solid-js - npm](images/image135.webp)
 {width="1.0in" height="0.6582283464566929in"} - 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Testing your Solid.js code \| DevsDay.ru](images/image136.webp)
 {width="3.0in" height="0.5506332020997375in"}
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
 ![Solid front-end framework](images/image137.webp)
 {width="5.0in" height="0.9145297462817148in"}
-
+</p>
 SolidJS has been in active development since 2019. But, it was in the
 June of 2021 that the framework [graduated to
 v1](https://github.com/solidjs/solid/releases/tag/v1.0.0). And since,
@@ -4684,9 +4704,10 @@ Carniato](https://levelup.gitconnected.com/a-solid-realworld-demo-comparison-8c3
 that Solid is able to outperform Svelte, Elm, but also frameworks like
 Vue and Redux.
 
-[**Website**](https://www.solidjs.com/) [**GitHub**](https://github.com/solidjs/solid)
+<a href="https://solidjs.com/">SolidJS Website</a>
+<a href="https://github.com/solidjs/solid">SolidJS GitHub</a>
 
-## #15 - Lit {#lit .unnumbered}
+<h2 id="ch15">15 - Lit</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 138.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8672,7 +8693,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-12-2023 10:52am -->
+<!-- 10-12-2023 5:20pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
