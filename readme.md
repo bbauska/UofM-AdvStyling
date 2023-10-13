@@ -434,7 +434,7 @@ it here if you want to know how to use the tool.
 
 <https://css-tricks.com/rems-ems/>
 
-## CSS definitions of relative and absolute
+<h2>CSS definitions of relative and absolute</h2>
 
 Someone provided me with a link that helped them better understand the
 meaning of &quot;relative&quot; and &quot;absolute&quot; as they relate to CSS. Here is
@@ -3408,6 +3408,7 @@ hours this saves from the development process can be enormous.
     carousels. You can not only use the Kit to start a new project but also restyle 
     any old Bootstrap project. What's more, the Material Kit React Pro version comes 
     equipped with several other components, sections, and example pages.</p></li>
+	
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook">Storybook</a> --</h4><br>
     <p>It is more like an <a href="https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/">open-source tool</a> 
     that is used for building UI components in isolation for React and several other 
@@ -3433,6 +3434,7 @@ hours this saves from the development process can be enormous.
       <li>Clean and efficient UI</li>
     </ul>
   </li>
+  
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#boostrap">React Bootstrap</a> --</h4><br>
   <p>A significant feature of React Bootstrap CSS is compatibility, i.e., Bootstrap 
   core compatibility and the world's largest UI ecosystem compatibility. The framework 
@@ -3450,388 +3452,292 @@ hours this saves from the development process can be enormous.
   a front-end environment. And so, developers will need to alter their
   code or refer to the UI's documentation to get used to it.</p></li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#admin">React Admin</a> --</h4><br>
-  <p>React Admin is great for creating business-to-business i.e., B2B admin
-  applications on top of REST/GraphQL APIs. This framework is customizable by design.
-  This React UI framework is made up of several popular projects along with React: 
-  Material UI, Redux, React Router, as well as React Final Form. The latter is a 
-  well-known form of state management solution.<br>
-  React Admin also offers an enterprise solution apart from their free version 
-  and components. This solution offers pro support from Marmelab along with 
-  access to private modules. React Admin has an active community and is hence 
-  pretty well-maintained.</p></li>
-</ol>
-
-**Features and benefits:**
-
--   Adapts to any backend
-
--   Optimistic rendering which leads to fast UI
-
--   Built-in support for internationalization
-
--   Allows customization of the appearance and behavior of its
-    > components using a flexible and extensible API.
-
--   Highly customizable interface with powerful Theming
-
--   Supports multiple authentication providers such as RestAPI, OAuth,
-    > Basic Auth, etc.
-
--   Multiple layout options such as simple, tabbed, etc.
-
-###### **[React Toolbox](https://www.turing.com/blog/react-ui-frameworks-for-developers/#toolbox) -**
-
-React Toolbox is a React UI components library. This library can be used
-to implement Google's Material Design principles in projects. React
-Toolbox uses CSS modules for this implementation. Although you can
-utilize any module bundler, React Toolbox integrates with webpack
-workflow seamlessly. What's more, the React Toolbox team provides an
-in-browser editor where developers can play with components in real
-time.\
-\
-You can import components in raw components or bundles while working
-with this library. The main difference is that for the latter, the
-components come with all required dependencies and themes injected for
-you.\
-\
-In other words, the CSS for each dependency will be available in your
-final CSS automatically and raw components don't include any CSS. This
-means that you will need to provide a theme via properties to the
-component for it to be properly styled.\
-
-**Features and benefits:**
-
--   Supports responsive design
-
--   High-quality and well-tested components
-
--   Modular architecture
-
--   Provides a set of components that are pre-built and customizable
-
-<h5>**[React Virtualized](https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized) -**</h5>
-
-> If you are working on an application that is data-heavy in the front
-> end, React Virtualized should be your choice. Virtualized has a set of
-> reusable, lightweight components that can render large datasets
-> efficiently.\
-> \
-> One of the most useful features of React Virtualized is that it uses
-> windowing and virtualization techniques to optimize the rendering of
-> large lists, tables, and grids. It is great for the performance of
-> your application as it only renders the elements that are visible on
-> the screen instead of all the elements at once.\
-> \
-> Another benefit of React Virtualized is that it provides a set of
-> helper functions and utilities to assist with common UI patterns, such
-> as infinite scrolling, dynamic row and column sizing, and responsive
-> design. It supports both fixed and variable row heights, and it
-> provides a flexible API for customizing the behavior and appearance of
-> its components.\
-
-**Features and benefits:**
-
--   Uses windowing to render a small portion of a large data set
-
--   Provides flexible API
-
--   Supports responsive design
-
--   Virtualization allows it to only render elements that are on the
-    > screen
-
-<h5>**[React Router](https://www.turing.com/blog/react-ui-frameworks-for-developers/#router) -**</h5>
-
-> React Router is a popular compact library for React. It allows
-> developers to build single-page applications with dynamic, client-side
-> routing. React Router is designed to work seamlessly with React, and
-> it allows developers to declaratively define the routes of their
-> applications using JSX. This makes it easy to create complex and
-> hierarchical navigational structures within a single-page
-> application.\
-> \
-> One of the key benefits of using React Router is its ability to
-> perform [code
-> splitting](https://www.turing.com/kb/how-to-split-bundle-using-code-splitting-in-reactjs),
-> which allows developers to load only the necessary components for a
-> given route, reducing the initial loading time of the application and
-> improving performance.\
-> \
-> Another benefit of React Router is its support for managing the
-> browser's history, which enables users to navigate through the
-> application using the browser's back and forward buttons.\
-
-**Features and benefits:**
-
--   Uses windowing to render a small portion of a large data set
-
--   Provides flexible API
-
--   Supports responsive design
-
--   Virtualization allows it to only render elements that are on the
-    > screen
-
-<h5>**[Semantic UI](https://www.turing.com/blog/react-ui-frameworks-for-developers/#semantic) -**</h5>
-
-> Semantic UI integrates with React to offer a customized library of
-> user interface components. Semantic UI does not have the virtual DOM,
-> as it is independent of jQuery methods. The Semantic UI React library
-> offers several customizable elements for front-end development.\
-> \
-> Semantic UI is an open-source project on GitHub that is useful for
-> designing CSS style sheets with React framework. The Semantic UI
-> framework features augmentation for building responsive web pages with
-> unique component functionalities. The subcomponents offer better
-> control over accessing and editing markup, and an auto-controlled
-> state enables better utilization of components.\
-
-**Features and benefits:**
-
--   Easy accessibility for users with disabilities
-
--   Offers cross-browser compatibility
-
--   Has a powerful theming system
-
--   Focused on creating human-friendly user interfaces
-
--   50+ UI elements to choose from
-
--   3000+ CSS variables available
-
-<h5>**[Material UI](https://www.turing.com/blog/react-ui-frameworks-for-developers/#materialui) -**</h5>
-
-> Material UI (MUI) includes pre-built material components and themes
-> for designing user interface elements with React. Material UI has
-> tools for navigation, sliders and drop-down menus, and a lot more
-> customizable component. The MUI elements adhere to the Google Material
-> Design standards that improve the application speed.\
-> \
-> The Material UI offers many tools and APIs for assisting native mobile
-> app development. MUI features automatic color changes and
-> interoperability between styling components and CSS-based modules.\
-> \
-> Also, read: [How to Successfully Find and Hire the Best React Native
-> Developer in
-> 2023](https://www.turing.com/resources/how-to-find-and-hire-best-react-native-developers)\
-> \
-> A large community of active front-end developers prefers MUI over
-> other frameworks. The framework aids [software
-> developers](https://www.turing.com/jobs/remote-software-developer) to
-> deal with the documentation and clear out their concerns and doubts.\
-
-**Features and benefits:**
-
--   Customizable and reusable components
-
--   Powerful theming system
-
--   Responsive components
-
--   A large and active community of developers
-
-<h5>**[React Redux](https://www.turing.com/blog/react-ui-frameworks-for-developers/#redux) -**</h5>
-
-> React Redux is a predictable component library with a simple interface
-> and solid code-testing capabilities. When developers enter the values
-> for the components, the interface fetches, updates, and apprises the
-> values automatically. Redux has several DevTools to spot application
-> state changes, maintain logs as well as send error reports.\
-> \
-> Redux is one of the most popular React libraries, with more than
-> 21,000 GitHub stars. Redux works great with Angular, React, and many
-> more JavaScript frameworks. Developers can connect React code to
-> several components, write consistent code, and edit it while the app
-> runs with Redux.\
-
-**Features and benefits:**
-
--   Has a predictable and centralized state management system
-
--   Supports server-side rendering
-
--   Supports middleware
-
--   Simplified application architecture
-
-<h5>**[Blueprint UI](https://www.turing.com/blog/react-ui-frameworks-for-developers/#blueprint) -**</h5>
-
-Yet another popular mention in this list of best React frameworks is
-Blueprint UI. This is a well-known CSS-based React framework for the
-front-end development of computer apps.\
-\
-Blueprint UI is best suited for designing UIs for complex and
-data-intensive web pages. Blueprint UI has a CSS library of 30
-components with options for minimal scripting and coding.\
-\
-Blueprint UI boasts of a multi-touch interface that's easy to use,
-intuitive, and great for developing websites and applications
-efficiently. This React framework also includes core components with
-distinct components for selection, date-time, tables, icons, and more.
-Blueprint UI has dark and light-themed modes and customizable design
-elements like classes, typography, and color scheme.\
-
-**Features and benefits:**
-
--   Offers a seamless user experience
-
--   Provides comprehensive and easy-to-follow documentation
-
--   Provides a comprehensive set of reusable components, such as
-    > buttons, forms, and navigation menus
-
--   Offers cross-browser compatibility
-
-<h5>**[Grommet](https://www.turing.com/blog/react-ui-frameworks-for-developers/#grommet) -**</h5>
-
-> HPE developed Grommet as a CSS framework for React with component
-> packages for building responsive and intuitive mobile websites.
-> Grommet offers a dynamic and vibrant layout, great accessibility,
-> catchy themes, modularity, as well as simplicity. Grommet can be
-> integrated into existing projects or used to create new ones with
-> advanced themes.\
-> \
-> Grommet has an icon component with a massive bank of SVG icons to aid
-> front-end development. The Grommet library also offers components for
-> customizing UIs with utilities, media options, input visualization,
-> layouts, and colors, as well as controls.\
-
-**Features and benefits:**
-
--   Out-of-the-box support for disabled users (W3C support)
-
--   Provides extensive theming
-
--   Flexible and modular design
-
--   Design-focused approach
-
--   Provides responsive components
-
-<h5>**[Ant Design](https://www.turing.com/blog/react-ui-frameworks-for-developers/#ant) -**</h5>
-
-> This list of the best React frameworks would be incomplete without Ant
-> Design. Ant Design is a CSS framework for React that developers
-> extensively use to create appealing UI components. Ant Design offers
-> an expansive design library for front-end development and a GUI design
-> for client development. The framework's design elements are simple to
-> integrate, and its components can be directly used with React.\
-> \
-> Ant Design has many customizable themes, design elements, and
-> development tools.\
-> \
-> The Ant Design library has more than 50 components and helps design
-> UIs for enterprise-grade applications. More than 100 companies use Ant
-> Design for their projects, thanks to its flexible design and
-> features.\
-
-**Features and benefits:**
-
--   Multi-language support to ease building applications for a global audience
-
--   Provides developer-friendly API
-
--   Responsive components can automatically adjust their size, layout, and style 
-    based on the device and screen size of the user.
-
--   Offers TypeScript support
-
--   Powerful theming system
-
-<h5>**[Chakra UI](https://www.turing.com/blog/react-ui-frameworks-for-developers/#chakra) -**</h5>
-
-> Next up on our React JS framework list is Chakra, a React component
-> library that requires less time for writing code. The Chakra UI
-> enables faster development and offers accessible, modular, and
-> flexible UI components for building applications.\
-> \
-> Chakra UI enables React developers to create newer components
-> efficiently. In Chakra UI, the components are customizable, reusable,
-> and adhere to the WAI-ARIA standards.\
-> \
-> With dark and light UI options, themes, and 49+ components, Chakra UI
-> includes various inputs, accordions, tips, and icons. Though the
-> Chakra UI library is new, the community is active in resolving
-> doubts.\
-
-**Features and benefits:**
-
--   Offers accessibility for users with disabilities
-
--   A comprehensive set of reusable components
-
--   Light / Dark mode support
-
--   Uses CSS-in-JS
-
-<h5>**[Fluent UI](https://www.turing.com/blog/react-ui-frameworks-for-developers/#fluent) -**</h5>
-
-> The Microsoft team developed the Fabric React UI library (so you know
-> it's a real piece of dog shit), and later it was renamed Fluent UI.
-> The components and graphics resemble MS Office products and share
-> compatibility with OneNote, Azure DevOps, Office 365, and more. The
-> default settings of Fluent UI are suitable for most projects.\
-> \
-> Fluent UI contains pre-built components like inputs, notifications,
-> menus, and more for developing applications.\
-> \
-> In Fluent UI, the components are customizable and offer a
-> straightforward approach to web development. The Fluent UI library
-> also offers cross-platform compatibility, supporting desktop, Android,
-> and iOS devices.\
-
-**Features and benefits:**
-
--   Fluent UI React library makes integration easy into your React
-    applications.
-
--   Provides adaptive styling
-
--   Microsoft's Fluent Design language provides a modern and immersive
-    user experience
-
--   Offers cross-platform support
-
-<h5>**[Evergreen](https://www.turing.com/blog/react-ui-frameworks-for-developers/#evergreen) -**</h5>
-
-> Segment developed the Evergreen React UI framework with 30+
-> components. The components are built on top of the primitive React UI,
-> with commonly usable patterns. The default and classic themes combined
-> with the Evergreen Figma library make it easy to create components in
-> CSS.\
-> \
-> As a CSS library for React, Evergreen contains a collection of React
-> modules with React Primitive. Also, Evergreen v6  hosts an updated
-> theme API for better customization and accessibility. The Evergreen
-> library is easy to edit, contributor-friendly, and offers flexibility
-> for creating UIs.\
-
-**Features and benefits:**
-
--   Server-side-rendering (SSR) offered out of the box
-
--   Provides dynamic form components
-
--   The smart algorithm automatically handles spacing and alignment
-    between the components
-
--   Has a solid and active community support
-
-> Which UI is best for ReactJS?
->
+    <p>React Admin is great for creating business-to-business i.e., B2B admin
+    applications on top of REST/GraphQL APIs. This framework is customizable by design.
+    This React UI framework is made up of several popular projects along with React: 
+    Material UI, Redux, React Router, as well as React Final Form. The latter is a 
+    well-known form of state management solution.<br>
+    React Admin also offers an enterprise solution apart from their free version 
+    and components. This solution offers pro support from Marmelab along with 
+    access to private modules. React Admin has an active community and is hence 
+    pretty well-maintained.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Adapts to any backend</li>
+      <li>Optimistic rendering which leads to fast UI</li>
+      <li>Built-in support for internationalization</li>
+      <li>Allows customization of the appearance and behavior of its
+        components using a flexible and extensible API.</li>
+      <li>Highly customizable interface with powerful Theming</li>
+      <li>Supports multiple authentication providers such as RestAPI, OAuth,
+        Basic Auth, etc.</li>
+      <li>Multiple layout options such as simple, tabbed, etc.</li>
+    </ul>
+  </li>
+  
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#toolbox">React Toolbox</a> --</h4><br>
+    <p>React Toolbox is a React UI components library. This library can be used
+	to implement Google's Material Design principles in projects. React Toolbox uses 
+	CSS modules for this implementation. Although you can utilize any module bundler, 
+	React Toolbox integrates with webpack workflow seamlessly. What's more, the React 
+	Toolbox team provides an in-browser editor where developers can play with components 
+	in real time.<br>
+	You can import components in raw components or bundles while working with this 
+	library. The main difference is that for the latter, the components come with 
+	all required dependencies and themes injected for you.<br>
+	In other words, the CSS for each dependency will be available in your final CSS 
+	automatically and raw components don't include any CSS. This means that you will 
+	need to provide a theme via properties to the component for it to be properly 
+	styled.</p>
+  <b>Features and benefits:</b>
+    <ul>
+      <li>Supports responsive design</li>
+      <li>High-quality and well-tested components</li>
+      <li>Modular architecture</li>
+      <li>Provides a set of components that are pre-built and customizable</li>
+    </ul>
+  </li>
+  
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized">React Virtualized</a>) --</h4><br>
+    <p>If you are working on an application that is data-heavy in the front end, 
+	React Virtualized should be your choice. Virtualized has a set of reusable, 
+	lightweight components that can render large datasets efficiently.<br>
+    One of the most useful features of React Virtualized is that it uses windowing 
+	and virtualization techniques to optimize the rendering of large lists, tables, 
+	and grids. It is great for the performance of your application as it only renders 
+	the elements that are visible on the screen instead of all the elements at once.<br>
+    Another benefit of React Virtualized is that it provides a set of helper functions 
+	and utilities to assist with common UI patterns, such as infinite scrolling, dynamic 
+	row and column sizing, and responsive design. It supports both fixed and variable 
+	row heights, and it provides a flexible API for customizing the behavior and 
+	appearance of its components.</p>
+  <b>Features and benefits:</b>
+    <ul>
+      <li>Uses windowing to render a small portion of a large data set</li>
+      <li>Provides flexible API</li>
+      <li>Supports responsive design</li>
+      <li>Virtualization allows it to only render elements that are on the screen</li>
+    </ul>
+  </li>
+
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#router">React Router</a> --</h4><br>
+  <p>React Router is a popular compact library for React. It allows developers to 
+  build single-page applications with dynamic, client-side routing. React Router 
+  is designed to work seamlessly with React, and it allows developers to declaratively 
+  define the routes of their applications using JSX. This makes it easy to create 
+  complex and hierarchical navigational structures within a single-page application.<br>
+  One of the key benefits of using React Router is its ability to perform <a href="https://www.turing.com/kb/how-to-split-bundle-using-code-splitting-in-reactjs">
+  code splitting</a>, which allows developers to load only the necessary components 
+  for a given route, reducing the initial loading time of the application and 
+  improving performance.<br>
+  Another benefit of React Router is its support for managing the browser's history, 
+  which enables users to navigate through the application using the browser's back 
+  and forward buttons.</p>
+  <b>Features and benefits:</b>
+    <ul>
+      <li>Uses windowing to render a small portion of a large data set</li>
+      <li>Provides flexible API</li>
+      <li>Supports responsive design</li>
+      <li>Virtualization allows it to only render elements that are on the screen</li>
+    </ul>
+  </li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#semantic">Semantic UI</a> --</h4><br>
+    <p>Semantic UI integrates with React to offer a customized library of user interface 
+	components. Semantic UI does not have the virtual DOM, as it is independent of jQuery 
+	methods. The Semantic UI React library offers several customizable elements for 
+	front-end development.<br>
+    Semantic UI is an open-source project on GitHub that is useful for designing 
+	CSS style sheets with React framework. The Semantic UI framework features 
+	augmentation for building responsive web pages with unique component 
+	functionalities. The subcomponents offer better control over accessing 
+	and editing markup, and an auto-controlled state enables better utilization 
+	of components.</p>
+    <b>Features and benefits:</b>
+    <ul>
+	  <li>Easy accessibility for users with disabilities</li>
+      <li>Offers cross-browser compatibility</li>
+      <li>Has a powerful theming system</li>
+      <li>Focused on creating human-friendly user interfaces</li>
+      <li>50+ UI elements to choose from</li>
+      <li>3000+ CSS variables available</li>
+    </ul>
+  </li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#materialui">Material UI</a> --</h4><br>
+    <p>Material UI (MUI) includes pre-built material components and themes for 
+	designing user interface elements with React. Material UI has tools for navigation, 
+	sliders and drop-down menus, and a lot more customizable component. The MUI elements 
+	adhere to the Google Material Design standards that improve the application speed.<br>
+    The Material UI offers many tools and APIs for assisting native mobile app development. 
+	MUI features automatic color changes and interoperability between styling components 
+	and CSS-based modules.<br>
+    Also, read: <a href="https://www.turing.com/resources/how-to-find-and-hire-best-react-native-developers">
+	How to Successfully Find and Hire the Best React Native Developer in 2023</a><br>
+    A large community of active front-end developers prefers MUI over other frameworks. 
+	The framework aids <a href="https://www.turing.com/jobs/remote-software-developer">
+	software developers</a> to deal with the documentation and clear out their concerns 
+	and doubts.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Customizable and reusable components</li>
+      <li>Powerful theming system</li>
+      <li>Responsive components</li>
+      <li>A large and active community of developers</li>
+    </ul>
+  </li>
+
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#redux">React Redux</a> --</h4><br>
+    <p>React Redux is a predictable component library with a simple interface
+      and solid code-testing capabilities. When developers enter the values
+      for the components, the interface fetches, updates, and apprises the
+      values automatically. Redux has several DevTools to spot application
+      state changes, maintain logs as well as send error reports.<br>
+      Redux is one of the most popular React libraries, with more than
+      21,000 GitHub stars. Redux works great with Angular, React, and many
+      more JavaScript frameworks. Developers can connect React code to
+      several components, write consistent code, and edit it while the app
+      runs with Redux.</p>
+    <b>Features and benefits:</b>
+    <ul>
+     <li>Has a predictable and centralized state management system</li>
+     <li>Supports server-side rendering</li>
+     <li>Supports middleware</li>
+     <li>Simplified application architecture</li>
+    </ul>
+  </li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#blueprint">Blueprint UI</a> --</h4><br>
+    <p>Yet another popular mention in this list of best React frameworks is Blueprint 
+	  UI. This is a well-known CSS-based React framework for the front-end development of 
+	  computer apps.<br>
+      Blueprint UI is best suited for designing UIs for complex and data-intensive 
+	  web pages. Blueprint UI has a CSS library of 30 components with options for 
+	  minimal scripting and coding.<br>
+      Blueprint UI boasts of a multi-touch interface that's easy to use, intuitive, 
+	  and great for developing websites and applications efficiently. This React 
+	  framework also includes core components with distinct components for selection, 
+	  date-time, tables, icons, and more. Blueprint UI has dark and light-themed modes 
+	  and customizable design elements like classes, typography, and color scheme.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Offers a seamless user experience</li>
+      <li>Provides comprehensive and easy-to-follow documentation</li>
+      <li>Provides a comprehensive set of reusable components, such as buttons, 
+        forms, and navigation menus</li>
+      <li>Offers cross-browser compatibility</li>
+	</ul>
+  </li>
+
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#grommet">Grommet</a> --</h4><br>
+    <p>HPE developed Grommet as a CSS framework for React with component packages 
+      for building responsive and intuitive mobile websites. Grommet offers a dynamic 
+	  and vibrant layout, great accessibility, catchy themes, modularity, as well as 
+	  simplicity. Grommet can be integrated into existing projects or used to create 
+	  new ones with advanced themes.<br>
+      Grommet has an icon component with a massive bank of SVG icons to aid front-
+	  end development. The Grommet library also offers components for customizing 
+	  UIs with utilities, media options, input visualization, layouts, and colors, 
+	  as well as controls.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Out-of-the-box support for disabled users (W3C support)</li>
+      <li>Provides extensive theming</li>
+      <li>Flexible and modular design</li>
+      <li>Design-focused approach</li>
+      <li>Provides responsive components</li>
+	</ul>
+  </li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#ant">Ant Design</a> --</h4><br>
+    <p>This list of the best React frameworks would be incomplete without Ant
+      Design. Ant Design is a CSS framework for React that developers extensively 
+	  use to create appealing UI components. Ant Design offers an expansive design 
+	  library for front-end development and a GUI design for client development. 
+	  The framework's design elements are simple to integrate, and its components 
+	  can be directly used with React.<br>
+      Ant Design has many customizable themes, design elements, and development tools.<br>
+      The Ant Design library has more than 50 components and helps design UIs for 
+	  enterprise-grade applications. More than 100 companies use Ant Design for their 
+	  projects, thanks to its flexible design and features.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Multi-language support to ease building applications for a global audience</li>
+      <li>Provides developer-friendly API</li>
+      <li>Responsive components can automatically adjust their size, layout, and style 
+	    based on the device and screen size of the user.</li>
+      <li>Offers TypeScript support</li>
+      <li>Powerful theming system</li>
+    </ul>
+  </li>
+  
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#chakra">Chakra UI</a> --</h4><br>
+    <p>Next up on our React JS framework list is Chakra, a React component library 
+      that requires less time for writing code. The Chakra UI enables faster development 
+	  and offers accessible, modular, and flexible UI components for building applications.<br>
+      Chakra UI enables React developers to create newer components efficiently. In Chakra UI, 
+	  the components are customizable, reusable, and adhere to the WAI-ARIA standards.<br>
+      With dark and light UI options, themes, and 49+ components, Chakra UI includes various 
+	  inputs, accordions, tips, and icons. Though the Chakra UI library is new, the community 
+	  is active in resolving doubts.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Offers accessibility for users with disabilities</li>
+      <li>A comprehensive set of reusable components</li>
+      <li>Light / Dark mode support</li>
+      <li>Uses CSS-in-JS</li>
+    </ul>
+  </li>
+  
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#fluent">Fluent UI</a> --</h4><br>
+    <p>The Microsoft team developed the Fabric React UI library (so you know
+      it's a real piece of dog shit), and later it was renamed Fluent UI.
+      The components and graphics resemble MS Office products and share compatibility 
+	  with OneNote, Azure DevOps, Office 365, and more. The default settings of Fluent 
+	  UI are suitable for most projects.<br>
+      Fluent UI contains pre-built components like inputs, notifications, menus, 
+	  and more for developing applications.<br>
+      In Fluent UI, the components are customizable and offer a straightforward 
+	  approach to web development. The Fluent UI library also offers cross-platform 
+	  compatibility, supporting desktop, Android, and iOS devices.</p>
+  <b>Features and benefits:</b>
+    <ul>
+      <li>Fluent UI React library makes integration easy into your React applications</li>
+      <li>Provides adaptive styling</li>
+      <li>Microsoft's Fluent Design language provides a modern and immersive
+        user experience</li>
+      <li>Offers cross-platform support</li>
+    </ul>
+  </li>
+
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#evergreen">Evergreen</a> --</h4><br>
+    <p>Segment developed the Evergreen React UI framework with 30+ components. The 
+	components are built on top of the primitive React UI, with commonly usable 
+	patterns. The default and classic themes combined with the Evergreen Figma 
+	library make it easy to create components in CSS.<br>
+    As a CSS library for React, Evergreen contains a collection of React modules 
+	with React Primitive. Also, Evergreen v6  hosts an updated theme API for better 
+	customization and accessibility. The Evergreen library is easy to edit, contributor-
+	friendly, and offers flexibility for creating UIs.</p>
+    <b>Features and benefits:</b>
+    <ul>
+      <li>Server-side-rendering (SSR) offered out of the box</li>
+      <li>Provides dynamic form components</li>
+      <li>The smart algorithm automatically handles spacing and alignment between 
+	    the components</li>
+      <li>Has a solid and active community support</li>
+	</ul>
+  </li>
+</ul>
+
+<h3>Which UI is best for ReactJS?</h3>
 > UI frameworks like MUI (Material UI), React Bootstrap, React Redux,
 > and Semantic UI are some of the best UIs for ReactJS. Ant Design,
 > Chakra UI, Fluent UI, and Evergreen are also popular UIs.
 
 <h2 name="ch02">02 -- jQuery</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. jquery logo (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image096.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="jQuery logo." />
 </p>
 <!-- {width="2.8854166666666665in" height="1.125in"} -->
 
@@ -8999,7 +8905,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-13-2023 12:47am -->
+<!-- 10-13-2023 2:40pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
