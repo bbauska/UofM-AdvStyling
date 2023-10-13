@@ -6163,12 +6163,10 @@ widths for xs and sm, you only need to specify xs.
 
 ### Column clearing
 
-[Clear
-floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at
-specific breakpoints to prevent awkward wrapping with uneven content.
+[Clear floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at specific breakpoints to prevent awkward wrapping with uneven content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 225. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. column clearing (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image225.webp?raw=true"
   style="width:65%"
@@ -6277,8 +6275,12 @@ kind of think of numbers, you can think of something along the lines
 about 480, 720, 992, and 1200.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image232.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 232. setting width with col-xx-yy (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image232.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Now, I promised you a while ago, you don&apos;t actually have to remember
 these numbers. I&apos;m pretty sure that I got them wrong myself. So just
@@ -6287,8 +6289,12 @@ remember xs, sm, md, or large. It has to be one of those four
 abbreviations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image233.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 233. setting width with col-xx-yy (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image233.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Once you&apos;ve declared the viewport size, you can now say exactly how
 many columns you want this element to take up. Anything from zero, which
@@ -6296,38 +6302,58 @@ means it shouldn&apos;t show up at all to 12 which means take up the maximum
 width that it possibly can.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image234.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. col-xs-12 (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image234.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 So, if you have an element that has class equals col-xs-12, you&apos;re
 saying, if you&apos;re viewing this on a small screen, it should take up the
 full width.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image235.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. col-xs-12 and col-sm-8 (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image235.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 If you&apos;re looking at one that has a class of col-sm-8, now you want to
 take up eight out of those 12 columns, but only on the smallest screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image236.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~ 236. col-xs-12, col-sm-8, &amp; col-md-4 (151) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image236.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 For col-md-4, you&apos;re saying, if I&apos;m on a medium screen I want to use
 up four columns or one third of the entire screen size.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image237.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~ 237. col-xs-12, col-sm-8, col-md-4 &amp; col-lg-3 (151) ~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image237.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 And for col-lg-3, you&apos;re saying, well this is a large screen, it
 doesn&apos;t need to be as big as it was on those other screens. Let&apos;s just
 use up a quarter or 25%.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image238.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. combined columns (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image238.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Now, this is the interesting thing. Many times you&apos;re going to combine
 these classes together. Let&apos;s think about if you&apos;re going to put
@@ -6338,8 +6364,12 @@ maybe there can be three across, and on a different screen maybe four
 across.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image239.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~ 239. class="col-xs-12 col-sm-6 col-md-3 col-lg-2" (152) ~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image239.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Let&apos;s imagine that I have an image, some sort of pic.jpg. And then we
 have our four screen sizes. I might have my extra small, small, my
@@ -6357,33 +6387,54 @@ viewports, the picture is going to look relatively big on a small screen
 and relatively small on a larger screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image240.webp){width="4.0in" height="2.0884612860892386in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. using bootstrap (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image240.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 So, let&apos;s review that grid picture but using the classes this time.
 Right here we have nothing on there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image241.webp){width="4.0in" height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. col-xx-3 (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image241.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 But if I use col-XX-3, we&apos;re using three of the 12 or 25%.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image242.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242. col-xx-6 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image242.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 If I say col-XX-6, I&apos;m using 50% now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243. col-xx-9 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image243.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 ![](images/image243.webp){width="4.0in" height="2.0927351268591425in"}
 
 Col-XX-9, 75% and
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image244.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. col-xx-12 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image244.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 col-XX-12 means used up the full width that&apos;s available to you.
 
@@ -6392,23 +6443,35 @@ only on a larger screen. Separate block, small screen. In line block on
 a large screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image245.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245. combining elements (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image245.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Well, what we could do is we can start off by saying, that yellow part
 of our page, well, on a small screen, I want it to take up the full
 width. But, on a medium screen, I want it to take up only three.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image246.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. combining elements, #2 (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image246.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 So, on here when I&apos;m looking at a large screen, I&apos;m only taking up
 one, two, three columns. All right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image247.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247. combining elements, #3 (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image247.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Then if we add another div next to it, that div can say for this orange
 part, if I&apos;m on a small screen, again, I want to use up the full width.
@@ -6430,15 +6493,23 @@ large. You can really get away with just specifying one or two rules and
 still hit multiple break points.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image248.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248. bootstrap is mobile first (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image248.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 It&apos;s actually quite possible to write even easier or cleaner code than
 what I just wrote here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image249.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. block by default (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image249.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Whenever you want to say something should be the full 12 columns and it
 is block already by default, it takes up the whole width. You can pretty
@@ -6448,22 +6519,34 @@ width, you don&apos;t need to tell me. Instead, you can just specify those
 rules where it&apos;s going to change.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image250.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. block by default, #2 (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image250.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 I&apos;ve dropped the smaller part and this new rule now says basically any
 time you are on a medium viewport or larger, make it three columns.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image251.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. positioning classes (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image251.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 By default, Bootstrap is going to put things as far to the left as it
 possibly can when it&apos;s positioning them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image252.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252. positioning classes, #2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image252.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 However, it is possible to add a push and a pull class on different
 elements. If you have col-XX-push-YY. You&apos;re basically saying, hey, on
@@ -6471,8 +6554,12 @@ any viewport that&apos;s X, I want you to go ahead and push this element Y
 columns to the left.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image253.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. positioning classes, #3 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image253.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 In the same way, there&apos;s a pull. In here, you move columns to the
 right. We&apos;re not going to play with this right now, but it was
@@ -6480,8 +6567,12 @@ something that I want you to be aware of. In the same way, I want you to
 know about the responsive utility classes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image254.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~~ 254. responsive utility clases - hidden-xx (159) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image254.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Earlier, I mentioned that you can have XX, or something like XX column
 zero, or really for anything, you can have column zero, hides it from
@@ -6490,15 +6581,23 @@ Hidden-XX basically says, make this visible on every viewport except for
 the one we&apos;re going to mention right here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image255.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~ 255. responsive utility clases - hidden-xx & visible-xx (160) ~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image255.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 In the same way, visible-XX says, hide something. It shouldn&apos;t be
 visible unless I&apos;m on this certain size screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image256.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~ 256. responsive utility clases - hidden-xx, visible-xx & sr-only (160) ~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image256.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The last one we have is sr-only. And this is a special Bootstrap utility
 class for screen readers. It hides the content for everyone, unless
@@ -6506,8 +6605,12 @@ they&apos;re using a screen reader to access the page. If they are, then
 this element is visible to them, and them only.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 257.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image257.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~~~ 257. conclusion - larger inherit from smaller (161) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image257.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 So, we mentioned and we talk a lot about Bootstrap is this mobile first
 idea and that larger screens inherit values from smaller screens. I
@@ -6520,8 +6623,12 @@ bootstrap.com/examples/grid, where you can go through and you can see
 some of the examples that they have coded up for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image258.webp){width="4.0in" height="2.0927351268591425in"}
+<!--~~~~~~~~~~~~~~~~~ 258. conclusion - larger inherit from smaller, #2 (161) ~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image258.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Really important, do the math.
 
@@ -6543,7 +6650,7 @@ so you can start from scratch or mess with the code and play with it
 with me.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 259. code with me - large screen (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image259.webp"
   style="width:60%"
@@ -6561,7 +6668,7 @@ classes. And I want you to put these elements together based on being in
 the same row at times. I&apos;m actually going to move this.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 260. code with me - extra-small and small (163) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image260.webp"
   style="width:60%"
