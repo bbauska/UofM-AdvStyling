@@ -503,6 +503,7 @@ changes.
   style="width:40%"
   alt="Week Two: - Media queries - What are they? - How do you plan 1st for best 
     practices? - What is the relationship with break points? - How to make a navigation bar?" />
+</p>
 
 In week **two** we&apos;re going to tackle media queries.
 
@@ -533,6 +534,7 @@ really tackle this.
   style="width:40%"
   alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
     Getting Started, grid system, and navigation."  />
+</p>
 
 In week **three**, we&apos;re going to shift a little bit and instead of
 writing our own code.
@@ -569,7 +571,8 @@ responsive feel.
 <p align="center" width="100%">
 <img src="./images/image009.webp?raw=true"
   style="width:40%"
-  alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies."
+  alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies." />
+</p>
 
 Finally, in week **four**, we&apos;re going to continue with more bootstrap,
 but we&apos;re going to talk about things such as images, tables, and maybe
@@ -589,6 +592,7 @@ responsiveness their real-life sites.
   style="width:40%"
   alt="Final Project - Use your coding skills to create a responsive page 
     using multiple methods (framework & media queries)." />
+</p>
 
 We will do this with the culmination of a final project.
 
@@ -3234,7 +3238,7 @@ data easily and make informed business decisions.
 
 *Examples: Chart.js, Apexcharts, Algolia Places*
 
--	**DOM Manipulation**
+-    **DOM Manipulation**
 
 > [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) 
 > represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
@@ -3395,28 +3399,28 @@ hours this saves from the development process can be enormous.
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#material">Material Kit React</a> --</h4><br>
     <p>This feature enables you to maintain a similarity of appearance and functions 
     in your project throughout. The layout is like that of multiple sheets of paper, 
-	giving it depth and order.<br>
+    giving it depth and order.<br>
     The Kit also includes several basic elements like sliders and buttons, badges, 
-	pagination, bars for navigation, menu, pills, and tabs among others. With the 
-	help of this React component library, you can customize the style, size, and 
-	color of most elements.<br>
+    pagination, bars for navigation, menu, pills, and tabs among others. With the 
+    help of this React component library, you can customize the style, size, and 
+    color of most elements.<br>
     The JavaScript elements have modals, date-time pickers, tooltips, popovers, and 
-	carousels. You can not only use the Kit to start a new project but also restyle 
-	any old Bootstrap project. What's more, the Material Kit React Pro version comes 
-	equipped with several other components, sections, and example pages.</p></li>
+    carousels. You can not only use the Kit to start a new project but also restyle 
+    any old Bootstrap project. What's more, the Material Kit React Pro version comes 
+    equipped with several other components, sections, and example pages.</p></li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook">Storybook</a> --</h4><br>
     <p>It is more like an <a href="https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/">open-source tool</a> 
-	that is used for building UI components in isolation for React and several other 
-	platforms and technologies. What's unique about Storybook? It enables you to 
-	work on a single component at a given time, making the development process a lot
-	faster.  As one of the best UI frameworks for React, Storybook enables you to 
-	document components for reuse. It also allows you to automatically test your 
-	components visually in order to prevent bugs. Last but not least, an ecosystem 
-	of add-ons allows you to fine-tune responsive layouts, verify accessibility, 
-	and much more.</p>
+    that is used for building UI components in isolation for React and several other 
+    platforms and technologies. What's unique about Storybook? It enables you to 
+    work on a single component at a given time, making the development process a lot
+    faster.  As one of the best UI frameworks for React, Storybook enables you to 
+    document components for reuse. It also allows you to automatically test your 
+    components visually in order to prevent bugs. Last but not least, an ecosystem 
+    of add-ons allows you to fine-tune responsive layouts, verify accessibility, 
+    and much more.</p>
     <b>Features and benefits:</b>
-	<ul>
-	  <li>Fast UI development</li>
+    <ul>
+      <li>Fast UI development</li>
       <li>Easy and smooth integration with React apps</li>
       <li>Comes with built-in TypeScript support</li>
       <li>Default webpack configuration</li>
@@ -3427,7 +3431,7 @@ hours this saves from the development process can be enormous.
       <li>Deployment of a whole storybook as a static app</li>
       <li>Isolated environment for components</li>
       <li>Clean and efficient UI</li>
-	</ul>
+    </ul>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#boostrap">React Bootstrap</a> --</h4><br>
   <p>A significant feature of React Bootstrap CSS is compatibility, i.e., Bootstrap 
@@ -4089,7 +4093,7 @@ CDN links</a>.
     <h1>Hello, world!</h1>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-	  crossorigin="anonymous"></script>
+      crossorigin="anonymous"></script>
   </body>
 </html>
 ```
