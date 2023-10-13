@@ -3927,16 +3927,15 @@ building blocks for more complex widgets and applications.
 
 <h4>jQuery UI&apos;s five main interactions---</h4>
 
+<h5>
 <ol type="1">
   <li>draggable,</li>
-
-### droppable,
-
-### resizable,
-
-### selectable, and
-
-### sortable.
+  <li>droppable,</li>
+  <li>resizable,</li>
+  <li>selectable, and</li>
+  <li>sortable.</li>
+</ol>
+</h5>
 
 <h4>Widgets</h4>
 
@@ -3947,33 +3946,24 @@ support.
 
 <h4>jQuery UI&apos;s fourteen widgets---</h4>
 
-1.  [Accordion](https://jqueryui.com/accordion/),
-
-2.  [Autocomplete](https://jqueryui.com/autocomplete/),
-
-3.  [Button](https://jqueryui.com/button/),
-
-4.  [Checkboxradio](https://jqueryui.com/checkboxradio/),
-
-5.  [Controlgroup](https://jqueryui.com/controlgroup/),
-
-6.  [Datepicker](https://jqueryui.com/datepicker/),
-
-7.  [Dialog](https://jqueryui.com/dialog/),
-
-8.  [Menu](https://jqueryui.com/menu/),
-
-9.  [Progressbar](https://jqueryui.com/progressbar/),
-
-10. [Selectmenu](https://jqueryui.com/selectmenu/),
-
-11. [Slider](https://jqueryui.com/slider/),
-
-12. [Spinner](https://jqueryui.com/spinner/),
-
-13. [Tabs](https://jqueryui.com/tabs/), and
-
-14. [Tooltip](https://jqueryui.com/tooltip/).
+<h5>
+<ol type="1">
+  <li><a href="https://jqueryui.com/accordion/">Accordion</a>,
+  <li><a href="https://jqueryui.com/autocomplete/">Autocomplete</a>,
+  <li><a href="https://jqueryui.com/button/">Button</a>,
+  <li><a href="https://jqueryui.com/checkboxradio/">Checkboxradio</a>,
+  <li><a href="https://jqueryui.com/controlgroup/">Controlgroup</a>,
+  <li><a href="https://jqueryui.com/datepicker/">Datepicker</a>,
+  <li><a href="https://jqueryui.com/dialog/">Dialog</a>,
+  <li><a href="https://jqueryui.com/menu/">Menu</a>,
+  <li><a href="https://jqueryui.com/progressbar/">Progressbar</a>,
+  <li><a href="https://jqueryui.com/selectmenu/">Selectmenu</a>,
+  <li><a href="https://jqueryui.com/slider/">Slider</a>,
+  <li><a href="https://jqueryui.com/spinner/">Spinner</a>,
+  <li><a href="https://jqueryui.com/tabs/">Tabs</a>, and
+  <li><a href="https://jqueryui.com/tooltip/">Tooltip</a>.
+</ol>
+</h5>
 
 <h4>Effects</h4>
 
@@ -4054,7 +4044,7 @@ possible.
 </p>
 <!-- {width="6.5in" height="4.13125in"} -->
 
-<h5>Page 2 jQuery UI Download Builder (above).</h5>
+<h5>Page 2, jQuery UI Download Builder (above).</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 100. jquery ui download builder, page 3 (106) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4064,7 +4054,7 @@ possible.
 </p>
 <!-- {width="6.5in" height="3.0541666666666667in"} -->
 
-<h5>Page 3, last page of jQuery v1.13.2 User Interface Download.</h5>
+<h5>Page 3, jQuery UI Download Builder (jQuery v1.13.2) (above).</h5>
 
 <h4>Basic Overview: Using jQuery UI on a Web Page</h4>
 
@@ -4079,11 +4069,11 @@ the jQuery UI widgets and interactions:
 <script src="jquery-ui.min.js"></script>
 ```
 
-<https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js>
+<a href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js">jQuery UI</a>
 
-Once you&apos;ve included the necessary files, you can add some jQuery
-widgets to your page. For example, to make a datepicker widget, you&apos;ll
-add a text input element to your page and then call .datepicker() on it.
+Once you&apos;ve included the necessary files, you can add some jQuery widgets to 
+your page. For example, to make a datepicker widget, you&apos;ll add a text input 
+element to your page and then call .datepicker() on it.<br>
 Like this:
 
 <h4>HTML:</h4>
@@ -4099,7 +4089,7 @@ $( "#date" ).datepicker();
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. calender (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. calender (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image101.webp?raw=true"
   style="width:25%"
@@ -4126,18 +4116,19 @@ $( "#date" ).datepicker();
 <!-- {width="1.0in" height="1.0210968941382328in"} -->
 <img src="./images/image105.webp?raw=true"
   style="width:20%"
-  alt="Bootstrap Izgara Sistemi"
+  alt="Bootstrap Izgara Sistemi" />
 <!-- {width="2.0in" height="1.0464140419947507in"} -->
 </p>
 
 Bootstrap is a powerful, feature-packed frontend toolkit. Build
 anything---from prototype to production---in minutes.
 
-**Include Bootstrap's CSS and JS.** Place the &lt;link&gt; tag in
+<b>Include Bootstrap's CSS and JS.</b> Place the &lt;link&gt; tag in
 the &lt;head&gt; for our CSS, and the &lt;script&gt; tag for our JavaScript
 bundle (including Popper for positioning dropdowns, poppers, and
-tooltips) before the closing &lt;/body&gt;. Learn more about our [CDN
-links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links).
+tooltips) before the closing &lt;/body&gt;. Learn more about our 
+<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links">
+CDN links</a>.
 
 ```
 <!doctype html>
@@ -4161,7 +4152,7 @@ links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links
 </html>
 ```
 
-#### Additionally, popper for dropdowns, tooltips and popovers;
+<h4>Additionally, popper for dropdowns, tooltips and popovers;</h4>
 
 ```
 <script
@@ -4174,13 +4165,13 @@ integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl
 crossorigin="anonymous"></script>
 ```
 
-##### CDN Links
+<h4>CDN Links</h4>
 
-#### CSS
+<h4>CSS</h4>
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css>
 
-#### JS
+<h4>JS</h4>
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js>
 
@@ -4206,7 +4197,7 @@ data. It was released in 2011.
 
 <https://d3js.org/>
 
-##### D3 Gallery:
+<h4>D3 Gallery:</h4>
 
 -   Voronoi stippling
 
@@ -4290,13 +4281,13 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 
 Do you need to present lots of statistics?
 
-[Chart.js](https://www.chartjs.org/) is an excellent JavaScript library
+[Chart.js](https://www.chartjs.org/) is an excellent JavaScript library
 to use.
 
 Chart.js is a flexible and simple library for designers and developers
 who can add beautiful charts and graphs to their projects in no time.
 
-[[Chart.js]](https://www.chartjs.org/) is a powerful and
+[Chart.js](https://www.chartjs.org/) is a powerful and
 flexible open-source charting library for JavaScript. It allows
 developers to create line, bar, pie, and other types of charts with
 ease.
@@ -4756,7 +4747,6 @@ implements standardized web components.
 <a href="https://github.com/lit/lit">LitJS GitHub</a>
 
 <h2 name="ch16">16 - Alpine</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. alpine js logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4772,7 +4762,6 @@ implements standardized web components.
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. alpine js logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
 <img src="./images/image144.webp?raw=true"
   style="width:30%"
   alt="Alpine JS logo." />
@@ -4785,10 +4774,8 @@ implements standardized web components.
   style="width:30%"
   alt="Alpine JS logo." />
 <!-- {width="3.0in" height="1.9746839457567804in"} -->
-</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 146. alpine front-end framework logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
 <img src="./images/image146.webp?raw=true"
   style="width:50%"
   alt="Alpine JS logo." />
@@ -4875,24 +4862,33 @@ doc generation, and types.
 
 <h2 name="ch18">18 - Qwik</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework \...]
-(images/image150.webp)
-{width="2.72413823272091in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. qwik logo (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image150.webp?raw=true"
+  style="width:30%"
+  alt="Qwik framework logo." />
+<!-- {width="2.72413823272091in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![&quot;Qwik Logo&quot; Greeting Card by cosimochellini \| Redbubble]
-(images/image151.webp)
-{width="1.0in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. qwik logo greeting card (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image151.webp?raw=true"
+  style="width:20%"
+  alt="Qwik logo greeting card." />
+<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![&quot;Qwik Logo&quot; Sticker by cosimochellini \| Redbubble]
-(images/image152.webp)
-{width="0.75in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. qwik logo sticker (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image152.webp?raw=true"
+  style="width:20%"
+  alt="Qwik logo sticker." />
+<!-- {width="0.75in" height="1.0in"} -->
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 153.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image153.webp)
-{width="5.0in" height="0.9145297462817148in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 153. qwik front-end framework logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image153.webp?raw=true"
+  style="width:50%"
+  alt="Qwik front-end framework logo." />
+<!-- {width="5.0in" height="0.9145297462817148in"} -->
+</p>
 
 Qwik is a next-generation front-end framework designed to meet the
 demands of modern web development. With a focus on performance,
@@ -4919,25 +4915,30 @@ or executed.
 <h2 name="ch19">19 -- Moment.js</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154. moment.js logo (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![10 Awesome JavaScript Libraries You Should Try Out in 2021]
-(images/image154.webp)
-{width="1.225353237095363in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image154.webp?raw=true"
+  style="width:15%"
+  alt="Moment.js logo." />
+<!-- {width="1.225353237095363in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. moment.js logo (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Moment JS logo vector]
-(images/image155.webp)
-{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image155.webp?raw=true"
+  style="width:15%"
+  alt="Moment.js logo vector." />
+<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. moment.js logo (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Useful Open Source JavaScript Libraries and Plugins for Web Developer]
-(images/image156.webp)
-{width="2.3939391951006126in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image156.webp?raw=true"
+  style="width:30%"
+  alt="Moment.js logo." />
+<!-- {width="2.3939391951006126in" height="1.0in"}  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. moment.js logo (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Collection of Javascript Logo Vector PNG. \| PlusPNG]
-(images/image157.webp)
-{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image157.webp?raw=true"
+  style="width:15%"
+  alt="Moment.js logo." />
+<!-- {width="1.0in" height="1.0in"} -->
 </p>
 
 **Moment.js** is a JavaScript package that makes it simple to parse,
@@ -4983,13 +4984,13 @@ tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a &quot;popper&quot; element.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161.  (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image161.webp)
 {width="7.0in" height="2.6264971566054243in"}
 
 <https://popper.js.org/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 162.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 162.  (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image162.webp)
 {width="6.5in" height="2.60625in"}
 
