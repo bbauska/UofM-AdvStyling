@@ -2595,6 +2595,7 @@ mistakes and not know what&apos;s going on.
   style="width:40%"
   alt="Concept Check - Top or Bottom?" />
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
+</p>
 
 My advice to you is to always add one media query at a time, and make it
 something simple. Put in that media query, add a rule, test it, build
@@ -2663,28 +2664,27 @@ and write up some code where we use media queries to produce responsive
 navigation. In particular we want to make one page where the navigation
 bar is at the top on a small screen and off to the side on larger
 screens.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 78. playing with vertical and horizontal navigation menus (73) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image078.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Horizontal line of links as navigation bar at top of page." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
+</p>
 
 So, let&apos;s look at some code. What I have here is some HTML that
 doesn&apos;t have any styling on the navigation bar. What you have is a nice
 horizontal line of links right up here at the top of your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 79. horizontal navigation menu, image 2 (74) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image079.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Horizontal line of links as nav bar at top of page, #2." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
+</p>
 
 What I would like to do is design my page, so that on small screens, the
 navigation bar is still on the top. But instead, when I&apos;m on larger
@@ -2696,13 +2696,13 @@ then I want my navigation bar to be along the side and we can put all
 the content right off to the right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80. responsive navigation bar (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image080.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Responsive horizontal navigation bar." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
+</p>
 
 So, let&apos;s take a look at how we&apos;re going to do that. Because we want
 to do mobile first, that means by default we already have it set up
@@ -2743,11 +2743,11 @@ very simple, clear rule. The reason is, it&apos;s really easy for you to
 figure out whether or not your rules are triggering.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. codepen - responsive design (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. responsive navigation, #2 (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image081.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Responsive navigation bar, #2." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 Change the entire color of the body of this page. So put in body, curly bracket, 
@@ -2757,11 +2757,11 @@ Don&apos;t start doing new complicated things if you can&apos;t even get this li
 to get going. See if I can get away with grey. There we go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. codepen - responsive design (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 82. responsive navigation menu, #3 (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image082.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Responsive navigation bar, #3." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 You can still see everything. If you run into problems, the parts you
@@ -2773,11 +2773,11 @@ I have one set that starts my media query. And then a second one that
 goes with the body selector.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. codepen - responsive design (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 83. responsive nav menu - vertical (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image083.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Responsive navigation menu, vertical." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 If that&apos;s going, let&apos;s go ahead and move on to how we would change
@@ -2795,11 +2795,11 @@ individual links as well. So that they go right underneath each other.
 Let&apos;s do that next code. So how do I do that?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 84. codepen - responsive design (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 84. responsive nav menu - vertical, #2 (78) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image084.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Responsive navigation menu, vertical, #2." />
 </p>
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
@@ -2819,11 +2819,11 @@ to it. We wanted it to be over here to the side. And instead, it ended
 up underneath.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. codepen - responsive design (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 85. responsive nav menu - vertical, #3 (79) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image085.webp?raw=true"
   style="width:60%"
-  alt="Codepen - Responsive Design." />
+  alt="Responsive navigation menu, vertical, #3." />
 </p>
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
@@ -2846,11 +2846,11 @@ height to 100 viewport height to take up the whole screen. I did have to
 go back and change one thing up in my nav as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 86. codepen - responsive design (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 86. responsive nav menu - vertical, #4 (80) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image086.webp?raw=true"
   style="width:60%"
-  alt="Codepen - Responsive Design." />
+  alt="Responsive navigation menu, vertical, #4." />
 </p>
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
@@ -3032,11 +3032,11 @@ changing too much code. So again, when we talk about framework, we want
 to think about what does framework mean here in this class.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 88. what does framework mean here? (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image088.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="What Does Framework mean here?" />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -3047,11 +3047,11 @@ behavior that you&apos;re looking for as well with the JavaScript and the
 jQuery.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 89. what does framework mean here, #2? (84) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="What Does Framework mean here, #2?" />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -3070,7 +3070,7 @@ least a handful of frameworks that people are using today.
 <p align="center" width="100%">
 <img src="./images/image090.webp?raw=true"
   style="width:40%"
-  alt="Popular front-end frameworks, as of 2013." />
+  alt="2013 - Popular front-end frameworks, as of 2013." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -3120,6 +3120,13 @@ isn&apos;t, that&apos;s okay, you can go back to coding on your own, but you
 still want to know a little bit about it.
 
 ## Most popular frontend frameworks 2023;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 90b. popular front-end frameworks (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image090b.webp?raw=true"
+  style="width:40%"
+  alt="2023 - Popular front-end frameworks, as of 2023." />
+</p>
 
 ### Hydration
 
@@ -3168,7 +3175,7 @@ Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. single page applications (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. single page applications (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image092.webp"
   style="width:60%"
@@ -4961,16 +4968,24 @@ run the code (see documentation).
 <h2 name="ch20">20 -- popper.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. popper.js logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-(images/image158.webp)
-{width="2.0in" height="1.0421937882764654in"} 
+<p align="center" width="100%">
+<img src="./images/image158.webp?raw=true"
+  style="width:30%"
+  alt="Popper.js logo." />
+<!-- {width="2.0in" height="1.0421937882764654in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. popper.js logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-(images/image159.webp)
-{width="2.0in" height="2.0in"} 
+<img src="./images/image159.webp?raw=true"
+  style="width:15%"
+  alt="Popper.js logo." />
+<!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. popper.js core logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-(images/image160.webp)
-{width="1.0in" height="1.0in"}
+<img src="./images/image160.webp?raw=true"
+  style="width:15%"
+  alt="Popper.js logo." />
+<!-- {width="1.0in" height="1.0in"} -->
+</p>
 
 Popper.js is a positioning, popover and drop-down tooltip utility.
 
@@ -4984,21 +4999,29 @@ tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a &quot;popper&quot; element.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161.  (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image161.webp)
-{width="7.0in" height="2.6264971566054243in"}
-
-<https://popper.js.org/>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161. popper website (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image161.webp?raw=true"
+  style="width:85%"
+  alt="Popper.js website." />
+<!-- {width="7.0in" height="2.6264971566054243in"} -->
+<a href="https://popper.js.org">&lt;https://popper.js.org/&gt;</a>
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 162.  (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image162.webp)
-{width="6.5in" height="2.60625in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 162. code sandbox .io (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image162.webp?raw=true"
+  style="width:85%"
+  alt="Code Sandbox.io." />
+<!-- {width="7.0in" height="2.6264971566054243in"} -->
+<a href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement">
+&lt;https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement&gt;</a>
+<!-- {width="6.5in" height="2.60625in"} -->
+</p>
 
-<https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement>
+For more documentation, see <a href="https://popper.js.org/docs/v2/">Popper Doc v2</a>.
 
-For more documentation, see <https://popper.js.org/docs/v2/>.
-
-## #21 -- BackboneJS
+<h2 name="ch21">21 -- BackboneJS</h2>
 
 Backbone.js gives structure to web applications by providing models with
 key-value binding and custom events, collections with a rich API of
@@ -5059,7 +5082,7 @@ the reference example project using this stack.
 For more documentation on Backbone Stack, try
 <https://resthub.github.io/docs/backbone/layout/>.
 
-## #22 -- SemanticUI
+<h2 name="ch22">22 -- SemanticUI</h2>
 
 Semantic UI is a front-end development framework similar to bootstrap
 designed for theming. It contains pre-built semantic components that
@@ -5100,8 +5123,7 @@ Example Semantic UI website theme.
 
 For more information go to <https://semantic-ui-forest.com/>.
 
-## #23 -- Gatsby
-
+<h2 name="ch23">23 -- Gatsby</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Blazing speed with Gatsby Js - EasyCoders - code made easy]
@@ -5122,8 +5144,7 @@ integration of different content, APIs and services in a web experience
 is incredibly simple", explains Gatsby js on
 his [website](https://www.gatsbyjs.com/why-gatsby).
 
-## #24 -- The MEAN Stack
-
+<h2 name="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![What is MEAN Stack? MEAN Stack Components and Benefits \| Thirdock Techkno]
@@ -5147,8 +5168,7 @@ as [MERN](https://www.mongodb.com/mern-stack) (replacing Angular.js with
 React.js) and MEVN (using Vue.js). The MEAN stack is one of the most
 popular technology concepts for building web applications.
 
-## #25 -- Aurelia
-
+<h2 name="ch25">25 -- Aurelia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Pegatina «Logotipo de Aurelia - marco JS» de hipstuff \| Redbubble]
@@ -5170,8 +5190,7 @@ applications. It follows a modular and extensible architecture,
 promoting clean code practices and a developer-friendly experience.
 Aurelia focuses on simplicity, flexibility, and modern web standards.
 
-## #26 -- Knockout.js
-
+<h2 name="ch26">26 -- Knockout.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Knockout.js Reviews 2022: Details, Pricing, & Features \| G2]
@@ -5194,8 +5213,7 @@ model. It follows the MVVM (Model-View-ViewModel) pattern and provides
 declarative bindings, automatic UI updates, and a simple API for
 managing data and UI synchronization.
 
-## #27 -- Mithril
-
+<h2 name="ch27">27 -- Mithril</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Mithril. Js -- DEV.BG]
@@ -5218,7 +5236,7 @@ a minimalistic API and focuses on simplicity, performance, and size
 optimization. Despite its small footprint, Mithril offers powerful
 features for building robust web applications.
 
-## #28 -- Riot.js
+<h2 name="ch28">28 -- Riot.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Introducing Riot.js, RiotControl and RiotGear]
@@ -5236,8 +5254,7 @@ minimalistic approach. Riot.js provides a small footprint, making it
 suitable for projects where performance and size optimization are
 crucial.
 
-## #29 -- Stimulus
-
+<h2 name="ch29">29 -- Stimulus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![Stimulus: A JavaScript Framework for People Who Love HTML]
@@ -5256,7 +5273,7 @@ pages with minimal setup and a focus on progressive enhancement. It aims
 to provide a lightweight and pragmatic approach to building dynamic web
 applications by enhancing existing HTML elements with behavior.
 
-## #30 -- Tailwind CSS
+<h2 name="ch30">30 -- Tailwind CSS</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5279,8 +5296,7 @@ comprehensive set of pre-built CSS classes. It aims to simplify the
 process of styling user interfaces by offering a highly customizable and
 functional approach.
 
-## #31 -- Foundation
-
+<h2 name="ch31">31 -- Foundation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![JS Foundation -- Logos Download]
@@ -5298,11 +5314,11 @@ utilities. It aims to simplify the process of building responsive and
 accessible web interfaces by offering a solid foundation of customizable
 and reusable elements.
 
-## #32 - &lt; even more libraries/frameworks to come&gt;
+<h2 name="ch32">32 - &lt; even more libraries/frameworks to come&gt;</h2>
 
-## #33 - &lt; even more libraries/frameworks to come&gt;
+<h2 name="ch33">33 - &lt; even more libraries/frameworks to come&gt;</h2>
 
-## Front-end Frameworks: A Summary
+<h2>Front-end Frameworks: A Summary</h2>
 
 Developers in the front-end world are facing a number of challenges that
 are making their lives difficult. The biggest problem they&apos;re facing
