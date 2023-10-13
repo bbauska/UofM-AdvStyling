@@ -27,7 +27,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h2><a href="table-of-contents">Table of Contents</a></h2>
 
 ## [**About**](#cha)
->### - [**About**](#cha-1)
+>### - [**About **](#cha-1)
 >### - [**Source Code for Each Week**](#cha-2)
 >### - [**Course Slides**](#cha-3)
 
@@ -248,25 +248,27 @@ capstone project.
 ### Media Sizes (in Pixels)
 
 ```
-@media (min-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ }
+**@media (min-width:320px) { /* smartphones, iPhone, portrait
+480x320 phones */ }**
 
-@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),
-                              smaller tablets @ 600 or @ 640 wide. */ }
+**@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),**
 
-@media (min-width:641px) { /* portrait tablets, portrait iPad,
-                              landscape e-readers,
-                              landscape 800x480 or 854x480 phones */ }
+**smaller tablets @ 600 or @ 640 wide. */ }**
 
-@media (min-width:961px) { /* tablet, landscape iPad, lo-res
-                              laptops and desktops */ }
+**@media (min-width:641px) { /* portrait tablets, portrait iPad,
+landscape e-readers,**
 
-@media (min-width:1025px) { /* big landscape tablets, laptops, and
-                               desktops */ }
+**landscape 800x480 or 854x480 phones */ }**
 
-@media (min-width:1281px) { /* hi-res laptops and desktops */ }
+**@media (min-width:961px) { /* tablet, landscape iPad, lo-res
+  laptops and desktops */ }**
+**@media (min-width:1025px) { /* big landscape tablets, laptops, and
+desktops */ }**
+
+**@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
 ```
 
-<h2 name="ch1">Week One: Style with Responsive Design</h2>
+## Week One: Style with Responsive Design
 
 ### Week one details
 
@@ -452,7 +454,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 
-## Week 1-01. Introduction to Responsive Design
+<h2 name="ch1-1">Week 1-01. Introduction to Responsive Design</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -690,7 +692,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you&apos;ll
 learn a lot. Thanks.
 
-## Week 1-02. What is Responsive Design?
+<h2 name="ch1-2">Week 1-02. What is Responsive Design?</h2>
 
 Hi, everybody, so you&apos;re here and I&apos;m here, and we&apos;re here to talk
 about responsive design.
@@ -870,7 +872,7 @@ Let&apos;s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we&apos;re going to get started
 coding right away.
 
-## Week 1-03. Testing Existing Sites
+<h2 name="ch1-3">Week 1-03. Testing Existing Sites</h2>
 
 Hi, everybody. One of the things that you&apos;re going to want to do is
 test your site to see how it&apos;s doing across multiple devices and
@@ -1076,7 +1078,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren&apos;t
 responsive. Don&apos;t worry, yours will be.
 
-## Week1-04. Benefits of Responsive Design
+<h2 name="ch1-4">Week1-04. Benefits of Responsive Design</h2>
 
 Hi everybody. Today, let&apos;s talk about some of the benefits of
 responsive design.
@@ -1251,7 +1253,7 @@ lecture on Fluid Measurements.
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
 
-<h2 name="1-06">Week 1-06. Fluid Measurements</h2>
+<h2 name="ch1-6">1-06. Fluid Measurements</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. fluid measurements (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3008,7 +3010,7 @@ overflow:auto;
 }
 ```
 
-## Week3-14. Frameworks
+<h2 name="ch3-1">3-1. Frameworks</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 87. frameworks - code and structure (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5360,7 +5362,7 @@ So, in conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 
-## Week3-15. Introduction to Twitter Bootstrap 3
+<h2 name="ch3-2">3-2. Introduction to Twitter Bootstrap 3</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5544,7 +5546,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 
-<h2 name="ch3-3">Week3-16. Bootstrap Breakpoints</h2>
+<h2 name="ch3-3">3-3. Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5717,7 +5719,7 @@ want to use, not something that you feel confined by.
     fours things and you&apos;ll be able to really code and understand the
     things that are coming up.
 
-## Week3-17. Getting Started with Twitter Bootstrap
+<h2 name="ch3-6">3-6. Getting Started with Twitter Bootstrap</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6185,7 +6187,7 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 </p>
 <!-- {width="6.5in" height="0.7104166666666667in"} -->
 
-## Week3-18. Bootstrap Grid System
+<h2 name="ch3-4">3-4. Bootstrap Grid System</h2>
 
 Hi everybody. Today, we&apos;re going to talk about the grid system for
 Bootstrap three.
@@ -6640,7 +6642,7 @@ In the next module (19) we&apos;re going to code together and do some work
 with this grid class. I hope you&apos;ll join me and you&apos;ll get a really
 good feeling about how this works with Bootstrap.
 
-## Week3-19. Code With Me: Grid Example {#week-3-19.-code-with-me-grid-example .unnumbered}
+<h2 name="ch3-5">3-5. Code With Me: Grid Example</h2>
 
 Hi everybody. Let&apos;s go over an example together where we&apos;re using the
 Bootstrap Grid System. I&apos;m going to go into CodePen and use this code
@@ -8891,7 +8893,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 
-## Week 4-28. Bootstrap 4/5
+<h2 name="ch4-5">4-5. Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 333/334. bootstrap 5 & 4 logos (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
