@@ -4861,19 +4861,19 @@ projects](https://backbonejs.org/#examples) that use Backbone.
 <p align="center" width="100%">
 <img src="./images/image163.webp?raw=true"
   style="width:15%"
-  alt="." />
+  alt="Backbone.js logo." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. backbone.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image164.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Backbone.js logo." />
 <!-- {width="2.0in" height="1.2827001312335957in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. backbone.js (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image165.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Backbone.js logo." />
 <!-- {width="4.0in" height="0.7088604549431321in"} -->
 </p>
 
@@ -4910,19 +4910,19 @@ For more documentation on Backbone Stack, try
 <p align="center" width="100%">
 <img src="./images/image166.webp?raw=true"
   style="width:15%"
-  alt="." />
+  alt="Semantic UI logo." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image167.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Semantic UI logo." />
 <!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image168.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Semantic UI logo." />
 <!-- {width="3.1967213473315836in" height="1.0in"} -->
 </p>
 
@@ -4942,7 +4942,7 @@ frameworks to help organize UI layer alongside application logic.
 <p align="center" width="100%">
 <img src="./images/image169.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Semantic UI." />
 <!-- {width="4.0in" height="2.674786745406824in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4950,7 +4950,7 @@ frameworks to help organize UI layer alongside application logic.
 <p align="center" width="100%">
 <img src="./images/image170.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Semantic UI Website theme." />
 <!-- {width="4.0in" height="2.1465813648293963in"} -->
 </p>
 <sub>Example Semantic UI website theme.</sub>
@@ -4963,24 +4963,22 @@ For more information go to <https://semantic-ui-forest.com/>.
 <p align="center" width="100%">
 <img src="./images/image171.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Gatsby logo." />
 <!-- {width="3.0in" height="1.3762817147856519in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. gatsby logo (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image172.webp?raw=true"
   style="width:15%"
-  alt="." />
+  alt="Gatsby logo." />
 <!-- {width="1.38in" height="1.38in"} -->
 </p>
 
-{#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
-
-It is an **open-source static website generator**, which "allows
+It is an <b>open-source static website generator</b>, which "allows
 developers to create fast, secure and powerful websites using a
 React-based framework and an innovative data layer that makes
 integration of different content, APIs and services in a web experience
 is incredibly simple", explains Gatsby js on
-his [website](https://www.gatsbyjs.com/why-gatsby).
+his <a href="https://www.gatsbyjs.com/why-gatsby">website</a>.
 
 <h2 name="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4992,22 +4990,21 @@ his [website](https://www.gatsbyjs.com/why-gatsby).
 <!-- {width="4.0in" height="2.0931627296587925in"} -->
 </p>
 
-The MEAN stack is a JavaScript-based framework for developing web
+<p>The MEAN stack is a JavaScript-based framework for developing web
 applications. MEAN is named after MongoDB, Express, Angular, and Node,
-the four key technologies that make up the layers of the stack.
+the four key technologies that make up the layers of the stack.</p>
 
--   MongoDB --- document database
+<ul>
+  <li>MongoDB --- document database</li>
+  <li>Express(.js) --- Node.js web framework</li>
+  <li>Angular(.js) --- a client-side JavaScript framework</li>
+  <li>Node(.js) --- the premier JavaScript web server</li>
+</ul>
 
--   Express(.js) --- Node.js web framework
-
--   Angular(.js) --- a client-side JavaScript framework
-
--   Node(.js) --- the premier JavaScript web server
-
-There are variations to the MEAN stack such
-as [MERN](https://www.mongodb.com/mern-stack) (replacing Angular.js with
+<p>There are variations to the MEAN stack such as 
+<a href="https://www.mongodb.com/mern-stack">MERN</a> (replacing Angular.js with
 React.js) and MEVN (using Vue.js). The MEAN stack is one of the most
-popular technology concepts for building web applications.
+popular technology concepts for building web applications.</p>
 
 <h2 name="ch25">25 -- Aurelia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5015,19 +5012,19 @@ popular technology concepts for building web applications.
 <p align="center" width="100%">
 <img src="./images/image174.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Aurelia logo." />
 <!-- {width="1.5in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image175.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Aurelia logo." />
 <!-- {width="3.0in" height="1.077244094488189in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image176.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Aurelia logo." />
 <!-- {width="2.0in" height="0.5933683289588801in"} -->
 </p>
 
@@ -5042,19 +5039,19 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 <p align="center" width="100%">
 <img src="./images/image177.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Knockout logo." />
 <!-- {width="3.0in" height="1.575in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image178.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Knockout logo." />
 <!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image179.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Knockout logo." />
 <!-- {width="1.0in" height="1.0in"} -->
 </p>
 
@@ -5070,19 +5067,19 @@ managing data and UI synchronization.
 <p align="center" width="100%">
 <img src="./images/image180.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Mithril logo." />
 <!-- {width="3.0in" height="1.145569772528434in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image181.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Mithril logo." />
 <!-- {width="2.0in" height="1.1898731408573928in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image182.webp?raw=true"
   style="width:20%"
-  alt="." />
+  alt="Mithril logo." />
 <!-- {width="1.0in" height="0.9442311898512686in"} -->
 </p>
 
@@ -5098,13 +5095,13 @@ features for building robust web applications.
 <p align="center" width="100%">
 <img src="./images/image183.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Riot.js logo." />
 <!-- {width="3.0in" height="1.4285258092738409in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. riot.js logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image184.webp?raw=true"
   style="width:30%"
-  alt="." />
+  alt="Riot.js logo." />
 <!-- {width="3.0in" height="2.565064523184602in"} -->
 </p>
 
@@ -5120,20 +5117,20 @@ crucial.
 <p align="center" width="100%">
 <img src="./images/image185.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="Stimulus logo." />
 <!-- {width="2.0in" height="1.385in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. stimulus logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image186.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="Stimulus logo." />
 <!-- {width="2.0in" height="1.5in"} -->
 </p>
 
-Stimulus is a JavaScript framework designed to add interactivity to HTML
+<p>Stimulus is a JavaScript framework designed to add interactivity to HTML
 pages with minimal setup and a focus on progressive enhancement. It aims
 to provide a lightweight and pragmatic approach to building dynamic web
-applications by enhancing existing HTML elements with behavior.
+applications by enhancing existing HTML elements with behavior.</p>
 
 <h2 name="ch30">30 -- Tailwind CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5141,19 +5138,19 @@ applications by enhancing existing HTML elements with behavior.
 <p align="center" width="100%">
 <img src="./images/image187.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="Tailwind logo." />
 <!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image188.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="Tailwind logo." />
 <!-- {width="2.0in" height="1.125in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image189.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="Tailwind logo." />
 <!-- {width="2.0in" height="1.2320002187226597in"} -->
 </p>
 
@@ -5168,13 +5165,13 @@ functional approach.
 <p align="center" width="100%">
 <img src="./images/image190.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="JavaScript Foundation logo." />
 <!-- {width="2.0in" height="0.601496062992126in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. js foundation logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image191.webp?raw=true"
   style="width:25%"
-  alt="." />
+  alt="JS Foundation logo." />
 <!-- {width="2.0in" height="1.1111111111111112in"} -->
 </p>
 
@@ -6528,7 +6525,7 @@ the same row at times. I&apos;m actually going to move this.
 <p align="center" width="100%">
 <img src="/images/image260.webp"
   style="width:60%"
-  alt="." />
+  alt="Code with me - extra-small and small screens." />
 </p>
 <!-- {width="6.0in" height="5.575in"} -->
 
@@ -6575,11 +6572,11 @@ As we transition from smaller to bigger, this one&apos;s going to go away,
 and this one will suddenly show up.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. medium screen (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. medium screen (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image262.webp"
   style="width:60%"
-  alt="." />
+  alt="Medium screen." />
 </p>
 <!-- {width="6.0in" height="5.0378204286964126in"} -->
 
@@ -6605,7 +6602,7 @@ having four on top of each other, we have two pairs of two.
 <p align="center" width="100%">
 <img src="/images/image263.webp"
   style="width:60%"
-  alt="." />
+  alt="Large screen." />
 </p>
 <!-- {width="6.0in" height="4.208333333333333in"} -->
 
@@ -6711,11 +6708,11 @@ color:green;
 Hi, everybody. Today, we&apos;re going to talk about navigation bars.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. navigation bars (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. navigation bars (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image264.webp"
   style="width:40%"
-  alt="." />
+  alt="Navigation bars." />
 </p>
 
 Navigation is one of those things about Bootstrap, that&apos;s very familiar
@@ -6729,7 +6726,7 @@ different style navigation that you&apos;re going to see.
 <p align="center" width="100%">
 <img src="/images/image265.webp"
   style="width:40%"
-  alt="." />
+  alt="Making a navigation bar." />
 </p>
 
 When you make a navigation bar, one of the first things you have to
@@ -6752,7 +6749,7 @@ Bootstrap CSS.
 <p align="center" width="100%">
 <img src="/images/image266.webp"
   style="width:60%"
-  alt="." />
+  alt="Codepen - add Bootstrap." />
 </p>
 <!-- {width="6.0in" height="3.114103237095363in"} -->
 
@@ -6761,11 +6758,11 @@ going to click on CSS and I&apos;m going to go down here to quick add and
 add Bootstrap. And as soon as I save that, boom, there you go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. html for navigation bars  (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. html for navigation bars (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image267.webp"
   style="width:40%"
-  alt="." />
+  alt="HTML for navigation bars." />
 </p>
 <!-- {width="4.09375in" height="3.4166666666666665in"} -->
 
@@ -6778,7 +6775,7 @@ in a file tabbing system where you kind of flip through.
 <p align="center" width="100%">
 <img src="/images/image268.webp"
   style="width:40%"
-  alt="." />
+  alt="More HTML for navigation bars." />
 </p>
 <!-- {width="4.09375in" height="3.4166666666666665in"} -->
 
@@ -7046,13 +7043,12 @@ that you&apos;re on the right path.
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. navbar class (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image278.webp"
   style="width:40%"
-  alt="." />
+  alt="Navbar class." />
 </p>
-<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 The last class I&apos;m going to talk to you about, with respect to
 navigation right now, is the navbar class.
@@ -7065,11 +7061,11 @@ your different, where your navbar is going to show up and how it
 interacts with the other elements.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279. codepen - nav-pills (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image279.webp"
   style="width:60%"
-  alt="." />
+  alt="Codepen - example nav-pills." />
 </p>
 <!-- {width="6.0in" height="3.385897856517935in"} -->
 
@@ -7087,11 +7083,11 @@ moved. I have changed the positioning of my navbar from static to fixed
 and fixed is what I call the annoying pop ad version of positioning. It
 means it&apos;s on top, it&apos;s not going to move.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280. codepen - hiding nav (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image280.webp"
   style="width:60%"
-  alt="." />
+  alt="Codepen - hiding nav bar." />
 </p>
 <!-- {width="6.0in" height="3.385897856517935in"} -->
 
@@ -7101,11 +7097,11 @@ screen smaller. You can see I can scroll up and down here, but it&apos;s
 impossible to see the things that are underneath the navbar.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 281. codepen - navbar, nav-pills and container (182) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image281.webp"
   style="width:60%"
-  alt="." />
+  alt="Codepen - navbar, nav-pills and container." />
 </p>
 <!-- {width="6.0in" height="3.385897856517935in"} -->
 
@@ -7115,11 +7111,11 @@ the bottom. But many times, with fixed content, this works out much
 better, because it doesn&apos;t cover up other things and at least take away
 the ability to scroll up and down and at least see them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. accessibility (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image282.webp"
   style="width:40%"
-  alt="." />
+  alt="Accessibility.  Nav tag and nav classes are not equal." />
 </p>
 <!-- {width="4.0in" height="2.2572648731408576in"} -->
 
@@ -7233,11 +7229,11 @@ current trends. You can&apos;t live in a bubble.
 <h2 name="ch4-1">4-01. Responsive Images</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 283. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image283.webp"
   style="width:40%"
-  alt="." />
+  alt="Make your images responsive - with Bootstrap." />
 </p>
 <!-- {width="4.0in" height="2.247435476815398in"} -->
 
@@ -7253,11 +7249,11 @@ big. Since so many web pages now are made up of images, it&apos;s really
 important for us to think about how we can make them responsive. And
 we&apos;re going to talk about two different approaches.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284. your own code (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image284.webp"
   style="width:40%"
-  alt="." />
+  alt="Your own code." />
 </p>
 <!-- {width="4.0in" height="2.247435476815398in"} -->
 
@@ -7278,11 +7274,11 @@ responsive. But you really want it to top off at 750 pixels, maybe
 because you think the quality of the image will degrade, or you just
 don&apos;t want it to have so much emphasis.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285. your own code, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image285.webp"
   style="width:40%"
-  alt="." />
+  alt="Your own code, #2." />
 </p>
 <!-- {width="4.0in" height="2.247435476815398in"} -->
 
@@ -7293,22 +7289,22 @@ you start setting the width on images, you might be wondering if you
 should be setting the height as well. In general, you do not, because
 what&apos;s going to happen is it&apos;s going to skew.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. your own code, #3 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image286.webp"
   style="width:40%"
-  alt="." />
+  alt="Your own code, #3." />
 </p>
 <!-- {width="4.0in" height="2.247435476815398in"} -->
 
 You can&apos;t get it exactly right. So usually, you just set the height to
 auto or leave it along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. using bootstrap (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image287.webp"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap." />
 </p>
 <!-- {width="4.0in" height="2.247435476815398in"} -->
 
@@ -7325,11 +7321,11 @@ look that is often associated with thumbnails. A little bit of a border,
 a small size, we&apos;ll take a look at those in just a second.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. img-responsive (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image288.webp"
   style="width:60%"
-  alt="." />
+  alt="img-responsive." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7342,11 +7338,11 @@ similar to the code we were talking about, if you wanted to put it in
 yourself. Let&apos;s look at those other classes as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. codepen - single image (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image289.webp"
   style="width:60%"
-  alt="." />
+  alt="Codepen - Single image." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7355,11 +7351,11 @@ classes applied. I went ahead and I put it inside a div. And I&apos;m going
 to re-size the screen a bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 290. codepen - single image phone sized (189) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image290.webp"
   style="width:60%"
-  alt="." />
+  alt="Codepen - Phone-sized single image." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
