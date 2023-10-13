@@ -83,7 +83,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 
 <h2 align="center"></h2>
 
-<h2 name="chb-1">Syllabus</h2>
+<h2 name="chb-1">b-1. Syllabus</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -199,7 +199,7 @@ question already there. If you don&apos;t find your question, make sure to
 post. There are no &quot;stupid&quot; questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-<h2 name="cha-3">Course Slides</h2>
+<h2 name="cha-3">a-3. Course Slides</h2>
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -217,7 +217,7 @@ section to view them.
 </p>
 <!-- "width:6.5in height:4.603945756780402in" -->
 
-<h2 name="cha-1">There are 4 modules in this course</h2>
+<h2 name="cha-1">a-1. There are 4 modules in this course</h2>
 
 It used to be the case that everyone viewed webpages on about the same
 size screen. But with the explosion of the use of smartphones to access
@@ -421,7 +421,7 @@ in this course.
 
 ## Resources
 
-<h2 name="chb-4">Pixel to Em conversion tool</h2>
+<h2 name="chb-4">b-4. Pixel to Em conversion tool</h2>
 
 <a href="http://pxtoem.com">Pixel to Em Conversion Tool:</a>
 
@@ -430,7 +430,7 @@ in this course.
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-<h2 id="chb-5">Dynamically change the size of font with sliders</h2>
+<h2 id="chb-5">b-5. Dynamically change the size of font with sliders</h2>
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -454,7 +454,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 
-<h2 name="ch1-1">Week 1-01. Introduction to Responsive Design</h2>
+<h2 name="ch1-1">1-01. Introduction to Responsive Design</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -692,7 +692,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you&apos;ll
 learn a lot. Thanks.
 
-<h2 name="ch1-2">Week 1-02. What is Responsive Design?</h2>
+<h2 name="ch1-2">1-02. What is Responsive Design?</h2>
 
 Hi, everybody, so you&apos;re here and I&apos;m here, and we&apos;re here to talk
 about responsive design.
@@ -872,7 +872,7 @@ Let&apos;s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we&apos;re going to get started
 coding right away.
 
-<h2 name="ch1-3">Week 1-03. Testing Existing Sites</h2>
+<h2 name="ch1-3">1-03. Testing Existing Sites</h2>
 
 Hi, everybody. One of the things that you&apos;re going to want to do is
 test your site to see how it&apos;s doing across multiple devices and
@@ -1078,7 +1078,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren&apos;t
 responsive. Don&apos;t worry, yours will be.
 
-<h2 name="ch1-4">Week1-04. Benefits of Responsive Design</h2>
+<h2 name="ch1-4">1-04. Benefits of Responsive Design</h2>
 
 Hi everybody. Today, let&apos;s talk about some of the benefits of
 responsive design.
@@ -1229,7 +1229,7 @@ Additional best practices for separate URLs;
   alt="" />
 <!-- ![](images/image036.webp){width="7.5in" height="4.358975284339458in"} -->
 
-<h2 name="chb-3">Week1-05. Fluid Measurements: Background readings</h2>
+<h2 name="chb-3">b-3. Fluid Measurements: Background readings</h2>
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -1253,7 +1253,7 @@ lecture on Fluid Measurements.
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
 
-<h2 name="ch1-6">1-06. Fluid Measurements</h2>
+<h2 name="ch1-5">1-05. Fluid Measurements</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. fluid measurements (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1285,7 +1285,6 @@ scrolling.
 When you&apos;re on a page and everything doesn&apos;t fit in the screen so
 you&apos;ve got to kind of look for it. We want to avoid that whenever
 possible.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. absolute measurements (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1345,7 +1344,7 @@ helps avoid that problem of something getting smaller and smaller and
 smaller. Let me show you an example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 40. relative measurements, #2 (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. relative measurements, #2 (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image040.webp?raw=true"
   style="width:40%"
@@ -1429,7 +1428,7 @@ of see what you can make it do. For that reason, our next module is
 going to be an example of me moving from absolute to relative
 measurements.
 
-## Week1-07. Code With Me: Fluid Measurements
+<h2 name="ch1-6">1-06. Code With Me: Fluid Measurements</h2>
 
 One of the things we always talk about is that there&apos;s a real
 difference between sitting and listening to me talk about something, and
@@ -1564,7 +1563,7 @@ percents, ems, and other things like that. Good luck.
 
 Completed;
 
-### [HTML:]
+<h4>[HTML:]</h4>
 
 ```
 1.  <!DOCTYPE html>
@@ -1615,7 +1614,7 @@ Completed;
 32. </html>
 ```
 
-### [CSS:]
+<h4>[CSS:]</h4>
 
 ```
 1.  main {
@@ -1649,7 +1648,7 @@ Completed;
 29. }
 ```
 
-<h2 name="chb-7">Week2-08. Media Queries</h2>
+<h2 name="ch2-1">2-01. Media Queries</h2>
 
 Hi everybody. Today we are going to talk about Media queries.
 
@@ -1830,7 +1829,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we&apos;ll go ahead and we&apos;ll do something together.
 Good luck,
 
-## Week2-09. Code With Me: Fluid Measurements and Media Queries
+<h2 name="ch2-2">2-02. Code With Me: Fluid Measurements and Media Queries</h2>
 
 Hey everybody, welcome back. Let&apos;s go look at some code together.
 
@@ -2011,7 +2010,7 @@ Completed;
 32. }
 ```
 
-## Week2-10. Wire Frames
+<h2 name="ch2-3">2-03. Wire Frames</h2>
 
 Hi. Today, we&apos;re going to talk about wireframes and as we talk about
 them, I have to admit the way in which I teach web design doesn&apos;t
@@ -2242,7 +2241,7 @@ really too big. Maybe I should be breaking it up in to more sections.
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
 
-## Week2-11. Breakpoints
+<h2 name="ch2-4">2-04. Breakpoints</h2>
 
 Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I&apos;ve actually
@@ -2391,7 +2390,7 @@ mean again, is this an example of triggering, and I really hope you&apos;ll
 really understand mobile first by the time that we&apos;re done with this
 course.
 
-## Week2-12. Media Queries Part Two
+<h2 name="ch2-5">2-05. Media Queries Part Two</h2>
 
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
@@ -2657,7 +2656,7 @@ font-size:150%;
 }
 ```
 
-## Week2-13. Code with Me: Responsive Navigation
+<h2 name="ch2-6">2-06. Code with Me: Responsive Navigation</h2>
 
 Hi everybody, today, with this lecture I&apos;m hoping you&apos;ll sit with me
 and write up some code where we use media queries to produce responsive
@@ -2871,7 +2870,7 @@ sense. Where you know that on small screen phones they really do do
 their navigation differently than if you&apos;re on a laptop. Good luck, and
 make sure to post questions if you run into trouble.
 
-<h2 name="chb-6">Good examples of responsive design</h2>
+<h2 name="chb-6">b-6. Good examples of responsive design</h2>
 
 The following is a link to good examples of responsive design:
 
@@ -3010,7 +3009,7 @@ overflow:auto;
 }
 ```
 
-<h2 name="ch3-1">3-1. Frameworks</h2>
+<h2 name="ch3-1">3-01. Frameworks</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 87. frameworks - code and structure (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4880,7 +4879,6 @@ or executed.
 <a href="https://github.com/BuilderIO/qwik">Qwik Builder GitHub</a>
 
 <h2 name="ch19">19 -- Moment.js</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5048,7 +5046,6 @@ For more documentation on Backbone Stack, try
 <https://resthub.github.io/docs/backbone/layout/>.
 
 <h2 name="ch22">22 -- SemanticUI</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5362,7 +5359,7 @@ So, in conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 
-<h2 name="ch3-2">3-2. Introduction to Twitter Bootstrap 3</h2>
+<h2 name="ch3-2">3-02. Introduction to Twitter Bootstrap 3</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5546,7 +5543,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 
-<h2 name="ch3-3">3-3. Bootstrap Breakpoints</h2>
+<h2 name="ch3-3">3-03. Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5719,7 +5716,7 @@ want to use, not something that you feel confined by.
     fours things and you&apos;ll be able to really code and understand the
     things that are coming up.
 
-<h2 name="ch3-6">3-6. Getting Started with Twitter Bootstrap</h2>
+<h2 name="ch3-6">3-06. Getting Started with Twitter Bootstrap</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6187,7 +6184,7 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 </p>
 <!-- {width="6.5in" height="0.7104166666666667in"} -->
 
-<h2 name="ch3-4">3-4. Bootstrap Grid System</h2>
+<h2 name="ch3-4">3-04. Bootstrap Grid System</h2>
 
 Hi everybody. Today, we&apos;re going to talk about the grid system for
 Bootstrap three.
@@ -6642,7 +6639,7 @@ In the next module (19) we&apos;re going to code together and do some work
 with this grid class. I hope you&apos;ll join me and you&apos;ll get a really
 good feeling about how this works with Bootstrap.
 
-<h2 name="ch3-5">3-5. Code With Me: Grid Example</h2>
+<h2 name="ch3-5">3-05. Code With Me: Grid Example</h2>
 
 Hi everybody. Let&apos;s go over an example together where we&apos;re using the
 Bootstrap Grid System. I&apos;m going to go into CodePen and use this code
@@ -7358,7 +7355,7 @@ RD-Navbar:
 <div>6Lots and lots of Content!!!</div>
 ```
 
-<h2 name="chb-8">Demystifying Bootstrap</h2>
+<h2 name="chb-8">chb-8. Demystifying Bootstrap</h2>
 
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
@@ -7379,7 +7376,7 @@ current trends. You can&apos;t live in a bubble.
 
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 
-## Week4-21. Responsive Images
+<h2 name="ch4-1">4-01. Responsive Images</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7735,7 +7732,7 @@ RD-Responsive Image Thumbnails:
 </div>
 ```
 
-## Week4-22. Bootstrap Tables
+<h2 name="ch4-2">4-02. Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8003,7 +8000,7 @@ table-responsive, active, success, info, danger, warning -->
 </div>
 ```
 
-## Week4-23. Code with Me: Advanced Navigation
+<h2 name="ch4-3">4-03. Code with Me: Advanced Navigation</h2>
 
 Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you&apos;re really likely to find online. And
@@ -8166,7 +8163,7 @@ RD-Advanced Navigation:
 </nav>
 ```
 
-## Week 4-24. What Are Templates?
+<h2 name="ch4-4">4-04. What Are Templates?</h2>
 
 Hi everybody. Many times, if you&apos;re talking to people who do web
 design, you&apos;ve got the people who think, I hate Bootstrap, and other
@@ -8893,7 +8890,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 
-<h2 name="ch4-5">4-5. Bootstrap 4/5</h2>
+<h2 name="ch4-5">4-05. Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 333/334. bootstrap 5 & 4 logos (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8949,7 +8946,7 @@ really useful and you&apos;re going to be able to use it for long time.
 Bootstrap 4 can only make things better, so if it&apos;s something you&apos;re
 interested in, go ahead. I myself am excited to see where it goes.
 
-## Week 4-29. Conclusion
+<h2 name="ch4-6">4-06. Conclusion</h2>
 
 Congratulations everybody. I&apos;m really glad that we had this chance to
 learn about responsive design.
