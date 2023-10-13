@@ -421,11 +421,11 @@ in this course.
 
 ## Resources
 
-## Pixel to Em conversion tool
+<h2 name="chb-4">Pixel to Em conversion tool</h2>
 
-Here is a link to a Pixel to Em conversion tool:
+<a href="http://pxtoem.com">Pixel to Em Conversion Tool:</a>
 
-<http://pxtoem.com/>
+&lt;http://pxtoem.com/&gt;
 
 In the third column you can enter numbers and have the conversion
 calculated for you.
