@@ -5000,24 +5000,29 @@ a [long list of real-world
 projects](https://backbonejs.org/#examples) that use Backbone.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Creating simple tasks app with Backbone.js and Slim micro framework \...]
-(images/image163.webp)
-{width="1.0in" height="1.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. backbone logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image163.webp?raw=true"
+  style="width:15%"
+  alt="." />
+<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![All About Backbone.js \| Javascript Frameworks]
-(images/image164.webp)
-{width="2.0in" height="1.2827001312335957in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. backbone.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image164.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="2.0in" height="1.2827001312335957in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. backbone.js (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Backbone.js]
-(images/image165.webp)
-{width="4.0in" height="0.7088604549431321in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. backbone.js (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image165.webp?raw=true"
+  style="width:40%"
+  alt="." />
+<!-- {width="4.0in" height="0.7088604549431321in"} -->
+</p>
 
-Backbone.js Stack
+<h3>Backbone.js Stack</h3>
 
-## Bootstrap your project
+<h3>Bootstrap your project</h3>
 
 There are 2 ways to use it in your project:
 
@@ -5044,6 +5049,27 @@ For more documentation on Backbone Stack, try
 
 <h2 name="ch22">22 -- SemanticUI</h2>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image166.webp?raw=true"
+  style="width:15%"
+  alt="." />
+<!-- {width="1.0in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image167.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="2.0in" height="1.0in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image168.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="3.1967213473315836in" height="1.0in"} -->
+</p>
+
 Semantic UI is a front-end development framework similar to bootstrap
 designed for theming. It contains pre-built semantic components that
 helps create beautiful and responsive layouts using human-friendly HTML.
@@ -5056,44 +5082,40 @@ And it integrates with React, Angular, Meteor, Ember and many other
 frameworks to help organize UI layer alongside application logic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Semantic UI Logo PNG Transparent & SVG Vector - Freebie Supply]
-(images/image166.webp)
-{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. semantic ui (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image169.webp?raw=true"
+  style="width:40%"
+  alt="." />
+<!-- {width="4.0in" height="2.674786745406824in"} -->
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![En İyi 6 CSS Framework]
-(images/image167.webp)
-{width="2.0in" height="1.0in"}
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Taking a Look at Semantic UI: A Lightweight Alternative to Bootstrap \...]
-(images/image168.webp)
-{width="3.1967213473315836in" height="1.0in"}
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image169.webp)
-{width="4.0in" height="2.674786745406824in"}
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 170.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image170.webp)
-{width="4.0in" height="2.1465813648293963in"}
-
-Example Semantic UI website theme.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. semantic ui website theme (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image170.webp?raw=true"
+  style="width:40%"
+  alt="." />
+<!-- {width="4.0in" height="2.1465813648293963in"} -->
+</p>
+<sub>Example Semantic UI website theme.</sub>
 
 For more information go to <https://semantic-ui-forest.com/>.
 
 <h2 name="ch23">23 -- Gatsby</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Blazing speed with Gatsby Js - EasyCoders - code made easy]
-(images/image171.webp)
-{width="3.0in" height="1.3762817147856519in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. gatsby logo (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image171.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="3.0in" height="1.3762817147856519in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free]
-(images/image172.webp)
-{width="1.38in" height="1.38in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. gatsby logo (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image172.webp?raw=true"
+  style="width:15%"
+  alt="." />
+<!-- {width="1.38in" height="1.38in"} -->
+</p>
 
 {#blazing-speed-with-gatsby-js---easycoders---code-made-easy-repl.it---gatsbyjs-online-compiler-and-ide---fast-powerful-free .unnumbered}
 
@@ -5106,10 +5128,13 @@ his [website](https://www.gatsbyjs.com/why-gatsby).
 
 <h2 name="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![What is MEAN Stack? MEAN Stack Components and Benefits \| Thirdock Techkno]
-(images/image173.webp)
-{width="4.0in" height="2.0931627296587925in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. means stack framework (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image173.webp?raw=true"
+  style="width:40%"
+  alt="." />
+<!-- {width="4.0in" height="2.0931627296587925in"} -->
+</p>
 
 The MEAN stack is a JavaScript-based framework for developing web
 applications. MEAN is named after MongoDB, Express, Angular, and Node,
@@ -5130,20 +5155,25 @@ popular technology concepts for building web applications.
 
 <h2 name="ch25">25 -- Aurelia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Pegatina «Logotipo de Aurelia - marco JS» de hipstuff \| Redbubble]
-(images/image174.webp)
-{width="1.5in" height="2.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image174.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="1.5in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![JavaScript Frameworks Every Developer Must Have! - Tutorials & Methods \...]
-(images/image175.webp)
-{width="3.0in" height="1.077244094488189in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image175.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="3.0in" height="1.077244094488189in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![5 Benefits Of Choosing Aurelia js Over AngulrJS- ValueCoders]
-(images/image176.webp)
-{width="2.0in" height="0.5933683289588801in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image176.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="2.0in" height="0.5933683289588801in"} -->
+</p>
 
 Aurelia is an open-source JavaScript framework for building web
 applications. It follows a modular and extensible architecture,
@@ -5152,20 +5182,25 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 
 <h2 name="ch26">26 -- Knockout.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Knockout.js Reviews 2022: Details, Pricing, & Features \| G2]
-(images/image177.webp)
-{width="3.0in" height="1.575in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image177.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="3.0in" height="1.575in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Challenges with Monitoring Knockout.js Web Applications - Dotcom \...]
-(images/image178.webp)
-{width="2.0in" height="2.0in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image178.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Knockout (@knockout_js) \| Twitter]
-(images/image179.webp)
-{width="1.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image179.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="1.0in" height="1.0in"} -->
+</p>
 
 Knockout.js is a lightweight JavaScript framework that helps you build
 dynamic and responsive user interfaces with a clean underlying data
@@ -5175,20 +5210,25 @@ managing data and UI synchronization.
 
 <h2 name="ch27">27 -- Mithril</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Mithril. Js -- DEV.BG]
-(images/image180.webp)
-{width="3.0in" height="1.145569772528434in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image180.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="3.0in" height="1.145569772528434in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Mithril.js. The brave little framework --- An... \| by DAN \| Medium]
-(images/image181.webp)
-{width="2.0in" height="1.1898731408573928in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image181.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="2.0in" height="1.1898731408573928in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![D20 - Mithril Js Logo, HD Png Download - 1605x1605 PNG - DLF.PT]
-(images/image182.webp)
-{width="1.0in" height="0.9442311898512686in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image182.webp?raw=true"
+  style="width:20%"
+  alt="." />
+<!-- {width="1.0in" height="0.9442311898512686in"} -->
+</p>
 
 Mithril is a lightweight and fast JavaScript framework for building
 single-page applications (SPAs) and dynamic web interfaces. It provides
@@ -5198,15 +5238,19 @@ features for building robust web applications.
 
 <h2 name="ch28">28 -- Riot.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Introducing Riot.js, RiotControl and RiotGear]
-(images/image183.webp)
-{width="3.0in" height="1.4285258092738409in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183. riot.js logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image183.webp?raw=true"
+  style="width:30%"
+  alt="." />
+<!-- {width="3.0in" height="1.4285258092738409in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![2021 年 5 月現在の Riot.js]
-(images/image184.webp)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. riot.js logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image184.webp?raw=true"
+  style="width:30%"
+  alt="." />
 {width="3.0in" height="2.565064523184602in"}
+</p>
 
 Riot.js is a lightweight and intuitive JavaScript framework for building
 user interfaces. It emphasizes simplicity, reusability, and a
@@ -5216,15 +5260,19 @@ crucial.
 
 <h2 name="ch29">29 -- Stimulus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Stimulus: A JavaScript Framework for People Who Love HTML]
-(images/image185.webp)
-{width="2.0in" height="1.385in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. stimulus logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image185.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="1.385in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Episode #112 - Stimulus Javascript Framework \| Preview - YouTube]
-(images/image186.webp)
-{width="2.0in" height="1.5in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. stimulus logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image186.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="1.5in"} -->
+</p>
 
 {#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
 
@@ -5236,20 +5284,25 @@ applications by enhancing existing HTML elements with behavior.
 <h2 name="ch30">30 -- Tailwind CSS</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![How to access Tailwind CSS colors from Javascript]
-(images/image187.webp)
-{width="2.0in" height="1.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image187.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![Tailwind CSS ⭐ con React.js ⭐ &lbrack;Parte 6&rbrack; - YouTube]
-(images/image188.webp)
-{width="2.0in" height="1.125in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image188.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="1.125in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![CodeKit - TailwindCSS]
-(images/image189.webp)
-{width="2.0in" height="1.2320002187226597in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image189.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="1.2320002187226597in"} -->
+</p>
 
 Tailwind CSS is a popular utility-first CSS framework that provides a
 comprehensive set of pre-built CSS classes. It aims to simplify the
@@ -5258,15 +5311,19 @@ functional approach.
 
 <h2 name="ch31">31 -- Foundation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![JS Foundation -- Logos Download]
-(images/image190.webp)
-{width="2.0in" height="0.601496062992126in"} 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. js foundation logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image190.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="0.601496062992126in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![JS Foundation Announced To Bring JavaScript Open Source Community Under \...]
-(images/image191.webp)
-{width="2.0in" height="1.1111111111111112in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. js foundation logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image191.webp?raw=true"
+  style="width:25%"
+  alt="." />
+<!-- {width="2.0in" height="1.1111111111111112in"} -->
+</p>
 
 Foundation is a responsive front-end framework that provides a
 collection of pre-built HTML, CSS, and JavaScript components and
@@ -5274,9 +5331,9 @@ utilities. It aims to simplify the process of building responsive and
 accessible web interfaces by offering a solid foundation of customizable
 and reusable elements.
 
-<h2 name="ch32">32 - &lt; even more libraries/frameworks to come&gt;</h2>
+<h2 name="ch32">32 - &lt;even more libraries/frameworks to come&gt;</h2>
 
-<h2 name="ch33">33 - &lt; even more libraries/frameworks to come&gt;</h2>
+<h2 name="ch33">33 - &lt;even more libraries/frameworks to come&gt;</h2>
 
 <h2>Front-end Frameworks: A Summary</h2>
 
@@ -5311,9 +5368,13 @@ on practical skills rather than just trendy technologies.
 ## Week3-15. Introduction to Twitter Bootstrap 3
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image192.webp)
-{width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image192.webp?raw=true"
+  style="width:40%"
+  alt="." />
+<!-- {width="4.0in" height="2.24957239720035in"} -->
+</p>
 
 Today we&apos;re going to talk about Bootstrap.
 
@@ -5338,9 +5399,12 @@ Today we&apos;re going to talk about Bootstrap.
     that were made with Bootstrap.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image193.webp)
-{width="4.0in" height="2.249573490813648in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. who is it? (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image193.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Speaking of that, who uses Bootstrap?
 
@@ -5356,9 +5420,12 @@ Speaking of that, who uses Bootstrap?
     that are out there for you to use as a building block.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image194.webp)
-{width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. bootstrap 3.0 benefits (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image194.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 There are a number of benefits of using Bootstrap 3.0.
 
@@ -5394,8 +5461,12 @@ There are a number of benefits of using Bootstrap 3.0.
         it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image195.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 195. bootstrap: why you should use it (128) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image195.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 So why should you consider using Bootstrap? Or at least know a little
 bit about it?
@@ -5415,8 +5486,12 @@ bit about it?
     values to give it the look that you want it to have.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image196.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~ 196. bootstrap: why you shouldn't use it (129) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image196.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 But there are reasons why you might not want to use Bootstrap.
 
@@ -5441,8 +5516,12 @@ But there are reasons why you might not want to use Bootstrap.
     really an innovative thinker. Then you might not want to use
     Bootstrap. You might really want to head off on your own.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image197.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. what we will cover (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image197.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   When we talk about Bootstrap in this class, there are a number of
     different ways we can approach it.
@@ -5472,8 +5551,12 @@ want to use, not something that you feel confined by.
 
 ## Week3-16. Bootstrap Breakpoints
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image198.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image198.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   Earlier in this course, we talked about setting breakpoints in your
     code for responsive design. Bootstrap has default breakpoints that
@@ -5487,8 +5570,12 @@ want to use, not something that you feel confined by.
     -   You want to make sure you plan for the smallest screen and then
         make adjustments as the screen size potentially is larger.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image199.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. custom, iphone retina (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image199.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   First let's talk about the smallest screen size that Bootstrap deals
     with. It&apos;s kind of a custom iPhone retina screen. It basically
@@ -5505,8 +5592,12 @@ want to use, not something that you feel confined by.
     small devices and phones.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image200.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 200. extra small devices and phones (131) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image200.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   In Bootstrap, these extra small sizes are referred to with an xs.
 
@@ -5518,8 +5609,12 @@ want to use, not something that you feel confined by.
     wide.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image201.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. small devices and tablets (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image201.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   The next step up for small devices and tablets is referred to as sm
     for small.
@@ -5534,8 +5629,12 @@ want to use, not something that you feel confined by.
     sizes, so it also triggers this viewpoint as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image202.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. medium devices and desktops (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image202.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   For medium devices and desktops, we use this code md for media.
 
@@ -5551,8 +5650,12 @@ want to use, not something that you feel confined by.
     going to talk about how we can deal with this a little bit later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image203.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 203. large devices and wide screens (133) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image203.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   Finally, the last viewport is referred to as lg, and this is for
     large devices and wide screens.
@@ -5577,8 +5680,12 @@ want to use, not something that you feel confined by.
     going on there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image204.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 204. setting your own breakpoints (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image204.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   Now it is possible to change these default values for your
     breakpoints. Even though Bootstrap hardcodes them, you can go in and
@@ -5593,8 +5700,12 @@ want to use, not something that you feel confined by.
         points.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image205.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. conclustion (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image205.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   Now, when we talk about Bootstrap grid points, it&apos;s not important
     that you go back and you memorize these exact values of the
@@ -5614,8 +5725,12 @@ want to use, not something that you feel confined by.
 ## Week3-17. Getting Started with Twitter Bootstrap
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image206.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image206.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 -   Hi everybody. If I&apos;ve done a good job up to this point, you&apos;re
     really excited to use Bootstrap and your kind of annoyed with me
@@ -5635,8 +5750,12 @@ want to use, not something that you feel confined by.
         CodePen account.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image207.webp){width="4.0in" height="2.24957239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~ 207. saving your own copy of bootstrap (136) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image207.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 If you want to save your own copy of bootstrap, you can go to the
 website, getbootstrap.com, and there&apos;s a quick an easy get started link
@@ -5653,8 +5772,13 @@ certain break points, colors, or other styles that you want to happen,
 and you don&apos;t want to go around and overwrite them later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image208.webp){width="6.0in" height="3.374359142607174in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. customize and download (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image208.webp?raw=true"
+  style="width:60%"
+  alt="." />
+</p>
+<!-- {width="6.0in" height="3.374359142607174in"} -->
 
 <https://codepen.io/ColleenEMc/pen/obwJGp/>
 
@@ -5663,8 +5787,12 @@ and you don&apos;t want to go around and overwrite them later.
 <https://getbootstrap.com/docs/3.4/customize/>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image209.webp){width="4.0in" height="2.2559831583552055in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. using a cdn (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image209.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 ```
 <!doctype html>
@@ -5718,8 +5846,12 @@ getbootstrap.com/getting-started and they will give you the code that
 you need to include.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image210.webp){width="6.0in" height="3.3839752843394577in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. bootstrap cdn (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image210.webp?raw=true"
+  style="width:60%"
+  alt="." />
+</p>
 
 I&apos;ve got it right here. You will need to copy and paste this code and
 this code into the header of your document. It&apos;s really important to
@@ -5731,8 +5863,12 @@ plan on having many different versions of your site. And you don&apos;t want
 to have lots of different copies of the bootstrap code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image211.webp){width="4.0in" height="2.2559831583552055in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 211. using bootstrap with codepen (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image211.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 I&apos;m adding a third option to this lecture because so many of us use
 CodePen. I wanted to show you how you can link the bootstrap from
@@ -5743,8 +5879,12 @@ go in and put in those links, because I really want to keep this code
 clean. I really want to keep it to just HTML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image212.webp){width="6.0in" height="3.383973097112861in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212. codepen settings (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image212.webp?raw=true"
+  style="width:60%"
+  alt="." />
+</p>
 
 If you follow along, I&apos;m going to go here to settings. I need to click
 here on the CSS. And, if you go down here to add external add, right
@@ -5756,8 +5896,12 @@ now knows this is how you can add the external CSS. Now you may remember
 that I said, you&apos;re going to connect to the CSS and JavaScript files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image213.webp){width="6.0in" height="3.383973097112861in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213. codepen settings, #2 (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image213.webp?raw=true"
+  style="width:60%"
+  alt="." />
+</p>
 
 Once you added the CSS you want to click on JavaScript. Right here.
 Quick add, and add bootstrap as well. Once we&apos;ve done this, our site is
@@ -5765,8 +5909,12 @@ now ready to use any of the bootstrap classes or any of the bootstrap
 JavaScript that we may need to use.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image214.webp){width="4.0in" height="2.2559831583552055in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. template (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image214.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 It&apos;s very common when you&apos;re first getting started with bootstrap, or
 even once you&apos;re a bit of a pro, to start with a template that&apos;s
@@ -5781,8 +5929,12 @@ this code both with and without the links because that way if you write
 it up yourself you can still have it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image215.webp){width="6.0in" height="3.383974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. bootstrap template (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image215.webp?raw=true"
+  style="width:60%"
+  alt="." />
+</p>
 
 So, here&apos;s the link to the bootstrap, CSS, and JavaScript, and down
 here is my actual code, all right? It doesn&apos;t look like there&apos;s that
@@ -5795,8 +5947,12 @@ style sheet. I&apos;ll do that right here. And now you can see that the font
 has changed a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image216.webp){width="4.0in" height="2.2559831583552055in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 216. how do you know it is working? (141) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image216.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 This is actually really important and let&apos;s talk about why. So, on a
 simple file, like I said, one of the things you can do to test to see if
@@ -5829,8 +5985,12 @@ I&apos;m back at our original template code. And I&apos;ll put back in the style
 sheet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image217.webp){width="6.0in" height="3.3839752843394577in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. bootstrap template, again (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image217.webp?raw=true"
+  style="width:60%"
+  alt="." />
+</p>
 
 When you scroll down, you can see that after I have hello world, I have
 the template code that includes a link to some bootstrap code. Even
@@ -5851,8 +6011,12 @@ what&apos;s going on.
 ### Bootstrap HTML Template
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image218.webp){width="4.0in" height="2.2645297462817147in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. don't forget (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image218.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Finally, you can also always go in and overwrite those bootstrap
 defaults. Remember how I said the font looks a little bit different than
@@ -5916,8 +6080,13 @@ large desktops**. On mobile devices, tablets and below, the columns will
 automatically stack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image219.webp){width="6.5in" height="0.3111111111111111in"}Three unequal columns
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image219.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.3111111111111111in"} -->
 
 Get three columns **starting at desktops and scaling to large
 desktops** of various widths. Remember, grid columns should add up to
@@ -5925,14 +6094,24 @@ twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image220.webp){width="6.5in" height="0.3111111111111111in"}Two columns
+<!--~~~~~~~~~~~~~~~ 220. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image220.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.3111111111111111in"} -->
 
 Get two columns **starting at desktops and scaling to large desktops**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image221.webp){width="6.5in" height="0.29444444444444445in"}Full width, single column
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 221. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image221.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.29444444444444445in"} -->
 
 No grid classes are necessary for full-width elements.
 
@@ -5947,8 +6126,13 @@ At mobile device sizes, tablets and down, these columns and their nested
 columns will stack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image222.webp){width="6.5in" height="0.6381944444444444in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~ 222. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image222.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.6381944444444444in"} -->
 
 ### Mixed: mobile and desktop
 
@@ -5961,14 +6145,24 @@ Each tier of classes scales up, meaning if you plan on setting the same
 widths for xs and sm, you only need to specify xs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image223.webp){width="6.5in" height="1.1215277777777777in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. mixed, mobile and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image223.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="1.1215277777777777in"} -->
 
 ### Mixed: mobile, tablet, and desktop
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image224.webp){width="6.5in" height="0.7159722222222222in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 224. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image224.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.7159722222222222in"} -->
 
 ### Column clearing
 
@@ -5977,16 +6171,26 @@ floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at
 specific breakpoints to prevent awkward wrapping with uneven content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image225.webp){width="6.5in" height="0.54375in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 225. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image225.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.54375in"} -->
 
 ### Offset, push, and pull resets
 
 Reset offsets, pushes, and pulls at specific breakpoints.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image226.webp){width="6.5in" height="0.7104166666666667in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image226.webp?raw=true"
+  style="width:65%"
+  alt="." />
+</p>
+<!-- {width="6.5in" height="0.7104166666666667in"} -->
 
 ## Week3-18. Bootstrap Grid System
 
@@ -6004,8 +6208,12 @@ one of the next modules, and then you come back and you read this
 material again, and see if it&apos;s starting to really make sense.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image227.webp){width="4.0in" height="2.2529910323709537in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. it's not a table (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image227.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Bootstrap can see every element as something you can break down into 12
 columns. So, if you have a page, Bootstrap can take any element, and
@@ -6021,23 +6229,35 @@ So, you kind of have to throw that practical reasoning out for a little
 bit, if you&apos;re going to be using Bootstrap.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image228.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. it's not a table, #2 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image228.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 With this table, we can basically say if you want to use three columns,
 it&apos;s the same as saying a width of maybe 25%. Six columns is 50%. Nine
 columns is 75%.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image229.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. it's not a table, #3 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image229.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 All 12 columns mean you&apos;re taking up the full width of the page or that
 element.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image230.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. grid classes (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image230.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Every grid in Bootstrap consists of a container class, a row class and
 then one or more column classes. The actual code itself is going to look
@@ -6045,8 +6265,12 @@ like this, where xx is going to be the viewport size. And yy is going to
 be the number of columns that you want to use. Let&apos;s take a look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image231.webp){width="4.0in" height="2.2572648731408576in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 231. setting width with col-xx-yy (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image231.webp?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Let&apos;s look at our example. The class is always going to start with
 those three letters, col. The xx component is the viewport size. It&apos;s
