@@ -3124,7 +3124,7 @@ still want to know a little bit about it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 90b. popular front-end frameworks (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090b.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="2023 - Popular front-end frameworks, as of 2023." />
 </p>
 
@@ -3251,10 +3251,9 @@ You can use JavaScript libraries for:
 
 -   **Data Visualization in Maps and Charts**
 
-[Data
-visualization](https://kinsta.com/blog/data-visualization-tools/) in
-applications is crucial for users to view the statistics clearly in the
-admin panel, dashboards, performance metrics, and more.
+> [Data Visualization](https://kinsta.com/blog/data-visualization-tools/) in
+> applications is crucial for users to view the statistics clearly in the
+> admin panel, dashboards, performance metrics, and more.
 
 Presenting these [data in charts and
 maps](https://kinsta.com/blog/wordpress-charts/) helps you analyze that
@@ -3262,32 +3261,28 @@ data easily and make informed business decisions.
 
 *Examples: Chart.js, Apexcharts, Algolia Places*
 
-#### **DOM Manipulation**
+-	**DOM Manipulation**
 
-#### [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) represents a web page (a document) as objects and nodes that you can modify using JavaScript. You can change its content, style, and structure.
+> [Document Object Model (DOM)](https://kinsta.com/blog/critical-rendering-path/#the-dom) 
+> represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
+>You can change its content, style, and structure.
 
-*Examples: [jQuery](https://kinsta.com/knowledgebase/what-is-jquery/),
-Umbrella JS*
+*Examples: [jQuery](https://kinsta.com/knowledgebase/what-is-jquery/), Umbrella JS*
 
 -   **Data Handling**
 
-With the enormous amounts of data that businesses now deal with daily,
-
-handling and managing them properly is essential. Using a JavaScript
-library
-
-makes it easier to handle a document following its content while adding
-
-more interactivity.
+> With the enormous amounts of data that businesses now deal with daily, handling 
+> and managing them properly is essential. Using a JavaScript library makes it 
+> easier to handle a document following its content while adding more interactivity.
 
 *Examples: D3.js*
 
 -   **Database**
 
-[Effective database management](https://kinsta.com/blog/adminer/) is
-necessary to read, create, delete, edit, and sort data. You can also use
-sophisticated queries, auto-create tables, synchronize and validate
-data, and much more.
+> [Effective database management](https://kinsta.com/blog/adminer/) is
+> necessary to read, create, delete, edit, and sort data. You can also use
+> sophisticated queries, auto-create tables, synchronize and validate
+> data, and much more.
 
 *Examples: TaffyDB, ActiveRecord.js*
 
@@ -3374,7 +3369,6 @@ rankings we saw earlier. I have provided a general overview of each of
 the frameworks, as well as links to GitHub and the framework&apos;s website.
 
 <h2 name="ch01">01 -- React</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94/95. react logo and framework (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3397,11 +3391,11 @@ out with its own virtual DOM, ensuring persistent app performance at
 scale. Likewise, the component-based structure means that development is
 more accessible across teams.
 
-While the learning curve for React is moderately forgiving, the
-accessibility of tooling makes the process manageable.
-Namely, [create-react-app](https://github.com/facebook/create-react-app) automates
-the build process for an application boilerplate. And then there
-are [React DevTools](https://www.npmjs.com/package/react-devtools),
+While the learning curve for React is moderately forgiving, the accessibility of 
+tooling makes the process manageable. Namely, 
+<a href="https://github.com/facebook/create-react-app">create-react-app</a> 
+automates the build process for an application boilerplate. And then there
+are <a href="https://www.npmjs.com/package/react-devtools">React DevTools</a>, 
 providing an accessible debugging experience from the browser.
 
 Thanks to the mass adoption of React, front-end developers can enjoy
@@ -3410,117 +3404,85 @@ a dozen full-scale design systems are [built for
 React](https://stackdiary.com/react-component-libraries/). The number of
 hours this saves from the development process can be enormous.
 
-[**Website**](https://reactjs.org/) [**GitHub**](https://github.com/facebook/react/)
+<a href="https://reactjs.org/">React Website</a><br>
+<a href="https://github.com/facebook/react/">React GitHub</a>
 
 <h3>17 React UI Frameworks</h3>
 
-<h5>**[Next.js --]**</h5>
-
-Next.js is a React framework for building full-stack web applications.
-
-You use React Components to build user interfaces, and Next.js for
-additional features and optimizations.
-
-Under the hood, Next.js also abstracts and automatically configures
-tooling needed for React, like bundling, compiling, and more. This allows you to 
-focus on building your application instead of spending time with configuration.
-
-Whether you&apos;re an individual developer or part of a larger team,
-Next.js can help you build interactive, dynamic, and fast React applications.
-
-<h5>**[Material Kit React](https://www.turing.com/blog/react-ui-frameworks-for-developers/#material) [-- ]**</h5>
-
-This feature enables you to maintain a similarity of appearance and
-functions in your project throughout. The layout is like that of
-multiple sheets of paper, giving it depth and order. \
-\
-The Kit also includes several basic elements like sliders and buttons,
-badges, pagination, bars for navigation, menu, pills, and tabs among
-others. With the help of this React component library, you can customize
-the style, size, and color of most elements.\
-\
-The JavaScript elements have modals, date-time pickers, tooltips,
-popovers, and carousels. You can not only use the Kit to start a new
-project but also restyle any old Bootstrap project. What's more, the
-Material Kit React Pro version comes equipped with several other
-components, sections, and example pages.
-
-<h5>**[Storybook](https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook) [-- ]**</h5>
-
-> It is more like an [open-source
-> tool](https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/) that
-> is used for building UI components in isolation for React and several
-> other platforms and technologies.\
-> \
-> What's unique about Storybook? It enables you to work on a single
-> component at a given time, making the development process a lot
-> faster.\
-> \
-> As one of the best UI frameworks for React, Storybook enables you to
-> document components for reuse. It also allows you to automatically
-> test your components visually in order to prevent bugs. Last but not
-> least, an ecosystem of add-ons allows you to fine-tune responsive
-> layouts, verify accessibility, and much more.\
-
-**Features and benefits:**
-
--   Fast UI development
-
--   Easy and smooth integration with React apps
-
--   Comes with built-in TypeScript support
-
--   Default webpack configuration
-
--   Efficient development process
-
--   High compatibility with most front-end frameworks
-
--   CSS support
-
--   Hot module reloading
-
--   Deployment of a whole storybook as a static app
-
--   Isolated environment for components
-
--   Clean and efficient UI
-
-<h5>**[React Bootstrap](https://www.turing.com/blog/react-ui-frameworks-for-developers/#boostrap) -**</h5>
-
-> A significant feature of React Bootstrap CSS is compatibility, i.e.,
-> Bootstrap core compatibility and the world's largest UI ecosystem
-> compatibility. The framework has great compatibility with the hundreds
-> of Bootstrap themes used by developers around the world.\
-> \
-> The React Bootstrap eliminates the need for Bootstrap.js and jQuery
-> dependencies in the code. React developers can even import individual
-> components from the library. This feature results in faster
-> development, shorter time to code, less code, better stability, and
-> efficient code management,\
-> \
-> This UI framework allows you to build your projects on the backend and
-> then finally prototype them on the front end. And so, React Bootstrap
-> can be a great pick for developers working on multiple aspects of
-> apps. However, backend developers may not like the layout of the
-> interface. This is because the use of reducers and actions replicates
-> a front-end environment. And so, developers will need to alter their
-> code or refer to the UI's documentation to get used to it.
-
-<h5>**[React Admin](https://www.turing.com/blog/react-ui-frameworks-for-developers/#admin) -**</h5>
-
-> React Admin is great for creating business-to-business i.e., B2B admin
-> applications on top of REST/GraphQL APIs. This framework is
-> customizable by design.\
-> \
-> This React UI framework is made up of several popular projects along
-> with React: Material UI, Redux, React Router, as well as React Final
-> Form. The latter is a well-known form of state management solution.\
-> \
-> React Admin also offers an enterprise solution apart from their free
-> version and components. This solution offers pro support from Marmelab
-> along with access to private modules. React Admin has an active
-> community and is hence pretty well-maintained.\
+<ol type="1">
+  <li><h4>1. Next.js --</h4><br>
+    <p>Next.js is a React framework for building full-stack web applications.
+    You use React Components to build user interfaces, and Next.js for
+    additional features and optimizations.<br>
+    Under the hood, Next.js also abstracts and automatically configures
+    tooling needed for React, like bundling, compiling, and more. This allows you to 
+    focus on building your application instead of spending time with configuration.
+    Whether you&apos;re an individual developer or part of a larger team,
+    Next.js can help you build interactive, dynamic, and fast React applications.</p></li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#material">Material Kit React</a> --</h4><br>
+    <p>This feature enables you to maintain a similarity of appearance and functions 
+    in your project throughout. The layout is like that of multiple sheets of paper, 
+	giving it depth and order.<br>
+    The Kit also includes several basic elements like sliders and buttons, badges, 
+	pagination, bars for navigation, menu, pills, and tabs among others. With the 
+	help of this React component library, you can customize the style, size, and 
+	color of most elements.<br>
+    The JavaScript elements have modals, date-time pickers, tooltips, popovers, and 
+	carousels. You can not only use the Kit to start a new project but also restyle 
+	any old Bootstrap project. What's more, the Material Kit React Pro version comes 
+	equipped with several other components, sections, and example pages.</p></li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook">Storybook</a> --</h4><br>
+    <p>It is more like an <a href="https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/">open-source tool</a> 
+	that is used for building UI components in isolation for React and several other 
+	platforms and technologies. What's unique about Storybook? It enables you to 
+	work on a single component at a given time, making the development process a lot
+	faster.  As one of the best UI frameworks for React, Storybook enables you to 
+	document components for reuse. It also allows you to automatically test your 
+	components visually in order to prevent bugs. Last but not least, an ecosystem 
+	of add-ons allows you to fine-tune responsive layouts, verify accessibility, 
+	and much more.</p>
+    <b>Features and benefits:</b>
+	<ul>
+	  <li>Fast UI development</li>
+      <li>Easy and smooth integration with React apps</li>
+      <li>Comes with built-in TypeScript support</li>
+      <li>Default webpack configuration</li>
+      <li>Efficient development process</li>
+      <li>High compatibility with most front-end frameworks</li>
+      <li>CSS support</li>
+      <li>Hot module reloading</li>
+      <li>Deployment of a whole storybook as a static app</li>
+      <li>Isolated environment for components</li>
+      <li>Clean and efficient UI</li>
+	</ul>
+  </li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#boostrap">React Bootstrap</a> --</h4><br>
+  <p>A significant feature of React Bootstrap CSS is compatibility, i.e., Bootstrap 
+  core compatibility and the world's largest UI ecosystem compatibility. The framework 
+  has great compatibility with the hundreds of Bootstrap themes used by developers 
+  around the world.<br>
+  The React Bootstrap eliminates the need for Bootstrap.js and jQuery dependencies 
+  in the code. React developers can even import individual components from the 
+  library. This feature results in faster development, shorter time to code, 
+  less code, better stability, and efficient code management,<br>
+  This UI framework allows you to build your projects on the backend and
+  then finally prototype them on the front end. And so, React Bootstrap
+  can be a great pick for developers working on multiple aspects of
+  apps. However, backend developers may not like the layout of the
+  interface. This is because the use of reducers and actions replicates
+  a front-end environment. And so, developers will need to alter their
+  code or refer to the UI's documentation to get used to it.</p></li>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#admin">React Admin</a> --</h4><br>
+  <p>React Admin is great for creating business-to-business i.e., B2B admin
+  applications on top of REST/GraphQL APIs. This framework is customizable by design.
+  This React UI framework is made up of several popular projects along with React: 
+  Material UI, Redux, React Router, as well as React Final Form. The latter is a 
+  well-known form of state management solution.<br>
+  React Admin also offers an enterprise solution apart from their free version 
+  and components. This solution offers pro support from Marmelab along with 
+  access to private modules. React Admin has an active community and is hence 
+  pretty well-maintained.</p></li>
+</ol>
 
 **Features and benefits:**
 
@@ -4338,7 +4300,7 @@ in creating charts and visualizations.
 utility functions for common programming tasks. It is similar to jQuery
 in that it offers a chainable API for manipulating data.
 
-lodash is more lightweight and provides more features than jQuery.
+Lodash is more lightweight and provides more features than jQuery.
 Lodash can be used for tasks such as creating custom iterators, working
 with arrays, objects, and strings, and manipulating data.
 
@@ -4401,9 +4363,8 @@ the framework is at an all-time low. Who knows, maybe the loyal
 following is because Angular is based on TypeScript? I&apos;m just kidding,
 of course.
 
-Angular provides quite a lot of flexibility for building SPA - [Single
-Page
-Applications](https://blog.angular-university.io/why-a-single-page-application-what-are-the-benefits-what-is-a-spa/).
+Angular provides quite a lot of flexibility for building SPA - 
+[Single Page Applications](https://blog.angular-university.io/why-a-single-page-application-what-are-the-benefits-what-is-a-spa/).
 Similar to other prominent front-end frameworks, Angular implements a
 Components-based development workflow. And, adds the Templates system -
 which manages the dynamic nature of the components.
@@ -4411,8 +4372,7 @@ which manages the dynamic nature of the components.
 Above all, Angular can and is being used to build apps for all platforms
 simultaneously. Code can be reused to be implemented in web apps, mobile
 projects, as well as native desktop applications. As for performance -
-it is [optimized through SSR and Web
-Workers](https://github.com/ganatan/angular-ssr).
+it is [optimized through SSR and Web Workers](https://github.com/ganatan/angular-ssr).
 
 Is it easy to get started with Angular? Not exactly. In fact, if we look
 at the survey data - satisfaction with this framework has also plummeted
