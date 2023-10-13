@@ -27,7 +27,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h2><a href="table-of-contents">Table of Contents</a></h2>
 
 ## [**About**](#cha)
->### - [**About **](#cha-1)
+>### - [**About**](#cha-1)
 >### - [**Source Code for Each Week**](#cha-2)
 >### - [**Course Slides**](#cha-3)
 
