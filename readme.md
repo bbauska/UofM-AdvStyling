@@ -5249,7 +5249,7 @@ features for building robust web applications.
 <img src="./images/image184.webp?raw=true"
   style="width:30%"
   alt="." />
-{width="3.0in" height="2.565064523184602in"}
+<!-- {width="3.0in" height="2.565064523184602in"} -->
 </p>
 
 Riot.js is a lightweight and intuitive JavaScript framework for building
@@ -5274,15 +5274,12 @@ crucial.
 <!-- {width="2.0in" height="1.5in"} -->
 </p>
 
-{#stimulus-a-javascript-framework-for-people-who-love-html-episode-112---stimulus-javascript-framework-preview---youtube .unnumbered}
-
 Stimulus is a JavaScript framework designed to add interactivity to HTML
 pages with minimal setup and a focus on progressive enhancement. It aims
 to provide a lightweight and pragmatic approach to building dynamic web
 applications by enhancing existing HTML elements with behavior.
 
 <h2 name="ch30">30 -- Tailwind CSS</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5780,11 +5777,11 @@ and you don&apos;t want to go around and overwrite them later.
 </p>
 <!-- {width="6.0in" height="3.374359142607174in"} -->
 
-<https://codepen.io/ColleenEMc/pen/obwJGp/>
+<a href="https://codepen.io/ColleenEMc/pen/obwJGp/">Hello, world (Codepen)</a>
 
-### Customization {#customization .unnumbered}
+### Customization
 
-<https://getbootstrap.com/docs/3.4/customize/>
+<a href="https://getbootstrap.com/docs/3.4/customize/">Bootstrap Customize &amp; Download</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. using a cdn (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5818,9 +5815,9 @@ crossorigin="anonymous"></script>
 </html>
 ```
 
-<https://codepen.io/cristinaconacel/pen/NOpVja>
+<a href="https://codepen.io/cristinaconacel/pen/NOpVja">Multiple Select &amp; Select boxes with optgroups (Codepen}</a>
 
-<https://codepen.io/cristinaconacel/pen/zmZQKy>
+<a href="https://codepen.io/cristinaconacel/pen/zmZQKy">Simple Select and Dropup Select</a>
 
 Let me show you. When you go to the website, you can see that it lets
 you customize different options. For instance, you can put in and you
