@@ -46,36 +46,36 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 >### * [**More Resources for Learning to Debug/Develop**](#chb-12)
 
 ## [**Week 1: Style with Responsive Design**](#ch1)
->### 1.1 [**Introduction to Responsive Design**](#ch1-1-1)
->### 1.2 [**What is Responsive Design?**](#ch1-2-1)
->### 1.3 [**Testing Existing Sites**](#ch1-3-1)
->### 1.4 [**Benefits of Responsive Design**](#ch1-4-1)
->### 1.5 [**Fluid Measurements**](#ch1-5-1)
->### 1.6 [**Code With Me: Fluid Measurements**](#ch1-6-1)
+>### 1.1 [**Introduction to Responsive Design**](#ch1-1)
+>### 1.2 [**What is Responsive Design?**](#ch1-2)
+>### 1.3 [**Testing Existing Sites**](#ch1-3)
+>### 1.4 [**Benefits of Responsive Design**](#ch1-4)
+>### 1.5 [**Fluid Measurements**](#ch1-5)
+>### 1.6 [**Code With Me: Fluid Measurements**](#ch1-6)
 
 ## [**Week 2: Basic Concepts**](#ch2)
->### 2.1 [**Media Queries**](#ch2-1-1)
->### 2.2 [**Code With Me: Fluid Measurements and Media Queries**](#ch2-2-1)
->### 2.3 [**Wire Frames**](#ch2-3-1)
->### 2.4 [**Breakpoints**](#ch2-4-1)
->### 2.5 [**Media Queries Part Two**](#ch2-5-1)
->### 2.6 [**Code With Me: Responsive Navigation**](#ch2-6-1)
+>### 2.1 [**Media Queries**](#ch2-1)
+>### 2.2 [**Code With Me: Fluid Measurements and Media Queries**](#ch2-2)
+>### 2.3 [**Wire Frames**](#ch2-3)
+>### 2.4 [**Breakpoints**](#ch2-4)
+>### 2.5 [**Media Queries Part Two**](#ch2-5)
+>### 2.6 [**Code With Me: Responsive Navigation**](#ch2-6)
 
 ## [**Week 3: Use Existing Frameworks**](#ch3)
->### 3.1 [**Frameworks**](#ch3-1-1)
->### 3.2 [**Introduction to Twitter Bootstrap 3**](#ch3-2-1)
->### 3.3 [**Bootstrap Breakpoints**](#ch3-3-1)
->### 3.4 [**Bootstrap Grid System**](#ch3-4-1)
->### 3.5 [**Code With Me: Grid Example**](#ch3-5-1)
->### 3.6 [**Bootstrap Navigation**](#ch3-6-1)
+>### 3.1 [**Frameworks**](#ch3-1)
+>### 3.2 [**Introduction to Twitter Bootstrap 3**](#ch3-2)
+>### 3.3 [**Bootstrap Breakpoints**](#ch3-3)
+>### 3.4 [**Bootstrap Grid System**](#ch3-4)
+>### 3.5 [**Code With Me: Grid Example**](#ch3-5)
+>### 3.6 [**Bootstrap Navigation**](#ch3-6)
 
 ## [**Week 4: Experiment!**](#ch4)
->### 4.1 [**Responsive Images**](#ch4-1-1)
->### 4.2 [**Bootstrap Tables**](#ch4-2-1)
->### 4.3 [**Code With Me: Advanced Navigation**](#ch4-3-1)
->### 4.4 [**What Are Templates?**](#ch4-4-1)
->### 4.5 [**Bootstrap 4/5**](#ch4-5-1)
->### 4.6 [**Conclusion**](#ch4-6-1)
+>### 4.1 [**Responsive Images**](#ch4-1)
+>### 4.2 [**Bootstrap Tables**](#ch4-2)
+>### 4.3 [**Code With Me: Advanced Navigation**](#ch4-3)
+>### 4.4 [**What Are Templates?**](#ch4-4)
+>### 4.5 [**Bootstrap 4/5**](#ch4-5)
+>### 4.6 [**Conclusion**](#ch4-6)
 
 <a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">UofM - Advanced Styling - git</a>
 
@@ -83,7 +83,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 
 <h2 align="center"></h2>
 
-<h2>Syllabus</h2>
+<h2 name="chb-1">Syllabus</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -147,7 +147,7 @@ will be sufficient to get a decent base on how responsive design works.
 For other learners however, there is nothing better than when they
 decide they can write better versions of the code.
 
-### Resources
+<h3 id="chb-2">Resources</h3>
 
 ### Course Site
 
@@ -167,7 +167,7 @@ doesn&apos;t require you to link your files together. So, if you want to
 write the code right on your machine, you will need to know how to link
 the code. Don&apos;t worry, I do cover that in class.
 
-Here is a link to a collection of code for each week of the course:
+<p name="cha-2">Here is a link to a collection of code for each week of the course:</p>
 
 <h4>Week One: <http://codepen.io/collection/nmyRWM/></h4>
 
@@ -199,7 +199,7 @@ question already there. If you don&apos;t find your question, make sure to
 post. There are no &quot;stupid&quot; questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-## Course Slides
+<h2 name="cha-3">Course Slides</h2>
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -217,7 +217,7 @@ section to view them.
 </p>
 <!-- "width:6.5in height:4.603945756780402in" -->
 
-## There are 4 modules in this course
+<h2 name="cha-1">There are 4 modules in this course</h2>
 
 It used to be the case that everyone viewed webpages on about the same
 size screen. But with the explosion of the use of smartphones to access
@@ -430,7 +430,7 @@ in this course.
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-## Dynamically change the size of font with sliders
+<h2 id="chb-5">Dynamically change the size of font with sliders</h2>
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -1229,7 +1229,7 @@ Additional best practices for separate URLs;
   alt="" />
 <!-- ![](images/image036.webp){width="7.5in" height="4.358975284339458in"} -->
 
-## Week1-05. Fluid Measurements: Background readings
+<h2 name="chb-3">Week1-05. Fluid Measurements: Background readings</h2>
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -1649,7 +1649,7 @@ Completed;
 29. }
 ```
 
-## Week2-08. Media Queries
+<h2 name="chb-7">Week2-08. Media Queries</h2>
 
 Hi everybody. Today we are going to talk about Media queries.
 
@@ -2871,7 +2871,7 @@ sense. Where you know that on small screen phones they really do do
 their navigation differently than if you&apos;re on a laptop. Good luck, and
 make sure to post questions if you run into trouble.
 
-## Good examples of responsive design
+<h2 name="chb-6">Good examples of responsive design</h2>
 
 The following is a link to good examples of responsive design:
 
@@ -5546,7 +5546,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 
-## Week3-16. Bootstrap Breakpoints
+<h2 name="ch3-3">Week3-16. Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7358,7 +7358,7 @@ RD-Navbar:
 <div>6Lots and lots of Content!!!</div>
 ```
 
-# Demystifying Bootstrap
+<h2 name="chb-8">Demystifying Bootstrap</h2>
 
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
@@ -8984,7 +8984,7 @@ really have all the knowledge you need.
 So, thank you for coming along with us, and I hope you enjoyed the
 class.
 
-### The Evolution of the Airbnb front-end development
+<h3 name="chb-10">The Evolution of the Airbnb front-end development</h3>
 
 This is an interesting article on the evolution of the Airbnb website.
 
@@ -8995,14 +8995,14 @@ CSS tutorial actually uses a similar platform to teach about Bootstrap.
 
 ***This material is not required for the course.***
 
-### Debugging your style with Firebug
+<h3 name="chb-11">Debugging your style with Firebug</h3>
 
 I tend to use Chrome as my browser, and Inspect Element to debug my
 site. However, here is a tutorial for another very popular development
 tool - Firebug. This video by Vicki Watson will walk you through how it
 works. <https://www.ostraining.com/blog/coding/bootstrap-firebug/>
 
-### More resources for learning to debug/develop
+<h3 name="chb-12">More resources for learning to debug/develop</h3>
 
 If anyone wants to improve testing and debugging skills using Chrome.
 Codeschool has free course about DevTools:
