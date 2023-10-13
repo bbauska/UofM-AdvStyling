@@ -27,7 +27,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h2><a href="table-of-contents">Table of Contents</a></h2>
 
 ## [**About**](#cha)
->### - [**About **](#cha-1)
+>### - [**About**](#cha-1)
 >### - [**Source Code for Each Week**](#cha-2)
 >### - [**Course Slides**](#cha-3)
 
@@ -105,7 +105,6 @@ audial, physical, and cognitive impairments.
   style="width:45%"
   alt="What is Responsive Design?" />
 </p>
-<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Welcome to Advanced Styling with Responsive Design, taught by Colleen
 van Lent!
@@ -149,7 +148,7 @@ decide they can write better versions of the code.
 
 <h3 id="chb-2">Resources</h3>
 
-### Course Site
+<h3>Course Site</h3>
 
 All of the reading material you will need to pass this course is
 contained within Coursera.
@@ -157,7 +156,7 @@ contained within Coursera.
 Additional resources may be added as optional material, but everything
 will be online and free.
 
-### CodePEN
+<h3>CodePEN</h3>
 
 For the coding content you may want to access my CodePEN account.
 CodePEN is a website that allows you to modify copies of my code. In
@@ -186,7 +185,7 @@ will see two files, a &quot;starter&quot; file and a &quot;complete&quot; file. 
 you can start at the same place as me, but still have access to the
 final product.
 
-## Discussion Boards
+<h3>Discussion Boards</h3>
 
 The best way to get help is to utilize the discussion boards. I know
 that this may be new to many of you so let me explain how the discussion
@@ -245,7 +244,7 @@ you enroll in this class. Additional courses focus on adding
 interactivity with the JavaScript Programming Language and completing a
 capstone project.
 
-### Media Sizes (in Pixels)
+<h3>Media Sizes (in Pixels)</h3>
 
 ```
 **@media (min-width:320px) { /* smartphones, iPhone, portrait
@@ -268,9 +267,7 @@ desktops */ }**
 **@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
 ```
 
-## Week One: Style with Responsive Design
-
-### Week one details
+<h2 name="ch1">01. Style with Responsive Design</h2>
 
 What does it mean to have responsive design for your site? How can you
 tell if your existing site is responsive? This week we will begin with
@@ -279,9 +276,9 @@ mobile site should provide everything needed, not a pared-down version
 of a good page. We end the week by taking the first concrete step of
 using fluid measurements in your CSS.
 
-### What&apos;s included:
+<h3>What&apos;s included:</h3>
 
-### Week 1;
+<h3>Week 1;</h3>
 
 1.  Introduction to Responsive Design
 
@@ -295,7 +292,7 @@ using fluid measurements in your CSS.
 
 6.  Code With Me: Fluid Measurements
 
-### Add'l Readings:
+<h3>Add'l Readings:</h3>
 
 -   Syllabus
 
@@ -309,7 +306,7 @@ using fluid measurements in your CSS.
 
 -   CSS definitions of relative and absolute
 
-## Week Two: Basic Concepts
+<h2 name="ch2">2. Basic Concepts</h2>
 
 This week you will get a chance to put the theories into practice using
 media queries in your CSS. These queries can automatically detect the
@@ -343,7 +340,7 @@ sizes (&quot;viewports&quot;).
 ```
 -   Week Two Review: Media Queries and breakpoints
 
-## Week Three: Use Existing Frameworks
+<h2 name="ch3">3. Use Existing Frameworks</h2>
 
 After every good programmer has put in time creating sites from scratch,
 it is common to utilize existing tools out there. After all, why
@@ -380,7 +377,7 @@ JavaScript yourself).
 
 -   Grid System Check
 
-## Week Four: Experiment!
+<h2 name="ch4">4. Experiment!</h2>
 
 This week is dedicated to solving those little issues that pop up when
 you move from theory to practice. We look at more advanced framework
@@ -399,15 +396,9 @@ in this course.
 
 4.  What Are Templates?
 
-5.  Interview: M W
+5.  Bootstrap 4/5
 
-6.  Interview: H W
-
-7.  Interview with H N
-
-8.  Bootstrap 4/5
-
-9.  Conclusion
+6.  Conclusion
 
 ### Add'l Readings
 
@@ -462,7 +453,6 @@ course.
 <img src="./images/image005.webp?raw=true"
   style="width:40%"
   alt="What this course will cover. The BASICS of Responsive Design." />
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 Welcome to introduction to responsive design. In this course, we&apos;re
 going to talk about different ways that you can make your website look
@@ -487,7 +477,6 @@ it yourself.
   style="width:40%"
   alt="Week One: - Theory - What does responsive design mean? - 
     What makes for good design? - Role of fluid measurements." />
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **one**, we&apos;re really going to focus on the theory.
 
@@ -514,7 +503,6 @@ changes.
   style="width:40%"
   alt="Week Two: - Media queries - What are they? - How do you plan 1st for best 
     practices? - What is the relationship with break points? - How to make a navigation bar?" />
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **two** we&apos;re going to tackle media queries.
 
@@ -545,7 +533,6 @@ really tackle this.
   style="width:40%"
   alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
     Getting Started, grid system, and navigation."  />
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
 
 In week **three**, we&apos;re going to shift a little bit and instead of
 writing our own code.
@@ -583,7 +570,6 @@ responsive feel.
 <img src="./images/image009.webp?raw=true"
   style="width:40%"
   alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies."
-<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 Finally, in week **four**, we&apos;re going to continue with more bootstrap,
 but we&apos;re going to talk about things such as images, tables, and maybe
@@ -603,7 +589,6 @@ responsiveness their real-life sites.
   style="width:40%"
   alt="Final Project - Use your coding skills to create a responsive page 
     using multiple methods (framework & media queries)." />
-<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 We will do this with the culmination of a final project.
 
@@ -651,7 +636,6 @@ articles. I like to find things that are very pertinent to what&apos;s going
 on in web design right now.
 
 So how do you succeed in this class?
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 11. how to succeed in this class (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -659,7 +643,6 @@ So how do you succeed in this class?
   style="width:40%"
   alt="Succeeding in this class - Use message boards. - Don&apos;t spend more than 20 minutes 
     on a problem. Move on. - Look things up. - Practice, practice, practice." />
-<!-- {width="4.0in" height="2.110255905511811in"} -->
 
 I will always say that the best way to code is with a friend but that&apos;s
 not always possible, so I hope that you&apos;ll use the message boards not
@@ -683,7 +666,6 @@ will be there.
 <img src="./images/image012.webp?raw=true"
   style="width:40%"
   alt="Concepts to consider." />
-<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Finally, make sure that you practice, practice, practice. The only way
 to really learn how to code is to make sure you&apos;re getting as much
@@ -738,7 +720,6 @@ throughout this entire course.
 <img src="./images/image012.webp?raw=true"
   style="width:40%"
   alt="Concepts to consider, again." />
-<!-- {width="4.0in" height="2.086324365704287in"} -->
 
 Three concepts that I want you to keep in the back of your mind.
 
@@ -1089,12 +1070,11 @@ options that people often use, and why the responsive web design that
 we&apos;re going to adopt has its true benefits.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 30.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 31.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image030.webp?raw=true"
-  style="width:60%"
+<img src="./images/image031.webp?raw=true"
+  style="width:40%"
   alt="" />
-![](images/image031.webp){width="4.0in" height="2.2538462379702535in"}
 
 The first option, ***responsive web design or RWD***, is really dealing
 with fluid measurements, flexible grids, and varying CSS rules.
@@ -1113,7 +1093,6 @@ when you create a completely separate page URL for the mobile site.
 <img src="./images/image032.webp?raw=true"
   style="width:40%"
   alt="RWD - Responsive Web Design." />
-<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 First, let&apos;s talk about **responsive web design**. With the definition
 that we&apos;re using, the test really is, are you getting back the same
@@ -1138,7 +1117,6 @@ many people think.
 <img src="./images/image033.webp?raw=true"
   style="width:40%"
   alt="" />
-<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 The second type, **adaptive design**, means that the server figures out
 what kind of device you&apos;re running on and then returns specific HTML
@@ -1157,7 +1135,6 @@ return the wrong code if the wrong device type is detected.
 <img src="./images/image034.webp?raw=true"
   style="width:40%"
   alt="" />
-<!-- {width="4.0in" height="2.2538462379702535in"} -->
 
 That third option of having a **dedicated mobile site**, or **a .m
 URL**, means that you&apos;re going to get a different page completely on a
@@ -1180,7 +1157,6 @@ is the same type of information just on different URLs.
 <img src="./images/image035.webp?raw=true"
   style="width:40%"
   alt="" />
-<!-- ![](images/image035.webp){width="4.0in" height="2.2538462379702535in"} -->
 
 So why am I stressing responsive web design?
 
@@ -1227,7 +1203,7 @@ Additional best practices for separate URLs;
 <img src="./images/image036.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- ![](images/image036.webp){width="7.5in" height="4.358975284339458in"} -->
+<!-- {width="7.5in" height="4.358975284339458in"} -->
 
 <h2 name="chb-3">b-3. Fluid Measurements: Background readings</h2>
 
@@ -1261,7 +1237,6 @@ lecture on Fluid Measurements.
 <img src="./images/image037.webp?raw=true"
   style="width:40%"
   alt="Fluid Measurements." />
-<!-- ![](images/image037.webp){width="4.0in" height="2.252564523184602in"} -->
 
 Hi, everybody. Today we&apos;re going to talk about fluid measurements.
 They&apos;re really important to responsive design. I&apos;ve seen some really
@@ -1291,7 +1266,6 @@ possible.
 <img src="./images/image038.webp?raw=true"
   style="width:40%"
   alt="Absolute Measurements." />
-<!-- ![](images/image038.webp){width="4.0in" height="2.251709317585302in"} -->
 
 First, let&apos;s talk about absolute measurements. For many people, these
 may be the only type of measurements they&apos;ve used when doing web
@@ -1327,7 +1301,7 @@ them.
 <img src="./images/image039.webp?raw=true"
   style="width:40%"
   alt="" />
-<!-- ![](images/image039.webp){width="4.0in" height="2.2376071741032373in"} -->
+<!-- {width="4.0in" height="2.2376071741032373in"} -->
 
 So, let&apos;s start with percent. Percentage values are always relative to
 some other value, for example, a length. If you say you want something
@@ -1349,7 +1323,7 @@ smaller. Let me show you an example.
 <img src="./images/image040.webp?raw=true"
   style="width:40%"
   alt="" />
-<!-- ![](images/image040.webp){width="4.0in" height="2.252564523184602in"} -->
+<!-- {width="4.0in" height="2.252564523184602in"} -->
 
 Let&apos;s assume we&apos;re going to set something up to be 0.5em and it&apos;s
 going to be inside this element in here. I&apos;m going to make up a size
@@ -1922,7 +1896,7 @@ back and make sure you understand these simple ones first. Good luck.
 
 Completed;
 
-### [HTML:]
+<h4>[HTML:]</h4>
 
 ```
 1.  <!DOCTYPE html>
@@ -1973,7 +1947,7 @@ Completed;
 32. </html>
 ```
 
-### [CSS:]
+<h4>[CSS:]</h4>
 
 ```
 1.  main {
@@ -3409,7 +3383,7 @@ hours this saves from the development process can be enormous.
 <h3>17 React UI Frameworks</h3>
 
 <ol type="1">
-  <li><h4>1. Next.js --</h4><br>
+  <li><h4>Next.js --</h4><br>
     <p>Next.js is a React framework for building full-stack web applications.
     You use React Components to build user interfaces, and Next.js for
     additional features and optimizations.<br>
@@ -6681,7 +6655,7 @@ each case, each one of these divs is exactly the same. The code doesn&apos;t
 change at all. You can kind of trust me on that one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image261.webp"
   style="width:60%"
@@ -6716,7 +6690,7 @@ As we transition from smaller to bigger, this one&apos;s going to go away,
 and this one will suddenly show up.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. medium screen (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image262.webp"
   style="width:60%"
@@ -6742,7 +6716,7 @@ changed the content, but we&apos;ve also changed the layout. So instead of
 having four on top of each other, we have two pairs of two.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. large screen (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image263.webp"
   style="width:60%"
@@ -6794,7 +6768,7 @@ luck.
 
 RD-Bootstrap Grid Example:
 
-#### HTML:
+<h4>HTML:</h4>
 
 ```
 <div class = "container">
@@ -6826,7 +6800,7 @@ Screen</div>
 </div>
 ```
 
-####  CSS:
+<h4>CSS:</h4>
 
 ```
 div{
@@ -6847,18 +6821,17 @@ color:green;
 }
 ```
 
-## Week3-20. Bootstrap Navigation
+<h2 name="ch3-6">3-06. Bootstrap Navigation</h2>
 
 Hi, everybody. Today, we&apos;re going to talk about navigation bars.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. navigation bars (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image264.webp"
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="2.076068460192476in"} -->
 
 Navigation is one of those things about Bootstrap, that&apos;s very familiar
 to people when they see sites that use Bootstrap. It always looks about
@@ -6867,13 +6840,12 @@ nav class is typically combined with other classes to create each
 different style navigation that you&apos;re going to see.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. making a navigation bar (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image265.webp"
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="2.076068460192476in"} -->
 
 When you make a navigation bar, one of the first things you have to
 decide is what type of links you want. Bootstrap provides nav-tabs and
@@ -6891,7 +6863,7 @@ that&apos;s going to happen to you. The problem is I haven&apos;t linked to the
 Bootstrap CSS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. codepen - add bootstrap (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image266.webp"
   style="width:60%"
@@ -6904,7 +6876,7 @@ going to click on CSS and I&apos;m going to go down here to quick add and
 add Bootstrap. And as soon as I save that, boom, there you go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. html for navigation bars  (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~->
 <p align="center" width="100%">
 <img src="/images/image267.webp"
   style="width:40%"
@@ -6917,7 +6889,7 @@ you use the tabs, it&apos;s supposed to simulate that kind of look you see
 in a file tabbing system where you kind of flip through.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268. more html for nav bars (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image268.webp"
   style="width:40%"
@@ -6939,7 +6911,7 @@ or tabs. It&apos;s just a design decision that you want to make a little bit
 early on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269. making a navigation bar (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image269.webp"
   style="width:40%"
@@ -6955,20 +6927,19 @@ go ahead and just use the nav-pills code. When I go back up to that
 unordered list element, I have that it should be nav in nav pills.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 270. html navigation bar - vertical (172) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image270.webp"
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="4.186528871391076in"} -->
 
 What I want to add now is to say, you know what? Instead of being
 horizontal, I want to change it, so that it&apos;s vertical or stacked. This
 simple class completely changes the look of our page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 271. codepen - html nav bar - horizontal (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image271.webp"
   style="width:60%"
@@ -6985,7 +6956,7 @@ about nav-justified is that when you resize the window, it actually
 changes the look of the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 272. codepen - html nav bar - vertical (174) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image272.webp"
   style="width:60%"
@@ -6999,7 +6970,7 @@ So, on the small view, you go to stacks. On the larger views, you&apos;re
 horizontal.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. dropdowns (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image273.webp"
   style="width:60%"
@@ -7081,24 +7052,22 @@ RD: navbar
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274. dropdowns, #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image274.webp"
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 The example on Bootstrap is called pills with drop-downs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. dropdowns, #3 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image275.webp"
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 I&apos;ve made my own example and we&apos;re going to look at it now, it&apos;s
 called responsive design drop downs. So, I&apos;ve taken the code that
@@ -7137,7 +7106,7 @@ purpose, because I really like to make the same mistakes that you guys
 possibly make.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 276.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 276. codepen - link to bootstrap javascript files (177) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image276.webp"
   style="width:60%"
@@ -7156,7 +7125,7 @@ So, while I haven&apos;t actually forgotten it as you may have, I did
 comment it out.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. codepen - add jquery (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image277.webp"
   style="width:60%"
@@ -8693,7 +8662,7 @@ the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 
-## Week 4-27. Interview with H N
+<h2>Interview with H N<h2>
 
 Hi everybody. Welcome back.
 
@@ -9006,7 +8975,7 @@ Codeschool has free course about DevTools:
 
 <https://www.codeschool.com/courses/discover-devtools>
 
-### Keep Learning with Michigan Online
+<h3>Keep Learning with Michigan Online</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. michigan online logo (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
