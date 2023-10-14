@@ -247,24 +247,19 @@ capstone project.
 <h3>Media Sizes (in Pixels)</h3>
 
 ```
-**@media (min-width:320px) { /* smartphones, iPhone, portrait
-480x320 phones */ }**
+@media (min-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ }
 
-**@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),**
+@media (min-width:481px) { /* portrait e-readers (Nook/Kindle),
+                              smaller tablets @ 600 or @ 640 wide. */ }
 
-**smaller tablets @ 600 or @ 640 wide. */ }**
+@media (min-width:641px) { /* portrait tablets, portrait iPad, landscape e-readers,
+                              landscape 800x480 or 854x480 phones */ }
 
-**@media (min-width:641px) { /* portrait tablets, portrait iPad,
-landscape e-readers,**
+@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops and desktops */ }
 
-**landscape 800x480 or 854x480 phones */ }**
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
 
-**@media (min-width:961px) { /* tablet, landscape iPad, lo-res
-  laptops and desktops */ }**
-**@media (min-width:1025px) { /* big landscape tablets, laptops, and
-desktops */ }**
-
-**@media (min-width:1281px) { /* hi-res laptops and desktops */ }**
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
 ```
 
 <h2 name="ch1">01. Style with Responsive Design</h2>
@@ -306,7 +301,7 @@ using fluid measurements in your CSS.
 
 -   CSS definitions of relative and absolute
 
-<h2 name="ch2">2. Basic Concepts</h2>
+<h2 name="ch2">02. Basic Concepts</h2>
 
 This week you will get a chance to put the theories into practice using
 media queries in your CSS. These queries can automatically detect the
@@ -335,12 +330,9 @@ sizes (&quot;viewports&quot;).
 
 -   Good examples of responsive design
 
-```{=html}
-<!-- -->
-```
 -   Week Two Review: Media Queries and breakpoints
 
-<h2 name="ch3">3. Use Existing Frameworks</h2>
+<h2 name="ch3">03. Use Existing Frameworks</h2>
 
 After every good programmer has put in time creating sites from scratch,
 it is common to utilize existing tools out there. After all, why
@@ -370,14 +362,11 @@ JavaScript yourself).
 
 -   Demystifying Bootstrap
 
-```{=html}
-<!-- -->
-```
 -   Week Three Review: Bootstrap
 
 -   Grid System Check
 
-<h2 name="ch4">4. Experiment!</h2>
+<h2 name="ch4">04. Experiment!</h2>
 
 This week is dedicated to solving those little issues that pop up when
 you move from theory to practice. We look at more advanced framework
@@ -410,7 +399,7 @@ in this course.
 
 -   Keep Learning with Michigan Online
 
-## Resources
+### Resources
 
 <h2 name="chb-4">b-4. Pixel to Em conversion tool</h2>
 
@@ -454,22 +443,19 @@ course.
   style="width:40%"
   alt="What this course will cover. The BASICS of Responsive Design." />
 
-Welcome to introduction to responsive design. In this course, we&apos;re
+<p>Welcome to introduction to responsive design. In this course, we&apos;re
 going to talk about different ways that you can make your website look
 the best it can possibly look. No matter if someone&apos;s viewing it on a
-phone, a laptop or a tablet.
-
-We&apos;re really going to cover the basics in this course and help you
+phone, a laptop or a tablet.</p>
+<p>We&apos;re really going to cover the basics in this course and help you
 develop a general understanding of what responsive design is and why you
 need to know it. We&apos;re going to talk about ways that you can customize
 your own site without using any special software to give it a really
-special look and feel.
-
-However, we also want to talk about using ***frameworks.***
-
-Because if other people are using software or different code to make
+special look and feel.</p>
+<p>However, we also want to talk about using <b><i>frameworks.</i></b></p>
+<p>Because if other people are using software or different code to make
 their site look great, why not take advantage of it and learn how to use
-it yourself.
+it yourself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. week 1 - theory (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -478,7 +464,7 @@ it yourself.
   alt="Week One: - Theory - What does responsive design mean? - 
     What makes for good design? - Role of fluid measurements." />
 
-In week **one**, we&apos;re really going to focus on the theory.
+In week <b>one</b>, we&apos;re really going to focus on the theory.
 
 The idea of what is responsive design.
 
@@ -505,7 +491,7 @@ changes.
     practices? - What is the relationship with break points? - How to make a navigation bar?" />
 </p>
 
-In week **two** we&apos;re going to tackle media queries.
+In week <b>two</b> we&apos;re going to tackle media queries.
 
 And this is the first time you&apos;re really going to get your hands really
 dirty with some code, and get things to work.
@@ -518,7 +504,7 @@ practice?
 It doesn&apos;t really do you any good to sit down and code without having a
 plan.
 
-In week **two**, we&apos;re going to talk about break points, how you can
+In week <b>two</b>, we&apos;re going to talk about break points, how you can
 decide what different screen sizes are the ones you really want to focus
 on.
 
@@ -536,7 +522,7 @@ really tackle this.
     Getting Started, grid system, and navigation."  />
 </p>
 
-In week **three**, we&apos;re going to shift a little bit and instead of
+In week <b>three</b>, we&apos;re going to shift a little bit and instead of
 writing our own code.
 
 We&apos;re going to start using different frameworks.
@@ -574,7 +560,7 @@ responsive feel.
   alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies." />
 </p>
 
-Finally, in week **four**, we&apos;re going to continue with more bootstrap,
+Finally, in week <b>four</b>, we&apos;re going to continue with more bootstrap,
 but we&apos;re going to talk about things such as images, tables, and maybe
 some advanced navigation techniques.
 
@@ -728,17 +714,17 @@ throughout this entire course.
 Three concepts that I want you to keep in the back of your mind.
 
 And I&apos;m hoping at the end of this course you&apos;ll be able to say, yeah,
-I think I&apos;ve got that, and the first one is called **media queries**,
+I think I&apos;ve got that, and the first one is called <b>media queries</b>,
 and what media queries do is that they can detect the view port size and
 other information about the device that the browser is on.
 
 The next thing that we&apos;re going to want to talk about is this idea of
-**flexible grid-based layout for relative sizing**.
+<b>flexible grid-based layout for relative sizing</b>.
 
 And relative means, depending on how large the screen is, that&apos;s how
 big your grid is going to be as well.
 
-And, finally we want to think about **flexible images**.
+And, finally we want to think about <b>flexible images</b>.
 
 All these things add up, so that when you go to the page, the user
 doesn&apos;t need to waste their time scrolling back and forth or trying to
@@ -1098,7 +1084,7 @@ when you create a completely separate page URL for the mobile site.
   style="width:40%"
   alt="RWD - Responsive Web Design." />
 
-First, let&apos;s talk about **responsive web design**. With the definition
+First, let&apos;s talk about <b>responsive web design</b>. With the definition
 that we&apos;re using, the test really is, are you getting back the same
 code regardless of the device that you&apos;re using?
 
@@ -1122,7 +1108,7 @@ many people think.
   style="width:40%"
   alt="" />
 
-The second type, **adaptive design**, means that the server figures out
+The second type, <b>adaptive design</b>, means that the server figures out
 what kind of device you&apos;re running on and then returns specific HTML
 and CSS for that page. So, you can get completely different code
 depending upon what device you&apos;re using.
@@ -1140,8 +1126,8 @@ return the wrong code if the wrong device type is detected.
   style="width:40%"
   alt="" />
 
-That third option of having a **dedicated mobile site**, or **a .m
-URL**, means that you&apos;re going to get a different page completely on a
+That third option of having a <b>dedicated mobile site</b>, or <b>a .m
+URL</b>, means that you&apos;re going to get a different page completely on a
 completely different URL when you&apos;re using this approach. It&apos;s
 incredibly popular and you&apos;re going to see it very often.
 
@@ -3194,12 +3180,12 @@ simpler to manage from the developers&apos; perspective.
 
 The definition for JAMstack:
 
--   **J** for JavaScript - the language used to write front-end
+-   <b>J</b> for JavaScript - the language used to write front-end
     functions.
 
--   **A** for API - requesting content (data) from third-party services.
+-   <b>A</b> for API - requesting content (data) from third-party services.
 
--   **M** for Markup - structuring the content on the web page.
+-   <b>M</b> for Markup - structuring the content on the web page.
 
 As for stack, it&apos;s the combination of tools you&apos;re using. JAMstack can
 be used with any framework and service combination, so as long as it
@@ -3263,7 +3249,7 @@ section.
   </li>
 </ul>
 
--   **Animations**
+-   <b>Animations</b>
 
 > [People love animations](https://kinsta.com/blog/wordpress-gifs/), and
 > you can leverage them to make your web page interactive and more
@@ -3272,7 +3258,7 @@ section.
 
 *Examples: Anime.js, JSTweener*
 
--   **Image Effects**
+-   <b>Image Effects</b>
 
 > Users can add effects to images and make them stand out using JS
 > libraries. Effects include blurring, lightening, embossing,
@@ -3281,7 +3267,7 @@ section.
 
 *Examples: ImageFX, Reflection.js*
 
--   **Fonts**
+-   <b>Fonts</b>
 
 > Users can incorporate [any font they
 > wish](https://kinsta.com/blog/modern-fonts/) to make their web page
@@ -3289,7 +3275,7 @@ section.
 
 *Examples: typeface.js*
 
--   **Math and String Functions**
+-   <b>Math and String Functions</b>
 
 > Adding mathematical expressions, date, time, and strings can be
 > tricky. For example, a date consists of many formats, slashes, and
@@ -3301,7 +3287,7 @@ section.
 
 *Examples: Date.js, Sylvester, JavaScript URL Library*
 
--   **User Interface and Its Components**
+-   <b>User Interface and Its Components</b>
 
 > You can provide a [better user
 > experience](https://kinsta.com/blog/website-usability-testing/) via
@@ -3484,7 +3470,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Provides a set of components that are pre-built and customizable</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized">React Virtualized</a>) --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized">React Virtualized</a> --</h4>
     <p>If you are working on an application that is data-heavy in the front end, 
 	React Virtualized should be your choice. Virtualized has a set of reusable, 
 	lightweight components that can render large datasets efficiently.<br>
@@ -4767,7 +4753,7 @@ or executed.
 <!-- {width="1.0in" height="1.0in"} -->
 </p>
 
-**Moment.js** is a JavaScript package that makes it simple to parse,
+<b>Moment.js</b> is a JavaScript package that makes it simple to parse,
 validate, manipulate, and display date/time in JavaScript. It allows you
 to display dates in a human-readable way based on your location. It can
 be used in a browser using the script approach. Moment.js is also
@@ -4834,7 +4820,7 @@ these can be generically described as a &quot;popper&quot; element.
   alt="Code Sandbox.io." />
 <!-- {width="7.0in" height="2.6264971566054243in"} -->
 <a href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement">
-&lt;https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement&gt;</a>
+<subs>&lt;https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement&gt;</subs></a>
 <!-- {width="6.5in" height="2.60625in"} -->
 </p>
 
@@ -4903,7 +4889,7 @@ The [Todo RESThub
 example](https://github.com/resthub/todo-backbone-example) project is
 the reference example project using this stack.
 
-For more documentation on Backbone Stack, try
+For more documentation on <a href="https://resthub.github.io/docs/backbone/layout/">Backbone Stack</a>, try
 <https://resthub.github.io/docs/backbone/layout/>.
 
 <h2 name="ch22">22 -- SemanticUI</h2>
@@ -4943,7 +4929,7 @@ frameworks to help organize UI layer alongside application logic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. semantic ui (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image169.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="Semantic UI." />
 <!-- {width="4.0in" height="2.674786745406824in"} -->
 </p>
@@ -4951,13 +4937,13 @@ frameworks to help organize UI layer alongside application logic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. semantic ui website theme (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image170.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="Semantic UI Website theme." />
 <!-- {width="4.0in" height="2.1465813648293963in"} -->
 </p>
-<sub>Example Semantic UI website theme.</sub>
+<p style="align:center"><sub>Example Semantic UI website theme.</sub></p>
 
-For more information go to <https://semantic-ui-forest.com/>.
+For more information go to <a href="https://semantic-ui-forest.com/">Semantic UI Forest</a>.
 
 <h2 name="ch23">23 -- Gatsby</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5927,8 +5913,8 @@ Bootstrap grid system.
 
 ### Three equal columns
 
-Get three equal-width columns **starting at desktops and scaling to
-large desktops**. On mobile devices, tablets and below, the columns will
+Get three equal-width columns <b>starting at desktops and scaling to
+large desktops</b>. On mobile devices, tablets and below, the columns will
 automatically stack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5940,8 +5926,8 @@ automatically stack.
 </p>
 <!-- {width="6.5in" height="0.3111111111111111in"} -->
 
-Get three columns **starting at desktops and scaling to large
-desktops** of various widths. Remember, grid columns should add up to
+Get three columns <b>starting at desktops and scaling to large
+desktops</b> of various widths. Remember, grid columns should add up to
 twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
 
@@ -5954,7 +5940,7 @@ stacking no matter the viewport.
 </p>
 <!-- {width="6.5in" height="0.3111111111111111in"} -->
 
-Get two columns **starting at desktops and scaling to large desktops**.
+Get two columns <b>starting at desktops and scaling to large desktops</b>.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 221. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5970,8 +5956,8 @@ No grid classes are necessary for full-width elements.
 ### Two columns with two nested columns
 
 Per the documentation, nesting is easy---just put a row of columns
-within an existing column. This gives you two columns **starting at
-desktops and scaling to large desktops**, with another two (equal
+within an existing column. This gives you two columns <b>starting at
+desktops and scaling to large desktops</b>, with another two (equal
 widths) within the larger column.
 
 At mobile device sizes, tablets and down, these columns and their nested
@@ -6352,7 +6338,7 @@ still hit multiple break points.
 <p align="center" width="100%">
 <img src="./images/image248.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Bootstrap is mobile first." />
 </p>
 
 It&apos;s actually quite possible to write even easier or cleaner code than
@@ -8837,7 +8823,7 @@ This is an interesting article on the evolution of the Airbnb website.
 I think one of the reasons I find it interesting is that the CodeAcademy
 CSS tutorial actually uses a similar platform to teach about Bootstrap.
 
-***This material is not required for the course.***
+<b>*This material is not required for the course.***
 
 <h3 name="chb-11">Debugging your style with Firebug</h3>
 
