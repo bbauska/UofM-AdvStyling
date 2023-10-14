@@ -7217,7 +7217,6 @@ current trends. You can&apos;t live in a bubble.
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 
 <h2 name="ch4-1">4-01. Responsive Images</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 283. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7279,7 +7278,7 @@ you start setting the width on images, you might be wondering if you
 should be setting the height as well. In general, you do not, because
 what&apos;s going to happen is it&apos;s going to skew.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. your own code, #3 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. your own code, #3 (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image286.webp"
   style="width:40%"
@@ -7290,7 +7289,7 @@ what&apos;s going to happen is it&apos;s going to skew.
 You can&apos;t get it exactly right. So usually, you just set the height to
 auto or leave it along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. using bootstrap (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. using bootstrap (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image287.webp"
   style="width:40%"
@@ -7328,7 +7327,7 @@ similar to the code we were talking about, if you wanted to put it in
 yourself. Let&apos;s look at those other classes as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. codepen - single image (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. codepen - single image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image289.webp"
   style="width:60%"
@@ -7364,7 +7363,7 @@ Width: 75%;
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291. re-size and change image (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image291.webp"
   style="width:60%"
@@ -7379,7 +7378,7 @@ can see that the picture of Bacon is actually changing. This is great,
 this is exactly the kind of responsive behavior that we want to see.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292.  (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image292.webp"
   style="width:60%"
@@ -7397,11 +7396,11 @@ this one, you can see that now when I re-size it, again, great
 responsive behavior.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. image responsive bootstrap (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image293.webp"
   style="width:60%"
-  alt="." />
+  alt="Image responsive bootstrap." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7410,11 +7409,11 @@ image rounded. And, it&apos;s probably barely perceptible to you, but you
 can have this little tiny curving, right here, curved just a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. rounded image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image294.webp"
   style="width:60%"
-  alt="." />
+  alt="Rounded image." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7423,11 +7422,11 @@ happens. And as you can see, it really just cuts off part of the
 pictures, so you can have that circle look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. image thumbnail (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image295.webp"
   style="width:60%"
-  alt="." />
+  alt="Image thumbnail." />
 </p>
 <!-- ![](images/image295.webp){width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7446,11 +7445,11 @@ thicker border, so you all could have seen it. But in many cases,
 you&apos;re really happy with the defaults. Let&apos;s look at one more example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 296. giving 7 images - 6 on row 1, 1 on row 2 (194) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image296.webp"
   style="width:60%"
-  alt="." />
+  alt="Seven images on two rows.  6 on row 1, 1 on row 2." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7462,15 +7461,15 @@ pictures. I combine these with the thumbnail class to really have a kind
 of cool gallery effect.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 297. div container row with 7 images (195) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image297.webp"
   style="width:60%"
-  alt="." />
+  alt="Div container row with 7 images." />
 </p>
 <!-- {width="6.0in" height="3.4191174540682416in"} -->
 
-So let me start by showing you the code. It&apos;s really simple. Kind of
+Let's start by showing you the code. It&apos;s really simple. Kind of
 quick. Every single line says this same exact thing. It simply, I give
 the name of the file, and then I have class column small 6, that means
 when I&apos;m on a small screen, each picture should take up 6 columns.
@@ -7484,11 +7483,11 @@ to the side. Well, I actually put it there because I wanted to show that
 there were one, two, three, four, five, six. All right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. small screen, 1 image (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image298.webp"
   style="width:60%"
-  alt="." />
+  alt="On small screen, 1 image." />
 </p>
 <!-- {width="6.0in" height="6.9375in"} -->
 
@@ -8084,7 +8083,7 @@ that, again, they&apos;re listing a bunch of free Bootstrap themes. They
 tend to go in these general ideas of, do you want it to be a landing
 zone, do you want it to have kind of a dashboard look, you can pick.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. landing zone theme (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. landing zone theme (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image324.webp"
   style="width:80%"
@@ -8099,7 +8098,7 @@ mobile view, as well as well as different views. It can talk about
 different things that you use. Different keywords, we use Bootstrap and
 the grid, and we use a form, and we have a video background.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325. simple one page design (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325. simple one page design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image325.webp"
   style="width:60%"
@@ -8112,9 +8111,9 @@ look like? So let&apos;s hit this preview button right down here. And
 quickly you can see what the page would look like on the different
 platforms.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 326. simple one page design (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 335. simple one page design (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image326.webp"
+<img src="/images/image335.webp"
   style="width:40%"
   alt="Simple one page design." />
 </p>
@@ -8126,9 +8125,9 @@ what do you with it if you really like it? What you do is they always
 offer this download option right here. And you can download the code and
 then start playing with it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 327. start bootstrap themes and templates (203) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 336. start bootstrap themes and templates (221) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image327.webp"
+<img src="/images/image336.webp"
   style="width:40%"
   alt="Start Bootstrap themes and templates." />
 </p>
@@ -8143,9 +8142,9 @@ to help them become better programmers.
 
 So again, they break it down in different ideas.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 328. bootstrap download and preview blog example (203) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 337. bootstrap download and preview blog examples (222) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image328.webp"
+<img src="/images/image337.webp"
   style="width:60%"
   alt="Bootstrap download and preview blog example." />
 </p>
@@ -8157,9 +8156,9 @@ really like about them, but they might have some things that you don&apos;t
 like about them as well. So how do we use them? I mentioned that one of
 the things you can do is you can just download the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 329. bootstrap template examples (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 338. how do you use them (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image329.webp"
+<img src="/images/image338.webp"
   style="width:40%"
   alt="Bootstrap template examples." />
 </p>
@@ -8184,11 +8183,11 @@ that basic understanding, you&apos;re really left at the mercy of other
 people. When you know a little bit, it can really help you make huge
 changes in the templates.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. how to use bootstrap templates (204) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. that's it (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image330.webp"
+<img src="/images/image339.webp"
   style="width:40%"
-  alt="How to use Bootstrap Templates." />
+  alt="That is it." />
 </p>
 
 The last thing you&apos;re going to with the modify HTML is add or remove
@@ -8202,9 +8201,9 @@ okay. You can go in and just remove the parts that you don&apos;t want. If
 you&apos;re feeling really powerful, you can also go in and add parts that
 you do want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. that's it - bootstrap (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. that's it - bootstrap (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image331.webp"
+<img src="/images/image339.webp"
   style="width:40%"
   alt="That's it - Bootstrap Template." />
 </p>
@@ -8727,13 +8726,16 @@ So, thank you very much.
 
 <h2 name="ch4-5">4-05. Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 333/334. bootstrap 5 & 4 logos (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 340/341/342. bootstrap 5 & 4 logos (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image333.webp?raw=true"
-  style="width:40%"
+<img src="./images/image340.webp?raw=true"
+  style="width:25%"
   alt="Logos for Bootstrap 5 and 4." />
-<img src="./images/image334.webp?raw=true"
-  style="width:40%"
+<img src="./images/image341.webp?raw=true"
+  style="width:25%"
+  alt="Logos for Bootstrap 5 and 4." />
+<img src="./images/image342.webp?raw=true"
+  style="width:25%"
   alt="Logos for Bootstrap 5 and 4." />
 </p>
 Hi, everybody. Let&apos;s talk about Bootstrap 4 and 5. In this class I&apos;ve
@@ -8843,9 +8845,9 @@ Codeschool has free course about DevTools:
 
 <h3>Keep Learning with Michigan Online</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. michigan online logo (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 343. michigan online logo (237) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image332.webp"
+<img src="/images/image343.webp"
   style="width:30%"
   alt="Michigan Online Logo." />
 </p>
