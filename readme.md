@@ -1106,7 +1106,7 @@ many people think.
 <p align="center" width="100%">
 <img src="./images/image033.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Adaptive design." />
 
 The second type, <b>adaptive design</b>, means that the server figures out
 what kind of device you&apos;re running on and then returns specific HTML
@@ -1124,7 +1124,7 @@ return the wrong code if the wrong device type is detected.
 <p align="center" width="100%">
 <img src="./images/image034.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Separate URL." />
 
 That third option of having a <b>dedicated mobile site</b>, or <b>a .m
 URL</b>, means that you&apos;re going to get a different page completely on a
@@ -1146,7 +1146,7 @@ is the same type of information just on different URLs.
 <p align="center" width="100%">
 <img src="./images/image035.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Why RWD?" />
 
 So why am I stressing responsive web design?
 
@@ -1192,7 +1192,7 @@ Additional best practices for separate URLs;
 <p align="center" width="100%">
 <img src="./images/image036.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Additional best practices." />
 <!-- {width="7.5in" height="4.358975284339458in"} -->
 
 <h2 name="chb-3">b-3. Fluid Measurements: Background readings</h2>
@@ -1290,7 +1290,7 @@ them.
 <p align="center" width="100%">
 <img src="./images/image039.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Relative measurements." />
 <!-- {width="4.0in" height="2.2376071741032373in"} -->
 
 So, let&apos;s start with percent. Percentage values are always relative to
@@ -1312,7 +1312,7 @@ smaller. Let me show you an example.
 <p align="center" width="100%">
 <img src="./images/image040.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Relative measurements, #2." />
 <!-- {width="4.0in" height="2.252564523184602in"} -->
 
 Let&apos;s assume we&apos;re going to set something up to be 0.5em and it&apos;s
@@ -1335,7 +1335,7 @@ lot of things embedded inside the other.
 <p align="center" width="100%">
 <img src="./images/image39..webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Relative measurements, #3." />
 <!-- ![](images/image039.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 Now, the problem with teaching and learning about relative measurements,
@@ -1356,7 +1356,7 @@ font stays the exact same size. Same if the screen gets smaller.
 <p align="center" width="100%">
 <img src="./images/image041.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Relative measurements, #4." />
 <!-- ![](images/image041.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 Two of the newer relative measurements are based on the viewport. vw
@@ -1377,7 +1377,7 @@ specific positions.
 <p align="center" width="100%">
 <img src="./images/image042.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Review." />
 <!-- ![](images/image042.webp){width="4.0in" height="2.241025809273841in"} -->
 
 Now, there are times that you&apos;re going to want to hardcode values with
@@ -1404,7 +1404,7 @@ with me while I code it.
 <p align="center" width="100%">
 <img src="./images/image043.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Fluid measurements, #1." />
 <!-- ![](images/image043.webp){width="6.0in" height="2.3493591426071743in"} -->
 
 So, let&apos;s do an example as we go from static or absolute measurements
@@ -1455,7 +1455,7 @@ let&apos;s just wing it a little bit.
 <p align="center" width="100%">
 <img src="./images/image044.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Fluid measurements, #2." />
 <!-- ![](images/image044.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 I&apos;m going to make it so I can see my code. And the first thing I&apos;m
@@ -1468,7 +1468,7 @@ which is the width of this main part. Saying that I always want it to be
 <p align="center" width="100%">
 <img src="./images/image045.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Fluid measurements, #3." />
 <!-- ![](images/image045.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 Instead, let&apos;s use percent here, and say I want this to take up, let&apos;s
@@ -1481,7 +1481,7 @@ happen, but a little. I&apos;ll resize it again.
 <p align="center" width="100%">
 <img src="./images/image046.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Measurements, #4." />
 <!-- ![](images/image046.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 You can see that my paragraph down here still fits, but the columns just
@@ -1494,7 +1494,7 @@ page is responsive, let&apos;s work on those columns.
 <p align="center" width="100%">
 <img src="./images/image047.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Fluid measurements." />
 <!-- ![](images/image047.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 Here, I&apos;ve set them to 300 pixels. Let&apos;s change that. Since I have
@@ -1509,8 +1509,8 @@ it small, the columns are still together. This is really good.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48. fluid measurements (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image048.webp?raw=true"
-  style="width:40%"
-  alt="" />
+  style="width:60%"
+  alt="Fluid measurements." />
 <!-- ![](images/image048.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 The last thing I&apos;m going to change, I&apos;m going to go ahead and change
@@ -1551,27 +1551,25 @@ Completed;
       content columns is set to 300px. What could go wrong?</p>
 18. <div class="column">
 19. <h2>Content</h2>
-20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-      eget lacinia odio sem nec elit.</p>
+20. <p>Even the gateway to the grid is expected to be large and soft. He wanted to 
+put a complete set before the poisoned protein trucks. Aenean football team. 
+Children decorate the same lacinia as the venetian vestibule.Home.</p>
 21. </div>
 22. <div class="column">
 23. <h2>Content</h2>
-24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-      eget lacinia odio sem nec elit.</p>
+24. <p>It also has a large soft grid door. Integer acrobatics
+there was a poisonous bikes in front of him, and he was willing to put a bit. I have read
+how. It is better to wear vintage clothing than to wear vintage clothing.
+It's not comfortable, but it was an innovative radar,
+i hate myself with no elite.</p>
 25. </div>
 26. <div class="column">
 27. <h2>Content</h2>
-28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-     Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-     eget lacinia odio sem nec elit.</p>
+28. <p>It also has a large soft grid door. Integer acrobatics
+there was a poisonous bikes in front of him, and he was willing to put a bit. I have read
+how. It is better to wear vintage clothing than to wear vintage clothing.
+It's not comfortable, but it was an innovative radar,
+i hate myself with no elite.</p>
 29. </div>
 30. </main>  <!-- .row -->
 31. </body>
@@ -1621,7 +1619,7 @@ Hi everybody. Today we are going to talk about Media queries.
 <p align="center" width="100%">
 <img src="./images/image049.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Media queries." />
 <!-- ![](images/image049.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Media queries are going to allow us to adjust the style of out webpages,
@@ -1639,7 +1637,7 @@ here&apos;s an example.
 <p align="center" width="100%">
 <img src="./images/image050.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Media queries, again." />
 <!-- ![](images/image050.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Right here the style sheet style is only going to apply when the content
@@ -1661,7 +1659,7 @@ depending upon the platform.
 <p align="center" width="100%">
 <img src="./images/image051.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="css3." />
 <!-- ![](images/image051.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 With CSS3, we have even more capabilities because the style can depend
@@ -1695,7 +1693,7 @@ looking for very specific width, height, orientation or resolution.
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
-  alt="The two query components." />
+  alt="The two query components, again." />
 <!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Here&apos;s an example for you right here.
@@ -1716,7 +1714,7 @@ There are three ways to implement media queries.
 <p align="center" width="100%">
 <img src="./images/image053.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="How to implement media queries, #1." />
 <!-- ![](images/image053.webp){width="4.0in" height="2.260255905511811in"} -->
 
 The first is to use the import rule. Inside your CSS, you would use
@@ -1730,7 +1728,7 @@ we would want to use smallstyle.css.
 <p align="center" width="100%">
 <img src="./images/image054.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="How to implement media queries, #2." />
 <!-- ![](images/image054.webp){width="4.0in" height="2.260255905511811in"} -->
 
 The second approach is to put the media query directly in the style
@@ -1745,7 +1743,7 @@ file.
 <p align="center" width="100%">
 <img src="./images/image055.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="How to implement media queries, #3." />
 <!-- ![](images/image055.webp){width="4.0in" height="2.260255905511811in"} -->
 
 The third approach is to include the query in the actual link in the
@@ -1758,7 +1756,7 @@ our HTML link tag.
 <p align="center" width="100%">
 <img src="./images/image056.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="How to implement media queries, #4." />
 <!-- ![](images/image056.webp){width="4.0in" height="2.260255905511811in"} -->
 
 In general, I&apos;m going to always stick to the second approach; Put media
@@ -1771,7 +1769,7 @@ feel free to play with all three of these different approaches.
 <p align="center" width="100%">
 <img src="./images/image057.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Review." />
 <!-- ![](images/image057.webp){width="4.0in" height="2.260255905511811in"} -->
 
 Let&apos;s review for just a second to make sure that we&apos;re on the same
@@ -1804,7 +1802,7 @@ Hey everybody, welcome back. Let&apos;s go look at some code together.
 <p align="center" width="100%">
 <img src="./images/image058.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Fluid measurements, #1." />
 <!-- ![](images/image058.webp){width="6.0in" height="3.362179571303587in"} -->
 
 What we&apos;re looking at here is an example from when we first learned
@@ -1818,7 +1816,7 @@ now, the three columns are fine.
 <p align="center" width="100%">
 <img src="./images/image059.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Code with me, narrow." />
 <!-- ![](images/image059.webp){width="6.0in" height="3.362179571303587in"} -->
 
 But when we get smaller, right here, it really doesn&apos;t make sense to
@@ -1833,7 +1831,7 @@ So, let&apos;s take a look at how we can make that change together.
 <p align="center" width="100%">
 <img src="./images/image060.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Fluid measurements." />
 <!-- ![](images/image060.webp){width="6.0in" height="3.0724365704286964in"} -->
 
 The first thing that we need to look at is what these columns are. And
@@ -1910,27 +1908,27 @@ Completed;
       content columns is set to 300px. What could go wrong?</p>
 18. <div class="column">
 19. <h2>Content</h2>
-20. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-      eget lacinia odio sem nec elit.</p>
+20. <p>It also has a large soft grid door. Integer acrobatics
+there was a poisonous bikes in front of him, and he was willing to put a bit. I have read
+how. It is better to wear vintage clothing than to wear vintage clothing.
+It's not comfortable, but it was an innovative radar,
+i hate myself with no elite..</p>
 21. </div>
 22. <div class="column">
 23. <h2>Content</h2>
-24. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-      eget lacinia odio sem nec elit.</p>
+24. <p>It also has a large soft grid door. Integer acrobatics
+there was a poisonous bikes in front of him, and he was willing to put a bit. I have read
+how. It is better to wear vintage clothing than to wear vintage clothing.
+It's not comfortable, but it was an innovative radar,
+i hate myself with no elite.</p>
 25. </div>
 26. <div class="column">
 27. <h2>Content</h2>
-28. <p>Etiam porta sem malesuada magna mollis euismod. Integer posuere
-      erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo
-      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-      eget lacinia odio sem nec elit.</p>
+28. <p>It also has a large soft grid door. Integer acrobatics
+there was a poisonous bikes in front of him, and he was willing to put a bit. I have read
+how. It is better to wear vintage clothing than to wear vintage clothing.
+It's not comfortable, but it was an innovative radar,
+i hate myself with no elite.</p>
 29. </div>
 30. </main>  <!-- .row -->
 31. </body>
@@ -1990,11 +1988,11 @@ visual representation of your layout. This is what you&apos;re going to use
 when you decide it&apos;s time to start coding.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60r. wireframes.howcase.com (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60r. wireframe.showcase.com (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060r.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="wireframe.showcase.com." />
 </p>
 What do I mean by a wireframe? Let me show you a few examples. Right
 here, I&apos;m at a site called wireframeshowcase.com.
@@ -2003,7 +2001,7 @@ here, I&apos;m at a site called wireframeshowcase.com.
 <p align="center" width="100%">
 <img src="./images/image060s.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="wireframeshowcase.com, #2." />
 </p>
 
 And If you scroll through the page, kind of up and down, you can see that you see 
@@ -2014,7 +2012,7 @@ sketches underneath them.
 <p align="center" width="100%">
 <img src="./images/image060t.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="wireframeshowcase.com, #3." />
 </p>
 
 Let&apos;s go back up to the first one. Up here I&apos;m going to go ahead and
@@ -2027,7 +2025,7 @@ to look like when it&apos;s set out on the screen.
 <p align="center" width="100%">
 <img src="./images/image060u.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="wireframeshowcase.com, #4." />
 </p>
 But when I&apos;ve come off
 just a little bit, you can see that all those visual representations are
@@ -2370,7 +2368,7 @@ example.
 <p align="center" width="100%">
 <img src="./images/image069.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Easier watched than done." />
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
@@ -2866,10 +2864,10 @@ responsive design:</a>
       <p>This is a separate section that will hold the content for each
         page. The next paragraph is just filler text. It doesn't mean
         anything.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
-        temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
-        quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
-       dolorum commodi magni.</p>
+      <p>Thank you for your interest in our company, the main aircraft. Khan,
+	    temporary, guilt! I want to stop the volcanoes from doing this. Muhammad
+		please, let me know if there is any work that you can do, ratify, or 
+		choose to do.  dolores mcdonald.</p>
     </section>
   </body>
 </html>
