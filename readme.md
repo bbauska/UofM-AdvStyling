@@ -2346,7 +2346,7 @@ If you see them using max-width instead of min-width in their rules,
 that means they did not design for mobile first and you might need to
 move things around. But as I mentioned at the beginning of this lecture,
 today, I really just wanted to talk about these key words.
-***Breakpoints, triggering, mobile first***. You won&apos;t really get a
+<b><i>Breakpoints, triggering, mobile first</i></b>. You won&apos;t really get a
 good feel for them until you&apos;ve had the time to write some code
 yourself. So don&apos;t worry if you're not familiar with them at first. But
 make sure you're constantly thinking back, hey, what does a breakpoint
@@ -3191,8 +3191,8 @@ As for stack, it&apos;s the combination of tools you&apos;re using. JAMstack can
 be used with any framework and service combination, so as long as it
 follows the JAM structure.
 
-***Learn more:** [Jamstack.org](https://jamstack.org/) // [WTF is
-Jamstack?](https://jamstack.wtf/)*
+<b><i>Learn more:</i> [Jamstack.org](https://jamstack.org/) // [WTF is
+Jamstack?](https://jamstack.wtf/)</b>
 
 <h2>Top Front-end Frameworks & Libraries for 2023</h2>
 
@@ -3216,23 +3216,23 @@ section.
 <ul>
   <li>Data Visualization in Maps and Charts<br>
     <p><a href="https://kinsta.com/blog/data-visualization-tools/">Data Visualization</a> in 
-    applications is crucial for users to view the statistics clearly in the admin panel, 
-	dashboards, performance metrics, and more.<br>
-    Presenting these <a href="https://kinsta.com/blog/wordpress-charts/">
-	data in charts and maps</a> helps you analyze that data easily and make informed 
-	business decisions.</p>
+      applications is crucial for users to view the statistics clearly in the admin panel, 
+	  dashboards, performance metrics, and more.<br>
+      Presenting these <a href="https://kinsta.com/blog/wordpress-charts/">
+	  data in charts and maps</a> helps you analyze that data easily and make informed 
+	  business decisions.</p>
     <i>Examples: Chart.js, Apexcharts, Algolia Places</i>
   </li>
   <li>DOM Manipulation<br>
     <p><a href="https://kinsta.com/blog/critical-rendering-path/#the-dom">Document Object Model (DOM)</a> 
-    represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
-	You can change its content, style, and structure.</p>
+      represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
+	  You can change its content, style, and structure.</p>
     <i>Examples: [jQuery](https://kinsta.com/knowledgebase/what-is-jquery/), Umbrella JS</i>
   </li>
   <li>Data Handling<br>
     <p>With the enormous amounts of data that businesses now deal with daily, handling 
-    and managing them properly is essential. Using a JavaScript library makes it 
-    easier to handle a document following its content while adding more interactivity.</p>
+      and managing them properly is essential. Using a JavaScript library makes it 
+      easier to handle a document following its content while adding more interactivity.</p>
     <i>Examples: D3.js</i>
   </li>
   <li>Database<br>
@@ -3243,58 +3243,44 @@ section.
   </li>
   <li>Forms<br>
     <p>Use JS libraries to <a href="https://kinsta.com/blog/wordpress-contact-form-plugins/">
-	simplify form functions</a>, including form validation, synchronization, handling, 
-	conditional capabilities, field controls, transforming layouts, and more.</p>
+	  simplify form functions</a>, including form validation, synchronization, handling, 
+	  conditional capabilities, field controls, transforming layouts, and more.</p>
     <i>Examples: wForms, LiveValidation, Validanguage, qForms</i>
   </li>
+  <li>Animations<br>
+    <p><a href="https://kinsta.com/blog/wordpress-gifs/">People love animations</a>, and
+      you can leverage them to make your web page interactive and more engaging. Adding 
+	  micro-interactions and animations is easy by using JavaScript libraries.</p>
+    <i>Examples: Anime.js, JSTweener</i>
+  </li>
+  <li>Image Effects</br>
+    <p>Users can add effects to images and make them stand out using JS libraries. 
+	  Effects include blurring, lightening, embossing, sharpening, grayscale, saturation, 
+	  hue, adjusting contrast, flipping, inverting, reflection, and so on.</p>
+    <i>Examples: ImageFX, Reflection.js</i>
+  </li>
+  <li>Fonts<br>
+    <p>Users can incorporate <a href="https://kinsta.com/blog/modern-fonts/">
+	  any font they wish</a> to make their web page more compelling based on the 
+	  content type.</p>
+    <i>Examples: typeface.js</i>
+  </li>
+  <li>Math and String Functions<br>
+    <p>Adding mathematical expressions, date, time, and strings can be tricky. 
+	  For example, a date consists of many formats, slashes, and dots to make things 
+	  complex for you. The same holds when it comes to matrices and vectors.<br>
+      Use JavaScript libraries to simplify these complexities in addition to 
+	  manipulating and handling URLs effortlessly.</p>
+    <i>Examples: Date.js, Sylvester, JavaScript URL Library</i>
+  </li>
+  <li>User Interface and Its Components<br>
+    <p>You can provide a <a href="https://kinsta.com/blog/website-usability-testing/">
+	  better user experience</a> via web pages by making them more responsive and 
+	  dynamic, decreasing the number of DOM operations, boosting page speed, and 
+	  so forth.</p>
+    <i>Examples: ReactJS, Glimmer.js</i>
+  </li>
 </ul>
-
--   <b>Animations</b>
-
-> [People love animations](https://kinsta.com/blog/wordpress-gifs/), and
-> you can leverage them to make your web page interactive and more
-> engaging. Adding micro-interactions and animations is easy by using
-> JavaScript libraries.
-
-*Examples: Anime.js, JSTweener*
-
--   <b>Image Effects</b>
-
-> Users can add effects to images and make them stand out using JS
-> libraries. Effects include blurring, lightening, embossing,
-> sharpening, grayscale, saturation, hue, adjusting contrast, flipping,
-> inverting, reflection, and so on.
-
-*Examples: ImageFX, Reflection.js*
-
--   <b>Fonts</b>
-
-> Users can incorporate [any font they
-> wish](https://kinsta.com/blog/modern-fonts/) to make their web page
-> more compelling based on the content type.
-
-*Examples: typeface.js*
-
--   <b>Math and String Functions</b>
-
-> Adding mathematical expressions, date, time, and strings can be
-> tricky. For example, a date consists of many formats, slashes, and
-> dots to make things complex for you. The same holds when it comes to
-> matrices and vectors.
->
-> Use JavaScript libraries to simplify these complexities in addition to
-> manipulating and handling URLs effortlessly.
-
-*Examples: Date.js, Sylvester, JavaScript URL Library*
-
--   <b>User Interface and Its Components</b>
-
-> You can provide a [better user
-> experience](https://kinsta.com/blog/website-usability-testing/) via
-> web pages by making them more responsive and dynamic, decreasing the
-> number of DOM operations, boosting page speed, and so forth.
-
-<i>Examples: ReactJS, Glimmer.js</i>
 
 <p>And those are just the most common use cases. Other uses of JavaScript
 libraries include:</p>
@@ -3317,10 +3303,10 @@ libraries include:</p>
 
 -   And many more.
 
-<p>The following segment of this article is dedicated entirely to the
-frameworks themselves. The list goes down in accordance with the
-rankings we saw earlier. I have provided a general overview of each of
-the frameworks, as well as links to GitHub and the framework&apos;s website.</p>
+<p>The following segment of this article is dedicated entirely to the frameworks 
+themselves. The list goes down in accordance with the rankings we saw earlier. I 
+have provided a general overview of each of the frameworks, as well as links to 
+GitHub and the framework&apos;s website.</p>
 
 <h2 name="ch01">01 -- React</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5560,7 +5546,7 @@ want to use, not something that you feel confined by.
     fours things and you&apos;ll be able to really code and understand the
     things that are coming up.
 
-<h2 name="ch3-6">3-06. Getting Started with Twitter Bootstrap</h2>
+<h2 name="ch3-3b">3-03b. Getting Started with Twitter Bootstrap</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6761,9 +6747,9 @@ you use the tabs, it&apos;s supposed to simulate that kind of look you see
 in a file tabbing system where you kind of flip through.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268. more html for nav bars (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. more html for nav bars (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image268.webp"
+<img src="/images/image277.webp"
   style="width:40%"
   alt="More HTML for navigation bars." />
 </p>
@@ -6783,9 +6769,9 @@ or tabs. It&apos;s just a design decision that you want to make a little bit
 early on.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269. making a navigation bar (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. making a navigation bar (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image269.webp"
+<img src="/images/image278.webp"
   style="width:40%"
   alt="." />
 </p>
@@ -6799,9 +6785,9 @@ go ahead and just use the nav-pills code. When I go back up to that
 unordered list element, I have that it should be nav in nav pills.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 270. html navigation bar - vertical (172) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 279. html navigation bar - vertical (172) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image270.webp"
+<img src="/images/image279.webp"
   style="width:40%"
   alt="." />
 </p>
@@ -6811,9 +6797,9 @@ horizontal, I want to change it, so that it&apos;s vertical or stacked. This
 simple class completely changes the look of our page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 271. codepen - html nav bar - horizontal (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 280. codepen - html nav bar - horizontal (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image271.webp"
+<img src="/images/image280.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -6828,9 +6814,9 @@ about nav-justified is that when you resize the window, it actually
 changes the look of the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 272. codepen - html nav bar - vertical (174) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 281. codepen - html nav bar - vertical (174) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image272.webp"
+<img src="/images/image281.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -6842,9 +6828,9 @@ So, on the small view, you go to stacks. On the larger views, you&apos;re
 horizontal.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. dropdowns (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. dropdowns (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image273.webp"
+<img src="/images/image282.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -6924,9 +6910,9 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274. dropdowns, #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. dropdowns, #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image274.webp"
+<img src="/images/image283.webp"
   style="width:40%"
   alt="." />
 </p>
@@ -6934,9 +6920,9 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 The example on Bootstrap is called pills with drop-downs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. dropdowns, #3 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284. dropdowns, #3 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image275.webp"
+<img src="/images/image284.webp"
   style="width:40%"
   alt="." />
 </p>
@@ -6978,9 +6964,9 @@ purpose, because I really like to make the same mistakes that you guys
 possibly make.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 276. codepen - link to bootstrap javascript files (177) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 285. codepen - link to bootstrap javascript files (177) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image276.webp"
+<img src="/images/image285.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -6997,9 +6983,9 @@ So, while I haven&apos;t actually forgotten it as you may have, I did
 comment it out.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. codepen - add jquery (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. codepen - add jquery (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image277.webp"
+<img src="/images/image286.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -7033,9 +7019,9 @@ that you&apos;re on the right path.
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. navbar class (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. navbar class (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image278.webp"
+<img src="/images/image287.webp"
   style="width:40%"
   alt="Navbar class." />
 </p>
@@ -7051,9 +7037,9 @@ your different, where your navbar is going to show up and how it
 interacts with the other elements.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279. codepen - nav-pills (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. codepen - nav-pills (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image279.webp"
+<img src="/images/image288.webp"
   style="width:60%"
   alt="Codepen - example nav-pills." />
 </p>
@@ -7073,9 +7059,9 @@ moved. I have changed the positioning of my navbar from static to fixed
 and fixed is what I call the annoying pop ad version of positioning. It
 means it&apos;s on top, it&apos;s not going to move.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280. codepen - hiding nav (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. codepen - hiding nav (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image280.webp"
+<img src="/images/image289.webp"
   style="width:60%"
   alt="Codepen - hiding nav bar." />
 </p>
@@ -7087,9 +7073,9 @@ screen smaller. You can see I can scroll up and down here, but it&apos;s
 impossible to see the things that are underneath the navbar.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 281. codepen - navbar, nav-pills and container (182) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 290. codepen - navbar, nav-pills and container (182) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image281.webp"
+<img src="/images/image290.webp"
   style="width:60%"
   alt="Codepen - navbar, nav-pills and container." />
 </p>
@@ -7101,9 +7087,9 @@ the bottom. But many times, with fixed content, this works out much
 better, because it doesn&apos;t cover up other things and at least take away
 the ability to scroll up and down and at least see them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. accessibility (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291. accessibility (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image282.webp"
+<img src="/images/image291.webp"
   style="width:40%"
   alt="Accessibility.  Nav tag and nav classes are not equal." />
 </p>
@@ -7218,9 +7204,9 @@ current trends. You can&apos;t live in a bubble.
 
 <h2 name="ch4-1">4-01. Responsive Images</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 283. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 292. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image283.webp"
+<img src="/images/image292.webp"
   style="width:40%"
   alt="Make your images responsive - with Bootstrap." />
 </p>
@@ -7238,9 +7224,9 @@ big. Since so many web pages now are made up of images, it&apos;s really
 important for us to think about how we can make them responsive. And
 we&apos;re going to talk about two different approaches.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284. your own code (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. your own code (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image284.webp"
+<img src="/images/image293.webp"
   style="width:40%"
   alt="Your own code." />
 </p>
@@ -7263,9 +7249,9 @@ responsive. But you really want it to top off at 750 pixels, maybe
 because you think the quality of the image will degrade, or you just
 don&apos;t want it to have so much emphasis.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 285. your own code, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. your own code, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image285.webp"
+<img src="/images/image294.webp"
   style="width:40%"
   alt="Your own code, #2." />
 </p>
@@ -7278,9 +7264,9 @@ you start setting the width on images, you might be wondering if you
 should be setting the height as well. In general, you do not, because
 what&apos;s going to happen is it&apos;s going to skew.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. your own code, #3 (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. your own code, #3 (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image286.webp"
+<img src="/images/image295.webp"
   style="width:40%"
   alt="Your own code, #3." />
 </p>
@@ -7289,9 +7275,9 @@ what&apos;s going to happen is it&apos;s going to skew.
 You can&apos;t get it exactly right. So usually, you just set the height to
 auto or leave it along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. using bootstrap (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296. using bootstrap (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image287.webp"
+<img src="/images/image296.webp"
   style="width:40%"
   alt="Using Bootstrap." />
 </p>
@@ -7310,9 +7296,9 @@ look that is often associated with thumbnails. A little bit of a border,
 a small size, we&apos;ll take a look at those in just a second.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. img-responsive (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. img-responsive (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image288.webp"
+<img src="/images/image297.webp"
   style="width:60%"
   alt="img-responsive." />
 </p>
@@ -7327,9 +7313,9 @@ similar to the code we were talking about, if you wanted to put it in
 yourself. Let&apos;s look at those other classes as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. codepen - single image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. codepen - single image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image289.webp"
+<img src="/images/image298.webp"
   style="width:60%"
   alt="Codepen - Single image." />
 </p>
@@ -7340,9 +7326,9 @@ classes applied. I went ahead and I put it inside a div. And I&apos;m going
 to re-size the screen a bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 290. codepen - single image phone sized (189) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 299. codepen - single image phone sized (189) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image290.webp"
+<img src="/images/image299.webp"
   style="width:60%"
   alt="Codepen - Phone-sized single image." />
 </p>
@@ -7363,9 +7349,9 @@ Width: 75%;
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291. re-size and change image (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300. re-size and change image (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image291.webp"
+<img src="/images/image300.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -7378,9 +7364,9 @@ can see that the picture of Bacon is actually changing. This is great,
 this is exactly the kind of responsive behavior that we want to see.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292.  (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image292.webp"
+<img src="/images/image301.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -7396,9 +7382,9 @@ this one, you can see that now when I re-size it, again, great
 responsive behavior.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 293. image responsive bootstrap (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. image responsive bootstrap (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image293.webp"
+<img src="/images/image302.webp"
   style="width:60%"
   alt="Image responsive bootstrap." />
 </p>
@@ -7409,9 +7395,9 @@ image rounded. And, it&apos;s probably barely perceptible to you, but you
 can have this little tiny curving, right here, curved just a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. rounded image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. rounded image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image294.webp"
+<img src="/images/image303.webp"
   style="width:60%"
   alt="Rounded image." />
 </p>
@@ -7422,13 +7408,13 @@ happens. And as you can see, it really just cuts off part of the
 pictures, so you can have that circle look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. image thumbnail (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304. image thumbnail (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image295.webp"
+<img src="/images/image304.webp"
   style="width:60%"
   alt="Image thumbnail." />
 </p>
-<!-- ![](images/image295.webp){width="6.0in" height="3.3711537620297465in"} -->
+<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 The last one I&apos;m going to do, which we can actually add at the same
 time actually just do it here, image thumbnail, hit save. It probably is
@@ -7445,9 +7431,9 @@ thicker border, so you all could have seen it. But in many cases,
 you&apos;re really happy with the defaults. Let&apos;s look at one more example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 296. giving 7 images - 6 on row 1, 1 on row 2 (194) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 305. giving 7 images - 6 on row 1, 1 on row 2 (194) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image296.webp"
+<img src="/images/image305.webp"
   style="width:60%"
   alt="Seven images on two rows.  6 on row 1, 1 on row 2." />
 </p>
@@ -7461,9 +7447,9 @@ pictures. I combine these with the thumbnail class to really have a kind
 of cool gallery effect.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 297. div container row with 7 images (195) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 306. div container row with 7 images (195) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image297.webp"
+<img src="/images/image306.webp"
   style="width:60%"
   alt="Div container row with 7 images." />
 </p>
@@ -7483,9 +7469,9 @@ to the side. Well, I actually put it there because I wanted to show that
 there were one, two, three, four, five, six. All right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. small screen, 1 image (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. small screen, 1 image (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image298.webp"
+<img src="/images/image307.webp"
   style="width:60%"
   alt="On small screen, 1 image." />
 </p>
@@ -7504,9 +7490,9 @@ about it. And by default, if you don&apos;t declare a rule for extra small,
 it&apos;s going to default for 12. So that&apos;s why on the extra small screen,
 you get one dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299. row of 6, row of 1 (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. 2 images of bacon (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image300.webp"
+<img src="/images/image308.webp"
   style="width:60%"
   alt="." />
 </p>
@@ -7516,9 +7502,9 @@ The small screen you get two in each row.
 
 Then you go to three on the media screen image size.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300. 7 images of bacon (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. 7 images of bacon (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image300.webp"
+<img src="/images/image309.webp"
   style="width:60%"
   alt="7 images of bacon, teachers dog." />
 </p>
@@ -7573,9 +7559,9 @@ part is to get as much experience and practice as possible.
 
 <h2 name="ch4-2">4-02. Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. bootstrap tables (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image301.webp"
+<img src="/images/image310.webp"
   style="width:40%"
   alt="." />
 </p>
@@ -7594,9 +7580,9 @@ I&apos;m going to make this special class and it&apos;s going to style
 everything beautifully. In Bootstrap, instead you need to layer multiple
 classes on top of each other to get a really specific look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. bootstrap tables, #2 (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image302.webp"
+<img src="/images/image311.webp"
   style="width:30%"
   alt="." />
 </p>
@@ -7605,9 +7591,9 @@ classes on top of each other to get a really specific look.
 The table class, the class just class equals table, it&apos;s the
 foundation. You need to have that class every time you style tables.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. classes (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image303.webp"
+<img src="/images/image312.webp"
   style="width:30%"
   alt="." />
 </p>
@@ -7623,9 +7609,9 @@ class. This stripes your table with a kind of odd and even look. Every
 odd row has a little bit of color, every even row is just background
 transparent.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. classes (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image304.webp"
+<img src="/images/image313.webp"
   style="width:30%"
   alt="." />
 </p>
@@ -7639,9 +7625,9 @@ mouse or whenever you access the different rows it can change the look.
 It&apos;s also possible to have responsive tables. It actually sounds I
 think a little cooler than it is.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. responsive tables (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image305.webp"
+<img src="/images/image314.webp"
   style="width:30%"
   alt="." />
 </p>
@@ -7657,9 +7643,9 @@ screen. You just kind of scroll.
 But anything over 768 pixels. Well, then you&apos;re just going to get that
 default view. There&apos;s no default scrolling at the bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. row, header and cell classes (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 315. row, header and cell classes (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image306.webp"
+<img src="/images/image315.webp"
   style="width:40%"
   alt="Row, header &amp; cell classes." />
 </p>
@@ -7683,9 +7669,9 @@ check out this Bootstrap tables code from the responsive design section.
 So, what I&apos;ve done here is I&apos;ve made a very simple table. I already
 went in and included the link to Bootstrap style in CodePen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. add some classes (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. add some classes (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image307.webp"
+<img src="/images/image316.webp"
   style="width:80%"
   alt="Add some classes." />
 </p>
@@ -7697,9 +7683,9 @@ looks so much better, all right? You didn&apos;t have to add any of your own
 styling at all. And now it went from just a bunch of text to something
 that really does look like a table.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. table-striped (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317. table-striped (204) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image308.webp"
+<img src="/images/image317.webp"
   style="width:80%"
   alt="Table striped example." />
 </p>
@@ -7719,9 +7705,9 @@ forget whether it&apos;s table border, or bordered. Apparently, it&apos;s
 bordered. And once we add that you can see that it&apos;s added the lines in
 between.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. table hover (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. table hover (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image309.webp"
+<img src="/images/image318.webp"
   style="width:80%"
   alt="Table hover example." />
 </p>
@@ -7735,9 +7721,9 @@ you about is the table responsive. It actually took me quite a bit of
 time to get this one to work, and I couldn&apos;t figure out what was going
 on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. table hover example (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 319. table hover example (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image310.webp"
+<img src="/images/image319.webp"
   style="width:40%"
   alt="Table hover example." />
 </p>
@@ -7763,9 +7749,9 @@ table responsive, you need to put this class on the parent container,
 all right. I&apos;m going to go here, so I&apos;m going to add the class equals
 responsive, oops, table responsive, to the div class.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. scroll bar example (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 320. scroll bar example (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image311.webp"
+<img src="/images/image320.webp"
   style="width:40%"
   alt="Scroll example bar." />
 </p>
@@ -7781,9 +7767,9 @@ get that scroll right up to I think I said about 768. So even here, it
 takes up all the space, I don&apos;t need it. But that response is just
 basically going to let people scroll.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. example in codepen (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. example in codepen (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image312.webp"
+<img src="/images/image321.webp"
   style="width:80%"
   alt="Example in CodePen." />
 </p>
@@ -7801,9 +7787,9 @@ even see it. It&apos;s barely even colored but it&apos;s there. You can also do
 danger. That&apos;s your pink. And warning. Oops that will not work. And in
 this one again you can see that it turns in a kind of yellowish color.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 313. tables - should you use them? (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 322. tables - should you use them? (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image313.webp"
+<img src="/images/image322.webp"
   style="width:40%"
   alt="Tables - Should You Use Them?" />
 </p>
@@ -7846,9 +7832,9 @@ today is take some code that you&apos;re really likely to find online. And
 that&apos;s the code for using Bootstrap to make a collapsible navigation
 menu (see end of module for source).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. example in codepen (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. example in codepen (209) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image314.webp"
+<img src="/images/image323.webp"
   style="width:80%"
   alt="Example in CodePen." />
 </p>
@@ -7868,9 +7854,9 @@ to go in and actually edit the head of your document because you need to
 remember to link to the style sheets. When we use CodePen, we can just
 do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 315. codepen settings for bootstrap (194) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 324. codepen settings for bootstrap (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image315.webp"
+<img src="/images/image324.webp"
   style="width:90%"
   alt="CodePen settings." />
 </p>
@@ -7880,9 +7866,9 @@ Settings &gt; CSS, you know what? I want to add Bootstrap, and I&apos;ve got
 it. As soon as I do that, you can see like, hey, this is a really much
 better-looking navigation bar. I&apos;ve got all the different components.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 316. collapsible menu - websitename (194) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 325. collapsible menu - websitename (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image316.webp"
+<img src="/images/image325.webp"
   style="width:40%"
   alt="Collapsible menu - websitename." />
 </p>
@@ -7892,9 +7878,9 @@ And if you watch, as I re-size it and make it smaller, we get this kind
 of collapsible menu. People tend to call this the hamburger, because you
 have the three lines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 317. where do these parts come from? (195) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 326. where do these parts come from? (211) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image317.webp"
+<img src="/images/image326.webp"
   style="width:40%"
   alt="Where do these different parts come from?" />
 </p>
@@ -7937,9 +7923,9 @@ What do they mean because if you&apos;re going to use Bootstrap, and you
 want the coolest things, you find that it can be a little overwhelming
 at times, so let&apos;s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. start with mobile view (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. start with mobile view (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image318.webp"
+<img src="/images/image327.webp"
   style="width:80%"
   alt="Start with mobile view." />
 </p>
@@ -8016,9 +8002,9 @@ ahead and talk about some of those free templates that I&apos;m talking
 about because, if it sounds really good to you, I want to get you in the
 right direction.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 319. where to find bootstrap templates? (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 328. where to find bootstrap templates? (214) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image319.webp"
+<img src="/images/image328.webp"
   style="width:40%"
   alt="getbootstrap.com - Getting Started." />
 </p>
@@ -8029,9 +8015,9 @@ that provide you when you first get started. These other two,
 bootstrapzero.com and startbootstrap.com, these are just ones I found
 either through word of mouth or through a search engine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 320. getbootstrap.com - getting started (198) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 329. getbootstrap.com - getting started (215) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image320.webp"
+<img src="/images/image329.webp"
   style="width:80%"
   alt="getbootstrap.com - Getting Started." />
 </p>
@@ -8041,9 +8027,9 @@ Let&apos;s take a look. So here I am at the getbootstrap.com kind of default
 page where you can find out where to download, and where to get the
 different links, and things like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. basic template (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330. basic template (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image321.webp"
+<img src="/images/image330.webp"
   style="width:80%"
   alt="Basic template." />
 </p>
@@ -8057,9 +8043,9 @@ different examples of other templates. So, you could click in and say,
 you know what? I want this template right here. I want my site to look
 like this one right here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322. starter template (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. starter template (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image322.webp"
+<img src="/images/image331.webp"
   style="width:80%"
   alt="Starter template." />
 </p>
@@ -8069,9 +8055,9 @@ Or I really like the look of this one. And you can use it to build very
 basic templates. Again, nothing too fancy, because the assumption is
 that you&apos;re here to learn, more than to use as your professional site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. free bootstrap themes (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. free bootstrap themes (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image323.webp"
+<img src="/images/image332.webp"
   style="width:80%"
   alt="Free Bootstrap themes." />
 </p>
@@ -8083,9 +8069,9 @@ that, again, they&apos;re listing a bunch of free Bootstrap themes. They
 tend to go in these general ideas of, do you want it to be a landing
 zone, do you want it to have kind of a dashboard look, you can pick.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 324. landing zone theme (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333. landing zone theme (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image324.webp"
+<img src="/images/image333.webp"
   style="width:80%"
   alt="Landing zone theme." />
 </p>
@@ -8098,9 +8084,9 @@ mobile view, as well as well as different views. It can talk about
 different things that you use. Different keywords, we use Bootstrap and
 the grid, and we use a form, and we have a video background.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 325. simple one page design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 334. simple one page design (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image325.webp"
+<img src="/images/image334.webp"
   style="width:60%"
   alt="Simple one page design." />
 </p>
@@ -8527,7 +8513,7 @@ the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 
-<h2>Interview with H N<h2>
+<h2>Interview with H N</h2>
 
 Hi everybody. Welcome back.
 
