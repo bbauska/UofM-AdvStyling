@@ -310,9 +310,9 @@ what type of look you want to achieve. There will also be a discussion
 on common practices for designing your different views at various screen
 sizes (&quot;viewports&quot;).
 
-### What&apos;s included
+<h3>What&apos;s included</h3>
 
-### Week 2;
+<h3>Week 2;</h3>
 
 1.  Media Queries
 
@@ -326,7 +326,7 @@ sizes (&quot;viewports&quot;).
 
 6.  Code With Me: Responsive Navigation
 
-### Add'l Readings
+<h3>Add'l Readings</h3>
 
 -   Good examples of responsive design
 
@@ -342,9 +342,9 @@ frameworks. This week we will work with Bootstrap, a framework that uses
 HTML5, CSS, and JavaScript (but don&apos;t worry if you have never used
 JavaScript yourself).
 
-### What&apos;s included
+<h3>What&apos;s included</h3>
 
-### Week 3;
+<h3>Week 3;</h3>
 
 1.  Frameworks
 
@@ -358,7 +358,7 @@ JavaScript yourself).
 
 6.  Bootstrap Navigation
 
-### Add'l Readings
+<h3>Add'l Readings</h3>
 
 -   Demystifying Bootstrap
 
@@ -373,9 +373,9 @@ you move from theory to practice. We look at more advanced framework
 options and also hear from people who are using the techniques covered
 in this course.
 
-### What&apos;s included
+<h3>What&apos;s included</h3>
 
-### Week 4;
+<h3>Week 4;</h3>
 
 1.  Responsive Images
 
@@ -389,7 +389,7 @@ in this course.
 
 6.  Conclusion
 
-### Add'l Readings
+<h3>Add'l Readings</h3>
 
 -   The Evolution of the Airbnb front-end development
 
@@ -399,7 +399,7 @@ in this course.
 
 -   Keep Learning with Michigan Online
 
-### Resources
+<h3>Resources</h3>
 
 <h2 name="chb-4">b-4. Pixel to Em conversion tool</h2>
 
@@ -1527,7 +1527,7 @@ percents, ems, and other things like that. Good luck.
 
 Completed;
 
-<h4>[HTML:]</h4>
+<h4>HTML:</h4>
 
 ```
 1.  <!DOCTYPE html>
@@ -1578,7 +1578,7 @@ Completed;
 32. </html>
 ```
 
-<h4>[CSS:]</h4>
+<h4>CSS:</h4>
 
 ```
 1.  main {
@@ -1886,7 +1886,7 @@ back and make sure you understand these simple ones first. Good luck.
 
 Completed;
 
-<h4>[HTML:]</h4>
+<h4>HTML:</h4>
 
 ```
 1.  <!DOCTYPE html>
@@ -1937,7 +1937,7 @@ Completed;
 32. </html>
 ```
 
-<h4>[CSS:]</h4>
+<h4>CSS:</h4>
 
 ```
 1.  main {
@@ -3093,7 +3093,7 @@ still want to know a little bit about it.
   alt="2023 - Popular front-end frameworks, as of 2023." />
 </p>
 
-### Hydration
+<h3>Hydration</h3>
 
 One key challenge of popular frameworks is how to make them work
 efficiently in the browser. When a user loads a web page, the browser
@@ -3992,14 +3992,14 @@ crossorigin="anonymous"></script>
 
 <h2 name="ch04">04 -- D3.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 106. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 106. d3.js logo poster by bryngo redbubble (109) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image106.webp?raw=true"
   style="width:10%"
   alt="D3.js logo Poster by bryngo redbubble." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 107. d3.js logo png vector (svg) free download (xx) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 107. d3.js logo png vector (svg) free download (109) ~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image107.webp?raw=true"
   style="width:35%"
   alt="D3.js logo PNG Vector (SVG) Free Download." />
@@ -4044,14 +4044,14 @@ data. It was released in 2011.
 
 <h2 name="ch05">05 -- anime.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 108. d3.js logo poster by bryngo redbubble (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 108. anime.js logo, 2019 for animation (109) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image108.webp?raw=true"
   style="width:35%"
   alt="D3.js logo Poster by bryngo redbubble." />
 <!-- {width="3.4347823709536307in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. anime.js review - slant (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. anime.js review - slant (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image109.webp?raw=true"
   style="width:17%"
   alt="Anime.js Review - Slant." />
@@ -5620,7 +5620,7 @@ and you don&apos;t want to go around and overwrite them later.
 
 <a href="https://codepen.io/ColleenEMc/pen/obwJGp/">Hello, world (Codepen)</a>
 
-### Customization
+<h3>Customization</h3>
 
 <a href="https://getbootstrap.com/docs/3.4/customize/">Bootstrap Customize &amp; Download</a>
 
@@ -5631,6 +5631,8 @@ and you don&apos;t want to go around and overwrite them later.
   style="width:40%"
   alt="Using a CDN." />
 </p>
+
+<h4>HTML</h4>
 
 ```
 <!doctype html>
@@ -5846,7 +5848,7 @@ going to do it. I don&apos;t think you should do it, but it&apos;s something
 that I want you to know is possible once you really get the hang of
 what&apos;s going on.
 
-### Bootstrap HTML Template
+<h3>Bootstrap HTML Template</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. don't forget (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5906,12 +5908,12 @@ in CodePen, just like you linked the CSS. -->
 </html>
 ```
 
-### Bootstrap grid examples
+<h3>Bootstrap grid examples</h3>
 
 Basic grid layouts to get you familiar with building within the
 Bootstrap grid system.
 
-### Three equal columns
+<h3>Three equal columns</h3>
 
 Get three equal-width columns <b>starting at desktops and scaling to
 large desktops</b>. On mobile devices, tablets and below, the columns will
@@ -5921,7 +5923,7 @@ automatically stack.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.webp?raw=true"
-  style="width:65%"
+  style="width:100%"
   alt="." />
 </p>
 <!-- {width="6.5in" height="0.3111111111111111in"} -->
@@ -5935,8 +5937,8 @@ stacking no matter the viewport.
 <!--~~~~~~~~~~~~~~~ 220. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="col-md-3, col-md-6, and col-md-3." />
 </p>
 <!-- {width="6.5in" height="0.3111111111111111in"} -->
 
@@ -5946,14 +5948,14 @@ Get two columns <b>starting at desktops and scaling to large desktops</b>.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 221. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image221.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="col-md-8 and col-md-4, two columns." />
 </p>
 <!-- {width="6.5in" height="0.29444444444444445in"} -->
 
 No grid classes are necessary for full-width elements.
 
-### Two columns with two nested columns
+<h3>Two columns with two nested columns</h3>
 
 Per the documentation, nesting is easy---just put a row of columns
 within an existing column. This gives you two columns <b>starting at
@@ -5967,12 +5969,12 @@ columns will stack.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 222. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="Two columns with two nested columns." />
 </p>
 <!-- {width="6.5in" height="0.6381944444444444in"} -->
 
-### Mixed: mobile and desktop
+<h3>Mixed: mobile and desktop</h3>
 
 The Bootstrap 3 grid system has four tiers of classes: xs (phones), sm
 (tablets), md (desktops), and lg (larger desktops). You can use nearly
@@ -5986,36 +5988,36 @@ widths for xs and sm, you only need to specify xs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. mixed, mobile and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image223.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="Mixed, mobile and desktop." />
 </p>
 <!-- {width="6.5in" height="1.1215277777777777in"} -->
 
-### Mixed: mobile, tablet, and desktop
+<h3>Mixed: mobile, tablet, and desktop</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 224. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="Mixed, mobile, tablet and desktop." />
 </p>
 <!-- {width="6.5in" height="0.7159722222222222in"} -->
 
-### Column clearing
+<h3>Column clearing</h3>
 
 [Clear floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at specific breakpoints to prevent awkward wrapping with uneven content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. column clearing (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. column clearing (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image225.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="Column clearing." />
 </p>
 <!-- {width="6.5in" height="0.54375in"} -->
 
-### Offset, push, and pull resets
+<h3>Offset, push, and pull resets</h3>
 
 Reset offsets, pushes, and pulls at specific breakpoints.
 
@@ -6023,8 +6025,8 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image226.webp?raw=true"
-  style="width:65%"
-  alt="." />
+  style="width:100%"
+  alt="Offset, Push and Pull resets." />
 </p>
 <!-- {width="6.5in" height="0.7104166666666667in"} -->
 
@@ -6048,7 +6050,7 @@ material again, and see if it&apos;s starting to really make sense.
 <p align="center" width="100%">
 <img src="./images/image227.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="It is not a table." />
 </p>
 
 Bootstrap can see every element as something you can break down into 12
@@ -6069,7 +6071,7 @@ bit, if you&apos;re going to be using Bootstrap.
 <p align="center" width="100%">
 <img src="./images/image228.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Bootstrap layout is based on a 12-column grid." />
 </p>
 
 With this table, we can basically say if you want to use three columns,
@@ -6081,7 +6083,7 @@ columns is 75%.
 <p align="center" width="100%">
 <img src="./images/image229.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="It is not a table, #3." />
 </p>
 
 All 12 columns mean you&apos;re taking up the full width of the page or that
@@ -6092,7 +6094,7 @@ element.
 <p align="center" width="100%">
 <img src="./images/image230.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Every grid consists of a container class, a row class, and one or more column classes." />
 </p>
 
 Every grid in Bootstrap consists of a container class, a row class and
@@ -6105,7 +6107,7 @@ be the number of columns that you want to use. Let&apos;s take a look.
 <p align="center" width="100%">
 <img src="./images/image231.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Setting width with col-xx-yy." />
 </p>
 
 Let&apos;s look at our example. The class is always going to start with
@@ -6120,7 +6122,7 @@ about 480, 720, 992, and 1200.
 <p align="center" width="100%">
 <img src="./images/image232.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Setting width with col-xx-yy, #2." />
 </p>
 
 Now, I promised you a while ago, you don&apos;t actually have to remember
@@ -6134,7 +6136,7 @@ abbreviations.
 <p align="center" width="100%">
 <img src="./images/image233.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Setting width with col-xx-yy, #3." />
 </p>
 
 Once you&apos;ve declared the viewport size, you can now say exactly how
@@ -6147,7 +6149,7 @@ width that it possibly can.
 <p align="center" width="100%">
 <img src="./images/image234.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="col-xs-12 - for extra small." />
 </p>
 
 So, if you have an element that has class equals col-xs-12, you&apos;re
@@ -6159,7 +6161,7 @@ full width.
 <p align="center" width="100%">
 <img src="./images/image235.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="col-xs-12 and col-sm-8." />
 </p>
 
 If you&apos;re looking at one that has a class of col-sm-8, now you want to
@@ -6170,7 +6172,7 @@ take up eight out of those 12 columns, but only on the smallest screen.
 <p align="center" width="100%">
 <img src="./images/image236.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="col-xs-12, col-sm-8 and col-md-4." />
 </p>
 
 For col-md-4, you&apos;re saying, if I&apos;m on a medium screen I want to use
@@ -6181,7 +6183,7 @@ up four columns or one third of the entire screen size.
 <p align="center" width="100%">
 <img src="./images/image237.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
 
 And for col-lg-3, you&apos;re saying, well this is a large screen, it
@@ -6193,7 +6195,7 @@ use up a quarter or 25%.
 <p align="center" width="100%">
 <img src="./images/image238.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
 
 Now, this is the interesting thing. Many times you&apos;re going to combine
@@ -6205,11 +6207,11 @@ maybe there can be three across, and on a different screen maybe four
 across.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 239. class="col-xs-12 col-sm-6 col-md-3 col-lg-2" (152) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 239. class="col-xs-12 col-sm-6 col-md-4 col-lg-3" (152) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image239.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="col-xs-12, col-sm-6, col-md-4 and col-lg-3." />
 </p>
 
 Let&apos;s imagine that I have an image, some sort of pic.jpg. And then we
@@ -6232,7 +6234,7 @@ and relatively small on a larger screen.
 <p align="center" width="100%">
 <img src="./images/image240.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap classes." />
 </p>
 
 So, let&apos;s review that grid picture but using the classes this time.
@@ -6243,7 +6245,7 @@ Right here we have nothing on there.
 <p align="center" width="100%">
 <img src="./images/image241.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap classes, #2." />
 </p>
 
 But if I use col-XX-3, we&apos;re using three of the 12 or 25%.
@@ -6253,7 +6255,7 @@ But if I use col-XX-3, we&apos;re using three of the 12 or 25%.
 <p align="center" width="100%">
 <img src="./images/image242.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap classes, #3." />
 </p>
 
 If I say col-XX-6, I&apos;m using 50% now.
@@ -6263,7 +6265,7 @@ If I say col-XX-6, I&apos;m using 50% now.
 <p align="center" width="100%">
 <img src="./images/image243.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap classes, #4." />
 </p>
 ![](images/image243.webp){width="4.0in" height="2.0927351268591425in"}
 
@@ -6274,7 +6276,7 @@ Col-XX-9, 75% and
 <p align="center" width="100%">
 <img src="./images/image244.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap classes, #5." />
 </p>
 
 col-XX-12 means used up the full width that&apos;s available to you.
@@ -6288,7 +6290,7 @@ a large screen.
 <p align="center" width="100%">
 <img src="./images/image245.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Two elements side-by-side, but only on larger screens." />
 </p>
 
 Well, what we could do is we can start off by saying, that yellow part
@@ -6300,7 +6302,7 @@ width. But, on a medium screen, I want it to take up only three.
 <p align="center" width="100%">
 <img src="./images/image246.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Combining elements, #2." />
 </p>
 
 So, on here when I&apos;m looking at a large screen, I&apos;m only taking up
@@ -6855,7 +6857,7 @@ drop-down menus, it&apos;s very important for you to remember to link to the
 Bootstrap JavaScript files and include that link at the bottom of your
 code to jQuery. So, let's go ahead and take a look at what we can do.
 
-RD: nav-tabs
+<h4>RD: nav-tabs</h4>
 
 ```
 <ul class="nav nav-tabs">
@@ -6865,7 +6867,7 @@ RD: nav-tabs
 </ul>
 ```
 
-RD: nav-pills
+<h4>RD: nav-pills</h4>
 
 ```
 <ul class="nav nav-pills" role="navigation">
@@ -6875,7 +6877,7 @@ RD: nav-pills
 </ul>
 ```
 
-RD: dropdowns
+<h4>RD: dropdowns</h4>
 
 ```
 <ul class="nav nav-pills">
@@ -6900,7 +6902,7 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <!-- include all compiled plugins (below), or include individual files as needed -->
 ```
 
-RD: navbar
+<h4>RD: navbar</h4>
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
@@ -6945,7 +6947,7 @@ they&apos;ve used in Bootstrap and I&apos;ve made it, so that it just looks a
 little bit more complete. I added in some regular links next to our
 drop-down link.
 
-HTML (RD:dropdowns)
+<h4>HTML (RD:dropdowns)</h4>
 
 ```
 <ul class="nav nav-pills">
@@ -7350,7 +7352,7 @@ to re-size the screen a bit.
 That you can see my dog stays there, he doesn&apos;t shrink, he doesn&apos;t do
 anything like that.
 
-#### CSS:
+<h4>CSS:</h4>
 
 ```
 Div {
@@ -7503,7 +7505,7 @@ about it. And by default, if you don&apos;t declare a rule for extra small,
 it&apos;s going to default for 12. So that&apos;s why on the extra small screen,
 you get one dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299. row of 6, row of 1 (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image300.webp"
   style="width:60%"
@@ -7515,11 +7517,11 @@ The small screen you get two in each row.
 
 Then you go to three on the media screen image size.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300. 7 images of bacon (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image300.webp"
-  style="width:30%"
-  alt="." />
+  style="width:60%"
+  alt="7 images of bacon, teachers dog." />
 </p>
 <!-- {width="6.0in" height="4.747436570428697in"} -->
 
