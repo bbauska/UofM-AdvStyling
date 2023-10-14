@@ -2596,9 +2596,9 @@ the top. It can be tricky, and that&apos;s why I encourage you, to get into
 good habits at the beginning, and continue them as you get better and
 better at coding responsive design.
 
-RD-Media Queries Part 2:
+<h4>RD-Media Queries Part 2:</h4>
 
-HTML:
+<h4>HTML:</h4>
 
 ```
 <h1>Media Queries Part Two</h1>
@@ -2611,7 +2611,7 @@ HTML:
 </main>
 ```
 
-CSS:
+<h4>CSS:</h4>
 
 ```
 /* do these need to be reordered? */
@@ -3812,11 +3812,13 @@ just to add some visual appeal.
 	</ul>
   </li>
   <li>Class Animation
-    <li><a href="https://jqueryui.com/addClass/">Add Class</a></li>
-    <li><a href="https://jqueryui.com/removeClass/">Remove Class</a></li>
-    <li><a href="https://jqueryui.com/toggleClass/">Toggle Class</a></li>
-    <li><a href="https://jqueryui.com/switchClass/">Switch Class</a></li>
-  </ul>
+    <ul>
+      <li><a href="https://jqueryui.com/addClass/">Add Class</a></li>
+      <li><a href="https://jqueryui.com/removeClass/">Remove Class</a></li>
+      <li><a href="https://jqueryui.com/toggleClass/">Toggle Class</a></li>
+      <li><a href="https://jqueryui.com/switchClass/">Switch Class</a></li>
+    </ul>
+	</li>
   <li><a href="https://jqueryui.com/animate/">Color Animation</a></li>
 </ul>
 
@@ -5222,7 +5224,7 @@ on practical skills rather than just trendy technologies.
 <p align="center" width="100%">
 <img src="./images/image192.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Twitter bootstrap - what is it?" />
 <!-- {width="4.0in" height="2.24957239720035in"} -->
 </p>
 
@@ -5253,7 +5255,7 @@ Today we&apos;re going to talk about Bootstrap.
 <p align="center" width="100%">
 <img src="./images/image193.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Who uses Bootstrap?" />
 </p>
 
 Speaking of that, who uses Bootstrap?
@@ -5274,7 +5276,7 @@ Speaking of that, who uses Bootstrap?
 <p align="center" width="100%">
 <img src="./images/image194.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Bootstrap 3.0 benefits." />
 </p>
 
 There are a number of benefits of using Bootstrap 3.0.
@@ -5315,7 +5317,7 @@ There are a number of benefits of using Bootstrap 3.0.
 <p align="center" width="100%">
 <img src="./images/image195.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Bootstrap - why you should use it." />
 </p>
 
 So why should you consider using Bootstrap? Or at least know a little
@@ -5340,7 +5342,7 @@ bit about it?
 <p align="center" width="100%">
 <img src="./images/image196.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Bootstrap - why you should not use it." />
 </p>
 
 But there are reasons why you might not want to use Bootstrap.
@@ -5370,7 +5372,7 @@ But there are reasons why you might not want to use Bootstrap.
 <p align="center" width="100%">
 <img src="./images/image197.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="What is covered in this module." />
 </p>
 
 -   When we talk about Bootstrap in this class, there are a number of
@@ -5405,7 +5407,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image198.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Default breakpoints." />
 </p>
 
 -   Earlier in this course, we talked about setting breakpoints in your
@@ -5424,7 +5426,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image199.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Custom iphone retina." />
 </p>
 
 -   First let's talk about the smallest screen size that Bootstrap deals
@@ -5446,7 +5448,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image200.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Extra small devices and phones." />
 </p>
 
 -   In Bootstrap, these extra small sizes are referred to with an xs.
@@ -5463,7 +5465,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image201.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Small devices and tablets." />
 </p>
 
 -   The next step up for small devices and tablets is referred to as sm
@@ -5483,7 +5485,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image202.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Medium devices and desktops." />
 </p>
 
 -   For medium devices and desktops, we use this code md for media.
@@ -5504,7 +5506,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image203.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Large devices and video wide screens." />
 </p>
 
 -   Finally, the last viewport is referred to as lg, and this is for
@@ -5534,7 +5536,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image204.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Setting your own breakpoints." />
 </p>
 
 -   Now it is possible to change these default values for your
@@ -5554,7 +5556,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image205.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Conlusion." />
 </p>
 
 -   Now, when we talk about Bootstrap grid points, it&apos;s not important
@@ -5579,7 +5581,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image206.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Getting started." />
 </p>
 
 -   Hi everybody. If I&apos;ve done a good job up to this point, you&apos;re
@@ -5604,7 +5606,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image207.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Saving your own copy of Bootstrap." />
 </p>
 
 If you want to save your own copy of bootstrap, you can go to the
@@ -5626,7 +5628,7 @@ and you don&apos;t want to go around and overwrite them later.
 <p align="center" width="100%">
 <img src="./images/image208.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="Customize and download." />
 </p>
 <!-- {width="6.0in" height="3.374359142607174in"} -->
 
@@ -5641,7 +5643,7 @@ and you don&apos;t want to go around and overwrite them later.
 <p align="center" width="100%">
 <img src="./images/image209.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using a CDN." />
 </p>
 
 ```
@@ -5700,7 +5702,7 @@ you need to include.
 <p align="center" width="100%">
 <img src="./images/image210.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="Bootstrap CDN." />
 </p>
 
 I&apos;ve got it right here. You will need to copy and paste this code and
@@ -5717,7 +5719,7 @@ to have lots of different copies of the bootstrap code.
 <p align="center" width="100%">
 <img src="./images/image211.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Using Bootstrap with Codepen." />
 </p>
 
 I&apos;m adding a third option to this lecture because so many of us use
@@ -5733,7 +5735,7 @@ clean. I really want to keep it to just HTML.
 <p align="center" width="100%">
 <img src="./images/image212.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="Codepen settings." />
 </p>
 
 If you follow along, I&apos;m going to go here to settings. I need to click
@@ -5750,7 +5752,7 @@ that I said, you&apos;re going to connect to the CSS and JavaScript files.
 <p align="center" width="100%">
 <img src="./images/image213.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="Codepen settings, #2." />
 </p>
 
 Once you added the CSS you want to click on JavaScript. Right here.
@@ -5763,7 +5765,7 @@ JavaScript that we may need to use.
 <p align="center" width="100%">
 <img src="./images/image214.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Template." />
 </p>
 
 It&apos;s very common when you&apos;re first getting started with bootstrap, or
@@ -5783,7 +5785,7 @@ it up yourself you can still have it.
 <p align="center" width="100%">
 <img src="./images/image215.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="Bootstrap template." />
 </p>
 
 So, here&apos;s the link to the bootstrap, CSS, and JavaScript, and down
@@ -5801,7 +5803,7 @@ has changed a little bit.
 <p align="center" width="100%">
 <img src="./images/image216.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="How do you know if it is working?" />
 </p>
 
 This is actually really important and let&apos;s talk about why. So, on a
@@ -5839,7 +5841,7 @@ sheet.
 <p align="center" width="100%">
 <img src="./images/image217.webp?raw=true"
   style="width:60%"
-  alt="." />
+  alt="Bootsrap template, again." />
 </p>
 
 When you scroll down, you can see that after I have hello world, I have
@@ -5865,7 +5867,7 @@ what&apos;s going on.
 <p align="center" width="100%">
 <img src="./images/image218.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Do not forget." />
 </p>
 
 Finally, you can also always go in and overwrite those bootstrap
@@ -5875,9 +5877,9 @@ it in your own style sheet. That&apos;s something I hope that you&apos;ll
 explore over this next week as you go in and you write code, and you
 practice, and you write some code again. Thanks.
 
-**RD-Bootstrap Template:**
+<h4>RD-Bootstrap Template:</h4>
 
-HTML:
+<h4>HTML:</h4>
 
 ```
 <!DOCTYPE html>
@@ -6648,7 +6650,7 @@ put in different numbers to see what happens. It can be a lot of fun to
 play with things, and make things, break them, and fix them again. Good
 luck.
 
-RD-Bootstrap Grid Example:
+<h4>RD-Bootstrap Grid Example:</h4>
 
 <h4>HTML:</h4>
 
@@ -7137,7 +7139,7 @@ So, let&apos;s go back, look at that code that I&apos;ve provided, add some
 tags, play with the code. See how you can get your own navigation bar to
 show up on the screen.
 
-RD-Nav Tabs:
+<h4>RD-Nav Tabs:</h4>
 
 ```
 <ul class="nav nav-tabs">
@@ -7148,7 +7150,7 @@ RD-Nav Tabs:
 </ul>
 ```
 
-RD-Nav-Pills:
+<h4>RD-Nav-Pills:</h4>
 
 ```
 <ul class="nav nav-pills" role="navigation">
@@ -7159,7 +7161,7 @@ RD-Nav-Pills:
 </ul>
 ```
 
-RD-Dropdowns:
+<h4>RD-Dropdowns:</h4>
 
 ```
 <ul class="nav nav-pills">
@@ -7184,7 +7186,7 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 ```
 
-RD-Navbar:
+<h4>RD-Navbar:</h4>
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
@@ -7544,7 +7546,7 @@ I hope you&apos;ll put your own pictures in and you&apos;ll play with your own
 circle classes, rounded classes, and responsive classes. The important
 part is to get as much experience and practice as possible.
 
-RD-Responsive Images:
+<h4>RD-Responsive Images:</h4>
 
 ```<div>
   <img src =
@@ -7553,7 +7555,7 @@ RD-Responsive Images:
 </div>
 <!-- responsive, rounded, circle, thumbnail -->```
 
-RD-Responsive Image Thumbnails:
+<h4>RD-Responsive Image Thumbnails:</h4>
 
 ```
 <div class = "container">
@@ -7831,7 +7833,7 @@ some of the Bootstrap classes. And then overwriting certain elements of
 them with your own style. It&apos;s a great way to get practice with both
 responsive design, CSS and just good coding skills.
 
-RD-Bootstrap Tables:
+<h4>RD-Bootstrap Tables:</h4>
 
 ```
 <!-- The bootstrap class is already linked.
@@ -7983,7 +7985,7 @@ instead of three or two lines. It&apos;s playing with these little things
 that&apos;s going to help give you the practice you need to use Bootstrap or
 write your own code effectively.
 
-RD-Advanced Navigation:
+<h4>RD-Advanced Navigation:</h4>
 
 ```
 <nav class="navbar navbar-inverse">
@@ -8128,7 +8130,6 @@ platforms.
   style="width:40%"
   alt="Simple one page design." />
 </p>
-<!-- {width="4.0in" height="6.0625in"} -->
 
 I&apos;m going to resize the screen, and you go a little bit further down.
 And they have that kind of drop-down menu here. Still have the video,
@@ -8143,7 +8144,6 @@ then start playing with it yourself.
   style="width:40%"
   alt="Start Bootstrap themes and templates." />
 </p>
-<!-- {width="4.0in" height="2.439744094488189in"} -->
 
 The same is true if you go to Start Bootstrap where you can get other
 themes and templates. Again, it&apos;s open source which means it&apos;s
@@ -8175,7 +8175,6 @@ the things you can do is you can just download the code.
   style="width:40%"
   alt="Bootstrap template examples." />
 </p>
-<!-- {width="4.0in" height="2.235042650918635in"} -->
 
 But before you go across and you go, that one&apos;s awesome, I really like
 the look at that page, you need to decide if the template is really
@@ -8203,7 +8202,6 @@ changes in the templates.
   style="width:40%"
   alt="How to use Bootstrap Templates." />
 </p>
-<!-- {width="4.0in" height="2.235042650918635in"} -->
 
 The last thing you&apos;re going to with the modify HTML is add or remove
 components.
@@ -8222,7 +8220,6 @@ you do want.
   style="width:40%"
   alt="That's it - Bootstrap Template." />
 </p>
-<!-- {width="4.0in" height="2.235042650918635in"} -->
 
 So, using Bootstrap is really that easy. Even if you don&apos;t understand
 HTML or CSS, or you understand JavaScript but you hate it so much, it&apos;s
@@ -8233,7 +8230,7 @@ these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
 
-## Week 4-25. Interview: M W
+<h2>Week 4-25. Interview: M W</h2>
 
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn&apos;t show up, but luckily, I ran into one of my old
@@ -8386,7 +8383,7 @@ hope it&apos;s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you&apos;re going to go into. So thank you
 
-## Week 4-26. Interview: H W
+<h2>Week 4-26. Interview: H W</h2>
 
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I&apos;ve just run into
