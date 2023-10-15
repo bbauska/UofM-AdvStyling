@@ -1660,110 +1660,92 @@ depending upon the platform.
 <img src="./images/image051.webp?raw=true"
   style="width:40%"
   alt="css3." />
-<!-- ![](images/image051.webp){width="4.0in" height="2.0952996500437444in"} -->
-
-With CSS3, we have even more capabilities because the style can depend
+</p>
+<p>With CSS3, we have even more capabilities because the style can depend
 upon many more features. We can look at the width, the height, the
 orientation and even the screen resolution. In addition, we can add the
 Boolean operators to increase the power. And what Boolean operators are
 just simple "ands" and "ors". So, you might want to say something along
-the line of, if it's a screen and fill in some other properties there.
-
+the line of, if it's a screen and fill in some other properties there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52. the two query components (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
   alt="The two query components." />
-<!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
+</p>
 
-So, let&apos;s look at some examples. Every media query has two components.
+<p>So, let&apos;s look at some examples. Every media query has two components.
 The first is the media type. We often think of this as something along
 the lines of, will this be a screen? Is it a print out? You might even
 think about braille or if it&apos;s going out to a TV. We can also use the
-word all to trigger every possible media type that could possibly come
-up.
-
-The second component is the actual query of the media feature and the
+word all to trigger every possible media type that could possibly come up.</p>
+<p>The second component is the actual query of the media feature and the
 trigger size that we want to be looking for. For example, we might be
-looking for very specific width, height, orientation or resolution.
-
+looking for very specific width, height, orientation or resolution.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52. the two query components (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
   alt="The two query components, again." />
-<!-- ![](images/image052.webp){width="4.0in" height="2.0952996500437444in"} -->
+</p>
 
-Here&apos;s an example for you right here.
-
-The media type that I want to talk about is screen, the CSS will only
+<p>Here&apos;s an example for you right here.</p>
+<p>The media type that I want to talk about is screen, the CSS will only
 apply if we&apos;re looking at a screen, but in addition, we also want to
 make sure that that screen has a maximum width of four hundred and
 eighty (480) pixels. And, a resolution, of one hundred and sixty-three
 (163), DPI. So, that&apos;s a lot of circling, and that&apos;s a lot of new
 words. But that&apos;s what we&apos;re going to talk about, for the next few
 slides, to help you really get this idea, of how every query has a media
-type and then some sort of trigger size and media feature.
+type and then some sort of trigger size and media feature.</p>
 
-There are three ways to implement media queries.
-
+<p>There are three ways to implement media queries.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 53. how to implement media queries, #1 (50) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image053.webp?raw=true"
   style="width:40%"
   alt="How to implement media queries, #1." />
-<!-- ![](images/image053.webp){width="4.0in" height="2.260255905511811in"} -->
-
-The first is to use the import rule. Inside your CSS, you would use
-import, you&apos;d include the URL for the style sheet that you want to
-import, as well as the different size and conditions on when you want to
-import it. In this case if my screen has a minimum width of 600 pixels,
-we would want to use smallstyle.css.
-
+</p>
+<p>The first is to use the import rule. Inside your CSS, you would use import, you&apos;d 
+include the URL for the style sheet that you want to import, as well as the different 
+size and conditions on when you want to import it. In this case if my screen has a 
+minimum width of 600 pixels, we would want to use smallstyle.css.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 54. how to implement media queries, #2 (50) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image054.webp?raw=true"
   style="width:40%"
   alt="How to implement media queries, #2." />
-<!-- ![](images/image054.webp){width="4.0in" height="2.260255905511811in"} -->
-
-The second approach is to put the media query directly in the style
-sheet itself. We would have before any of our rules, we&apos;d have the
-&commat;media screen and (min-width:500px). And then inside here, we would put
-all of our usual CSS rules for the color, or the font, the size,
-different things like that. So, it&apos;s all contained inside a single
-file.
-
+</p>
+<p>The second approach is to put the media query directly in the style sheet itself. 
+We would have before any of our rules, we&apos;d have the &commat;media screen and 
+(min-width:500px). And then inside here, we would put all of our usual CSS rules 
+for the color, or the font, the size, different things like that. So, it&apos;s 
+all contained inside a single file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 55. how to implement media queries, #3 (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image055.webp?raw=true"
   style="width:40%"
   alt="How to implement media queries, #3." />
-<!-- ![](images/image055.webp){width="4.0in" height="2.260255905511811in"} -->
 
-The third approach is to include the query in the actual link in the
-header of your HTML. So here, instead of just saying link this style
-sheet, we&apos;ve included the trigger and the different rules right inside
-our HTML link tag.
-
+<p>The third approach is to include the query in the actual link in the header of 
+your HTML. So here, instead of just saying link this style sheet, we&apos;ve included 
+the trigger and the different rules right inside our HTML link tag.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 56. how to implement media queries, #4 (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image056.webp?raw=true"
   style="width:40%"
   alt="How to implement media queries, #4." />
-<!-- ![](images/image056.webp){width="4.0in" height="2.260255905511811in"} -->
 
-In general, I&apos;m going to always stick to the second approach; Put media
+<p>In general, I&apos;m going to always stick to the second approach; Put media
 query directly in the style sheet. This is the one that I personally use
 for doing my responsive design, but that doesn&apos;t mean you shouldn&apos;t
-feel free to play with all three of these different approaches.
-
+feel free to play with all three of these different approaches.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 57. review (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1772,14 +1754,12 @@ feel free to play with all three of these different approaches.
   alt="Review." />
 <!-- ![](images/image057.webp){width="4.0in" height="2.260255905511811in"} -->
 
-Let&apos;s review for just a second to make sure that we&apos;re on the same
-page with how we implement media queries.
-
-In this case I&apos;ve put my media queries directly into my CSS file. And
+<p>Let&apos;s review for just a second to make sure that we&apos;re on the same
+page with how we implement media queries.</p>
+<p>In this case I&apos;ve put my media queries directly into my CSS file. And
 what&apos;s going to happen is as always CSS start from the top and works
-its way down.
-
-We&apos;re going to hit that first rule right here that&apos;s going to check
+its way down.</p>
+<p>We&apos;re going to hit that first rule right here that&apos;s going to check
 and say, hey, I need to see if my display is an actual screen, not a
 printout or something like that. If it is, and the screen width is at
 least 500 pixels. Then I want to apply these specific rules right here.
@@ -1789,11 +1769,11 @@ going to apply these rules too. So, it gets tricky at first when you&apos;re
 first learning how to do responsive design. We&apos;re going to do one
 together to get your hands wet and have you coding, just make sure that
 you start small and we&apos;ll go ahead and we&apos;ll do something together.
-Good luck,
+Good luck,</p>
 
 <h2 name="ch2-2">2-02. Code With Me: Fluid Measurements and Media Queries</h2>
 
-Hey everybody, welcome back. Let&apos;s go look at some code together.
+<p>Hey everybody, welcome back. Let&apos;s go look at some code together.</p>
 
 <https://codepen.io/ColleenEMc/pen/pgrYpK/>
 
@@ -1805,12 +1785,11 @@ Hey everybody, welcome back. Let&apos;s go look at some code together.
   alt="Fluid measurements, #1." />
 <!-- ![](images/image058.webp){width="6.0in" height="3.362179571303587in"} -->
 
-What we&apos;re looking at here is an example from when we first learned
+<p>What we&apos;re looking at here is an example from when we first learned
 about fluid measurements. We went in and we switched our absolute
 measurements of pixels and started using percents. And it works out
 really well, unless you take it and you look at a small screen. Right
-now, the three columns are fine.
-
+now, the three columns are fine.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59. code with me, narrow (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1819,13 +1798,12 @@ now, the three columns are fine.
   alt="Code with me, narrow." />
 <!-- ![](images/image059.webp){width="6.0in" height="3.362179571303587in"} -->
 
-But when we get smaller, right here, it really doesn&apos;t make sense to
+<p>But when we get smaller, right here, it really doesn&apos;t make sense to
 try to shove three columns worth of content into such a small screen.
 This is where the idea of mobile first really comes in. What I think
 would be a much better look is to have each column stacked on top of
 each other and only go to three columns when you&apos;re on a large screen.
-So, let&apos;s take a look at how we can make that change together.
-
+So, let&apos;s take a look at how we can make that change together.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60. fluid measurements (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1834,24 +1812,22 @@ So, let&apos;s take a look at how we can make that change together.
   alt="Fluid measurements." />
 <!-- ![](images/image060.webp){width="6.0in" height="3.0724365704286964in"} -->
 
-The first thing that we need to look at is what these columns are. And
+<p>The first thing that we need to look at is what these columns are. And
 what we have is we have dibs each of type class equals column. The nice
 thing about divs is that by default, they&apos;re block. If we don&apos;t do
 anything at all they&apos;re going to be stacked just the way we want them
 to be. So, let&apos;s find our code. Right here. You can see that I went in
 and I said I only want them to be 30% and in line block. I floated them
 and all that great stuff there. The truth is, when we think mobile
-first, we shouldn&apos;t be changing anything at all in the column.
-
-So, I&apos;m going to take this code and I&apos;m going to delete it. All right,
+first, we shouldn&apos;t be changing anything at all in the column.</p>
+<p>So, I&apos;m going to take this code and I&apos;m going to delete it. All right,
 I&apos;ve done it, their block, and on the large screen, it looks really
 silly. But on the smaller screen we have success I was looking for. Now
 the question is, how do we go from a single column to three columns as
-we get bigger? And the answer is to use media queries.
-
-So, I&apos;m going to scroll down to the bottom of my CSS. And I need to add
+we get bigger? And the answer is to use media queries.</p>
+<p>So, I&apos;m going to scroll down to the bottom of my CSS. And I need to add
 some code. How do we make a media query? Don&apos;t forget, it&apos;s all about
-putting in that type and that break point.
+putting in that type and that break point.</p>
 
 ```
 1.  @media screen and (min-width:778px)
@@ -1865,24 +1841,23 @@ putting in that type and that break point.
 9.  }
 ```
 
-So, I&apos;m going to put in at media screen. And, min-width, let&apos;s go
+<p>So, I&apos;m going to put in at media screen. And, min-width, let&apos;s go
 ahead and pick a number. I&apos;m going to say 778. All right, make this a
 little bigger so you can see it. What I&apos;m saying is, hey browser, if
 you are this size or bigger, I want you to run some special code. And
 what code is it? It&apos;s that code that says, never mind, I don&apos;t want to
 be a single column, I want to be three columns. So, I&apos;m going to put
-that back in there. Save it. And boom, it happened already.
-
-It goes in, the browser figures out your size, and then goes in and
+that back in there. Save it. And boom, it happened already.</p>
+<p>It goes in, the browser figures out your size, and then goes in and
 makes any changes. This is hopefully pretty straight forward to you,
 although you might want to look at the code for a little bit, change the
 numbers. I&apos;m going to change this to 1,200, right away it goes back.
 You can play with these break points, these are the break points that we
 talked about earlier, to find that perfect look for your page. As we
 make more and more complicated media queries, I really want you to go
-back and make sure you understand these simple ones first. Good luck.
+back and make sure you understand these simple ones first. Good luck.</p>
 
-Completed;
+<h4>Completed;</h4>
 
 <h4>HTML:</h4>
 
@@ -1974,82 +1949,73 @@ i hate myself with no elite.</p>
 
 <h2 name="ch2-3">2-03. Wire Frames</h2>
 
-Hi. Today, we&apos;re going to talk about wireframes and as we talk about
-them, I have to admit the way in which I teach web design doesn&apos;t
-really mimic the way you should really do it in the real world, in that
-I tend to talk about the coding aspects first. The things you can do to
-create something real right away. But this lecture should have really
-come earlier in the course, because your layout is one of the first
-things you should think about.
-
-If you&apos;re going off to be a web designer, you&apos;re going to need to
+<p>Today, we&apos;re going to talk about wireframes and as we talk about them, I 
+have to admit the way in which I teach web design doesn&apos;t really mimic the 
+way you should really do it in the real world, in that I tend to talk about the 
+coding aspects first. The things you can do to create something real right away. 
+But this lecture should have really come earlier in the course, because your layout 
+is one of the first things you should think about.</p>
+<p>If you&apos;re going off to be a web designer, you&apos;re going to need to
 realize that coding comes after your design. And wireframes provide a
 visual representation of your layout. This is what you&apos;re going to use
-when you decide it&apos;s time to start coding.
-
+when you decide it&apos;s time to start coding.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60r. wireframe.showcase.com (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060r.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="wireframe.showcase.com." />
 </p>
-What do I mean by a wireframe? Let me show you a few examples. Right
-here, I&apos;m at a site called wireframeshowcase.com.
+<p>What do I mean by a wireframe? Let me show you a few examples. Right here, I&apos;m 
+at a site called wireframeshowcase.com.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60s. wireframeshowcase.com, #2 (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060s.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="wireframeshowcase.com, #2." />
 </p>
-
-And If you scroll through the page, kind of up and down, you can see that you see 
+<p>And If you scroll through the page, kind of up and down, you can see that you see 
 a little bit of a few different pages. Real pages but also you see some graphical
-sketches underneath them.
+sketches underneath them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60t. wireframeshowcase.com, #3 (57) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060t.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="wireframeshowcase.com, #3." />
 </p>
-
-Let&apos;s go back up to the first one. Up here I&apos;m going to go ahead and
-go in and kind of show you what it means when we click on the view
-details. When I hover over the page you can see what the site&apos;s going
-to look like when it&apos;s set out on the screen. 
-
+<p>Let&apos;s go back up to the first one. Up here I&apos;m going to go ahead and
+go in and kind of show you what it means when we click on the view details. When 
+I hover over the page you can see what the site&apos;s going to look like when 
+it&apos;s set out on the screen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60u. wireframeshowcase.com, #4 (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060u.webp?raw=true"
-  style="width:40%"
+  style="width:60%"
   alt="wireframeshowcase.com, #4." />
 </p>
-But when I&apos;ve come off
-just a little bit, you can see that all those visual representations are
-actually based on very plain, very unstyled little documents. That&apos;s
-what we&apos;re going to talk about today.
+<p>But when I&apos;ve come off just a little bit, you can see that all those visual 
+representations are actually based on very plain, very unstyled little documents. 
+That&apos;s what we&apos;re going to talk about today.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60v. decide on major content (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060v.webp?raw=true"
   style="width:40%"
-  alt="Sketches vs. Wireframes." />
+  alt="Decide on major content." />
 </p>
-
-So, before you can start drawing, you need to decide what you need to
+<p>Before you can start drawing, you need to decide what you need to
 have on your page. This includes both text and graphics. If it really
 needs to be there, you need to know at the beginning. What is going to
 be the best layout for this material? Once you know what you need to
 have, you can start thinking about different things such as, on a mobile
 view, we might want a different type of navigation bar. We want all the
-same material just a different layout.
-
-When we&apos;re on a laptop view you might decide you want to add a little
+same material just a different layout.</p>
+<p>When we&apos;re on a laptop view you might decide you want to add a little
 bit of extras but first you need to figure out how you&apos;re going to lay
-out those necessities.
+out those necessities.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60w. mobile view (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2058,12 +2024,12 @@ out those necessities.
   alt="Mobile view." />
 </p>
 
-Again, as always, I&apos;m going to remind you that the mobile view is the
+<p>Again, as always, I&apos;m going to remind you that the mobile view is the
 most important view in web design. If you don&apos;t think about the mobile
 view first, it&apos;s very simple for you to start coming up with a clear
 idea, and then as you shrink it down, throwing things out. No. At the
 beginning you decided this was important. So, if it is important, make
-sure you design it for that mobile view.
+sure you design it for that mobile view.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60x. mobile view, #2 (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2072,11 +2038,11 @@ sure you design it for that mobile view.
   alt="Mobile view, #2." />
 </p>
 
-Let's give an example. You might know that you want to have header, a
+<p>Let's give an example. You might know that you want to have header, a
 section, inside that section you&apos;re going to have an article and maybe
 an aside, and you&apos;re also going to have a footer. Because you&apos;re on a
 mobile view, things tend to go right from the top down to the bottom and
-very few things side to side. We just don&apos;t have the space. 
+very few things side to side. We just don&apos;t have the space.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60y. larger view (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2085,10 +2051,10 @@ very few things side to side. We just don&apos;t have the space.
   style="width:40%"
   alt="Larger view." />
 </p>
-Once you&apos;ve decided on that mobile view and you&apos;ve sketched it out, you can
-go on to what you might want it to look like on the larger view. In this
-case the header and the footer are the same but we have more flexibility
-with where we want to put that other content.
+<p>Once you&apos;ve decided on that mobile view and you&apos;ve sketched it out, 
+you can go on to what you might want it to look like on the larger view. In this
+case the header and the footer are the same but we have more flexibility with where 
+we want to put that other content.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60z. functionality (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2096,17 +2062,15 @@ with where we want to put that other content.
   style="width:40%"
   alt="Functionality." />
 </p>
-You also want to think about functionality when you&apos;re doing your
+<p>You also want to think about functionality when you&apos;re doing your
 wireframes. The design should be about more than just the layout. You
 can use these wireframes to test out the interaction that your page
 might go through as well. Navigation, form inputs, different things like
 that. If you don&apos;t think about that at the beginning, you run into a
-lot more problems when it&apos;s time to code.
-
-Did you want it to be a drop-down menu, a hover actions, we need to
+lot more problems when it&apos;s time to code.</p>
+<p>Did you want it to be a drop-down menu, a hover actions, we need to
 think about this functionality from the beginning. Many people refer to
-sketches and wireframes and kind of wonder what the difference is.
-
+sketches and wireframes and kind of wonder what the difference is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. sketches vs. wireframes (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2114,26 +2078,21 @@ sketches and wireframes and kind of wonder what the difference is.
   style="width:40%"
   alt="Sketches vs. Wireframes." />
 </p>
-<!-- ![](images/image061.webp){width="4.0in" height="2.2508552055993003in"} -->
-
-I always recommend starting with a sketch. With this idea with a sketch,
+<p>I always recommend starting with a sketch. With this idea with a sketch,
 is that you&apos;re just kind of drawing with your hand and it&apos;s very
 free-form. One of the reasons to do this is that I know when someone
 hands me a very nicely typed paper, or some nice computer printout, I&apos;m
 more hesitant to give back feedback. Well, if you give me a nice kind of
 hand drawn piece of paper, you can really dive into it and say, no, what
-if you do this. You don&apos;t mind marking up their stuff as much.
-
-So, when you do a sketch, when you do it by hand, you get less, I would
+if you do this. You don&apos;t mind marking up their stuff as much.</p>
+<p>When you do a sketch, when you do it by hand, you get less, I would
 say, attached to it. You&apos;re more likely to be willing to make changes
 because you didn&apos;t spend five hours getting the perfect border or
-putting things in just the right spot.
-
-So, let&apos;s take a look at another place where I&apos;m not going to cover
+putting things in just the right spot.</p>
+<p>Let&apos;s take a look at another place where I&apos;m not going to cover
 myself, but there are places where you can figure out these kind of best
 design practices as you start sketching out your page and eventually
-moving on.
-
+moving on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 62. best design practices, example (62) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2143,14 +2102,13 @@ moving on.
 </p>
 <!-- {width="6.0in" height="3.3762817147856516in"} -->
 
-One of the reasons I like this site is well because I agree with many of
+<p>One of the reasons I like this site is well because I agree with many of
 the things they&apos;re talking about and they agree with me. But as you
 look around, you&apos;re going to see that most articles talk about best
 practices. These aren&apos;t rules, these are just ideas and suggestions for
 you to think about. So, for instance, one suggestion is don&apos;t use
-color.
-
-Again, this goes back to the idea that wireframes and sketches are about
+color.</p>
+<p>Again, this goes back to the idea that wireframes and sketches are about
 content. It&apos;s about figuring out how you want to lay it out and use it.
 Once you start throwing in color, things start taking on more meaning
 when maybe they weren&apos;t supposed to. You want to be very consistent
@@ -2161,8 +2119,7 @@ always a problem for people because when you&apos;re designing you actually
 tend to get really into it. It&apos;s important that you use actual content
 in your page because when you do this it really helps you visually look
 at the page and realize, this part&apos;s getting lost or this section is
-really too big. Maybe I should be breaking it up in to more sections.
-
+really too big. Maybe I should be breaking it up in to more sections.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. wireframes - review (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2170,9 +2127,9 @@ really too big. Maybe I should be breaking it up in to more sections.
   style="width:40%"
   alt="Wireframes - review." />
 </p>
-<!-- {width="4.0in" height="2.2423075240594925in"} -->
 
--   This last one I&apos;m going to talk about and then you can kind of do
+<ul>
+  <li>This last one I&apos;m going to talk about and then you can kind of do
     the page alone if you like, is this idea that you never wire a loan.
     This, I hope, is an underline concept you&apos;re getting from all of
     the courses that you&apos;re taking with me. It&apos;s never good to code a
@@ -2185,31 +2142,29 @@ really too big. Maybe I should be breaking it up in to more sections.
     family and if you get on the message board and show people your
     sketches. So don&apos;t be discouraged or feel like you&apos;re doing
     something wrong if you have a hard time coming up with sketches at
-    the beginning.
-
--   The other challenge I find that when you&apos;re doing something like
+    the beginning.</li>
+  <li>The other challenge I find that when you&apos;re doing something like
     this is you really want to keep things simple and changeable. Like I
     said, it&apos;s really impressive to give somebody a print out with
     everything you&apos;ve placed. But it&apos;s not always the best way to get
     feedback. Also, it sometimes feels like, I can do so much more!
-    Simple design is always going to be the best design.
-
--   The other thing I&apos;d really like to just mention to you is that, if
+    Simple design is always going to be the best design.</li>
+  <li>The other thing I&apos;d really like to just mention to you is that, if
     the design is where you&apos;re at, this is the part you&apos;ve really
     taken this course for, it&apos;s still important to understand the
     basics of coding. That&apos;s going to help you understand how you can
     convey your ideas to the programmers and let them make something
-    really great out of your design.
+    really great out of your design.</li>
+</ul>
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
 
 <h2 name="ch2-4">2-04. Breakpoints</h2>
 
-Hi everybody. Every once in a while, I like to step back and think about
+<p>Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I&apos;ve actually
 defined them for you so we&apos;re all in agreement or understand what the
-general meaning is.
-
+general meaning is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64. breakpoints - what are they? (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2217,28 +2172,23 @@ general meaning is.
   style="width:40%"
   alt="Breakpoints - What are They?" />
 </p>
-<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
-One of those terms is breakpoint. People hear it talk about it all the
-time when they&apos;re talking about responsive design, but what are they?
-
-Breakpoints are sizes or positions that define a change in your site
+<p>One of those terms is breakpoint. People hear it talk about it all the
+time when they&apos;re talking about responsive design, but what are they?</p>
+<p>Breakpoints are sizes or positions that define a change in your site
 layout or content. So, you might say, I&apos;m going to set a breakpoint at
 500 pixels, 800 pixels and 1,000 pixels. And depending on those sizes
-you&apos;re expecting to see some sort of change.
-
-We use these breakpoints to provide the best possible experience for
+you&apos;re expecting to see some sort of change.</p>
+<p>We use these breakpoints to provide the best possible experience for
 users based on the device information we have. Now, there&apos;s more to it
-than just breakpoints.
-
-You might also want to talk about resolution, whether using print, but
+than just breakpoints.</p>
+<p>You might also want to talk about resolution, whether using print, but
 breakpoints are really a key element that you want to understand. The
 other phrase I use quite a bit in conjunctions with breakpoints is this
 idea that they trigger something, breakpoints trigger changes. And to be
 honest, it may not be the best phrase to use. That&apos;s because most
 people don&apos;t actually resize their window when they&apos;re on it. You open
-up your screen and there it is.
-
+up your screen and there it is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65. what does trigger mean? (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2246,11 +2196,10 @@ up your screen and there it is.
   style="width:40%"
   alt="What does trigger mean?" />
 </p>
-<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
-As developers I encourage you to open up your browser, make it big, make
+<p>As developers I encourage you to open up your browser, make it big, make
 it small, kind of resize it all the time. But most people aren&apos;t going
-to do that when they&apos;re viewing your page.
+to do that when they&apos;re viewing your page.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 66. determining the breakpoints (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2259,17 +2208,15 @@ to do that when they&apos;re viewing your page.
   style="width:40%"
   alt="Determining the breakpoints." />
 </p>
-<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
-So, when we talk about triggering these changes, we often mean
+<p>When we talk about triggering these changes, we often mean
 triggering rules in your style sheet instead. That&apos;s why I&apos;m going to
 use breakpoints to refer to which rules I apply in different situations.
 So how do you determine what those breakpoints should be? While I&apos;m
 teaching, I&apos;m kind of notorious for just randomly picking numbers and
 throwing them out there, because I&apos;m just trying to do things on the
-fly.
-
-In the real world, people tend to set their breakpoints based on one of
+fly.</p>
+<p>In the real world, people tend to set their breakpoints based on one of
 two things. The first is devices. They&apos;ll think ahead and think of all
 the different devices out there, and try to figure out which breakpoints
 correspond to the different machines. Other people feel strongly that
@@ -2278,8 +2225,7 @@ there. Because they change all the time. There&apos;s always a new phone, a
 new tablet, and you can&apos;t keep up with that. Instead, you should base
 your breakpoints based on the content of your page. You figure out what
 it is you want there and decide when will it really look good next to
-each other versus not. Let&apos;s talk about using devices as a breakpoint.
-
+each other versus not. Let&apos;s talk about using devices as a breakpoint.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 67. screen shots - smartphone px (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2287,39 +2233,33 @@ each other versus not. Let&apos;s talk about using devices as a breakpoint.
   style="width:40%"
   alt="Screen shots - smartphone px." />
 </p>
-<!-- {width="4.0in" height="2.2551279527559056in"} -->
 
-So, what I have here is just a quick little shot of some of the most
-common devices and their screen sizes.
+<p>So, what I have here is just a quick little shot of some of the most
+common devices and their screen sizes.</p>
 
--   With the iPhone 4, you&apos;d want to think about breakpoints at 320px
-    and maybe 480.
-
--   The iPhone 5, when that came along, all of a sudden, you&apos;d need to
-    think about a different max width because it&apos;s up to 568px.
-
--   iPhone 6 got a little bit bigger still, and then the
-
--   iPhone 6+, well, let&apos;s just agree it&apos;s ridiculous. The new iPhone
+<ul>
+  <li>With the iPhone 4, you&apos;d want to think about breakpoints at 320px
+    and maybe 480.</li>
+  <li>The iPhone 5, when that came along, all of a sudden, you&apos;d need to
+    think about a different max width because it&apos;s up to 568px.</li>
+  <li>iPhone 6 got a little bit bigger still, and then the</li>
+  <li>iPhone 6+, well, let&apos;s just agree it&apos;s ridiculous. The new iPhone
     is supposedly going to be even smaller so you&apos;d need to think about
-    new screen sizes for that.
+    new screen sizes for that.</li>
+  <li>We also have the Galaxy S3 and S4, they have very similar
+    breakpoints.</li>
+  <li>And then, the S5, again, the same thing, just a little bit bigger on
+    the smaller screen.</li>
+</ul>
 
--   We also have the Galaxy S3 and S4, they have very similar
-    breakpoints.
-
--   And then, the S5, again, the same thing, just a little bit bigger on
-    the smaller screen.
-
-I think this is how most people come up with their breakpoints. They&apos;ll
+<p>I think this is how most people come up with their breakpoints. They&apos;ll
 look at the screen sizes, find some that are similar or find the lowest
 possible number for the smallest screens and maybe the biggest possible
-number for the larger screens and just build around those.
-
-In most cases, your content&apos;s going to fill in just fine. And it would
+number for the larger screens and just build around those.</p>
+<p>In most cases, your content&apos;s going to fill in just fine. And it would
 be impossible for you to go in and try to have a different view for each
 one of these sizes. And of course, when we talk about breakpoints, we
-want to talk about mobile first.
-
+want to talk about mobile first.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68. mobile first (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2327,7 +2267,6 @@ want to talk about mobile first.
   style="width:40%"
   alt="Mobile first." />
 </p>
-<!-- {width="4.0in" height="2.2551290463692037in"} -->
 
 In a lot of paradigms, you&apos;re never going to see a breakpoint of 320
 pixels or even 360 pixels. You&apos;re not going to see that because
@@ -2370,7 +2309,6 @@ example.
   style="width:40%"
   alt="Easier watched than done." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 The key to understanding media queries is to actually use them in
 responsive design. This lecture is going to describe that process in
@@ -2383,7 +2321,6 @@ three steps, but you won&apos;t necessarily need to use all of them.
   style="width:40%"
   alt="Step 1 grab information, #1." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 So, the best I can do is give you guidelines. Step one, this is
 something that will cause your page to work or not work many times on
@@ -2406,7 +2343,6 @@ won&apos;t let you do that.
   style="width:40%"
   alt="Step 1 grab information, #2." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 That is because somebody has put this very horrible, horrible piece of
 code into their HTML. Instead of saying just initial-scale equals one,
@@ -2426,7 +2362,6 @@ It may actually help your search engine optimization as well.
   style="width:40%"
   alt="Step 2 Fluid Layout, #1." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 In step two, I really want to encourage you to use fluid layouts. It&apos;s
 very often the case that when people use breakpoints, they then use
@@ -2445,7 +2380,6 @@ somebody else does it, doesn&apos;t mean the you should.
   style="width:40%"
   alt="Step 2 Fluid Layout, #2." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 I want you to use those other things such as percentages, and ems. These
 are really great fluid measurements. Percentages you tend to use more on
@@ -2462,7 +2396,6 @@ we&apos;re going to use is going switch over to ems and rems, too.
   style="width:40%"
   alt="Step 2 Fluid Layout, #3." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 The last thing I just like to remind people is that when you use these
 fluid measurements for things like padding and margin, the percents are
@@ -2483,7 +2416,6 @@ by the width of the page, not the height.
   style="width:40%"
   alt="Step 3 Media Queries." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 That third step is really the biggest step. And that is including those
 media queries. The fluid layout is triggered by these certain break
@@ -2507,7 +2439,6 @@ small screen and grow bigger.
   style="width:40%"
   alt="Ordering your rules." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 When you put in these media queries, it&apos;s common to have a few
 different sets of rules. You might have your large screen, and then a
@@ -2555,7 +2486,6 @@ mistakes and not know what&apos;s going on.
 <img src="./images/image077.webp?raw=true"
   style="width:40%"
   alt="Concept Check - Top or Bottom?" />
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 </p>
 
 My advice to you is to always add one media query at a time, and make it
@@ -2792,13 +2722,12 @@ What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
 a guess. But, you&apos;re lucky, we&apos;re not there together.
 
-So I&apos;m just going to tell you. The problem isn&apos;t with our navigation,
-it&apos;s actually with the section that comes underneath it. I&apos;m going to
-go down here. If you think about it, every section by default is block,
-so it&apos;s a simple enough trick to get these things to be next to each
-other. I&apos;m going to add the code right now.
+The problem isn&apos;t with our navigation, it&apos;s actually with the section 
+that comes underneath it. I&apos;m going to go down here. If you think about it, 
+every section by default is block, so it&apos;s a simple enough trick to get these 
+things to be next to each other. I&apos;m going to add the code right now.
 
-So, in order to get this to work I&apos;ve added a little bit more code. I
+In order to get this to work I&apos;ve added a little bit more code. I
 went in and I said, you know what, this section can&apos;t be block, it
 needs to be inline block. And since I made the navigation bar about 20%
 I went ahead and made this 70% because I&apos;m not feeling like I want to
@@ -2815,15 +2744,13 @@ go back and change one thing up in my nav as well.
 </p>
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 
-I had to add a float left, right down here if you look. And this is what
-lets these two things be next to each other off to the side. So let&apos;s
-take a look at what we&apos;ve got.
+I had to add a float left, and this is what lets these two things be next to each 
+other off to the side. So let&apos;s take a look at what we&apos;ve got.
 
-On the big screen, we&apos;ve got the vertical navigation bar. On the small
-screen, we jump back to the horizontal navigation bar. Neither one of
-these things had a lot of tricky CSS to it. But the important part was
-remembering to put in that media query, that&apos;s what triggers
-everything.
+On the big screen, we&apos;ve got the vertical navigation bar. On the small screen, 
+we jump back to the horizontal navigation bar. Neither one of these things had a 
+lot of tricky CSS to it. But the important part was remembering to put in that 
+media query, that&apos;s what triggers everything.
 
 So, if you didn&apos;t code along with me right now, I hope you&apos;ll stop,
 write some code on your own and see if you can&apos;t get things to move
@@ -3037,27 +2964,25 @@ least a handful of frameworks that people are using today.
 </p>
 <!-- {width="4.0in" height="2.2465813648293964in"} -->
 
--   The first one that I&apos;m going to mention, and the one that we&apos;re
+<ul>
+  <li>The first one that I&apos;m going to mention, and the one that we&apos;re
     going to study in this course is Bootstrap. Bootstrap was developed
     in 2011. And, basically, the reason it&apos;s so popular is because it
     was one of the first and, once you get that niche, people really
-    tend to use it over and over again.
-
--   Another framework that you may have heard of is called Foundation by
+    tend to use it over and over again.</li>
+  <li>Another framework that you may have heard of is called Foundation by
     ZURB. It again developed in 2011 and is great, it has a lot of
     different code you can use, but because it&apos;s not as popular as
     Bootstrap people just don&apos;t tend to use it nearly as much right
-    now.
-
--   Semantic UI is another framework that&apos;s a little bit more recent.
+    now.</li>
+  <li>Semantic UI is another framework that&apos;s a little bit more recent.
     If you&apos;ve been taking my classes, you know that I love the word
     semantic. Semantics has a meaning. So, what they&apos;re doing with
     their framework is trying to use as much natural language,
-    English-like terms as possible when you make your website.
-
--   The next one is Pure by Yahoo!
-
--   And, the last one I was going to mention was the Ulkit by YOOtheme.
+    English-like terms as possible when you make your website.</li>
+  <li>The next one is Pure by Yahoo!</li>
+  <li>And, the last one I was going to mention was the Ulkit by YOOtheme.</li>
+</ul>
 
 Templates are really interesting. Some people build their sites directly
 from the template. They grab some HTML code, they change it around, and
@@ -3082,7 +3007,7 @@ it&apos;s a tool, and it&apos;s supposed to be making your life easier. If it
 isn&apos;t, that&apos;s okay, you can go back to coding on your own, but you
 still want to know a little bit about it.
 
-## Most popular frontend frameworks 2023;
+<h2>Most popular frontend frameworks 2023;</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 90b. popular front-end frameworks (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3189,8 +3114,8 @@ As for stack, it&apos;s the combination of tools you&apos;re using. JAMstack can
 be used with any framework and service combination, so as long as it
 follows the JAM structure.
 
-<b><i>Learn more:</i> [Jamstack.org](https://jamstack.org/) // [WTF is
-Jamstack?](https://jamstack.wtf/)</b>
+<b><i>Learn more:</i> <a href="https://jamstack.org/">Jamstack.org</a> // 
+<a href="https://jamstack.wtf/">WTF is Jamstack?</a></b>
 
 <h2>Top Front-end Frameworks & Libraries for 2023</h2>
 
@@ -3225,7 +3150,7 @@ section.
     <p><a href="https://kinsta.com/blog/critical-rendering-path/#the-dom">Document Object Model (DOM)</a> 
       represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
 	  You can change its content, style, and structure.</p>
-    <i>Examples: [jQuery](https://kinsta.com/knowledgebase/what-is-jquery/), Umbrella JS</i>
+    <i>Examples: <a href="https://kinsta.com/knowledgebase/what-is-jquery/">jQuery</a>, Umbrella JS</i>
   </li>
   <li>Data Handling<br>
     <p>With the enormous amounts of data that businesses now deal with daily, handling 
@@ -3253,14 +3178,14 @@ section.
   </li>
   <li>Image Effects</br>
     <p>Users can add effects to images and make them stand out using JS libraries. 
-	  Effects include blurring, lightening, embossing, sharpening, grayscale, saturation, 
-	  hue, adjusting contrast, flipping, inverting, reflection, and so on.</p>
+	Effects include blurring, lightening, embossing, sharpening, grayscale, saturation, 
+	hue, adjusting contrast, flipping, inverting, reflection, and so on.</p>
     <i>Examples: ImageFX, Reflection.js</i>
   </li>
   <li>Fonts<br>
-    <p>Users can incorporate <a href="https://kinsta.com/blog/modern-fonts/">
-	  any font they wish</a> to make their web page more compelling based on the 
-	  content type.</p>
+    <p>Users can incorporate <a href="https://kinsta.com/blog/modern-fonts/">any 
+	font they wish</a> to make their web page more compelling based on the 
+	content type.</p>
     <i>Examples: typeface.js</i>
   </li>
   <li>Math and String Functions<br>
