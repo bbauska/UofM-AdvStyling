@@ -24,7 +24,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
   alt="University of Michigan logo." />
 </p>
 
-<h2><a href="table-of-contents">Table of Contents</a></h2>
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ## [**About**](#cha)
 >### - [**About**](#cha-1)
