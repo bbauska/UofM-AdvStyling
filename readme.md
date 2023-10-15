@@ -246,6 +246,9 @@ capstone project.
 
 <h3>Media Sizes (in Pixels)</h3>
 
+<details>
+  <summary>CSS Media Sizes (in Pixels)</summary>
+
 ```
 @media (min-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ }
 
@@ -261,6 +264,8 @@ capstone project.
 
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }
 ```
+
+</details>
 
 <h2 id="ch1">01. Style with Responsive Design</h2>
 
@@ -1525,9 +1530,12 @@ first step, but it&apos;s an important step and it&apos;s something I want you
 to play with. So, you can feel like you&apos;re beginning to understand
 percents, ems, and other things like that. Good luck.
 
-Completed;
+<h4>Completed;</h4>
 
 <h4>HTML:</h4>
+
+<details>
+  <summary>HTML - fluid measurements</summary>
 
 ```
 1.  <!DOCTYPE html>
@@ -1576,7 +1584,12 @@ i hate myself with no elite.</p>
 32. </html>
 ```
 
+</details>
+
 <h4>CSS:</h4>
+
+<details>
+  <summary>CSS - fluid measurements</summary>
 
 ```
 1.  main {
@@ -1609,6 +1622,8 @@ i hate myself with no elite.</p>
 28. text-transform: uppercase;
 29. }
 ```
+
+</details>
 
 <h2 id="ch2-1">2-01. Media Queries</h2>
 
@@ -1829,6 +1844,9 @@ we get bigger? And the answer is to use media queries.</p>
 some code. How do we make a media query? Don&apos;t forget, it&apos;s all about
 putting in that type and that break point.</p>
 
+<details>
+  <summary>CSS - media screen</summary>
+
 ```
 1.  @media screen and (min-width:778px)
 2.  {
@@ -1840,6 +1858,8 @@ putting in that type and that break point.</p>
 8.  }
 9.  }
 ```
+
+</details>
 
 <p>So, I&apos;m going to put in at media screen. And, min-width, let&apos;s go
 ahead and pick a number. I&apos;m going to say 778. All right, make this a
@@ -1860,6 +1880,9 @@ back and make sure you understand these simple ones first. Good luck.</p>
 <h4>Completed;</h4>
 
 <h4>HTML:</h4>
+
+<details>
+  <summary>HTML - fluid measurements</summary>
 
 ```
 1.  <!DOCTYPE html>
@@ -1910,7 +1933,12 @@ i hate myself with no elite.</p>
 32. </html>
 ```
 
+</details>
+
 <h4>CSS:</h4>
+
+<details>
+  <summary>CSS - fluid measurements</summary>
 
 ```
 1.  main {
@@ -1946,6 +1974,8 @@ i hate myself with no elite.</p>
 31. }
 32. }
 ```
+
+</details>
 
 <h2 id="ch2-3">2-03. Wire Frames</h2>
 
@@ -2527,6 +2557,9 @@ better at coding responsive design.
 
 <h4>CSS:</h4>
 
+<details>
+  <summary>CSS - media queries</summary>
+
 ```
 /* do these need to be reordered? */
 @media only screen and (min-width: 1024px) {
@@ -2547,6 +2580,8 @@ background: #008800;
 font-size:150%;
 }
 ```
+
+</details>
 
 <h2 id="ch2-6">2-06. Code with Me: Responsive Navigation</h2>
 
@@ -2771,6 +2806,9 @@ responsive design:</a>
 
 <h4>HTML</h4>
 
+<details>
+  <summary>HTML - responsive navigation</summary>
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -2800,7 +2838,12 @@ responsive design:</a>
 </html>
 ```
 
+</details>
+
 <h4>CSS:</h4>
+
+<details>
+  <summary>CSS - responsive navigation</summary>
 
 ```
 body{
@@ -2817,9 +2860,14 @@ padding-left:8%;
 }
 ```
 
+</details>
+
 <h4>RD-Responsive Navigation (complete):</h4>
 
 <h4>HTML:</h4>
+
+<details>
+  <summary>HTML - responsive navigation</summary>
 
 ```
 <nav>
@@ -2840,7 +2888,12 @@ dolorum commodi magni.</p>
 </section>
 ```
 
+</details>
+
 <h4>CSS:</h4>
+
+<details>
+  <summary>CSS - responsive navigation</summary>
 
 ```
 body{
@@ -2899,6 +2952,8 @@ overflow:auto;
 }
 }
 ```
+
+</details>
 
 <h2 id="ch3-1">3-01. Frameworks</h2>
 
@@ -3854,6 +3909,9 @@ tooltips) before the closing &lt;/body&gt;. Learn more about our 
 <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links">
 CDN links</a>.
 
+<details>
+  <summary>HTML - bootstrap</summary>
+
 ```
 <!doctype html>
 <html lang="en">
@@ -3876,7 +3934,12 @@ CDN links</a>.
 </html>
 ```
 
+</details>
+
 <h4>Additionally, popper for dropdowns, tooltips and popovers;</h4>
+
+<details>
+  <summary>popper - for dropdowns, tooltips and popovers</summary>
 
 ```
 <script
@@ -3888,6 +3951,8 @@ src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
 integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
 crossorigin="anonymous"></script>
 ```
+
+</details>
 
 <h4>CDN Links</h4>
 
@@ -4243,6 +4308,8 @@ doesn&apos;t impose a strict structure.
 Which is ideal for fast front-end development. Here is an example:
 
 // example.svelte
+<details>
+  <summary>Example .svelte</summary>
 
 ```
 <script lang="typescript">
@@ -4265,6 +4332,8 @@ text-align: none;
 }
 </style>
 ```
+
+</details>
 
 <a href="https://svelte.dev/">Svelte Website</a><br>
 <a href="https://github.com/sveltejs/svelte">Svelte GitHub</a>
@@ -5543,6 +5612,9 @@ and you don&apos;t want to go around and overwrite them later.
 
 <h4>HTML</h4>
 
+<details>
+  <summary>bootstrap - using a CDN</summary>
+
 ```
 <!doctype html>
 <html lang="en">
@@ -5566,6 +5638,8 @@ crossorigin="anonymous"></script>
 </body>
 </html>
 ```
+
+</details>
 
 <a href="https://codepen.io/cristinaconacel/pen/NOpVja">Multiple Select &amp; Select boxes with optgroups (Codepen}</a>
 
@@ -5778,6 +5852,9 @@ practice, and you write some code again. Thanks.
 
 <h4>HTML:</h4>
 
+<details>
+  <summary>RD-Bootstrap Template:</summary>
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -5816,6 +5893,8 @@ in CodePen, just like you linked the CSS. -->
 </body>
 </html>
 ```
+
+</details>
 
 <h3>Bootstrap grid examples</h3>
 
@@ -6551,6 +6630,9 @@ luck.
 
 <h4>HTML:</h4>
 
+<details>
+  <summary>RD-Bootstrap Grid Example:</summary>
+  
 ```
 <div class = "container">
 <div class="row">
@@ -6581,7 +6663,12 @@ Screen</div>
 </div>
 ```
 
+</details>
+
 <h4>CSS:</h4>
+
+<details>
+  <summary>CSS for RD-Bootstrap Grid Example:</summary>
 
 ```
 div{
@@ -6601,6 +6688,8 @@ div[class$=sm]{
 color:green;
 }
 ```
+
+</details>
 
 <h2 id="ch3-6">3-06. Bootstrap Navigation</h2>
 
@@ -6788,6 +6877,9 @@ code to jQuery. So, let's go ahead and take a look at what we can do.
 
 <h4>RD: dropdowns</h4>
 
+<details>
+  <summary>HTML - RD: dropdowns</summary>
+
 ```
 <ul class="nav nav-pills">
   <li> <a href="#">Regular Link</a></li>
@@ -6811,7 +6903,12 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <!-- include all compiled plugins (below), or include individual files as needed -->
 ```
 
+</details>
+
 <h4>RD: navbar</h4>
+
+<details>
+  <summary>HTML - RD: navbar</summary>
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
@@ -6831,6 +6928,8 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <div>5 Lots and lots of Content!!!</div>
 <div>6Lots and lots of Content!!!</div>
 ```
+
+</details>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. dropdowns, #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6858,6 +6957,9 @@ drop-down link.
 
 <h4>HTML (RD:dropdowns)</h4>
 
+<details>
+  <summary>HTML - RD:dropdowns</summary>
+  
 ```
 <ul class="nav nav-pills">
   <li> <a href="#">Regular Link</a></li>
@@ -6881,11 +6983,12 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 ```
 
-Now hopefully, when we go through, you would think that when I click on
+</details>
+
+<p>Now hopefully, when we go through, you would think that when I click on
 the drop-down, something should drop-down and it didn&apos;t. I do this on
 purpose, because I really like to make the same mistakes that you guys
-possibly make.
-
+possibly make.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 285. codepen - link to bootstrap javascript files (177) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6922,6 +7025,9 @@ these little tripping points. That&apos;s why I encourage people to add code
 slowly and incrementally and keep testing every few minutes to make sure
 that you&apos;re on the right path.
 
+<details>
+  <summary>HTML - RD: navbar</summary>
+
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
   <div class="container">
@@ -6940,6 +7046,8 @@ that you&apos;re on the right path.
 <div>5 Lots and lots of Content!!!</div>
 <div>6Lots and lots of Content!!!</div>
 ```
+
+</details>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. navbar class (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7060,6 +7168,9 @@ show up on the screen.
 
 <h4>RD-Dropdowns:</h4>
 
+<details>
+  <summary>HTML - RD: dropdowns</summary>
+
 ```
 <ul class="nav nav-pills">
   <li> <a href="#">Regular Link</a></li>
@@ -7083,7 +7194,12 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 ```
 
+</details>
+
 <h4>RD-Navbar:</h4>
+
+<details>
+  <summary>HTML - RD: navbar</summary>
 
 ```
 <nav class="navbar navbar-default navbar-fixed-bottom">
@@ -7103,6 +7219,8 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <div>5 Lots and lots of Content!!!</div>
 <div>6Lots and lots of Content!!!</div>
 ```
+
+</details>
 
 <h2 id="chb-8">chb-8. Demystifying Bootstrap</h2>
 
@@ -7453,6 +7571,9 @@ part is to get as much experience and practice as possible.
 
 <h4>RD-Responsive Image Thumbnails:</h4>
 
+<details>
+  <summary>HTML - RD: Responsive Image Thumbnails</summary>
+
 ```
 <div class = "container">
 <div class = "row">
@@ -7479,6 +7600,8 @@ part is to get as much experience and practice as possible.
     class="col-sm-6 col-md-4 col-lg-2 img-thumbnail">
 </div>
 ```
+
+</details>
 
 <h2 id="ch4-2">4-02. Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7731,8 +7854,11 @@ responsive design, CSS and just good coding skills.
 
 <h4>RD-Bootstrap Tables:</h4>
 
+<details>
+  <summary>HTML - RD: bootstrap tables</summary>
+
 ```
-<!-- The bootstrap class is already linked.
+<!-- the bootstrap class is already linked.
 try these classes: table, table-striped, table-bordered, table-hover,
 table-responsive, active, success, info, danger, warning -->
 
@@ -7747,6 +7873,8 @@ table-responsive, active, success, info, danger, warning -->
   </table>
 </div>
 ```
+
+</details>
 
 <h2 id="ch4-3">4-03. Code with Me: Advanced Navigation</h2>
 
@@ -7883,6 +8011,9 @@ write your own code effectively.
 
 <h4>RD-Advanced Navigation:</h4>
 
+<details>
+  <summary>HTML - RD: advanced navigation</summary>
+
 ```
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -7910,6 +8041,8 @@ write your own code effectively.
   </div>
 </nav>
 ```
+
+</details>
 
 <h2 id="ch4-4">4-04. What Are Templates?</h2>
 
