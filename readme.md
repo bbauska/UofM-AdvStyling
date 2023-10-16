@@ -131,6 +131,10 @@ display a different layout (or &quot;look&quot;) on different platforms.
 
 There are three common approaches to responsive design.
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <ol type="1">
   <li>The first is to create your own site using fluid measurements and media queries,</li>
   <li>The second is to use an existing framework (such as Bootstrap) that does all of 
@@ -882,6 +886,10 @@ change.
   alt="intro-webdesign.com - mobile view." />
 <!-- {width="6.0in" height="3.3807699037620296in"} -->
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 Here, large view, tablet and mobile view. So, I can see that I have
 three different break points that all work. That works great if you&apos;re
 on a laptop or some sort of desktop, but what if you&apos;re on a mobile
@@ -1242,6 +1250,10 @@ good explains that I am not that eloquent. So, I&apos;m going to do my best
 to show you the technical reasons why you want to use fluid
 measurements.
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 The most important thing is that you really want to understand that your
 content, it needs to fit in the size constraints of the viewport. Don&apos;t
 try to make people use a certain size, it&apos;s your job to conform to
@@ -1448,6 +1460,10 @@ scroll, I can&apos;t even scroll up and down. I&apos;m trying. The only way for
 me to see more content is to scroll horizontally. And we all know that I
 absolutely hate that. In addition, this H1, the fluid measurement, the
 font is so big that it kind of overshadows the rest of the content.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 So, I&apos;m going to make this big again, and let&apos;s think about what we
 want to do. One of the keys to responsive design typically is mapping
@@ -1669,6 +1685,10 @@ completely different style sheet. And this was a big step forward for
 us, because it allowed us to, again, have different content and style
 depending upon the platform.
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 51. css3 (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1812,6 +1832,10 @@ now, the three columns are fine.</p>
   style="width:60%"
   alt="Code with me, narrow." />
 <!-- ![](images/image059.webp){width="6.0in" height="3.362179571303587in"} -->
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <p>But when we get smaller, right here, it really doesn&apos;t make sense to
 try to shove three columns worth of content into such a small screen.
@@ -2005,6 +2029,11 @@ at a site called wireframeshowcase.com.</p>
   style="width:60%"
   alt="wireframeshowcase.com, #2." />
 </p>
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <p>And If you scroll through the page, kind of up and down, you can see that you see 
 a little bit of a few different pages. Real pages but also you see some graphical
 sketches underneath them.</p>
@@ -2227,6 +2256,10 @@ up your screen and there it is.</p>
   alt="What does trigger mean?" />
 </p>
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <p>As developers I encourage you to open up your browser, make it big, make
 it small, kind of resize it all the time. But most people aren&apos;t going
 to do that when they&apos;re viewing your page.</p>
@@ -2365,6 +2398,10 @@ equals one that basely just kind of set what your size is going to be.
 Now, if you ever been to a site where things are really small and you
 want to make it bigger so you can read it a little better. And it just
 won&apos;t let you do that.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 71. step 1 grab information, #2 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2611,6 +2648,10 @@ horizontal line of links right up here at the top of your page.
   alt="Horizontal line of links as nav bar at top of page, #2." />
 <!-- {width="6.0in" height="3.3698720472440944in"} -->
 </p>
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 What I would like to do is design my page, so that on small screens, the
 navigation bar is still on the top. But instead, when I&apos;m on larger
@@ -2990,6 +3031,10 @@ and jQuery. They&apos;re these little bits of code that you can use to get
 an instant look that you&apos;re looking for. And sometimes an instant
 behavior that you&apos;re looking for as well with the JavaScript and the
 jQuery.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 89. what does framework mean here, #2? (84) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5222,6 +5267,10 @@ Today we&apos;re going to talk about Bootstrap.
   alt="Who uses Bootstrap?" />
 </p>
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 Speaking of that, who uses Bootstrap?
 
 -   There are a lot of popular sites that are or were built using
@@ -5406,6 +5455,10 @@ want to use, not something that you feel confined by.
     you. It&apos;s something to think about when you first start coding.
     It&apos;s also not very common right now, so let&apos;s go on to the extra
     small devices and phones.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 200. extra small devices and phones (131) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6062,6 +6115,10 @@ bit, if you&apos;re going to be using Bootstrap.
   alt="Bootstrap layout is based on a 12-column grid." />
 </p>
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 With this table, we can basically say if you want to use three columns,
 it&apos;s the same as saying a width of maybe 25%. Six columns is 50%. Nine
 columns is 75%.
@@ -6497,6 +6554,10 @@ Here, I have my class = container, and my class = row. What I&apos;m saying
 here is, it&apos;s time to look for those col-md-6, col-lg-2 different
 classes. And I want you to put these elements together based on being in
 the same row at times. I&apos;m actually going to move this.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 260. code with me - extra-small and small (163) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7289,6 +7350,11 @@ we&apos;re in certain situations, in which case, you still want it to be
 responsive. But you really want it to top off at 750 pixels, maybe
 because you think the quality of the image will degrade, or you just
 don&apos;t want it to have so much emphasis.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. your own code, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7645,6 +7711,10 @@ foundation. You need to have that class every time you style tables.
 </p>
 <!-- {width="4.0in" height="2.0858978565179354in"} -->
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 Let&apos;s talk about that one. The simple table class it just adds some
 padding and horizontal dividers. It doesn&apos;t sound like much but I&apos;m
 going to show you in a few minutes and it&apos;s kind of impressive how
@@ -7904,6 +7974,11 @@ Now, if you were using an editor such as Sublime or Atom, you would want
 to go in and actually edit the head of your document because you need to
 remember to link to the style sheets. When we use CodePen, we can just
 do this.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 324. codepen settings for bootstrap (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8078,6 +8153,10 @@ either through word of mouth or through a search engine.
   alt="getbootstrap.com - Getting Started." />
 </p>
 <!-- {width="6.0in" height="3.424359142607174in"} -->
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 Let&apos;s take a look. So here I am at the getbootstrap.com kind of default
 page where you can find out where to download, and where to get the
@@ -8824,6 +8903,10 @@ hope what I helped you understand was that learning bootstrap 3 is
 really useful and you&apos;re going to be able to use it for long time.
 Bootstrap 4 can only make things better, so if it&apos;s something you&apos;re
 interested in, go ahead. I myself am excited to see where it goes.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 <h2 name="ch4-6">4-06. Conclusion</h2>
 
