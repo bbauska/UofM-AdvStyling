@@ -7460,7 +7460,7 @@ Width: 75%;
 <p align="center" width="100%">
 <img src="/images/image300.webp"
   style="width:60%"
-  alt="." />
+  alt="Re-size based on width of parent." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7471,11 +7471,11 @@ can see that the picture of Bacon is actually changing. This is great,
 this is exactly the kind of responsive behavior that we want to see.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 301.  (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 301. responsive images with bootstrap (191) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image301.webp"
   style="width:60%"
-  alt="." />
+  alt="Responsive Bootstrap - rounded edges." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7489,11 +7489,11 @@ this one, you can see that now when I re-size it, again, great
 responsive behavior.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. image responsive bootstrap (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. responsive - rounded corners (191) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image302.webp"
   style="width:60%"
-  alt="Image responsive bootstrap." />
+  alt="Image responsive bootstrap - rounded edges." />
 </p>
 <!-- {width="6.0in" height="3.3711537620297465in"} -->
 
@@ -7597,11 +7597,11 @@ about it. And by default, if you don&apos;t declare a rule for extra small,
 it&apos;s going to default for 12. So that&apos;s why on the extra small screen,
 you get one dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. 2 images of bacon (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. 2 images of bacon (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image308.webp"
   style="width:60%"
-  alt="." />
+  alt="Two columnar images." />
 </p>
 <!-- {width="6.0in" height="6.9375in"} -->
 
@@ -7613,7 +7613,7 @@ Then you go to three on the media screen image size.
 <p align="center" width="100%">
 <img src="/images/image309.webp"
   style="width:60%"
-  alt="7 images of bacon, teachers dog." />
+  alt="7 images of bacon, teachers dog, 6 in first row, 1 in second." />
 </p>
 <!-- {width="6.0in" height="4.747436570428697in"} -->
 
@@ -7696,7 +7696,7 @@ classes on top of each other to get a really specific look.
 <p align="center" width="100%">
 <img src="/images/image311.webp"
   style="width:30%"
-  alt="." />
+  alt="Bootstrap tables, #2." />
 </p>
 <!-- {width="4.0in" height="2.0858978565179354in"} -->
 
@@ -7707,7 +7707,7 @@ foundation. You need to have that class every time you style tables.
 <p align="center" width="100%">
 <img src="/images/image312.webp"
   style="width:30%"
-  alt="." />
+  alt="Classes - tabl and table-striped." />
 </p>
 <!-- {width="4.0in" height="2.0858978565179354in"} -->
 
@@ -7729,7 +7729,7 @@ transparent.
 <p align="center" width="100%">
 <img src="/images/image313.webp"
   style="width:30%"
-  alt="." />
+  alt="Classes - table-bordered and table-hover." />
 </p>
 <!-- {width="4.0in" height="2.2576924759405075in"} -->
 
@@ -7745,7 +7745,7 @@ think a little cooler than it is.
 <p align="center" width="100%">
 <img src="/images/image314.webp"
   style="width:30%"
-  alt="." />
+  alt="Responsive tables - default under 768 for horizontal scrolling." />
 </p>
 <!-- {width="4.0in" height="2.2576924759405075in"} -->
 
@@ -7825,7 +7825,7 @@ between.
 <p align="center" width="100%">
 <img src="/images/image318.webp"
   style="width:80%"
-  alt="Table hover example." />
+  alt="Table hover and table-bordered example." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
 
@@ -7887,7 +7887,7 @@ basically going to let people scroll.
 <p align="center" width="100%">
 <img src="/images/image321.webp"
   style="width:80%"
-  alt="Example in CodePen." />
+  alt="Example in CodePen, html only." />
 </p>
 <!-- {width="7.0in" height="2.975748031496063in"} -->
 
@@ -7957,7 +7957,7 @@ menu (see end of module for source).
 <p align="center" width="100%">
 <img src="/images/image323.webp"
   style="width:80%"
-  alt="Example in CodePen." />
+  alt="Example in CodePen - RD Advanced Navigation." />
 </p>
 <!-- {width="6.0in" height="3.382050524934383in"} -->
 
@@ -7984,7 +7984,7 @@ do this.
 <p align="center" width="100%">
 <img src="/images/image324.webp"
   style="width:90%"
-  alt="CodePen settings." />
+  alt="CodePen settings, Add Bootstrap Advanced Navigation." />
 </p>
 <!-- {width="6.5in" height="3.6638888888888888in"} -->
 
@@ -8166,7 +8166,7 @@ different links, and things like that.
 <p align="center" width="100%">
 <img src="/images/image330.webp"
   style="width:80%"
-  alt="Basic template." />
+  alt="Basic template, HTML." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
 
@@ -8988,7 +8988,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-13-2023 2:40pm -->
+<!-- 10-17-2023 8:49pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
