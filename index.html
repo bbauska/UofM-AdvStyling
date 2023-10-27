@@ -1303,211 +1303,101 @@ or responsive to make our page a little bit better. This is just the
 first step, but it's an important step and it's something I want you to
 play with. So, you can feel like you're beginning to understand
 percents, ems, and other things like that. Good luck.</p>
+
 <p>Completed;</p>
 
-<h3ed" id="html"><mark>HTML:</mark></h3>
-<ol type="1">
-<li><blockquote>
-<p>&lt;!DOCTYPE html&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;html lang="en"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;head&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;meta charset="utf-8"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;title&gt;Fluid Measurements&lt;/title&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;link href="fluidstyle.css" rel="stylesheet"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;!-- &lt;link href="staticstyle.css" rel="stylesheet"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>--&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/head&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;body&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;header&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;h1&gt;Fluid Measurements&lt;/h1&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;h2&gt;Colleen van Lent&lt;/h2&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/header&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;main&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;!-- Content --&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;p&gt;What happens when you hardcode the values of your elements?
+<h4>HTML</h4>
+
+<details>
+  <summary>HTML code:</summary>
+
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;Fluid Measurements&lt;/title&gt;
+&lt;link href="fluidstyle.css" rel="stylesheet"&gt;
+&lt;!-- &lt;link href="staticstyle.css" rel="stylesheet"&gt;
+--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;header&gt;
+&lt;h1&gt;Fluid Measurements&lt;/h1&gt;
+&lt;h2&gt;Colleen van Lent&lt;/h2&gt;
+&lt;/header&gt;
+&lt;main&gt;
+&lt;!-- Content --&gt;
+&lt;p&gt;What happens when you hardcode the values of your elements?
 In this case, I have a section that is set to 940px. Each of the content
-columns is set to 300px. What could go wrong?&lt;/p&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;div class="column"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;h2&gt;Content&lt;/h2&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Integer
+columns is set to 300px. What could go wrong?&lt;/p&gt;
+&lt;div class="column"&gt;
+&lt;h2&gt;Content&lt;/h2&gt;
+&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Integer
 posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu
 leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-lacinia odio sem nec elit.&lt;/p&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/div&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;div class="column"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;h2&gt;Content&lt;/h2&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Integer
+lacinia odio sem nec elit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="column"&gt;
+&lt;h2&gt;Content&lt;/h2&gt;
+&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Integer
 posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu
 leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-lacinia odio sem nec elit.&lt;/p&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/div&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;div class="column"&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;h2&gt;Content&lt;/h2&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Integer
+lacinia odio sem nec elit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="column"&gt;
+&lt;h2&gt;Content&lt;/h2&gt;
+&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Integer
 posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu
 leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-lacinia odio sem nec elit.&lt;/p&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/div&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/main&gt;&lt;!-- .row --&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/body&gt;</p>
-</blockquote></li>
-<li><blockquote>
-<p>&lt;/html&gt;</p>
-</blockquote></li>
-</ol>
-<h3 class="unnumbered" id="css"><mark>CSS:</mark></h3>
-<ol type="1">
-<li><blockquote>
-<p>main {</p>
-</blockquote></li>
-<li><blockquote>
-<p>width: 95%;</p>
-</blockquote></li>
-<li><blockquote>
-<p>margin: 0 auto;</p>
-</blockquote></li>
-<li><blockquote>
-<p>}</p>
-</blockquote></li>
-<li><blockquote>
-<p>.column {</p>
-</blockquote></li>
-<li><blockquote>
-<p>width:30%;</p>
-</blockquote></li>
-<li><blockquote>
-<p>display: inline-block;</p>
-</blockquote></li>
-<li><blockquote>
-<p>float: left;</p>
-</blockquote></li>
-<li><blockquote>
-<p>margin-left: 2%;</p>
-</blockquote></li>
-<li><blockquote>
-<p>}</p>
-</blockquote></li>
-<li><blockquote>
-<p>html, body {</p>
-</blockquote></li>
-<li><blockquote>
-<p>background-color: #ffffff;</p>
-</blockquote></li>
-<li><blockquote>
-<p>}</p>
-</blockquote></li>
-<li><blockquote>
-<p>body {</p>
-</blockquote></li>
-<li><blockquote>
-<p>margin: 0;</p>
-</blockquote></li>
-<li><blockquote>
-<p>font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;</p>
-</blockquote></li>
-<li><blockquote>
-<p>font-size: 13px;</p>
-</blockquote></li>
-<li><blockquote>
-<p>font-weight: normal;</p>
-</blockquote></li>
-<li><blockquote>
-<p>color: #404040;</p>
-</blockquote></li>
-<li><blockquote>
-<p>}</p>
-</blockquote></li>
-<li><blockquote>
-<p>h1 {</p>
-</blockquote></li>
-<li><blockquote>
-<p>font-size: 300%;</p>
-</blockquote></li>
-<li><blockquote>
-<p>margin: 0;</p>
-</blockquote></li>
-<li><blockquote>
-<p>padding: 0;</p>
-</blockquote></li>
-<li><blockquote>
-<p>}</p>
-</blockquote></li>
-<li><blockquote>
-<p>h1, h2{</p>
-</blockquote></li>
-<li><blockquote>
-<p>text-align: center;</p>
-</blockquote></li>
-<li><blockquote>
-<p>text-transform: uppercase;</p>
-</blockquote></li>
-<li><blockquote>
-<p>}</p>
-</blockquote></li>
-</ol>
+lacinia odio sem nec elit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/main&gt;&lt;!-- .row --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+</details>
+
+<details>
+  <summary>CSS code:</summary>
+
+<pre>
+main {
+width: 95%;
+margin: 0 auto;
+}
+.column {
+width:30%;
+display: inline-block;
+float: left;
+margin-left: 2%;
+}
+html, body {
+background-color: #ffffff;
+}
+body {
+margin: 0;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 13px;
+font-weight: normal;
+color: #404040;
+}
+h1 {
+font-size: 300%;
+margin: 0;
+padding: 0;
+}
+h1, h2{
+text-align: center;
+text-transform: uppercase;
+}
+</pre>
+
+</details>
 
 <h1>Week 2-08. Media Queries</h1>
 
@@ -2972,9 +2862,7 @@ an ecosystem of add-ons allows you to fine-tune responsive layouts,
 verify accessibility, and much more.<br />
 <br />
 Features and benefits:</p>
-</blockquote>
-<ul>
-<li><blockquote>
+
 <p>Fast UI development</p>
 </blockquote></li>
 <li><blockquote>
