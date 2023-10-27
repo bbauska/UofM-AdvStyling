@@ -2195,8 +2195,13 @@ to 25%. These are the type of things that it's really simple to nod
 along, say yep, yep, I got it. And it isn't until you write your own
 code that you're going to accidentally make these mistakes and not know
 what's going on.</p>
-<p><img src="./images/image077.webp"
-style="width:4in;height:2.24658in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image077.webp?raw=true"
+  alt="."
+  style="width:4in;height:2.24658in" />
+  
 <p>My advice to you is to always add one media query at a time, and make
 it something simple. Put in that media query, add a rule, test it, build
 from there. Add a new media query, add a rule, test it. It's the best
@@ -2215,35 +2220,43 @@ width, then it’s completely the opposite you want to put those rules at
 the top. It can be tricky, and that's why I encourage you, to get into
 good habits at the beginning, and continue them as you get better and
 better at coding responsive design.</p>
-<p>RD-Media Queries Part 2:</p>
-<p>HTML:</p>
-<p>&lt;h1&gt;Media Queries Part Two&lt;/h1&gt;</p>
-<p>&lt;main&gt;</p>
-<p>&lt;p&gt;&lt;/p&gt;</p>
-<p>This page should be Green on Small screen&lt;br&gt;</p>
-<p>This page should be Yellow on Medium screen&lt;br&gt;</p>
-<p>This page should be Blue on Large screen&lt;br&gt;</p>
-<p>&lt;/p&gt;</p>
-<p>&lt;/main&gt;</p>
-<p>CSS:</p>
-<p>/* Do these need to be reordered? */</p>
-<p>@media only screen and (min-width: 1024px) {</p>
-<p>body{</p>
-<p>background: #0000FF;</p>
-<p>width:25%;</p>
-<p>}</p>
-<p>}</p>
-<p>@media only screen and (min-width: 780px) {</p>
-<p>body{</p>
-<p>background: #FFFF00;</p>
-<p>width:50%;</p>
-<p>}</p>
-<p>}</p>
-<p>body{</p>
-<p>width:100%;</p>
-<p>background: #008800;</p>
-<p>font-size:150%;</p>
-<p>}</p>
+
+<h4>RD-Media Queries Part 2:</h4>
+
+<details>
+  <summary>HTML:</summary>
+
+<pre>
+&lt;h1&gt;Media Queries Part Two&lt;/h1&gt;
+&lt;main&gt;
+&lt;p&gt;&lt;/p&gt;
+This page should be Green on Small screen&lt;br&gt;
+This page should be Yellow on Medium screen&lt;br&gt;
+This page should be Blue on Large screen&lt;br&gt;
+&lt;/p&gt;
+&lt;/main&gt;
+CSS:
+/* Do these need to be reordered? */
+@media only screen and (min-width: 1024px) {
+body{
+background: #0000FF;
+width:25%;
+}
+}
+@media only screen and (min-width: 780px) {
+body{
+background: #FFFF00;
+width:50%;
+}
+}
+body{
+width:100%;
+background: #008800;
+font-size:150%;
+}
+</pre>
+
+</details>
 
 <h1 id="Week-2-05">Week 2-05. Code with Me: Responsive Navigation</h1>
 
@@ -2253,15 +2266,23 @@ navigation. In particular we want to make one page where the navigation
 bar is at the top on a small screen and off to the side on larger
 screens.</p>
 
-<p><img src="./images/image078.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image078.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>So, let's look at some code. What I have here is some HTML that
 doesn't have any styling on the navigation bar. What you have is a nice
 horizontal line of links right up here at the top of your page.</p>
 
-<p><img src="./images/image079.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image079.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>What I would like to do is design my page, so that on small screens,
 the navigation bar is still on the top. But instead, when I'm on larger
@@ -2272,8 +2293,12 @@ you'd have all the content. But on a larger screen, it can be this big,
 then I want my navigation bar to be along the side and we can put all
 the content right off to the right.</p>
 
-<p><img src="./images/image080.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image080.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>So, let's take a look at how we're going to do that. Because we want
 to do mobile first, that means by default we already have it set up
@@ -2285,8 +2310,7 @@ only the navigation, but now, we also have it so that the links
 themselves are also styled. So, I've put in some border radius, to make
 them nice and circular. I've added the margin and the padding. And, just
 in case you look at it, and kind of wonder what's going on, I've done a
-little trick that I do, in order to center text inside these little
-.</p>
+little trick that I do, in order to center text inside these little.</p>
 <p>I've gone ahead and set the line height to 45 pixels. What this does
 is it gives this kind of little extra padding on the top and the bottom
 to help fill up the size. You should play with this, and kind of see if
@@ -2309,8 +2333,12 @@ to do that thought. What I always recommend is somebody write a very
 simple, clear rule. The reason is, it's really easy for you to figure
 out whether or not your rules are triggering.</p>
 
-<p><img src="./images/image081.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image081.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>So, let's go ahead and just change the entire color of the body of
 this page. So put in body, curly bracket, background, color, I'll just
@@ -2319,8 +2347,12 @@ and it didn't change anything on your screen, You want to stop. Don't
 start doing new complicated things if you can't even get this little one
 to get going. See if I can get away with grey. There we go.</p>
 
-<p><img src="./images/image082.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image082.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>You can still see everything. If you run into problems, the parts you
 want to check are go in did you remember to have minimum width? If you
@@ -2330,8 +2362,12 @@ looking for. Make sure you have two sets of curly brackets. Notice I
 have one set that starts my media query. And then a second one that goes
 with the body selector.</p>
 
-<p><img src="./images/image083.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image083.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>If that's going, let's go ahead and move on to how we would change
 that navigation bar to be off to the side instead of on the top. So, one
@@ -2347,8 +2383,12 @@ still doesn't look quite right. What I need, is I need to style those
 individual links as well. So that they go right underneath each other.
 Let's do that next code. So how do I do that?</p>
 
-<p><img src="./images/image084.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image084.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>How do I get the links to go underneath each other? Well, that's not
 too hard if you remember some of the more advanced CSS you've learned
@@ -2364,8 +2404,12 @@ takes up some of the space. But we really wanted the content to be next
 to it. We wanted it to be over here to the side. And instead, it ended
 up underneath.</p>
 
-<p><img src="./images/image085.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image085.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
@@ -2383,8 +2427,12 @@ math of the margins and the padding right now. I also set the height to
 100 viewport height to take up the whole screen. I did have to go back
 and change one thing up in my nav as well.</p>
 
-<p><img src="./images/image086.webp"
-style="width:6in;height:3.36987in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image086.webp?raw=true"
+  alt="."
+  style="width:6in;height:3.36987in" />
 
 <p>I had to add a float left, right down here if you look. And this is
 what lets these two things be next to each other off to the side. So
@@ -2444,10 +2492,12 @@ incidunt sunt dolorum commodi magni.&lt;/p&gt;</p>
 <p>&lt;/html&gt;</p>
 </pre>
 
+</details>
+
+<h4>CSS:</h4>
+
 <details>
   <summary>RD-Responsive Navigation (starter)</summary>
-
-<p>CSS:</p>
 
 <pre>
 <p>body{</p>
@@ -2466,27 +2516,31 @@ incidunt sunt dolorum commodi magni.&lt;/p&gt;</p>
 
 </details>
 
-<p>RD-Responsive Navigation (complete):</p>
-<p>HTML:</p>
+<h4>RD-Responsive Navigation (complete):</h4>
+
+<h4>HTML:</h4>
+
+<details>
+  <summary>HTML:</summary>
 
 <pre>
-<p>&lt;nav&gt;</p>
-<p>&lt;a href=""&gt;Home&lt;/a&gt;</p>
-<p>&lt;a href=""&gt;Photos&lt;/a&gt;</p>
-<p>&lt;a href=""&gt;Recipes&lt;/a&gt;</p>
-<p>&lt;a href=""&gt;Contact&lt;/a&gt;</p>
-<p>&lt;/nav&gt;</p>
-<p>&lt;section&gt;</p>
-<p>&lt;h2&gt;Playing with Horizontal and Vertical Navigation
-Menus&lt;/h2&gt;</p>
-<p>&lt;p&gt;This is a separate section that will hold the content for
+&lt;nav&gt;
+&lt;a href=""&gt;Home&lt;/a&gt;
+&lt;a href=""&gt;Photos&lt;/a&gt;
+&lt;a href=""&gt;Recipes&lt;/a&gt;
+&lt;a href=""&gt;Contact&lt;/a&gt;
+&lt;/nav&gt;
+&lt;section&gt;
+&lt;h2&gt;Playing with Horizontal and Vertical Navigation
+Menus&lt;/h2&gt;
+&lt;p&gt;This is a separate section that will hold the content for
 each page. The next paragraph is just filler text. It doesn't mean
-anything.&lt;/p&gt;</p>
-<p>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+anything.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Quia, temporibus, culpa! Impedit amet voluptates reiciendis esse
 quisquam. Eum quia, facere laboriosam quos possimus, ratione, optio
-incidunt sunt dolorum commodi magni.&lt;/p&gt;</p>
-<p>&lt;/section&gt;</p>
+incidunt sunt dolorum commodi magni.&lt;/p&gt;
+&lt;/section&gt;
 </pre>
 
 </details>
@@ -2497,61 +2551,61 @@ incidunt sunt dolorum commodi magni.&lt;/p&gt;</p>
   <summary>CSS</summary>
 
 <pre>
-<p>body{</p>
-<p>background-color: #F2F2F2;</p>
-<p>margin: 1%;</p>
-<p>padding:1%;</p>
-<p>}</p>
-<p>nav{</p>
-<p>border: 1px solid #06425C;</p>
-<p>color:#06425C;</p>
-<p>background-color:#FFFFFF;</p>
-<p>overflow: auto;</p>
-<p>padding-left:8%;</p>
-<p>}</p>
-<p>nav a{</p>
-<p>box-sizing:border-box;</p>
-<p>display:inline-block;</p>
-<p>line-height: 45px;</p>
-<p>height:60px;</p>
-<p>color: #FFFFFF;</p>
-<p>background-color:#486B02;</p>
-<p>text-decoration: none;</p>
-<p>margin:1% 2% 1% 8%;</p>
-<p>padding:1% 2%;</p>
-<p>border-radius: 25px;</p>
-<p>}</p>
-<p>@media all and (min-width:900px){</p>
-<p>body{</p>
-<p>background-color:grey;</p>
-<p>}</p>
-<p>nav{</p>
-<p>border:1px solid #000000;</p>
-<p>color:#06425C;</p>
-<p>background-color: #486B02;</p>
-<p>display:inline-block;</p>
-<p>width: 20%;</p>
-<p>min-width: 125px;</p>
-<p>margin-right:15px;</p>
-<p>height: 100vh;</p>
-<p>float:left;</p>
-<p>}</p>
-<p>nav a{</p>
-<p>display:block;</p>
-<p>line-height: 45px;</p>
-<p>height:45px;</p>
-<p>color: #FFFFFF;</p>
-<p>background-color:#486B02;</p>
-<p>text-decoration: none;</p>
-<p>padding-left:5px;</p>
-<p>}</p>
-<p>section{</p>
-<p>display:inline-block;</p>
-<p>width:70%;</p>
-<p>height:100vh;</p>
-<p>overflow:auto;</p>
-<p>}</p>
-<p>}</p>
+body{
+background-color: #F2F2F2;
+margin: 1%;
+padding:1%;
+}
+nav{
+border: 1px solid #06425C;
+color:#06425C;
+background-color:#FFFFFF;
+overflow: auto;
+padding-left:8%;
+}
+nav a{
+box-sizing:border-box;
+display:inline-block;
+line-height: 45px;
+height:60px;
+color: #FFFFFF;
+background-color:#486B02;
+text-decoration: none;
+margin:1% 2% 1% 8%;
+padding:1% 2%;
+border-radius: 25px;
+}
+@media all and (min-width:900px){
+body{
+background-color:grey;
+}
+nav{
+border:1px solid #000000;
+color:#06425C;
+background-color: #486B02;
+display:inline-block;
+width: 20%;
+min-width: 125px;
+margin-right:15px;
+height: 100vh;
+float:left;
+}
+nav a{
+display:block;
+line-height: 45px;
+height:45px;
+color: #FFFFFF;
+background-color:#486B02;
+text-decoration: none;
+padding-left:5px;
+}
+section{
+display:inline-block;
+width:70%;
+height:100vh;
+overflow:auto;
+}
+}
 </pre>
 
 </details>
