@@ -123,20 +123,21 @@ div {
 }
 
 h1 {
-    font-size: 2em;
-    margin: .5em;
+    font-size: 20px;
+/*    margin: .5em;  */
+    margin-left: 15px;
     background: #ffffff;  /* white */
 }
 h2 { 
-  font-size: 20px;
-  padding: 10px;
+  font-size: 18px;
+  margin-left: 15px;
 }
 h3 { 
-  font-size: 17px;
-  margin-left: 10px;
+  font-size: 16px;
+  margin-left: 15px;
 }
 h4 { 
-  font-size: 13px;
+  font-size: 14px;
 }
 h5 { 
   font-size: 12px;
@@ -169,35 +170,31 @@ body {
 
 p {
     font-family: Bahnschrift;
-    margin: 1em;
+    margin-left: 15px;
     background: #ffffff;  /* white */
 }
 
 ul, li {
     display: table;
-/*    margin: 0 auto;  */
     margin-left: 15px;
     text-align: left;
     width: 30em;  /* was 40em, 20em */
-/*    margin: 1em; */
     padding: 0 0 0 1em;
     background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
     overflow: hidden;  /* establish margin clearance for li */
 }
 ol, li {
     display: table;
-/*    margin: 0 auto;  */
     margin-left: 15px;
     text-align: left;
     width: 30em;  /* was 40em, 20em */
-/*    margin: 1em; */
     padding: 0 0 0 1em;
     background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
     overflow: hidden;  /* establish margin clearance for li */
 }
 li {
-    margin: 1em;
-    padding: .25em;
+    margin-left: 30px;
+    line-height: 120%;
     background: #ffffff;  /* white */
 }
 
