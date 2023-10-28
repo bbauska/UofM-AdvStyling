@@ -6901,11 +6901,11 @@ So, on the small view, you go to stacks. On the larger views, you&apos;re
 horizontal.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. dropdowns (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. dropdowns (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image282.webp"
   style="width:60%"
-  alt="." />
+  alt="Dropdowns." />
 </p>
 <!-- {width="4.0in" height="2.2572648731408576in"} -->
 
@@ -6997,7 +6997,7 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <p align="center" width="100%">
 <img src="/images/image283.webp"
   style="width:40%"
-  alt="." />
+  alt="Dropdowns, #2." />
 </p>
 
 The example on Bootstrap is called pills with drop-downs.
@@ -7007,7 +7007,7 @@ The example on Bootstrap is called pills with drop-downs.
 <p align="center" width="100%">
 <img src="/images/image284.webp"
   style="width:40%"
-  alt="." />
+  alt="Dropdowns, #3." />
 </p>
 
 I&apos;ve made my own example and we&apos;re going to look at it now, it&apos;s
@@ -8338,7 +8338,7 @@ these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
 
-<h2>Week 4-25. Interview: M W</h2>
+<h2 id="ch4-5">Week 4-05. Interview: M W</h2>
 
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn&apos;t show up, but luckily, I ran into one of my old
@@ -8491,7 +8491,7 @@ hope it&apos;s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you&apos;re going to go into. So thank you
 
-<h2>Week 4-26. Interview: H W</h2>
+<h2 id="ch4-6">Week 4-06. Interview: H W</h2>
 
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I&apos;ve just run into
@@ -8648,7 +8648,7 @@ the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 
-<h2>Interview with H N</h2>
+<h2 id="ch4-7">4-07. Interview with H N</h2>
 
 Hi everybody. Welcome back.
 
@@ -8845,7 +8845,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 
-<h2 name="ch4-5">4-05. Bootstrap 4/5</h2>
+<h2 name="ch4-8">4-08. Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 340/341/342. bootstrap 5 & 4 logos (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8908,7 +8908,7 @@ interested in, go ahead. I myself am excited to see where it goes.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<h2 name="ch4-6">4-06. Conclusion</h2>
+<h2 name="ch4-9">4-09. Conclusion</h2>
 
 Congratulations everybody. I&apos;m really glad that we had this chance to
 learn about responsive design.
