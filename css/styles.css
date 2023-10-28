@@ -7,7 +7,7 @@
 }
 body {
   background-color: #e8f4f8;  /* light grayish cyan - wide pc */
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
   padding: 10px;
@@ -123,27 +123,29 @@ div {
 }
 
 h1 {
-    font-size: 20px;
-/*    margin: .5em;  */
+    font-size: 22px;
     margin-left: 15px;
     background: #ffffff;  /* white */
 }
 h2 { 
-  font-size: 18px;
+  font-size: 20px;
   margin-left: 15px;
 }
 h3 { 
-  font-size: 16px;
+  font-size: 18px;
   margin-left: 15px;
 }
 h4 { 
-  font-size: 14px;
+  font-size: 16px;
+  margin-left: 15px;
 }
 h5 { 
-  font-size: 12px;
+  margin-left: 15px;
+  font-size: 13px;
 }
 h6 { 
-  font-size: 10px;
+  margin-left: 15px;
+  font-size: 11px;
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
@@ -160,20 +162,39 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
   flex: 45%;
   padding: 5px;
 }
-
+<!--
 body {
     font-size: 100&#37;;
     margin: 0;
     padding: 0;
     background: #ffffff;  /* white */
 }
+-->
 
 p {
-    font-family: Bahnschrift;
+    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
     margin-left: 15px;
     background: #ffffff;  /* white */
 }
-
+ul li {
+  padding: 10px;
+  line-height:110%;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
+}
+ol li {
+  padding: 10px;
+  line-height:110%;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
+}
+<!--
+p { 
+  font-size: 14.5px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  text-align: left;
+  margin-left: 15px;  /* 10px */
+}
+-->
+<!--
 ul, li {
     display: table;
     margin-left: 15px;
@@ -193,11 +214,11 @@ ol, li {
     overflow: hidden;  /* establish margin clearance for li */
 }
 li {
-    margin-left: 30px;
-    line-height: 120%;
+    margin-left: 15px;
+    line-height: 110%;
     background: #ffffff;  /* white */
 }
-
+-->
 @media screen and (max-width: 850px) {
   body {
     background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
