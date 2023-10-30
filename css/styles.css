@@ -170,16 +170,17 @@ p {
     background: #ffffff;  /* white */
 }
 ul li {
-  padding: 10px;
+<!--  padding: 10px; -->
   line-height:110%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 ol li {
-  padding: 10px;
+<!--  padding: 10px; -->
   line-height:110%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 
+<!--
 @media screen and (max-width: 850px) {
   body {
     background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
@@ -190,6 +191,7 @@ ol li {
     background-color: #e3fae5;  /* light grayish lime green - phones */
   }
 }
+-->
 
 figure {
   margin-top: 0;
