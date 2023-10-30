@@ -163,14 +163,6 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
   flex: 45%;
   padding: 5px;
 }
-<!--
-body {
-    font-size: 100&#37;;
-    margin: 0;
-    padding: 0;
-    background: #ffffff;  /* white */
-}
--->
 
 p {
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
@@ -187,39 +179,7 @@ ol li {
   line-height:110%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
-<!--
-p { 
-  font-size: 14.5px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  text-align: left;
-  margin-left: 15px;  /* 10px */
-}
--->
-<!--
-ul, li {
-    display: table;
-    margin-left: 15px;
-    text-align: left;
-    width: 30em;  /* was 40em, 20em */
-    padding: 0 0 0 1em;
-    background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
-    overflow: hidden;  /* establish margin clearance for li */
-}
-ol, li {
-    display: table;
-    margin-left: 15px;
-    text-align: left;
-    width: 30em;  /* was 40em, 20em */
-    padding: 0 0 0 1em;
-    background: #ffffff;  /* now white - was light grayish lime green #d2f8d2 */
-    overflow: hidden;  /* establish margin clearance for li */
-}
-li {
-    margin-left: 15px;
-    line-height: 110%;
-    background: #ffffff;  /* white */
-}
--->
+
 @media screen and (max-width: 850px) {
   body {
     background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
