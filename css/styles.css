@@ -34,7 +34,7 @@ blockquote {
 }
 
 hr {
-  background-color: #1a1a1a;  /* very dark gray (mostly black) */
+  ground-color: #1a1a1a;  /* very dark gray (mostly black) */
   border: none;
   height: 1px;
   margin: 1em 0;
