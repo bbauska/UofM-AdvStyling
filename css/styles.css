@@ -1,12 +1,11 @@
-/* university of michigan's advanced styling with responsive design */
-/* styles.css in uofmichigan-advstyling - adv-styling.bauska.org */
+/* ./css/styles.css in uofm-advstyling - adv-styling.bauska.org */
 
 * {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
 }
 body {
-  background-color: #e8f4f8;  /* light grayish cyan - wide pc */
+  background-color: #fff;  /* e8f4f8 light grayish cyan - wide pc */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
@@ -87,7 +86,6 @@ td {
   padding: 10px;
   border-radius: 1px;
 }
-
 #myBtn:hover {
   background-color: #555555;  /* very dark gray */
 }
@@ -169,27 +167,16 @@ p {
 }
 ul li {
 <!--  padding: 10px; -->
-  line-height:110%;
+  margin-left: 30px;
+  line-height:120%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 ol li {
 <!--  padding: 10px; -->
-  line-height:110%;
+  margin-left: 30px;
+  line-height:120%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
-
-<!--
-@media screen and (max-width: 850px) {
-  body {
-    background-color: #f9f6ed;  /* very grayish yellow - lt brown - tablet */
-  }
-}
-@media screen and (max-width: 480px) {
-  body {
-    background-color: #e3fae5;  /* light grayish lime green - phones */
-  }
-}
--->
 
 figure {
   margin-top: 0;
