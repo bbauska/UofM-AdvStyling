@@ -18,13 +18,6 @@ body {
   padding: 5px;
 }
 
-/* clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 img.displayed {
   display: block;
   margin: 0 auto; 
@@ -147,33 +140,16 @@ h6 {
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
-.wrapper {
-  margin: 0 auto;
-  text-align: center;
-}
-.row {
-  display: flex;
-}
-/* create two equal columns that sit next to each other side-by-side */
-.column {
-  flex: 45%;
-  padding: 5px;
-}
-
 p {
     font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
     margin-left: 15px;
     background: #ffffff;  /* white */
 }
 ul li {
-<!--  padding: 10px; -->
-  margin-left: 30px;
   line-height:120%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 ol li {
-<!--  padding: 10px; -->
-  margin-left: 30px;
   line-height:120%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
@@ -183,7 +159,4 @@ figure {
 }
 figcaption {
   text-align: center;
-}
-.picme {
-  column-count: 2;
 }
