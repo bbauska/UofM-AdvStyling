@@ -5,11 +5,44 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <!-- viewport and seo -->
+  <meta name="author" content="Brian Bauska">
+  <meta name="title" content="W3Cx-3of5-HTML5.1x">
+  <meta name="description" content="U of Michigan - Adv Styling with Responsive Design:
+.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name=”robots” content="index, follow">
+
   <title>Advanced Styling with Responsive Design taught by Colleen van Lent, PhD</title>
-  
   <link rel="stylesheet" href="./css/styles.css" />
 </head>
 <body>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <script>
+    <!-- get the button -->
+    var mybutton = document.getElementById("myBtn");
+
+    <!-- when the user scrolls down 10px from the top of the document, show the "Top" button -->
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+
+    <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or to top of -->
+    <!-- menu button (2120 on other example) -->
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
 <header id="title-block-header">
 
 <h1 style="text-align: center;" class="title">Advanced Styling with Responsive Design taught by
@@ -4186,6 +4219,7 @@ alt="Using Preact as a React Alternative - Quick" />
   style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
 alt="Replacing React with Preact in Your Projects" />
 <p style="clear: both;"></p>
+
 <img class="border"
   src="./images/image139.webp"
   style="width:10%; float: left; margin-left: 25%; margin-bottom: 1em;"
@@ -4194,6 +4228,7 @@ alt="Preact Logo Animation by Luka Mushkudiani on Dribbble" />
   src="./images/image140.webp"
   style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
 alt="Preact front-end framework" />
+<p style="clear: both;"></p>
 
 <p>Meta frameworks have always been a thing. And, in this case, Preact
 aims to be the lightweight alternative to React. If you've worked with
@@ -4213,15 +4248,28 @@ comes to maintainability and migration stability.</p>
 href="https://github.com/preactjs/preact"><strong>GitHub</strong></a></p>
 
 <h2>#13 - EmberJS</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141-144. emberjs logos (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image141.webp"
+  style="width:15%; float: left; margin-left: 20%; margin-bottom: 1em;"
+  alt="Ember logo 10 free Cliparts | Download images on Clipground 2022" />
+<img class="border"
+  src="./images/image142.webp"
+  style="width:25%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Ember: Making a set of radio buttons that change a value set on the ..." />
+<img class="border"
+  src="./images/image143.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Ember logo ~ Single Colour | I&#39;m very pleased to show this o… | Flickr." /></p>
+<p style="clear: both;"></p>
 
-<p><img src="./images/image131.webp" style="width:1.33521in;height:1in"
-alt="ember logo 10 free Cliparts | Download images on Clipground 2022" />
-- <img src="./images/image132.webp" style="width:2.26794in;height:1in"
-alt="Ember: Making a set of radio buttons that change a value set on the ..." />
-- <img src="./images/image133.webp" style="width:0.88931in;height:1in"
-alt="Ember logo ~ Single Colour | I&#39;m very pleased to show this o… | Flickr" /></p>
-<p><img src="./images/image134.webp" style="width:5in;height:0.91453in"
-alt="Ember front-end framework" /></p>
+<img class="border"
+  src="./images/image144.webp"
+  style="width:40%; float: left; margin-left: 30%; margin-bottom: 1em;"
+  alt="Ember Front-end Framework." /></p>
+<p style="clear: both;"></p>
+
 <p>Ember goes back so long that it predates all the aforementioned
 frameworks. Sure, Ember.js might be seeing a lot less usage over the
 years. But, it's still a solid contender for productive app development
@@ -4237,13 +4285,24 @@ code doesn't break with major changes in the framework itself.</p>
 href="https://github.com/emberjs/ember.js"><strong>GitHub</strong></a></p>
 
 <h2>#14 - Solid</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145-147. solidjs logos (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image145.webp"
+  style="width:10%; float: left; margin-left: 20%; margin-bottom: 1em;"
+  alt="Testing your Solid.js code | DevsDay.ru" />
+<img class="border"
+  src="./images/image146.webp"
+  style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Testing your Solid.js code | DevsDay.ru" />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image135.webp" style="width:1in;height:0.65823in"
-alt="solid-js - npm" /> - <img src="./images/image136.webp"
-style="width:3in;height:0.55063in"
-alt="Testing your Solid.js code | DevsDay.ru" /></p>
-<p><img src="./images/image137.webp" style="width:5in;height:0.91453in"
-alt="Solid front-end framework" /></p>
+<img class="border"
+  src="./images/image147.webp"
+  style="width:40%; float: left; margin-left: 30%; margin-bottom: 1em;"
+  alt="Solid front-end framework" />
+<p style="clear: both;"></p>
+
 <p>SolidJS has been in active development since 2019. But, it was in the
 June of 2021 that the framework <a
 href="https://github.com/solidjs/solid/releases/tag/v1.0.0">graduated to
@@ -4266,15 +4325,28 @@ but also frameworks like Vue and Redux.</p>
 href="https://github.com/solidjs/solid"><strong>GitHub</strong></a></p>
 
 <h2>#15 - Lit</h2>
-
-<p><img src="./images/image138.webp" style="width:1.78196in;height:1in"
-alt="Build a Lightweight Web Component with Lit.js" /> - <img
-src="./images/image139.webp" style="width:3in;height:0.9557in"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148-151. lit js logos (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image148.webp"
+  style="width:20%; float: left; margin-left: 15%; margin-bottom: 1em;"
+  alt="Build a Lightweight Web Component with Lit.js" />
+<img class="border"
+  src="./images/image149.webp"
+  style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
 alt="9 popular JavaScript frameworks (and how to choose one for your project ..." />
-- <img src="./images/image140.webp" style="width:1in;height:1in"
-alt="LAB launches a new logo and web design for LIT | LAB Digital Creative" /></p>
-<p><img src="./images/image141.webp" style="width:5in;height:0.91453in"
-alt="Lit front-end framework" /></p>
+<img class="border"
+  src="./images/image150.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="LAB launches a new logo and web design for LIT | LAB Digital Creative" />
+<p style="clear: both;"></p>
+
+<img class="border"
+  src="./images/image151.webp"
+  style="width:40%; float: left; margin-left: 30%; margin-bottom: 1em;"
+  alt="Lit front-end framework" />
+<p style="clear: both;"></p>
+
 <p>Lit (formerly lit-HTML and LitElement) is a web components framework
 maintained by Google. Lit is the framework that was used in <a
 href="https://stackdiary.com/wordle-alternatives/#an-interview-with-josh-wardle">the
@@ -4291,18 +4363,27 @@ implements standardized web components.</p>
 href="https://github.com/lit/lit/"><strong>GitHub</strong></a></p>
 
 <h2>#16 - Alpine</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152-155. alpine js logos (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image152.webp"
+  style="width:20%; float: left; margin-left: 10%; margin-bottom: 1em;"
+  alt="Alpine.js Logo PNG Vector (SVG) Free Download" />
+<img class="border"
+  src="./images/image153.webp"
+  style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Alpine.js · GitHub" />
+<img class="border"
+  src="./images/image154.webp"
+  style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Alpine.js – Ein kurzer Einstieg – SEOTheater.de" />
+<p style="clear: both;"></p>
+<img class="border"
+  src="./images/image155.webp"
+  style="width:40%; float: left; margin-left: 30%; margin-bottom: 1em;"
+  alt="Alpine Front-end Framework." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image142.webp" style="width:1.97368in;height:1in"
-alt="Alpine.js Logo PNG Vector (SVG) Free Download" /> - <img
-src="./images/image143.webp" style="width:1in;height:1in"
-alt="Alpine.js · GitHub" /> - <img src="./images/image144.webp"
-style="width:3in;height:0.56962in"
-alt="Alpine.js example · GitHub" /><img src="./images/image145.webp"
-style="width:3in;height:1.97468in"
-alt="Alpine.js – Ein kurzer Einstieg – SEOTheater.de" /></p>
-
-<p><img src="./images/image146.webp" style="width:5in;height:0.91453in"
-alt="Alpine front-end framework" /></p>
 <p>Alpine.js is a JavaScript front-end framework for customizing UI
 behavior. And, even though Alpine resembles Vue and Angular, it's much
 less demanding on resource usage. The author, <a
@@ -4324,13 +4405,23 @@ generators:</a> Jekyll, Hugo, etc.</p>
 href="https://github.com/alpinejs/alpine"><strong>GitHub</strong></a></p>
 
 <h2>#17 – Stencil</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156-158. stencil js logos (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image156.webp"
+  style="width:20%; float: left; margin-left: 10%; margin-bottom: 1em;"
+  alt="Stencil.js: crear web components nunca fue tan fácil - Paradigma" />
+<img class="border"
+  src="./images/image157.webp"
+  style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Stencil logo." />
+<p style="clear: both;"></p>
+<img class="border"
+  src="./images/image158.webp"
+  style="width:40%; float: left; margin-left: 30%; margin-bottom: 1em;"
+  alt="Stencil.js Front-end Framework." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image147.webp" style="width:1.78196in;height:1in"
-alt="Stencil.js: crear web components nunca fue tan fácil - Paradigma" />-
-<img src="./images/image148.webp" style="width:2.70857in;height:1in"
-alt="Top JavaScript Frameworks 2021 - Software Development" /></p>
-<p><img src="./images/image149.webp"
-style="width:5in;height:0.91453in" /></p>
 <p>Stencil is a library for building reusable, scalable Design Systems.
 It is designed to make the front-end development process simple and
 efficient by providing a small runtime, a tiny API, and out-of-the-box
@@ -4360,15 +4451,27 @@ doc generation, and types.</p>
 href="https://github.com/ionic-team/stencil"><strong>GitHub</strong></a></p>
 
 <h2>#18 - Qwik</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159-162. qwik js logos (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image159.webp"
+  style="width:20%; float: left; margin-left: 25%; margin-bottom: 1em;"
+  alt="GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework ..."
+<img class="border"
+  src="./images/image160.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="&quot;Qwik Logo&quot; Greeting Card by cosimochellini | Redbubble" />
+<img class="border"
+  src="./images/image161.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="&quot;Qwik Logo&quot; Sticker by cosimochellini | Redbubble" />
+<p style="clear: both;"></p>
+<img class="border"
+  src="./images/image162.webp"
+  style="width:40%; float: left; margin-left: 30%; margin-bottom: 1em;"
+  alt="Qwik Front-end Framework." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image150.webp" style="width:2.72414in;height:1in"
-alt="GitHub - LabsRS-Ref/js-framework-qwik: The HTML-first framework ..." />
-- <img src="./images/image151.webp" style="width:1in;height:1in"
-alt="&quot;Qwik Logo&quot; Greeting Card by cosimochellini | Redbubble" />
-- <img src="./images/image152.webp" style="width:0.75in;height:1in"
-alt="&quot;Qwik Logo&quot; Sticker by cosimochellini | Redbubble" /></p>
-<p><img src="./images/image153.webp"
-style="width:5in;height:0.91453in" /></p>
 <p>Qwik is a next-generation front-end framework designed to meet the
 demands of modern web development. With a focus on performance,
 scalability, and developer experience, Qwik provides a fresh approach to
@@ -4390,15 +4493,26 @@ downloaded or executed.</p>
 href="https://github.com/BuilderIO/qwik"><strong>GitHub</strong></a></p>
 
 <h2>#19 – Moment.js</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163-166. moment js logos (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image163.webp"
+  style="width:10%; float: left; margin-left: 20%; margin-bottom: 1em;"
+  alt="Moment JS logo vector." />
+<img class="border"
+  src="./images/image164.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Moment JS logo vector." />
+<img class="border"
+  src="./images/image165.webp"
+  style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Moment JS logo vector." />
+<img class="border"
+  src="./images/image166.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Moment JS Front-end Framework." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image154.webp" style="width:1.22535in;height:1in"
-alt="10 Awesome JavaScript Libraries You Should Try Out in 2021" />-
-<img src="./images/image155.webp" style="width:1in;height:1in"
-alt="Moment JS logo vector" /> - <img src="./images/image156.webp"
-style="width:2.39394in;height:1in"
-alt="Useful Open Source JavaScript Libraries and Plugins for Web Developer" />
-- <img src="./images/image157.webp" style="width:1in;height:1in"
-alt="Collection of Javascript Logo Vector PNG. | PlusPNG" /></p>
 <p><strong>Moment.js</strong> is a JavaScript package that makes it
 simple to parse, validate, manipulate, and display date/time in
 JavaScript. It allows you to display dates in a human-readable way based
@@ -4416,15 +4530,23 @@ inside the script tag. Without downloading the file, you can also use
 CDN link to run the code (see documentation).</p>
 
 <h2>#20 – popper.js</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167-169. popper js logos (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image167.webp"
+  style="width:20%; float: left; margin-left: 25%; margin-bottom: 1em;"
+  alt="Popper JS logo vector." />
+<img class="border"
+  src="./images/image168.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="@popperjs/core - npm." />
+<img class="border"
+  src="./images/image169.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="@popperjs/core - npm. JS logo vector." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image158.webp" style="width:2in;height:1.04219in"
-alt="10 impresionantes bibliotecas de JavaScript que deberías probar en 2020 ..." />
-- <img src="./images/image159.webp" style="width:2in;height:2in"
-alt="Popper.js首页、文档和下载 - 在web应用中创建Poppers - OSCHINA - 中文开源技术交流社区" />
-- <img src="./images/image160.webp" style="width:1in;height:1in"
-alt="@popperjs/core - npm" /></p>
-<p>Popper.js is a positioning, popover and drop-down tooltip
-utility.</p>
+<p>Popper.js is a positioning, popover and drop-down tooltip utility.</p>
 <p>Given an element, such as a button, and a tooltip element describing
 it, Popper will automatically put the tooltip in the right place near
 the button.</p>
@@ -4432,60 +4554,75 @@ the button.</p>
 document and floats near a target element. The most common example is a
 tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a "popper" element.</p>
-<p><img src="./images/image161.webp"
-style="width:7in;height:2.6265in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170/171. popper js tool tips (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image170.webp"
+  alt="popper.js tool tips."
+  style="width:55%;" />
+
 <p><a href="https://popper.js.org/">https://popper.js.org/</a></p>
-<p><img src="./images/image162.webp"
-style="width:6.5in;height:2.60625in" /></p>
+
+<img class="displayed"
+  src="./images/image171.webp"
+  alt="popper.js tool tips."
+  style="width:55%;" />
+
 <p><a
 href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement">https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement</a></p>
 <p>For more documentation, see <a
 href="https://popper.js.org/docs/v2/">https://popper.js.org/docs/v2/</a>.</p>
 
 <h2>#21 – BackboneJS</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172-174. backbone js logos (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image172.webp"
+  style="width:10%; float: left; margin-left: 15%; margin-bottom: 1em;"
+  alt="Backbone JS logo vector." />
+<img class="border"
+  src="./images/image173.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Creating simple tasks app with Backbone.js and Slim micro framework ..." />
+<img class="border"
+  src="./images/image174.webp"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Backbone JS Front-end Framework." />
+<p style="clear: both;"></p>
 
-<p>Backbone.js gives structure to web applications by
-providing models with key-value binding and custom
-events, collections with a rich API of enumerable functions, views with
-declarative event handling, and connects it all to your existing API
-over a RESTful JSON interface.</p>
-<p>The project is <a
-href="https://github.com/jashkenas/backbone/">hosted on GitHub</a>, and
-the <a href="https://backbonejs.org/docs/backbone.html">annotated source
-code</a> is available, as well as an online <a
-href="https://backbonejs.org/test/">test suite</a>, an <a
-href="https://backbonejs.org/examples/todos/index.html">example
-application</a>, a <a
-href="https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites">list
-of tutorials</a> and a <a href="https://backbonejs.org/#examples">long
-list of real-world projects</a> that use Backbone.</p>
-<p><img src="./images/image163.webp" style="width:1in;height:1in"
-alt="Creating simple tasks app with Backbone.js and Slim micro framework ..." />
-- <img src="./images/image164.webp" style="width:2in;height:1.2827in"
-alt="All About Backbone.js | Javascript Frameworks" /> - <img
-src="./images/image165.webp" style="width:4in;height:0.70886in"
-alt="Backbone.js" /></p>
+<p>Backbone.js gives structure to web applications by providing models with key-value 
+binding and custom events, collections with a rich API of enumerable functions, views 
+with declarative event handling, and connects it all to your existing API over a 
+RESTful JSON interface.</p>
+<p>The project is <a href="https://github.com/jashkenas/backbone/">hosted on GitHub</a>, 
+and the <a href="https://backbonejs.org/docs/backbone.html">annotated source code</a> 
+is available, as well as an online <a href="https://backbonejs.org/test/">test suite</a>, 
+an <a href="https://backbonejs.org/examples/todos/index.html">example application</a>, a <a
+href="https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites">
+list of tutorials</a> and a <a href="https://backbonejs.org/#examples">long list 
+of real-world projects</a> that use Backbone.</p>
+
 <p>Backbone.js Stack</p>
 
 <h2>Bootstrap your project</h2>
 
 <p>There are 2 ways to use it in your project:</p>
 <ul>
-<li>If you are starting a new RESThub Spring + Backbone stack
-project, the better way to use it is to use one of the Backbone.js
-webapp Maven Archetypes described <a
-href="https://resthub.github.io/docs/spring/bootstrap">here</a></li>
-<li>You can simply download latest RESThub Backbone.js stack, and
-extract it at the root of your webapp:</p>
-<ul>
-<li><a
-href="https://github.com/resthub/resthub-backbone-stack/archive/master.zip">current
-development version</a></li>
-<li><a
-href="https://github.com/resthub/resthub-backbone-stack/archive/resthub-backbone-stack-2.1.2.zip">latest
-RESThub Backbone.js stack release</a></li>
-</ul></li>
+  <li>If you are starting a new RESThub Spring + Backbone stack project, the better 
+    way to use it is to use one of the Backbone.js webapp Maven Archetypes described
+	<a href="https://resthub.github.io/docs/spring/bootstrap">here</a></li>
+  <li>You can simply download latest RESThub Backbone.js stack, and extract it at 
+    the root of your webapp:</p>
+    <ul>
+      <li><a href="https://github.com/resthub/resthub-backbone-stack/archive/master.zip">
+	    current development version</a></li>
+      <li><a href="https://github.com/resthub/resthub-backbone-stack/archive/resthub-backbone-stack-2.1.2.zip">
+	    latest RESThub Backbone.js stack release</a></li>
+    </ul>
+  </li>
 </ul>
+
 <p>The <a href="https://github.com/resthub/todo-backbone-example">Todo
 RESThub example</a> project is the reference example project using this
 stack.</p>
@@ -4493,6 +4630,21 @@ stack.</p>
 href="https://resthub.github.io/docs/backbone/layout/">https://resthub.github.io/docs/backbone/layout/</a>.</p>
 
 <h2>#22 – SemanticUI</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175-177. semantic js logos (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image175.webp"
+  style="width:10%; float: left; margin-left: 15%; margin-bottom: 1em;"
+  alt="Semantic UI Logo PNG Transparent &amp; SVG Vector - Freebie Supply" />
+<img class="border"
+  src="./images/image176.webp"
+  style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Taking a Look at Semantic UI: A Lightweight Alternative to Bootstrap ..." />
+<img class="border"
+  src="./images/image177.webp"
+  style="width:30%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Semantic UI JS Front-end Framework." />
+<p style="clear: both;"></p>
 
 <p>Semantic UI is a front-end development framework similar to bootstrap
 designed for theming. It contains pre-built semantic components that
@@ -4503,27 +4655,36 @@ HTML, intuitive JavaScript, and simplified debugging to make a front-end
 development a fun and delightful experience.</p>
 <p>And it integrates with React, Angular, Meteor, Ember and many other
 frameworks to help organize UI layer alongside application logic.</p>
-<p><img src="./images/image166.webp" style="width:1in;height:1in"
-alt="Semantic UI Logo PNG Transparent &amp; SVG Vector - Freebie Supply" />
-- <img src="./images/image167.webp" style="width:2in;height:1in"
-alt="En İyi 6 CSS Framework" /> - <img src="./images/image168.webp"
-style="width:3.19672in;height:1in"
-alt="Taking a Look at Semantic UI: A Lightweight Alternative to Bootstrap ..." /></p>
-<p><img src="./images/image169.webp"
-style="width:4in;height:2.67479in" /></p>
-<p><img src="./images/image170.webp"
-style="width:4in;height:2.14658in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 178/179. semantic ui website themes (117) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image178.webp"
+  alt="Example Semantic UI Website Theme."
+  style="width:55%;" />
+
+<img class="displayed"
+  src="./images/image179.webp"
+  alt="Example Semantic UI Website Theme, #2."
+  style="width:55%;" />
+
+
 <p>Example Semantic UI website theme.</p>
 <p>For more information go to <a
 href="https://semantic-ui-forest.com/">https://semantic-ui-forest.com/</a>.</p>
 
 <h2>#23 – Gatsby</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180-181. gatsby js logos (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image180.webp"
+  style="width:20%; float: left; margin-left: 35%; margin-bottom: 1em;"
+  alt="Blazing speed with Gatsby Js - EasyCoders - code made easy" />
+<img class="border"
+  src="./images/image181.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free" />
+<p style="clear: both;"></p>
 
-<h2><img
-src="./images/image171.webp" style="width:3in;height:1.37628in"
-alt="Blazing speed with Gatsby Js - EasyCoders - code made easy" /> <img
-src="./images/image172.webp" style="width:1.38in;height:1.38in"
-alt="Repl.it - GatsbyJS Online Compiler and IDE - Fast, Powerful, Free" /></h2>
 <p>It is an <strong>open-source static website generator</strong>, which
 “allows developers to create fast, secure and powerful websites using a
 React-based framework and an innovative data layer that makes
@@ -4532,71 +4693,108 @@ is incredibly simple”, explains Gatsby js on his <a
 href="https://www.gatsbyjs.com/why-gatsby">website</a>.</p>
 
 <h2>#24 – The MEAN Stack</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 182. the mean stack website themes (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image182.webp"
+  alt="What is MEAN Stack? MEAN Stack Components and Benefits | Thirdock Techkno." />
+  style="width:35%;" />
 
-<p><img src="./images/image173.webp" style="width:4in;height:2.09316in"
-alt="What is MEAN Stack? MEAN Stack Components and Benefits | Thirdock Techkno" /></p>
 <p>The MEAN stack is a JavaScript-based framework for developing web
 applications. MEAN is named after MongoDB, Express, Angular, and Node,
 the four key technologies that make up the layers of the stack.</p>
+
 <ul>
-<li>MongoDB — document database</li>
-<li>Express(.js) — Node.js web framework</li>
-<li>Angular(.js) — a client-side JavaScript framework</li>
-<li>Node(.js) — the premier JavaScript web server</li>
+  <li>MongoDB — document database</li>
+  <li>Express(.js) — Node.js web framework</li>
+  <li>Angular(.js) — a client-side JavaScript framework</li>
+  <li>Node(.js) — the premier JavaScript web server</li>
 </ul>
+
 <p>There are variations to the MEAN stack such as <a
-href="https://www.mongodb.com/mern-stack">MERN</a> (replacing Angular.js
-with React.js) and MEVN (using Vue.js). The MEAN stack is one of the
-most popular technology concepts for building web applications.</p>
+href="https://www.mongodb.com/mern-stack">MERN</a> (replacing Angular.js with React.js) 
+and MEVN (using Vue.js). The MEAN stack is one of the most popular technology concepts 
+for building web applications.</p>
 
 <h2>#25 – Aurelia</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183-185. aurelia js logos (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image183.webp"
+  style="width:10%; float: left; margin-left: 20%; margin-bottom: 1em;"
+  alt="Pegatina «Logotipo de Aurelia - marco JS» de hipstuff | Redbubble" />
+<img class="border"
+  src="./images/image184.webp"
+  style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="JavaScript Frameworks Every Developer Must Have! - Tutorials &amp; Methods ..." />
+<img class="border"
+  src="./images/image185.webp"
+  style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="5 Benefits Of Choosing Aurelia js Over AngulrJS- ValueCoders" />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image174.webp" style="width:1.5in;height:2in"
-alt="Pegatina «Logotipo de Aurelia - marco JS» de hipstuff | Redbubble" />
-<img src="./images/image175.webp" style="width:3in;height:1.07724in"
-alt="JavaScript Frameworks Every Developer Must Have! - Tutorials &amp; Methods ..." />
-<img src="./images/image176.webp" style="width:2in;height:0.59337in"
-alt="5 Benefits Of Choosing Aurelia js Over AngulrJS- ValueCoders" /></p>
-<p>Aurelia is an open-source JavaScript framework for building web
-applications. It follows a modular and extensible architecture,
-promoting clean code practices and a developer-friendly experience.
-Aurelia focuses on simplicity, flexibility, and modern web
-standards.</p>
+<p>Aurelia is an open-source JavaScript framework for building web applications. 
+It follows a modular and extensible architecture, promoting clean code practices 
+and a developer-friendly experience. Aurelia focuses on simplicity, flexibility, 
+and modern web standards.</p>
 
 <h2>#26 – Knockout.js</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186-188. knockout js logos (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image186.webp"
+  style="width:20%; float: left; margin-left: 25%; margin-bottom: 1em;"
+  alt="Knockout.js Reviews 2022: Details, Pricing, &amp; Features | G2" />
+<img class="border"
+  src="./images/image187.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Challenges with Monitoring Knockout.js Web Applications - Dotcom ..." />
+<img class="border"
+  src="./images/image188.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Knockout (@knockout_js) | Twitter." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image177.webp" style="width:3in;height:1.575in"
-alt="Knockout.js Reviews 2022: Details, Pricing, &amp; Features | G2" />
-<img src="./images/image178.webp" style="width:2in;height:2in"
-alt="Challenges with Monitoring Knockout.js Web Applications - Dotcom ..." />
-<img src="./images/image179.webp" style="width:1in;height:1in"
-alt="Knockout (@knockout_js) | Twitter" /></p>
-<p>Knockout.js is a lightweight JavaScript framework that helps you
-build dynamic and responsive user interfaces with a clean underlying
-data model. It follows the MVVM (Model-View-ViewModel) pattern and
-provides declarative bindings, automatic UI updates, and a simple API
-for managing data and UI synchronization.</p>
+<p>Knockout.js is a lightweight JavaScript framework that helps you build dynamic 
+and responsive user interfaces with a clean underlying data model. It follows the 
+MVVM (Model-View-ViewModel) pattern and provides declarative bindings, automatic 
+UI updates, and a simple API for managing data and UI synchronization.</p>
 
 <h2>#27 – Mithril</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189-191. mithril js logos (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image189.webp"
+  style="width:30%; float: left; margin-left: 15%; margin-bottom: 1em;"
+  alt="Mithril. Js – DEV.BG" />
+<img class="border"
+  src="./images/image190.webp"
+  style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="Mithril.js. The brave little framework — An… | by DAN | Medium." />
+<img class="border"
+  src="./images/image191.webp"
+  style="width:10%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="D20 - Mithril Js Logo, HD Png Download - 1605x1605 PNG - DLF.PT" />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image180.webp" style="width:3in;height:1.14557in"
-alt="Mithril. Js – DEV.BG" /> <img src="./images/image181.webp"
-style="width:2in;height:1.18987in"
-alt="Mithril.js. The brave little framework — An… | by DAN | Medium" />
-<img src="./images/image182.webp" style="width:1in;height:0.94423in"
-alt="D20 - Mithril Js Logo, HD Png Download - 1605x1605 PNG - DLF.PT" /></p>
-<p>Mithril is a lightweight and fast JavaScript framework for building
-single-page applications (SPAs) and dynamic web interfaces. It provides
-a minimalistic API and focuses on simplicity, performance, and size
-optimization. Despite its small footprint, Mithril offers powerful
-features for building robust web applications.</p>
+<p>Mithril is a lightweight and fast JavaScript framework for building single-page 
+applications (SPAs) and dynamic web interfaces. It provides a minimalistic API and 
+focuses on simplicity, performance, and size optimization. Despite its small footprint, 
+Mithril offers powerful features for building robust web applications.</p>
 
 <h2>#28 – Riot.js</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192-193. riot js logos (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="border"
+  src="./images/image192.webp"
+  style="width:30%; float: left; margin-left: 25%; margin-bottom: 1em;"
+  alt="Introducing Riot.js, RiotControl and RiotGear" />
+<img class="border"
+  src="./images/image193.webp"
+  style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  alt="2021 Riot.js." />
+<p style="clear: both;"></p>
 
-<p><img src="./images/image183.webp" style="width:3in;height:1.42853in"
-alt="Introducing Riot.js, RiotControl and RiotGear" /> <img
-src="./images/image184.webp" style="width:3in;height:2.56506in"
-alt="2021 年 5 月現在の Riot.js" /></p>
 <p>Riot.js is a lightweight and intuitive JavaScript framework for
 building user interfaces. It emphasizes simplicity, reusability, and a
 minimalistic approach. Riot.js provides a small footprint, making it
@@ -4606,9 +4804,9 @@ crucial.</p>
 <h2>#29 – Stimulus</h2>
 
 <h2><img
-src="./images/image185.webp" style="width:2in;height:1.385in"
+src="./images/image194.webp" style="width:2in;height:1.385in"
 alt="Stimulus: A JavaScript Framework for People Who Love HTML" /> <img
-src="./images/image186.webp" style="width:2in;height:1.5in"
+src="./images/image195.webp" style="width:2in;height:1.5in"
 alt="Episode #112 - Stimulus Javascript Framework | Preview - YouTube" /></h2>
 <p>Stimulus is a JavaScript framework designed to add interactivity to
 HTML pages with minimal setup and a focus on progressive enhancement. It
@@ -4617,11 +4815,11 @@ web applications by enhancing existing HTML elements with behavior.</p>
 
 <h2>#30 – Tailwind CSS</h2>
 
-<p><img src="./images/image187.webp" style="width:2in;height:1in"
+<p><img src="./images/image196.webp" style="width:2in;height:1in"
 alt="How to access Tailwind CSS colors from Javascript" /> <img
-src="./images/image188.webp" style="width:2in;height:1.125in"
+src="./images/image197.webp" style="width:2in;height:1.125in"
 alt="Tailwind CSS ⭐ con React.js ⭐ [Parte 6] - YouTube" /> <img
-src="./images/image189.webp" style="width:2in;height:1.232in"
+src="./images/image198.webp" style="width:2in;height:1.232in"
 alt="CodeKit - TailwindCSS" /></p>
 <p>Tailwind CSS is a popular utility-first CSS framework that provides a
 comprehensive set of pre-built CSS classes. It aims to simplify the
@@ -4630,8 +4828,8 @@ functional approach.</p>
 
 <h2>#31 – Foundation</h2>
 
-<p><img src="./images/image190.webp" style="width:2in;height:0.6015in"
-alt="JS Foundation – Logos Download" /> <img src="./images/image191.webp"
+<p><img src="./images/image199.webp" style="width:2in;height:0.6015in"
+alt="JS Foundation – Logos Download" /> <img src="./images/image200.webp"
 style="width:2in;height:1.11111in"
 alt="JS Foundation Announced To Bring JavaScript Open Source Community Under ..." /></p>
 <p>Foundation is a responsive front-end framework that provides a
@@ -4672,9 +4870,12 @@ the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.</p>
 
 <h1 id="Week-3-02">Week 3-02. Introduction to Twitter Bootstrap 3</h1>
-
-<p><img src="./images/image192.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. what is twitter bootstrap? (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image201.webp"
+  alt="What is Twitter Bootstrap?"
+  style="width:35%;" />
 
 <p>Today we're going to talk about Bootstrap.</p>
 
@@ -4697,9 +4898,12 @@ style="width:4in;height:2.24957in" /></p>
     It gives us this very familiar look and feel to sights that were made with 
     Bootstrap.</li>
 </ul>
-
-<p><img src="./images/image193.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. who uses twitter bootstrap? (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image202.webp"
+  alt="Who Uses Twitter Bootstrap?"
+  style="width:35%;" />
 
 <p>Speaking of that, who uses Bootstrap?</p>
 
@@ -4713,45 +4917,53 @@ style="width:4in;height:2.24957in" /></p>
     nice place to go to give you ideas for all the different layout designs that are 
     out there for you to use as a building block.</li>
 </ul>
-
-<p><img src="./images/image194.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. benefits of bootstrap 3.0 (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image203.webp"
+  alt="Benefits of Bootstrap 3.0."
+  style="width:35%;" />
 
 <p>There are a number of benefits of using Bootstrap 3.0.</p>
 
 <ul>
-<li>One is that it has a very handy 12-column grid system.</p>
-<ul>
-<li>What this does is it helps with spacing issues. If you've ever
-spent a lot of time trying to center something exactly in the page or
-lay out three columns in a row and have them spaced out nicely, you know
-that it can take a lot of time.</li>
-<li>When you add in the fact that this column system has built in
-responsive design it makes it a really attractive option to learn
-about.</li>
-</ul></li>
-<li>Next, Bootstrap tries to include all the very common jQuery
-functionalities.</p>
-<ul>
-<li>These include things like accordions, the drop up and down of
-content, includes drop-down menus, and also carousels for pictures. It
-actually has a lot of different functionalities, but I wanted to just
-mention some of the ones that people just use the most.</li>
-</ul></li>
-<li>Finally, Bootstrap has that familiar look and feel that I
-mentioned before.</p>
-<ul>
-<li>Many sites use Bootstrap, and when you use it,</li>
-<li>It helps make your site and any forms that you might want people
-to fill out, look what we can call legitimate. It looks like a real
-site. And that's really valuable, because it's important for people to
-have confidence in your site when they go to visit it.</li>
-</ul></li>
+  <li>One is that it has a very handy 12-column grid system.</p>
+    <ul>
+      <li>What this does is it helps with spacing issues. If you've ever spent a 
+	    lot of time trying to center something exactly in the page or lay out three 
+		columns in a row and have them spaced out nicely, you know that it can take 
+		a lot of time.</li>
+      <li>When you add in the fact that this column system has built in responsive 
+	    design it makes it a really attractive option to learn about.</li>
+    </ul>
+  </li>
+  <li>Next, Bootstrap tries to include all the very common jQuery functionalities.</p>
+    <ul>
+      <li>These include things like accordions, the drop up and down of content, 
+	    includes drop-down menus, and also carousels for pictures. It actually has 
+	    a lot of different functionalities, but I wanted to just mention some of 
+	    the ones that people just use the most.</li>
+    </ul>
+  </li>
+  <li>Finally, Bootstrap has that familiar look and feel that I mentioned before.</p>
+    <ul>
+      <li>Many sites use Bootstrap, and when you use it,</li>
+      <li>It helps make your site and any forms that you might want people to fill 
+	    out, look what we can call legitimate. It looks like a real site. And that's 
+		really valuable, because it's important for people to have confidence in your 
+		site when they go to visit it.</li>
+    </ul>
+  </li>
 </ul>
-<p><img src="./images/image195.webp"
-style="width:4in;height:2.24957in" /></p>
-<p>So why should you consider using Bootstrap? Or at least know a little
-bit about it?</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 204. why you should use bootstrap (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image204.webp"
+  alt="Why you should use Bootstrap."
+  style="width:35%;" />
+
+<p>So why should you consider using Bootstrap? Or at least know a little bit about it?</p>
+
 <ul>
 <li>First of all, it can lead to really fast development. You can
 have a great looking site up in really just a few moments.</li>
@@ -4764,9 +4976,12 @@ you can like so many things about it. But if there's something that you
 don't like, that's okay. You can go in and you can change the values to
 give it the look that you want it to have.</li>
 </ul>
-
-<p><img src="./images/image196.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 205. why you shouldn't use bootstrap (125) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image205.webp"
+  alt="Why you shouldn't use Bootstrap."
+  style="width:35%;" />
 
 <p>But there are reasons why you might not want to use Bootstrap.</p>
 
@@ -4787,9 +5002,12 @@ style="width:4in;height:2.24957in" /></p>
     Or you want to show that you are really an innovative thinker. Then you might 
     not want to use Bootstrap. You might really want to head off on your own.</li>
 </ul>
-
-<p><img src="./images/image197.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. what we will cover (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image206.webp"
+  alt="What we will cover."
+  style="width:35%;" />
 
 <ul>
   <li>When we talk about Bootstrap in this class, there are a number of different 
@@ -4820,25 +5038,33 @@ Thanks.</li>
 
 <h1 id="Week-3-03">Week 3-03. Bootstrap Breakpoints</h1>
 
-<p><img src="./images/image198.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 207. default bootstrap breakpoints (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image207.webp"
+  alt="Default Bootstrap Breakpoints."
+  style="width:35%;" />
 
 <ul>
-<li>Earlier in this course, we talked about setting breakpoints in
-your code for responsive design. Bootstrap has default breakpoints that
-it's hardcoded for the different viewports.</li>
-<li>The intention for bootstrap, again, is to always use the mobile
-first paradigm. It's always going to bring up every page as if it's
-thinking, the only way people are going to look at this is on my phone.
-If it's bigger then I'll make changes.</p>
-<ul>
-<li>You want to make sure you plan for the smallest screen and then
-make adjustments as the screen size potentially is larger.</li>
-</ul></li>
+  <li>Earlier in this course, we talked about setting breakpoints in your code 
+    for responsive design. Bootstrap has default breakpoints that it's hardcoded 
+	for the different viewports.</li>
+  <li>The intention for bootstrap, again, is to always use the mobile first paradigm. 
+    It's always going to bring up every page as if it's thinking, the only way people 
+	are going to look at this is on my phone. If it's bigger then I'll make changes.</p>
+    <ul>
+      <li>You want to make sure you plan for the smallest screen and then make adjustments 
+	    as the screen size potentially is larger.</li>
+    </ul>
+  </li>
 </ul>
 
-<p><img src="./images/image199.webp"
-style="width:4in;height:2.24957in" /></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. custom, iphone retina (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image208.webp"
+  alt="Custom, Iphone Retina."
+  style="width:35%;" />
 
 <ul>
 <li>First let’s talk about the smallest screen size that Bootstrap
@@ -7341,7 +7567,6 @@ href="https://www.codeschool.com/courses/discover-devtools">https://www.codescho
   src="./images/image343.webp"
   alt="U of Michigan Online logo."
   style="width:25%;" />
-<!--  style="width:3in;height:0.39615in" /> -->
 
 <p>Want to keep learning? Explore hundreds of learning experiences from
 the University of Michigan faculty and instructional teams on <a
@@ -7356,4 +7581,12 @@ to the Michigan Online email list!</p>
 
 <h6>Last updated 10.30.2023 1:34pm</h6>
 </body>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ###.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/image###.webp"
+  alt="."
+  style="width:25%;" />
+
 </html>
