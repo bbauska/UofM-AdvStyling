@@ -9,13 +9,7 @@ body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
-  padding: 10px;
   margin-left: 15px;
-}
-.column {
-  float: left;
-  width: 45%;
-  padding: 5px;
 }
 
 img.displayed {
@@ -113,44 +107,41 @@ div {
 }
 
 h1 {
-    font-size: 22px;
-    margin-left: 15px;
-    background: #ffffff;  /* white */
+  font-size: 22px;
+  margin-left: 10px;
+  background: #ffffff;  /* white */
 }
 h2 { 
   font-size: 20px;
-  margin-left: 15px;
+  margin-left: 10px;
 }
 h3 { 
   font-size: 18px;
-  margin-left: 15px;
+  margin-left: 10px;
 }
 h4 { 
   font-size: 16px;
-  margin-left: 15px;
+  margin-left: 10px;
 }
 h5 { 
-  margin-left: 15px;
+  margin-left: 10px;
   font-size: 13px;
 }
 h6 { 
-  margin-left: 15px;
+  margin-left: 10px;
   font-size: 11px;
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
 p {
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-    margin-left: 15px;
-    background: #ffffff;  /* white */
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  margin-left: 15px;
+  background: #ffffff;  /* white */
 }
-ul li {
-  line-height:120%;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
-}
-ol li {
-  line-height:120%;
+
+ol,ul li { 
+  line-height: 130%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 
@@ -159,4 +150,32 @@ figure {
 }
 figcaption {
   text-align: center;
+}
+
+details {
+  font: 13px Inter, sans-serif, Bahnschrift, Calibri;
+  width: 65%;
+}
+summary {
+  font: 13px Inter, sans-serif, Bahnschrift, Calibri;
+  width: 65%;
+}
+details > summary {
+  padding: 2px 6px;
+  width: 15em;  /* 12em */
+  background-color: #eee;  /* very light gray */
+  border: none;
+  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
+  cursor: pointer;
+  margin-left: 10px;
+}
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;  /* white */
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px #00008b;  /* dark blue*/
+}
+details[open] > summary {
+  background-color: yellow;
 }
