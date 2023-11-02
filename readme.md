@@ -75,7 +75,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 >### 4.3 [**Code With Me: Advanced Navigation**](#ch4-3)
 >### 4.4 [**What Are Templates?**](#ch4-4)
 >### 4.5 [**Bootstrap 4/5**](#ch4-5)
->### 4.6 [**Conclusion**](#ch4-6)
+>### 4.9 [**Conclusion**](#ch4-9)
 
 <a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">UofM - Advanced Styling - git</a>
 
@@ -442,9 +442,8 @@ the link:
 
 This is a fairly technical document and is not required reading for the
 course.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-1">1-01. Introduction to Responsive Design</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -658,7 +657,6 @@ you will probably find the answer.
 
 You&apos;ll find three or four wrong answers, but eventually, the answer
 will be there.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (14) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -672,9 +670,9 @@ experience as you can.
 
 Welcome to introduction to responsive web design. I hope that you&apos;ll
 learn a lot. Thanks.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-2">1-02. What is Responsive Design?</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody, so you&apos;re here and I&apos;m here, and we&apos;re here to talk
 about responsive design.
 
@@ -851,9 +849,9 @@ This is just an example of really bad responsive design.
 Let&apos;s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we&apos;re going to get started
 coding right away.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-3">1-03. Testing Existing Sites</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. One of the things that you&apos;re going to want to do is
 test your site to see how it&apos;s doing across multiple devices and
 multiple view ports.
@@ -1061,9 +1059,9 @@ out and get that feel for what you think looks really good, or sometimes
 even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren&apos;t
 responsive. Don&apos;t worry, yours will be.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-4">1-04. Benefits of Responsive Design</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today, let&apos;s talk about some of the benefits of
 responsive design.
 
@@ -1232,8 +1230,8 @@ lecture on Fluid Measurements.
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-5">1-05. Fluid Measurements</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. fluid measurements (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1408,14 +1406,13 @@ how they work until you take some time, play with the code and just kind
 of see what you can make it do. For that reason, our next module is
 going to be an example of me moving from absolute to relative
 measurements.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-6">1-06. Code With Me: Fluid Measurements</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 One of the things we always talk about is that there&apos;s a real
 difference between sitting and listening to me talk about something, and
 getting in there and coding it yourself, or at least following along
 with me while I code it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. fluid measurements, #1 (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1640,11 +1637,10 @@ i hate myself with no elite.</p>
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2-1">2-01. Media Queries</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today we are going to talk about Media queries.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. media queries (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1805,13 +1801,12 @@ first learning how to do responsive design. We&apos;re going to do one
 together to get your hands wet and have you coding, just make sure that
 you start small and we&apos;ll go ahead and we&apos;ll do something together.
 Good luck,</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2-2">2-02. Code With Me: Fluid Measurements and Media Queries</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hey everybody, welcome back. Let&apos;s go look at some code together.</p>
 
 <https://codepen.io/ColleenEMc/pen/pgrYpK/>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. fluid measurements, #1 (52) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2000,9 +1995,9 @@ i hate myself with no elite.</p>
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2-3">2-03. Wire Frames</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Today, we&apos;re going to talk about wireframes and as we talk about them, I 
 have to admit the way in which I teach web design doesn&apos;t really mimic the 
 way you should really do it in the real world, in that I tend to talk about the 
@@ -2217,9 +2212,9 @@ really too big. Maybe I should be breaking it up in to more sections.</p>
 </ul>
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2-4">2-04. Breakpoints</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I&apos;ve actually
 defined them for you so we&apos;re all in agreement or understand what the
@@ -2353,9 +2348,9 @@ make sure you're constantly thinking back, hey, what does a breakpoint
 mean again, is this an example of triggering, and I really hope you&apos;ll
 really understand mobile first by the time that we&apos;re done with this
 course.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2-5">2-05. Media Queries Part Two</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
 Today&apos;s lecture is about media queries. And yes, I&apos;ve already given
@@ -2619,9 +2614,9 @@ font-size:150%;
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2-6">2-06. Code with Me: Responsive Navigation</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody, today, with this lecture I&apos;m hoping you&apos;ll sit with me
 and write up some code where we use media queries to produce responsive
 navigation. In particular we want to make one page where the navigation
@@ -2995,9 +2990,8 @@ overflow:auto;
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-1">3-01. Frameworks</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 87. frameworks - code and structure (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5225,9 +5219,8 @@ they can also take time away from fundamental skills.
 So, in conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-2">3-02. Introduction to Twitter Bootstrap 3</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5413,7 +5406,7 @@ want to use, not something that you feel confined by.
     bit, test, code a little bit, and test. And I hope you remember to
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-3">3-03. Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6070,9 +6063,9 @@ Reset offsets, pushes, and pulls at specific breakpoints.
   alt="Offset, Push and Pull resets." />
 </p>
 <!-- {width="6.5in" height="0.7104166666666667in"} -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-4">3-04. Bootstrap Grid System</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today, we&apos;re going to talk about the grid system for
 Bootstrap three.
 
@@ -6529,14 +6522,13 @@ simple thing, but it&apos;s very important.
 In the next module (19) we&apos;re going to code together and do some work
 with this grid class. I hope you&apos;ll join me and you&apos;ll get a really
 good feeling about how this works with Bootstrap.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-5">3-05. Code With Me: Grid Example</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Let&apos;s go over an example together where we&apos;re using the
 Bootstrap Grid System. I&apos;m going to go into CodePen and use this code
 so you can start from scratch or mess with the code and play with it
 with me.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 259. code with me - large screen (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6558,7 +6550,6 @@ the same row at times. I&apos;m actually going to move this.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 260. code with me - extra-small and small (163) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6574,7 +6565,6 @@ together. We don&apos;t even need to really look at the CSS for now, so
 I&apos;ll pull that out of the way. I have four divs inside here. Now, in
 each case, each one of these divs is exactly the same. The code doesn&apos;t
 change at all. You can kind of trust me on that one.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6609,7 +6599,6 @@ want you to display unless you're on a large screen.
 
 As we transition from smaller to bigger, this one&apos;s going to go away,
 and this one will suddenly show up.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. medium screen (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6751,11 +6740,10 @@ color:green;
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-6">3-06. Bootstrap Navigation</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. Today, we&apos;re going to talk about navigation bars.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. navigation bars (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7303,7 +7291,7 @@ I for one think that standards are very important, but so is knowing
 current trends. You can&apos;t live in a bubble.
 
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-1">4-01. Responsive Images</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 292. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7668,7 +7656,7 @@ part is to get as much experience and practice as possible.
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-2">4-02. Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. bootstrap tables (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7945,9 +7933,9 @@ table-responsive, active, success, info, danger, warning -->
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-3">4-03. Code with Me: Advanced Navigation</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you&apos;re really likely to find online. And
 that&apos;s the code for using Bootstrap to make a collapsible navigation
@@ -8118,9 +8106,9 @@ write your own code effectively.
 ```
 
 </details>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-4">4-04. What Are Templates?</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Many times, if you&apos;re talking to people who do web
 design, you&apos;ve got the people who think, I hate Bootstrap, and other
 people are like, I love Bootstrap. Why is bootstrap so popular, and to
@@ -8277,7 +8265,7 @@ really like about them, but they might have some things that you don&apos;t
 like about them as well. So how do we use them? I mentioned that one of
 the things you can do is you can just download the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 338. how do you use them (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 338. how do you use them? (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image338.webp"
   style="width:40%"
@@ -8337,9 +8325,9 @@ you can use them but make changes because you know a little bit about
 these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-5">Week 4-05. Interview: M W</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn&apos;t show up, but luckily, I ran into one of my old
 students, Mike Wojan, in the hallway and he&apos;s agreed to talk with me
@@ -8490,9 +8478,9 @@ this kind of last-minute interview. I hope you found it useful and I
 hope it&apos;s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you&apos;re going to go into. So thank you
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-6">Week 4-06. Interview: H W</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I&apos;ve just run into
 another student, Heidi Wong. And what I did is I noticed that she was
@@ -8647,9 +8635,9 @@ anything at all that I taught them. Because what I&apos;m really proud of
 the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-7">4-07. Interview with H N</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Welcome back.
 
 Today, we&apos;re going to talk responsive design with Heather Newman form
@@ -8844,7 +8832,7 @@ or really that any little thing you can do to get yourself more engaged
 in tech is going to help you in all these different fields.
 
 So, thank you very much.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-8">4-08. Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 340/341/342. bootstrap 5 & 4 logos (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8907,9 +8895,9 @@ interested in, go ahead. I myself am excited to see where it goes.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-9">4-09. Conclusion</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Congratulations everybody. I&apos;m really glad that we had this chance to
 learn about responsive design.
 
