@@ -1,15 +1,18 @@
-/* ./css/styles.css in uofm-advstyling - adv-styling.bauska.org */
+/* styles.css in uofm-advstyling - adv-styling.bauska.org */
 
+<!-- 
 * {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   box-sizing: border-box;
 }
+-->
+
 body {
-  background-color: #fff;  /* e8f4f8 light grayish cyan - wide pc */
+  background-color: #eee;  /* very light gray */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
-  margin-left: 15px;
+  margin: 15px;
 }
 
 img.displayed {
@@ -79,69 +82,90 @@ td {
 
 pre {
   overflow: auto;
-  font-family: Consolas, monospace, monospace;
-  font-size: 10px;
-  margin-left: 10px;
   }
 pre > code {
   display: block;
-  margin-left: 10px;
+  margin-left: 15px;
   padding: 1rem;
   word-wrap: normal;
   }
+pre, code {
+  font-family: monospace, monospace;
+  font-size: 10px;
+  margin-left: 15px;
+}
+pre:hover, pre:focus { width: min-content; }
 
-a {
-  text-decoration: none;
-  }
 a.hover {
-  color: #ffff00;  /* pure (or mostly pure) yellow */
+  color: #000000;  /* white */
+  background-color: #ffff00  /* yellow */
   text-decoration: underline;
   }
 a.hover:hover {
-  color: #ffff00;  /* pure (or mostly pure) yellow */
+  background-color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
-
+a:link {
+  color: #013220;  /* very dark green */
+  background-color: transparent;
+  text-decoration: none;
 }
+a:visited {
+  color: #a5682a;  /* brown */
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #000000;
+  background-color: #ffff00;  /* yellow */
+  text-decoration: underline;
+}
+  
 div {
   float: left; 
 }
 
 h1 {
   font-size: 22px;
-  margin-left: 10px;
-  background: #ffffff;  /* white */
+  margin-left: 15px;
 }
 h2 { 
   font-size: 20px;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 h3 { 
   font-size: 18px;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 h4 { 
   font-size: 16px;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 h5 { 
-  margin-left: 10px;
   font-size: 13px;
+  margin-left: 15px;
 }
 h6 { 
-  margin-left: 10px;
   font-size: 11px;
+  margin-left: 15px;
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
 
 p {
+  font-size: 15px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  text-align: left;
   margin-left: 15px;
-  background: #ffffff;  /* white */
 }
 
-ol,ul li { 
-  line-height: 130%;
+ul li { 
+  padding: 10px;
+  line-height: 110%;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
+}
+ol li {
+  padding: 10px;
+  line-height 110%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 
