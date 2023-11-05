@@ -7776,7 +7776,7 @@ went in and included the link to Bootstrap style in CodePen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. add some classes (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image316.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Add some classes." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
@@ -7790,7 +7790,7 @@ that really does look like a table.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317. table-striped (204) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image317.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Table striped example." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
@@ -7812,7 +7812,7 @@ between.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. table hover (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image318.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Table hover and table-bordered example." />
 </p>
 <!-- {width="7.0in" height="3.9449792213473316in"} -->
@@ -7874,7 +7874,7 @@ basically going to let people scroll.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. example in codepen (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image321.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Example in CodePen, html only." />
 </p>
 <!-- {width="7.0in" height="2.975748031496063in"} -->
@@ -7944,7 +7944,7 @@ menu (see end of module for source).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. example in codepen (209) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image323.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Example in CodePen - RD Advanced Navigation." />
 </p>
 <!-- {width="6.0in" height="3.382050524934383in"} -->
@@ -7971,7 +7971,7 @@ do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 324. codepen settings for bootstrap (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image324.webp"
-  style="width:90%"
+  style="width:60%"
   alt="CodePen settings, Add Bootstrap Advanced Navigation." />
 </p>
 <!-- {width="6.5in" height="3.6638888888888888in"} -->
@@ -8040,7 +8040,7 @@ at times, so let&apos;s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. start with mobile view (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image327.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Start with mobile view." />
 </p>
 <!-- {width="6.0in" height="3.2980774278215224in"} -->
@@ -8137,7 +8137,7 @@ either through word of mouth or through a search engine.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 329. getbootstrap.com - getting started (215) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image329.webp"
-  style="width:80%"
+  style="width:60%"
   alt="getbootstrap.com - Getting Started." />
 </p>
 <!-- {width="6.0in" height="3.424359142607174in"} -->
@@ -8153,7 +8153,7 @@ different links, and things like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330. basic template (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image330.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Basic template, HTML." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -8169,7 +8169,7 @@ like this one right here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 331. starter template (217) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image331.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Starter template." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -8181,7 +8181,7 @@ that you&apos;re here to learn, more than to use as your professional site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. free bootstrap themes (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image332.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Free Bootstrap themes." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -8195,7 +8195,7 @@ zone, do you want it to have kind of a dashboard look, you can pick.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333. landing zone theme (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image333.webp"
-  style="width:80%"
+  style="width:60%"
   alt="Landing zone theme." />
 </p>
 <!-- {width="6.0in" height="3.527564523184602in"} -->
@@ -8309,13 +8309,6 @@ kind of layout where it&apos;s three columns, and you only want two, that&apos;s
 okay. You can go in and just remove the parts that you don&apos;t want. If
 you&apos;re feeling really powerful, you can also go in and add parts that
 you do want.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. that's it - bootstrap (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="/images/image339.webp"
-  style="width:40%"
-  alt="That's it - Bootstrap Template." />
-</p>
 
 So, using Bootstrap is really that easy. Even if you don&apos;t understand
 HTML or CSS, or you understand JavaScript but you hate it so much, it&apos;s
@@ -8847,7 +8840,7 @@ So, thank you very much.
   style="width:25%"
   alt="Logos for Bootstrap 5 and 4." />
 </p>
-Hi, everybody. Let&apos;s talk about Bootstrap 4 and 5. In this class I&apos;ve
+<p>Hi, everybody. Let&apos;s talk about Bootstrap 4 and 5. In this class I&apos;ve
 been talking about Bootstrap 3 exclusively. Those are the materials I
 covered in the slides, and that&apos;s where the classes came from. But now
 that Bootstrap 4 & 5 are available does it matter? How will it affect
@@ -8856,9 +8849,8 @@ killed Bootstrap 2.0. There were way too many incompatible changes. So,
 if you wrote your site using Bootstrap 2, and you tried to convert or
 add Bootstrap 3 elements to it, it just didn&apos;t work it died. Luckily
 for us with Bootstrap 4 they worked much harder to make the two
-compatible.
-
-They&apos;re still developing it, but I can tell you that Bootstrap 5 will
+compatible.</p>
+<p>They&apos;re still developing it, but I can tell you that Bootstrap 5 will
 be one hell of a lot faster and better than both 3 and 4. They&apos;ve
 switched from a kind of language called Less to one called Sass that&apos;s
 just going to be faster creating the things that you need. They&apos;re
@@ -8866,31 +8858,29 @@ going to include a new grid tier, so we had our extra small, small,
 medium, and large. There&apos;s going to be something in addition, so it
 won&apos;t kill the other ones. There are going to be new customization
 options. If you remember when you downloaded Bootstrap 3 there were all
-these options that you could add for things that you wanted to change.
-You can expect even more in Bootstrap 4. One other thing I just wanted
+these options that you could add for things that you wanted to change.</p>
+<p>You can expect even more in Bootstrap 4. One other thing I just wanted
 to mention because I know that we&apos;ve talked about it a little bit is
 that it&apos;s starting to use more fluid elements or fluid measurements. It
 can use rem and em units where before it didn&apos;t use them. And hopefully
 if you&apos;ve been paying attention through this whole class. If you get
 involved in a conversation you can nod and say, yeah, rem, em, good
 stuff, and actually kind of know what you&apos;re talking about. And that
-always feels good when you&apos;re hanging out with techie people.
-
-If you&apos;re interested in learning more about Bootstrap 4 or 5 you can
+always feels good when you&apos;re hanging out with techie people.</p>
+<p>If you&apos;re interested in learning more about Bootstrap 4 or 5 you can
 download the new code at this URL. v4- alpha.getbootstrap.com. Whenever
 they&apos;re referring to software in alpha version that means it hasn&apos;t
 been completely tested yet. It&apos;s safe for you to download, but there&apos;s
 probably going to be bugs. The other thing you can do is you can follow
 the blog as they talk about the different things they&apos;re adding or
-deleting from bootstrap.
-
-If you&apos;re considering jumping into Bootstrap 4, I think this is a great
+deleting from bootstrap.</p>
+<p>If you&apos;re considering jumping into Bootstrap 4, I think this is a great
 idea if you really want to be a serious developer. It always helps to be
 on that cutting edge in web development and really anything techie. I
 hope what I helped you understand was that learning bootstrap 3 is
 really useful and you&apos;re going to be able to use it for long time.
 Bootstrap 4 can only make things better, so if it&apos;s something you&apos;re
-interested in, go ahead. I myself am excited to see where it goes.
+interested in, go ahead. I myself am excited to see where it goes.</p>
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -8976,7 +8966,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 10-17-2023 8:49pm -->
+<!-- 11-04-2023 9:23pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
