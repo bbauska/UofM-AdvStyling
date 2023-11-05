@@ -5957,7 +5957,7 @@ automatically stack.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.webp?raw=true"
-  style="width:100%"
+  style="width:60%"
   alt="." />
 </p>
 <!-- {width="6.5in" height="0.3111111111111111in"} -->
@@ -5971,7 +5971,7 @@ stacking no matter the viewport.
 <!--~~~~~~~~~~~~~~~ 220. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.webp?raw=true"
-  style="width:100%"
+  style="width:60%"
   alt="col-md-3, col-md-6, and col-md-3." />
 </p>
 <!-- {width="6.5in" height="0.3111111111111111in"} -->
@@ -5982,7 +5982,7 @@ Get two columns <b>starting at desktops and scaling to large desktops</b>.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 221. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image221.webp?raw=true"
-  style="width:100%"
+  style="width:60%"
   alt="col-md-8 and col-md-4, two columns." />
 </p>
 <!-- {width="6.5in" height="0.29444444444444445in"} -->
@@ -6003,7 +6003,7 @@ columns will stack.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 222. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.webp?raw=true"
-  style="width:100%"
+  style="width:60%"
   alt="Two columns with two nested columns." />
 </p>
 <!-- {width="6.5in" height="0.6381944444444444in"} -->
@@ -6022,7 +6022,7 @@ widths for xs and sm, you only need to specify xs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. mixed, mobile and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image223.webp?raw=true"
-  style="width:100%"
+  style="width:40%"
   alt="Mixed, mobile and desktop." />
 </p>
 <!-- {width="6.5in" height="1.1215277777777777in"} -->
@@ -6033,7 +6033,7 @@ widths for xs and sm, you only need to specify xs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 224. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.webp?raw=true"
-  style="width:100%"
+  style="width:60%"
   alt="Mixed, mobile, tablet and desktop." />
 </p>
 <!-- {width="6.5in" height="0.7159722222222222in"} -->
@@ -6046,7 +6046,7 @@ widths for xs and sm, you only need to specify xs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. column clearing (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image225.webp?raw=true"
-  style="width:100%"
+  style="width:40%"
   alt="Column clearing." />
 </p>
 <!-- {width="6.5in" height="0.54375in"} -->
@@ -6059,7 +6059,7 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image226.webp?raw=true"
-  style="width:100%"
+  style="width:60%"
   alt="Offset, Push and Pull resets." />
 </p>
 <!-- {width="6.5in" height="0.7104166666666667in"} -->
