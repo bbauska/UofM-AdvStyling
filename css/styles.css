@@ -203,3 +203,39 @@ details > p {
 details[open] > summary {
   background-color: yellow;
 }
+<!-- added 11/06/2023 -->
+.box-wrap {
+    width: 100%;
+    height: auto;
+    margin: 20px 0 0 0;
+    -webkit-box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+}
+ul, ol {
+    list-style-position:inside;
+}
+.box-wrap p {
+    font-family:'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 5px 30px;
+    overflow: hidden;
+    text-align: left;
+    width: 640px;
+    height: auto;
+    background: #ffffff;
+    color: #717171;
+}
+.box-wrap li {
+    font-family:'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 5px 30px;
+    width: 640px;
+    height: auto;
+    background: #ffffff;
+    color: #717171;
+}
+.box-wrap ul li {
+    list-style-type: circle;
+}
+}
