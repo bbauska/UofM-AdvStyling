@@ -5541,7 +5541,7 @@ want to use, not something that you feel confined by.
     going on there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 213. setting your own breakpoints (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 213. setting your own breakpoints (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image213.webp?raw=true"
   style="width:40%"
@@ -5561,7 +5561,7 @@ want to use, not something that you feel confined by.
         points.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. conclustion (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. conclustion (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image214.webp?raw=true"
   style="width:40%"
@@ -5586,7 +5586,7 @@ want to use, not something that you feel confined by.
 <h2 name="ch3-3b">3-03b. Getting Started with Twitter Bootstrap</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. getting started (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image215.webp?raw=true"
   style="width:40%"
@@ -5611,7 +5611,7 @@ want to use, not something that you feel confined by.
         CodePen account.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 216. saving your own copy of bootstrap (136) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 216. saving your own copy of bootstrap (133) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image216.webp?raw=true"
   style="width:40%"
@@ -5633,7 +5633,7 @@ certain break points, colors, or other styles that you want to happen,
 and you don&apos;t want to go around and overwrite them later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. customize and download (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. customize and download (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image217.webp?raw=true"
   style="width:60%"
@@ -5648,7 +5648,7 @@ and you don&apos;t want to go around and overwrite them later.
 <a href="https://getbootstrap.com/docs/3.4/customize/">Bootstrap Customize &amp; Download</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. using a cdn (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. using a cdn (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image218.webp?raw=true"
   style="width:40%"
@@ -5714,7 +5714,7 @@ getbootstrap.com/getting-started and they will give you the code that
 you need to include.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. bootstrap cdn (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. bootstrap cdn (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.webp?raw=true"
   style="width:60%"
@@ -5731,7 +5731,7 @@ plan on having many different versions of your site. And you don&apos;t want
 to have lots of different copies of the bootstrap code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 220. using bootstrap with codepen (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 220. using bootstrap with codepen (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.webp?raw=true"
   style="width:40%"
@@ -5747,7 +5747,7 @@ go in and put in those links, because I really want to keep this code
 clean. I really want to keep it to just HTML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. codepen settings (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. codepen settings (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image221.webp?raw=true"
   style="width:60%"
@@ -5764,7 +5764,7 @@ now knows this is how you can add the external CSS. Now you may remember
 that I said, you&apos;re going to connect to the CSS and JavaScript files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. codepen settings, #2 (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. codepen settings, #2 (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.webp?raw=true"
   style="width:60%"
@@ -5777,7 +5777,7 @@ now ready to use any of the bootstrap classes or any of the bootstrap
 JavaScript that we may need to use.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. template (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. template (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image223.webp?raw=true"
   style="width:40%"
@@ -5797,7 +5797,7 @@ this code both with and without the links because that way if you write
 it up yourself you can still have it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. bootstrap template (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. bootstrap template (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.webp?raw=true"
   style="width:60%"
@@ -5815,7 +5815,7 @@ style sheet. I&apos;ll do that right here. And now you can see that the font
 has changed a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 225. how do you know it is working? (141) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 225. how do you know it is working? (138) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image225.webp?raw=true"
   style="width:40%"
@@ -5853,7 +5853,7 @@ I&apos;m back at our original template code. And I&apos;ll put back in the style
 sheet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. bootstrap template, again (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. bootstrap template, again (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image226.webp?raw=true"
   style="width:60%"
@@ -5879,7 +5879,7 @@ what&apos;s going on.
 <h3>Bootstrap HTML Template</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. don't forget (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. don't forget (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image227.webp?raw=true"
   style="width:40%"
@@ -6350,7 +6350,7 @@ one, two, three columns. All right.
 <p align="center" width="100%">
 <img src="./images/image256.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Combining elements, #3." />
 </p>
 
 Then if we add another div next to it, that div can say for this orange
@@ -6388,7 +6388,7 @@ what I just wrote here.
 <p align="center" width="100%">
 <img src="./images/image258.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Block by default." />
 </p>
 
 Whenever you want to say something should be the full 12 columns and it
@@ -6403,29 +6403,29 @@ rules where it&apos;s going to change.
 <p align="center" width="100%">
 <img src="./images/image259.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Block by default, #2." />
 </p>
 
 I&apos;ve dropped the smaller part and this new rule now says basically any
 time you are on a medium viewport or larger, make it three columns.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. positioning classes (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. positioning classes (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image251.webp?raw=true"
+<img src="./images/image260.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Positioning classes." />
 </p>
 
 By default, Bootstrap is going to put things as far to the left as it
 possibly can when it&apos;s positioning them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252. positioning classes, #2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. positioning classes, #2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image252.webp?raw=true"
+<img src="./images/image261.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Positining classes, #2." />
 </p>
 
 However, it is possible to add a push and a pull class on different
@@ -6434,11 +6434,11 @@ any viewport that&apos;s X, I want you to go ahead and push this element Y
 columns to the left.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. positioning classes, #3 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. positioning classes, #3 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image253.webp?raw=true"
+<img src="./images/image262.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Positioning classes, #3." />
 </p>
 
 In the same way, there&apos;s a pull. In here, you move columns to the
@@ -6447,11 +6447,11 @@ something that I want you to be aware of. In the same way, I want you to
 know about the responsive utility classes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 254. responsive utility clases - hidden-xx (159) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 263. responsive utility classes - hidden-xx (159) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image254.webp?raw=true"
+<img src="./images/image263.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Responsive utility classes - hidden-xx." />
 </p>
 
 Earlier, I mentioned that you can have XX, or something like XX column
@@ -6461,22 +6461,22 @@ Hidden-XX basically says, make this visible on every viewport except for
 the one we&apos;re going to mention right here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 255. responsive utility clases - hidden-xx & visible-xx (160) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 264. responsive utility clases - hidden-xx & visible-xx (160) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image255.webp?raw=true"
+<img src="./images/image264.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Responsive utility classes - hidden-xx and visible-xx." />
 </p>
 
 In the same way, visible-XX says, hide something. It shouldn&apos;t be
 visible unless I&apos;m on this certain size screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~ 256. responsive utility clases - hidden-xx, visible-xx & sr-only (160) ~~~~~~~~~~~-->
+<!--~~~~~~~~~ 265. responsive utility clases - hidden-xx, visible-xx & sr-only (160) ~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image256.webp?raw=true"
+<img src="./images/image265.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Responsive utility classes - hidden-xx, visible-xx &amp; sr-only." />
 </p>
 
 The last one we have is sr-only. And this is a special Bootstrap utility
@@ -6485,11 +6485,11 @@ they&apos;re using a screen reader to access the page. If they are, then
 this element is visible to them, and them only.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 257. conclusion - larger inherit from smaller (161) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 266. conclusion - larger inherit from smaller (161) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image257.webp?raw=true"
+<img src="./images/image266.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Conclusion - larger inherit from smaller." />
 </p>
 
 So, we mentioned and we talk a lot about Bootstrap is this mobile first
@@ -6503,11 +6503,11 @@ bootstrap.com/examples/grid, where you can go through and you can see
 some of the examples that they have coded up for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 258. conclusion - larger inherit from smaller, #2 (161) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 267. conclusion - larger inherit from smaller, #2 (161) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image258.webp?raw=true"
+<img src="./images/image267.webp?raw=true"
   style="width:40%"
-  alt="." />
+  alt="Conclusion - larger inherit from smaller, #2." />
 </p>
 
 Really important, do the math.
@@ -6529,11 +6529,11 @@ Bootstrap Grid System. I&apos;m going to go into CodePen and use this code
 so you can start from scratch or mess with the code and play with it
 with me.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 259. code with me - large screen (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 268. code with me - large screen (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image259.webp"
+<img src="/images/image268.webp"
   style="width:60%"
-  alt="." />
+  alt="Large Screen: class=container and class=row in grid system." />
 </p>
 <!-- {width="6.0in" height="3.053205380577428in"} -->
 
@@ -6550,9 +6550,9 @@ the same row at times. I&apos;m actually going to move this.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 260. code with me - extra-small and small (163) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 269. code with me - extra-small and small (163) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image260.webp"
+<img src="/images/image269.webp"
   style="width:60%"
   alt="Code with me - extra-small and small screens." />
 </p>
@@ -6565,11 +6565,11 @@ I&apos;ll pull that out of the way. I have four divs inside here. Now, in
 each case, each one of these divs is exactly the same. The code doesn&apos;t
 change at all. You can kind of trust me on that one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270. code with me - medium (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image261.webp"
+<img src="/images/image270.webp"
   style="width:60%"
-  alt="." />
+  alt="Code with me - medium screens." />
 </p>
 <!-- {width="6.0in" height="2.6814107611548557in"} -->
 
@@ -6599,9 +6599,9 @@ want you to display unless you're on a large screen.
 As we transition from smaller to bigger, this one&apos;s going to go away,
 and this one will suddenly show up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. medium screen (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271. medium screen (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image262.webp"
+<img src="/images/image271.webp"
   style="width:60%"
   alt="Medium screen." />
 </p>
@@ -6625,9 +6625,9 @@ changed the content, but we&apos;ve also changed the layout. So instead of
 having four on top of each other, we have two pairs of two.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. large screen (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. large screen (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image263.webp"
+<img src="/images/image272.webp"
   style="width:60%"
   alt="Large screen." />
 </p>
@@ -6744,9 +6744,9 @@ color:green;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. Today, we&apos;re going to talk about navigation bars.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. navigation bars (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. navigation bars (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image264.webp"
+<img src="/images/image273.webp"
   style="width:40%"
   alt="Navigation bars." />
 </p>
@@ -6758,9 +6758,9 @@ nav class is typically combined with other classes to create each
 different style navigation that you&apos;re going to see.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. making a navigation bar (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274. making a navigation bar (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image265.webp"
+<img src="/images/image274.webp"
   style="width:40%"
   alt="Making a navigation bar." />
 </p>
@@ -6781,9 +6781,9 @@ that&apos;s going to happen to you. The problem is I haven&apos;t linked to the
 Bootstrap CSS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. codepen - add bootstrap (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. codepen - add bootstrap (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image266.webp"
+<img src="/images/image275.webp"
   style="width:60%"
   alt="Codepen - add Bootstrap." />
 </p>
@@ -6794,9 +6794,9 @@ going to click on CSS and I&apos;m going to go down here to quick add and
 add Bootstrap. And as soon as I save that, boom, there you go.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. html for navigation bars (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 276. html for navigation bars (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/image267.webp"
+<img src="/images/image276.webp"
   style="width:40%"
   alt="HTML for navigation bars." />
 </p>
@@ -7358,7 +7358,7 @@ you start setting the width on images, you might be wondering if you
 should be setting the height as well. In general, you do not, because
 what&apos;s going to happen is it&apos;s going to skew.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. your own code, #3 (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. your own code, #3 (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image295.webp"
   style="width:40%"
@@ -7369,7 +7369,7 @@ what&apos;s going to happen is it&apos;s going to skew.
 You can&apos;t get it exactly right. So usually, you just set the height to
 auto or leave it along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296. using bootstrap (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296. using bootstrap (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image296.webp"
   style="width:40%"
@@ -7390,7 +7390,7 @@ look that is often associated with thumbnails. A little bit of a border,
 a small size, we&apos;ll take a look at those in just a second.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. img-responsive (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. img-responsive (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image297.webp"
   style="width:60%"
@@ -7407,7 +7407,7 @@ similar to the code we were talking about, if you wanted to put it in
 yourself. Let&apos;s look at those other classes as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. codepen - single image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. codepen - single image (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image298.webp"
   style="width:60%"
@@ -7420,7 +7420,7 @@ classes applied. I went ahead and I put it inside a div. And I&apos;m going
 to re-size the screen a bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 299. codepen - single image phone sized (189) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 299. codepen - single image phone sized (185) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image299.webp"
   style="width:60%"
@@ -7443,7 +7443,7 @@ Width: 75%;
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300. re-size and change image (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300. re-size and change image (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image300.webp"
   style="width:60%"
@@ -7458,7 +7458,7 @@ can see that the picture of Bacon is actually changing. This is great,
 this is exactly the kind of responsive behavior that we want to see.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 301. responsive images with bootstrap (191) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 301. responsive images with bootstrap (187) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image301.webp"
   style="width:60%"
@@ -7476,7 +7476,7 @@ this one, you can see that now when I re-size it, again, great
 responsive behavior.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. responsive - rounded corners (191) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. responsive - rounded corners (188) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image302.webp"
   style="width:60%"
@@ -7489,7 +7489,7 @@ image rounded. And, it&apos;s probably barely perceptible to you, but you
 can have this little tiny curving, right here, curved just a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. rounded image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. rounded image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image303.webp"
   style="width:60%"
@@ -7502,7 +7502,7 @@ happens. And as you can see, it really just cuts off part of the
 pictures, so you can have that circle look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304. image thumbnail (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304. image thumbnail (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image304.webp"
   style="width:60%"
@@ -7525,7 +7525,7 @@ thicker border, so you all could have seen it. But in many cases,
 you&apos;re really happy with the defaults. Let&apos;s look at one more example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 305. giving 7 images - 6 on row 1, 1 on row 2 (194) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 305. giving 7 images - 6 on row 1, 1 on row 2 (190) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image305.webp"
   style="width:60%"
@@ -7541,7 +7541,7 @@ pictures. I combine these with the thumbnail class to really have a kind
 of cool gallery effect.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 306. div container row with 7 images (195) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 306. div container row with 7 images (191) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image306.webp"
   style="width:60%"
@@ -7563,7 +7563,7 @@ to the side. Well, I actually put it there because I wanted to show that
 there were one, two, three, four, five, six. All right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. small screen, 1 image (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. small screen, 1 image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image307.webp"
   style="width:60%"
@@ -7584,7 +7584,7 @@ about it. And by default, if you don&apos;t declare a rule for extra small,
 it&apos;s going to default for 12. So that&apos;s why on the extra small screen,
 you get one dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. 2 images of bacon (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. 2 images of bacon (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image308.webp"
   style="width:60%"
@@ -7596,7 +7596,7 @@ The small screen you get two in each row.
 
 Then you go to three on the media screen image size.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. 7 images of bacon (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. 7 images of bacon (194) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image309.webp"
   style="width:60%"
@@ -7658,7 +7658,7 @@ part is to get as much experience and practice as possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch4-2">4-02. Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. bootstrap tables (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. bootstrap tables (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image310.webp"
   style="width:40%"
@@ -7679,7 +7679,7 @@ I&apos;m going to make this special class and it&apos;s going to style
 everything beautifully. In Bootstrap, instead you need to layer multiple
 classes on top of each other to get a really specific look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. bootstrap tables, #2 (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. bootstrap tables, #2 (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image311.webp"
   style="width:30%"
@@ -7690,7 +7690,7 @@ classes on top of each other to get a really specific look.
 The table class, the class just class equals table, it&apos;s the
 foundation. You need to have that class every time you style tables.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. classes (200) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312. classes (196) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image312.webp"
   style="width:30%"
@@ -7712,7 +7712,7 @@ class. This stripes your table with a kind of odd and even look. Every
 odd row has a little bit of color, every even row is just background
 transparent.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. classes (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313. classes (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image313.webp"
   style="width:30%"
@@ -7728,7 +7728,7 @@ mouse or whenever you access the different rows it can change the look.
 It&apos;s also possible to have responsive tables. It actually sounds I
 think a little cooler than it is.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. responsive tables (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 314. responsive tables (197) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image314.webp"
   style="width:30%"
@@ -7746,7 +7746,7 @@ screen. You just kind of scroll.
 But anything over 768 pixels. Well, then you&apos;re just going to get that
 default view. There&apos;s no default scrolling at the bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 315. row, header and cell classes (202) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 315. row, header and cell classes (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image315.webp"
   style="width:40%"
@@ -7772,7 +7772,7 @@ check out this Bootstrap tables code from the responsive design section.
 So, what I&apos;ve done here is I&apos;ve made a very simple table. I already
 went in and included the link to Bootstrap style in CodePen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. add some classes (203) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. add some classes (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image316.webp"
   style="width:60%"
