@@ -955,10 +955,9 @@ Let&apos;s check out another site.
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu." />
 <!-- {width="6.0in" height="3.635897856517935in"} -->
 
-In this case, again we can see that this is a responsive setup. Now,
-even though the pages may look very similar, you can see that on the
-mobile view that weather map isn&apos;t there (2 images back), that kind of
-brightly colored map.
+In this case, again we can see that this is a responsive setup. Now, even though 
+the pages may look very similar, you can see that on the mobile view that weather 
+map isn&apos;t there (2 images back), that kind of brightly colored map.
 
 In addition, the laptop and desktop view are very similar. But you can
 see that in the tablet view, we&apos;ve really broken it down and they use
@@ -1004,7 +1003,7 @@ things from different viewpoints.
 <p align="center" width="100%">
 <img src="./images/image027.webp?raw=true"
   style="width:60%"
-  alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
+  alt="https://ui.dev/amiresponsive - Colleen E van Lent's web page - mobile view." />
 <!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 With Chrome, you can use inspect element to see the different viewpoints
@@ -4300,22 +4299,22 @@ support for TypeScript, and testing tools.
   alt="Svelte Logo PNG Vector (SVG) Free Download." />
 <!-- {width="3.125in" height="0.7708333333333334in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image123.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 133. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image133.webp?raw=true"
   style="width:20%"
   alt="A new opensource opponent for the web, SvelteJS - OpenExpo Europe 2020." />
 <!-- {width="1.8588232720909885in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image124.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image134.webp?raw=true"
   style="width:10%"
   alt="Svelte logo." />
 <!-- {width="0.8315791776027996in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. svelte.js (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. svelte.js (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image125.webp?raw=true"
+<img src="./images/image135.webp?raw=true"
   style="width:50%"
   alt="Svelte front-end framework." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4379,35 +4378,35 @@ text-align: none;
 
 <h2 name="ch12">12 -- Preact</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. preact logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. preact logo (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image126.webp?raw=true"
+<img src="./images/image136.webp?raw=true"
   style="width:10%"
   alt="Preact logo PNG transparent &amp; SVG vector - freebie supply." />
 <!-- {width="0.8649639107611549in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 127. using preact as a react alternatives - quick (114) ~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image127.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~ 137. using preact as a react alternatives - quick (108) ~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image137.webp?raw=true"
   style="width:35%"
   alt="Preact as a React alternative." />
 <!-- {width="3.125in" height="0.9375in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 128. replacing react with preact in your projects (114) ~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image128.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~ 138. replacing react with preact in your projects (108) ~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image138.webp?raw=true"
   style="width:35%"
   alt="Replacing React with Preact in your projects." />
 <!-- {width="3.2465748031496062in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 129. preact logo animation by luka mushkudiani (114) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 139. preact logo animation by luka mushkudiani (108) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image129.webp?raw=true"
+<img src="./images/image139.webp?raw=true"
   style="width:15%"
   alt="Preact logo animation by Luka Mushkudiani on Dribbble." />
 <!-- {width="1.3352110673665791in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. preact front-end framework (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. preact front-end framework (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image130.webp?raw=true"
   style="width:50%"
   alt="Preact front-end framework." />
@@ -4437,29 +4436,29 @@ stability.
 
 <h2 name="ch13">13 -- EmberJS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. ember logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image131.webp?raw=true"
+<img src="./images/image141.webp?raw=true"
   style="width:15%"
   alt="Ember logo." />
 <!-- {width="1.3352110673665791in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 132. ember logo radio buttons (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image132.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. ember logo radio buttons (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image142.webp?raw=true"
   style="width:25%"
   alt="Ember radio buttons." />
 <!-- {width="2.2679429133858267in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 133. ember logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image133.webp?raw=true"
   style="width:10%"
   alt="Ember logo - single color." />
 <!-- {width="0.8893055555555556in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. ember logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image134.webp?raw=true"
+<img src="./images/image144.webp?raw=true"
   style="width:50%"
   alt="Ember front-end framework." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4483,23 +4482,23 @@ with major changes in the framework itself.
 
 <h2 name="ch14">14 - Solid</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. solid js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. solid js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image135.webp?raw=true"
+<img src="./images/image145.webp?raw=true"
   style="width:10%"
   alt="Solid-js npm." />
 <!-- {width="1.0in" height="0.6582283464566929in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. solid js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image136.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. solid js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image146.webp?raw=true"
   style="width:30%"
   alt="Testing your Solid.js code logo." />
 <!-- {width="3.0in" height="0.5506332020997375in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. solid js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. solid js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image137.webp?raw=true"
+<img src="./images/image147.webp?raw=true"
   style="width:30%"
   alt="Solid JS front-end framework logo." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4531,29 +4530,29 @@ but also frameworks like Vue and Redux.
 
 <h2 name="ch15">15 - Lit</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 138. lit.js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. lit.js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image138.webp?raw=true"
+<img src="./images/image148.webp?raw=true"
   style="width:20%"
   alt="Build a lightweight web component with lit.js logo." />
 <!-- {width="1.7819553805774277in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 139. lit.js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image139.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. lit.js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image149.webp?raw=true"
   style="width:30%"
   alt="Lit JS logo." />
 <!-- {width="3.0in" height="0.9556955380577428in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. lit.js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image140.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. lit.js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image150.webp?raw=true"
   style="width:10%"
   alt="Lab launches a new logo and web design for LIT logo." />
 <!--{width="1.0in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 141. lit front-end framework logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 151. lit front-end framework logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image141.webp?raw=true"
+<img src="./images/image151.webp?raw=true"
   style="width:50%"
   alt="Lit JS front-end framework logo." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4578,35 +4577,35 @@ implements standardized web components.
 
 <h2 name="ch16">16 - Alpine</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. alpine js logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image142.webp?raw=true"
+<img src="./images/image152.webp?raw=true"
   style="width:20%"
   alt="Alpine JS logo." />
 <!-- {width="1.9736843832020998in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. alpine js logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image143.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image153.webp?raw=true"
   style="width:10%"
   alt="Alpine JS logo." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. alpine js logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image144.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image154.webp?raw=true"
   style="width:30%"
   alt="Alpine JS logo." />
 <!-- {width="3.0in" height="0.5696205161854768in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. alpine js logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image145.webp?raw=true"
+<img src="./images/image155.webp?raw=true"
   style="width:30%"
   alt="Alpine JS logo." />
 <!-- {width="3.0in" height="1.9746839457567804in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 146. alpine front-end framework logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image146.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 155. alpine front-end framework logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image155.webp?raw=true"
   style="width:50%"
   alt="Alpine JS logo." />
 <!--{width="5.0in" height="0.9145297462817148in"} -->
@@ -4637,23 +4636,23 @@ Hugo, etc.
 
 <h2 name="ch17">17 -- Stencil</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. stencil logo (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. stencil logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image147.webp?raw=true"
+<img src="./images/image156.webp?raw=true"
   style="width:20%"
   alt="Build a lightweight web component with stencil js." />
 <!-- {width="1.7819553805774277in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. stencil logo (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image148.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. stencil logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image157.webp?raw=true"
   style="width:30%"
   alt="Stencil JS logo." />
 <!-- {width="2.708571741032371in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 149. stencil front-end framework logo (117) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 158. stencil front-end framework logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image149.webp?raw=true"
+<img src="./images/image158.webp?raw=true"
   style="width:50%"
   alt="Stencil front-end framework logo." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4692,29 +4691,29 @@ doc generation, and types.
 
 <h2 name="ch18">18 - Qwik</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. qwik logo (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. qwik logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image150.webp?raw=true"
+<img src="./images/image159.webp?raw=true"
   style="width:30%"
   alt="Qwik framework logo." />
 <!-- {width="2.72413823272091in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 151. qwik logo greeting card (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image151.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. qwik logo greeting card (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image160.webp?raw=true"
   style="width:20%"
   alt="Qwik logo greeting card." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. qwik logo sticker (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image152.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161. qwik logo sticker (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image161.webp?raw=true"
   style="width:20%"
   alt="Qwik logo sticker." />
 <!-- {width="0.75in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 153. qwik front-end framework logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 162. qwik front-end framework logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image153.webp?raw=true"
+<img src="./images/image162.webp?raw=true"
   style="width:50%"
   alt="Qwik front-end framework logo." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4744,27 +4743,27 @@ or executed.
 
 <h2 name="ch19">19 -- Moment.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image154.webp?raw=true"
+<img src="./images/image163.webp?raw=true"
   style="width:15%"
   alt="Moment.js logo." />
 <!-- {width="1.225353237095363in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image155.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image164.webp?raw=true"
   style="width:15%"
   alt="Moment.js logo vector." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image156.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image165.webp?raw=true"
   style="width:30%"
   alt="Moment.js logo." />
 <!-- {width="2.3939391951006126in" height="1.0in"}  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. moment.js logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image157.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image166.webp?raw=true"
   style="width:15%"
   alt="Moment.js logo." />
 <!-- {width="1.0in" height="1.0in"} -->
@@ -4789,21 +4788,21 @@ run the code (see documentation).
 
 <h2 name="ch20">20 -- popper.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. popper.js logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. popper.js logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image158.webp?raw=true"
+<img src="./images/image167.webp?raw=true"
   style="width:30%"
   alt="Popper.js logo." />
 <!-- {width="2.0in" height="1.0421937882764654in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. popper.js logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image159.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. popper.js logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image168.webp?raw=true"
   style="width:15%"
   alt="Popper.js logo." />
 <!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. popper.js core logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image160.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. popper.js core logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image169.webp?raw=true"
   style="width:15%"
   alt="Popper.js logo." />
 <!-- {width="1.0in" height="1.0in"} -->
@@ -4821,18 +4820,18 @@ tooltip, but it also includes popovers, drop-downs, and more. All of
 these can be generically described as a &quot;popper&quot; element.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161. popper website (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. popper website (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image161.webp?raw=true"
+<img src="./images/image170.webp?raw=true"
   style="width:85%"
   alt="Popper.js website." />
 <!-- {width="7.0in" height="2.6264971566054243in"} -->
 <a href="https://popper.js.org">&lt;https://popper.js.org/&gt;</a>
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 162. code sandbox .io (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. code sandbox .io (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image162.webp?raw=true"
+<img src="./images/image171.webp?raw=true"
   style="width:85%"
   alt="Code Sandbox.io." />
 <!-- {width="7.0in" height="2.6264971566054243in"} -->
@@ -4862,21 +4861,21 @@ a [long list of real-world
 projects](https://backbonejs.org/#examples) that use Backbone.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. backbone logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. backbone logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image163.webp?raw=true"
+<img src="./images/image173.webp?raw=true"
   style="width:15%"
   alt="Backbone.js logo." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. backbone.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image164.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. backbone.js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image174.webp?raw=true"
   style="width:20%"
   alt="Backbone.js logo." />
 <!-- {width="2.0in" height="1.2827001312335957in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. backbone.js (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image165.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. backbone.js (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image174.webp?raw=true"
   style="width:40%"
   alt="Backbone.js logo." />
 <!-- {width="4.0in" height="0.7088604549431321in"} -->
@@ -4911,21 +4910,21 @@ For more documentation on <a href="https://resthub.github.io/docs/backbone/layou
 
 <h2 name="ch22">22 -- SemanticUI</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image166.webp?raw=true"
+<img src="./images/image175.webp?raw=true"
   style="width:15%"
   alt="Semantic UI logo." />
 <!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image167.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image176.webp?raw=true"
   style="width:20%"
   alt="Semantic UI logo." />
 <!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. semantic ui logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image168.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image177.webp?raw=true"
   style="width:30%"
   alt="Semantic UI logo." />
 <!-- {width="3.1967213473315836in" height="1.0in"} -->
@@ -4943,17 +4942,17 @@ And it integrates with React, Angular, Meteor, Ember and many other
 frameworks to help organize UI layer alongside application logic.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. semantic ui (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. semantic ui (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image169.webp?raw=true"
+<img src="./images/image178.webp?raw=true"
   style="width:60%"
   alt="Semantic UI." />
 <!-- {width="4.0in" height="2.674786745406824in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. semantic ui website theme (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. semantic ui website theme (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image170.webp?raw=true"
+<img src="./images/image179.webp?raw=true"
   style="width:60%"
   alt="Semantic UI Website theme." />
 <!-- {width="4.0in" height="2.1465813648293963in"} -->
@@ -4964,15 +4963,15 @@ For more information go to <a href="https://semantic-ui-forest.com/">Semantic UI
 
 <h2 name="ch23">23 -- Gatsby</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. gatsby logo (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. gatsby logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image171.webp?raw=true"
+<img src="./images/image180.webp?raw=true"
   style="width:30%"
   alt="Gatsby logo." />
 <!-- {width="3.0in" height="1.3762817147856519in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. gatsby logo (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image172.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. gatsby logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image181.webp?raw=true"
   style="width:15%"
   alt="Gatsby logo." />
 <!-- {width="1.38in" height="1.38in"} -->
@@ -4987,9 +4986,9 @@ his <a href="https://www.gatsbyjs.com/why-gatsby">website</a>.
 
 <h2 name="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. means stack framework (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. means stack framework (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image173.webp?raw=true"
+<img src="./images/image182.webp?raw=true"
   style="width:40%"
   alt="." />
 <!-- {width="4.0in" height="2.0931627296587925in"} -->
@@ -5013,21 +5012,21 @@ popular technology concepts for building web applications.</p>
 
 <h2 name="ch25">25 -- Aurelia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image174.webp?raw=true"
+<img src="./images/image184.webp?raw=true"
   style="width:20%"
   alt="Aurelia logo." />
 <!-- {width="1.5in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image175.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image185.webp?raw=true"
   style="width:30%"
   alt="Aurelia logo." />
 <!-- {width="3.0in" height="1.077244094488189in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. aurelia logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image176.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image185.webp?raw=true"
   style="width:30%"
   alt="Aurelia logo." />
 <!-- {width="2.0in" height="0.5933683289588801in"} -->
@@ -5040,21 +5039,21 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 
 <h2 name="ch26">26 -- Knockout.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image177.webp?raw=true"
+<img src="./images/image186.webp?raw=true"
   style="width:30%"
   alt="Knockout logo." />
 <!-- {width="3.0in" height="1.575in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image178.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image187.webp?raw=true"
   style="width:20%"
   alt="Knockout logo." />
 <!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. knockout logo (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image179.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image188.webp?raw=true"
   style="width:20%"
   alt="Knockout logo." />
 <!-- {width="1.0in" height="1.0in"} -->
@@ -5068,21 +5067,21 @@ managing data and UI synchronization.
 
 <h2 name="ch27">27 -- Mithril</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image180.webp?raw=true"
+<img src="./images/image189.webp?raw=true"
   style="width:30%"
   alt="Mithril logo." />
 <!-- {width="3.0in" height="1.145569772528434in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image181.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image190.webp?raw=true"
   style="width:20%"
   alt="Mithril logo." />
 <!-- {width="2.0in" height="1.1898731408573928in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. mithril logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image182.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image191.webp?raw=true"
   style="width:20%"
   alt="Mithril logo." />
 <!-- {width="1.0in" height="0.9442311898512686in"} -->
@@ -5096,15 +5095,15 @@ features for building robust web applications.
 
 <h2 name="ch28">28 -- Riot.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183. riot.js logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. riot.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image183.webp?raw=true"
+<img src="./images/image192.webp?raw=true"
   style="width:30%"
   alt="Riot.js logo." />
 <!-- {width="3.0in" height="1.4285258092738409in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. riot.js logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image184.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. riot.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image193.webp?raw=true"
   style="width:30%"
   alt="Riot.js logo." />
 <!-- {width="3.0in" height="2.565064523184602in"} -->
@@ -5118,15 +5117,15 @@ crucial.
 
 <h2 name="ch29">29 -- Stimulus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. stimulus logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. stimulus logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image185.webp?raw=true"
+<img src="./images/image194.webp?raw=true"
   style="width:25%"
   alt="Stimulus logo." />
 <!-- {width="2.0in" height="1.385in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. stimulus logo (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image186.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. stimulus logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image195.webp?raw=true"
   style="width:25%"
   alt="Stimulus logo." />
 <!-- {width="2.0in" height="1.5in"} -->
@@ -5139,21 +5138,21 @@ applications by enhancing existing HTML elements with behavior.</p>
 
 <h2 name="ch30">30 -- Tailwind CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image187.webp?raw=true"
+<img src="./images/image196.webp?raw=true"
   style="width:25%"
   alt="Tailwind logo." />
 <!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image188.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image197.webp?raw=true"
   style="width:25%"
   alt="Tailwind logo." />
 <!-- {width="2.0in" height="1.125in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. tailwind logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image189.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image198.webp?raw=true"
   style="width:25%"
   alt="Tailwind logo." />
 <!-- {width="2.0in" height="1.2320002187226597in"} -->
@@ -5166,15 +5165,15 @@ functional approach.
 
 <h2 name="ch31">31 -- Foundation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. js foundation logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. js foundation logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image190.webp?raw=true"
+<img src="./images/image199.webp?raw=true"
   style="width:25%"
   alt="JavaScript Foundation logo." />
 <!-- {width="2.0in" height="0.601496062992126in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. js foundation logo (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image191.webp?raw=true"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. js foundation logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image200.webp?raw=true"
   style="width:25%"
   alt="JS Foundation logo." />
 <!-- {width="2.0in" height="1.1111111111111112in"} -->
@@ -5222,9 +5221,9 @@ on practical skills rather than just trendy technologies.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-2">3-02. Introduction to Twitter Bootstrap 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image192.webp?raw=true"
+<img src="./images/image201.webp?raw=true"
   style="width:40%"
   alt="Twitter bootstrap - what is it?" />
 <!-- {width="4.0in" height="2.24957239720035in"} -->
@@ -5253,9 +5252,9 @@ Today we&apos;re going to talk about Bootstrap.
     that were made with Bootstrap.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. who is it? (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. who is it? (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image193.webp?raw=true"
+<img src="./images/image202.webp?raw=true"
   style="width:40%"
   alt="Who uses Bootstrap?" />
 </p>
@@ -5278,9 +5277,9 @@ Speaking of that, who uses Bootstrap?
     that are out there for you to use as a building block.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. bootstrap 3.0 benefits (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. bootstrap 3.0 benefits (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image194.webp?raw=true"
+<img src="./images/image203.webp?raw=true"
   style="width:40%"
   alt="Bootstrap 3.0 benefits." />
 </p>
@@ -5319,9 +5318,9 @@ There are a number of benefits of using Bootstrap 3.0.
         it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 195. bootstrap: why you should use it (128) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 204. bootstrap: why you should use it (128) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image195.webp?raw=true"
+<img src="./images/image204.webp?raw=true"
   style="width:40%"
   alt="Bootstrap - why you should use it." />
 </p>
@@ -5344,9 +5343,9 @@ bit about it?
     values to give it the look that you want it to have.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 196. bootstrap: why you shouldn't use it (129) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 205. bootstrap: why you shouldn't use it (129) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image196.webp?raw=true"
+<img src="./images/image205.webp?raw=true"
   style="width:40%"
   alt="Bootstrap - why you should not use it." />
 </p>
@@ -5374,9 +5373,9 @@ But there are reasons why you might not want to use Bootstrap.
     really an innovative thinker. Then you might not want to use
     Bootstrap. You might really want to head off on your own.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. what we will cover (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. what we will cover (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image197.webp?raw=true"
+<img src="./images/image206.webp?raw=true"
   style="width:40%"
   alt="What is covered in this module." />
 </p>
@@ -5409,9 +5408,9 @@ want to use, not something that you feel confined by.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-3">3-03. Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image198.webp?raw=true"
+<img src="./images/image207.webp?raw=true"
   style="width:40%"
   alt="Default breakpoints." />
 </p>
@@ -5428,9 +5427,9 @@ want to use, not something that you feel confined by.
     -   You want to make sure you plan for the smallest screen and then
         make adjustments as the screen size potentially is larger.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. custom, iphone retina (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. custom, iphone retina (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image199.webp?raw=true"
+<img src="./images/image208.webp?raw=true"
   style="width:40%"
   alt="Custom iphone retina." />
 </p>
@@ -5454,9 +5453,9 @@ want to use, not something that you feel confined by.
 </div>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 200. extra small devices and phones (131) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 209. extra small devices and phones (131) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image200.webp?raw=true"
+<img src="./images/image209.webp?raw=true"
   style="width:40%"
   alt="Extra small devices and phones." />
 </p>
@@ -5471,9 +5470,9 @@ want to use, not something that you feel confined by.
     wide.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. small devices and tablets (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. small devices and tablets (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image201.webp?raw=true"
+<img src="./images/image210.webp?raw=true"
   style="width:40%"
   alt="Small devices and tablets." />
 </p>
@@ -5491,9 +5490,9 @@ want to use, not something that you feel confined by.
     sizes, so it also triggers this viewpoint as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. medium devices and desktops (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. medium devices and desktops (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image202.webp?raw=true"
+<img src="./images/image211.webp?raw=true"
   style="width:40%"
   alt="Medium devices and desktops." />
 </p>
@@ -5512,9 +5511,9 @@ want to use, not something that you feel confined by.
     going to talk about how we can deal with this a little bit later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 203. large devices and wide screens (133) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 212. large devices and wide screens (133) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image203.webp?raw=true"
+<img src="./images/image212.webp?raw=true"
   style="width:40%"
   alt="Large devices and video wide screens." />
 </p>
@@ -5542,9 +5541,9 @@ want to use, not something that you feel confined by.
     going on there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 204. setting your own breakpoints (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 213. setting your own breakpoints (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image204.webp?raw=true"
+<img src="./images/image213.webp?raw=true"
   style="width:40%"
   alt="Setting your own breakpoints." />
 </p>
@@ -5562,9 +5561,9 @@ want to use, not something that you feel confined by.
         points.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. conclustion (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. conclustion (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image205.webp?raw=true"
+<img src="./images/image214.webp?raw=true"
   style="width:40%"
   alt="Conlusion." />
 </p>
@@ -5587,9 +5586,9 @@ want to use, not something that you feel confined by.
 <h2 name="ch3-3b">3-03b. Getting Started with Twitter Bootstrap</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. getting started (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image206.webp?raw=true"
+<img src="./images/image215.webp?raw=true"
   style="width:40%"
   alt="Getting started." />
 </p>
@@ -5612,9 +5611,9 @@ want to use, not something that you feel confined by.
         CodePen account.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 207. saving your own copy of bootstrap (136) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 216. saving your own copy of bootstrap (136) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image207.webp?raw=true"
+<img src="./images/image216.webp?raw=true"
   style="width:40%"
   alt="Saving your own copy of Bootstrap." />
 </p>
@@ -5634,9 +5633,9 @@ certain break points, colors, or other styles that you want to happen,
 and you don&apos;t want to go around and overwrite them later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208. customize and download (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. customize and download (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image208.webp?raw=true"
+<img src="./images/image217.webp?raw=true"
   style="width:60%"
   alt="Customize and download." />
 </p>
@@ -5649,9 +5648,9 @@ and you don&apos;t want to go around and overwrite them later.
 <a href="https://getbootstrap.com/docs/3.4/customize/">Bootstrap Customize &amp; Download</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. using a cdn (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. using a cdn (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image209.webp?raw=true"
+<img src="./images/image218.webp?raw=true"
   style="width:40%"
   alt="Using a CDN." />
 </p>
@@ -5715,9 +5714,9 @@ getbootstrap.com/getting-started and they will give you the code that
 you need to include.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. bootstrap cdn (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. bootstrap cdn (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image210.webp?raw=true"
+<img src="./images/image219.webp?raw=true"
   style="width:60%"
   alt="Bootstrap CDN." />
 </p>
@@ -5732,9 +5731,9 @@ plan on having many different versions of your site. And you don&apos;t want
 to have lots of different copies of the bootstrap code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 211. using bootstrap with codepen (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 220. using bootstrap with codepen (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image211.webp?raw=true"
+<img src="./images/image220.webp?raw=true"
   style="width:40%"
   alt="Using Bootstrap with Codepen." />
 </p>
@@ -5748,9 +5747,9 @@ go in and put in those links, because I really want to keep this code
 clean. I really want to keep it to just HTML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212. codepen settings (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. codepen settings (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image212.webp?raw=true"
+<img src="./images/image221.webp?raw=true"
   style="width:60%"
   alt="Codepen settings." />
 </p>
@@ -5765,9 +5764,9 @@ now knows this is how you can add the external CSS. Now you may remember
 that I said, you&apos;re going to connect to the CSS and JavaScript files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213. codepen settings, #2 (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. codepen settings, #2 (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image213.webp?raw=true"
+<img src="./images/image222.webp?raw=true"
   style="width:60%"
   alt="Codepen settings, #2." />
 </p>
@@ -5778,9 +5777,9 @@ now ready to use any of the bootstrap classes or any of the bootstrap
 JavaScript that we may need to use.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. template (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. template (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image214.webp?raw=true"
+<img src="./images/image223.webp?raw=true"
   style="width:40%"
   alt="Template." />
 </p>
@@ -5798,9 +5797,9 @@ this code both with and without the links because that way if you write
 it up yourself you can still have it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. bootstrap template (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. bootstrap template (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image215.webp?raw=true"
+<img src="./images/image224.webp?raw=true"
   style="width:60%"
   alt="Bootstrap template." />
 </p>
@@ -5816,9 +5815,9 @@ style sheet. I&apos;ll do that right here. And now you can see that the font
 has changed a little bit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 216. how do you know it is working? (141) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 225. how do you know it is working? (141) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image216.webp?raw=true"
+<img src="./images/image225.webp?raw=true"
   style="width:40%"
   alt="How do you know if it is working?" />
 </p>
@@ -5854,9 +5853,9 @@ I&apos;m back at our original template code. And I&apos;ll put back in the style
 sheet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. bootstrap template, again (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. bootstrap template, again (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image217.webp?raw=true"
+<img src="./images/image226.webp?raw=true"
   style="width:60%"
   alt="Bootsrap template, again." />
 </p>
@@ -5880,9 +5879,9 @@ what&apos;s going on.
 <h3>Bootstrap HTML Template</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. don't forget (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. don't forget (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image218.webp?raw=true"
+<img src="./images/image227.webp?raw=true"
   style="width:40%"
   alt="Do not forget." />
 </p>
@@ -5954,9 +5953,9 @@ large desktops</b>. On mobile devices, tablets and below, the columns will
 automatically stack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image219.webp?raw=true"
+<img src="./images/image228.webp?raw=true"
   style="width:60%"
   alt="." />
 </p>
@@ -5968,9 +5967,9 @@ twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 220. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 229. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image220.webp?raw=true"
+<img src="./images/image229.webp?raw=true"
   style="width:60%"
   alt="col-md-3, col-md-6, and col-md-3." />
 </p>
@@ -5979,9 +5978,9 @@ stacking no matter the viewport.
 Get two columns <b>starting at desktops and scaling to large desktops</b>.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 221. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 230. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image221.webp?raw=true"
+<img src="./images/image230.webp?raw=true"
   style="width:60%"
   alt="col-md-8 and col-md-4, two columns." />
 </p>
@@ -6000,9 +5999,9 @@ At mobile device sizes, tablets and down, these columns and their nested
 columns will stack.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 222. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 231. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image222.webp?raw=true"
+<img src="./images/image231.webp?raw=true"
   style="width:60%"
   alt="Two columns with two nested columns." />
 </p>
@@ -6019,9 +6018,9 @@ Each tier of classes scales up, meaning if you plan on setting the same
 widths for xs and sm, you only need to specify xs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. mixed, mobile and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. mixed, mobile and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image223.webp?raw=true"
+<img src="./images/image232.webp?raw=true"
   style="width:40%"
   alt="Mixed, mobile and desktop." />
 </p>
@@ -6030,9 +6029,9 @@ widths for xs and sm, you only need to specify xs.
 <h3>Mixed: mobile, tablet, and desktop</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 224. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 233. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image224.webp?raw=true"
+<img src="./images/image233.webp?raw=true"
   style="width:60%"
   alt="Mixed, mobile, tablet and desktop." />
 </p>
@@ -6043,9 +6042,9 @@ widths for xs and sm, you only need to specify xs.
 [Clear floats](https://getbootstrap.com/docs/3.4/css/#grid-responsive-resets) at specific breakpoints to prevent awkward wrapping with uneven content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. column clearing (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. column clearing (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image225.webp?raw=true"
+<img src="./images/image234.webp?raw=true"
   style="width:40%"
   alt="Column clearing." />
 </p>
@@ -6056,9 +6055,9 @@ widths for xs and sm, you only need to specify xs.
 Reset offsets, pushes, and pulls at specific breakpoints.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 235. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image226.webp?raw=true"
+<img src="./images/image235.webp?raw=true"
   style="width:60%"
   alt="Offset, Push and Pull resets." />
 </p>
@@ -6080,9 +6079,9 @@ one of the next modules, and then you come back and you read this
 material again, and see if it&apos;s starting to really make sense.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. it's not a table (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. it's not a table (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image227.webp?raw=true"
+<img src="./images/image236.webp?raw=true"
   style="width:40%"
   alt="It is not a table." />
 </p>
@@ -6101,9 +6100,9 @@ So, you kind of have to throw that practical reasoning out for a little
 bit, if you&apos;re going to be using Bootstrap.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. it's not a table, #2 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. it's not a table, #2 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image228.webp?raw=true"
+<img src="./images/image237.webp?raw=true"
   style="width:40%"
   alt="Bootstrap layout is based on a 12-column grid." />
 </p>
@@ -6117,9 +6116,9 @@ it&apos;s the same as saying a width of maybe 25%. Six columns is 50%. Nine
 columns is 75%.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. it's not a table, #3 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. it's not a table, #3 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image229.webp?raw=true"
+<img src="./images/image238.webp?raw=true"
   style="width:40%"
   alt="It is not a table, #3." />
 </p>
@@ -6128,9 +6127,9 @@ All 12 columns mean you&apos;re taking up the full width of the page or that
 element.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. grid classes (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. grid classes (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image230.webp?raw=true"
+<img src="./images/image239.webp?raw=true"
   style="width:40%"
   alt="Every grid consists of a container class, a row class, and one or more column classes." />
 </p>
@@ -6141,9 +6140,9 @@ like this, where xx is going to be the viewport size. And yy is going to
 be the number of columns that you want to use. Let&apos;s take a look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 231. setting width with col-xx-yy (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. setting width with col-xx-yy (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image231.webp?raw=true"
+<img src="./images/image240.webp?raw=true"
   style="width:40%"
   alt="Setting width with col-xx-yy." />
 </p>
@@ -6156,9 +6155,9 @@ kind of think of numbers, you can think of something along the lines
 about 480, 720, 992, and 1200.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 232. setting width with col-xx-yy (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 241. setting width with col-xx-yy (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image232.webp?raw=true"
+<img src="./images/image241.webp?raw=true"
   style="width:40%"
   alt="Setting width with col-xx-yy, #2." />
 </p>
@@ -6170,9 +6169,9 @@ remember xs, sm, md, or large. It has to be one of those four
 abbreviations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 233. setting width with col-xx-yy (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 242. setting width with col-xx-yy (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image233.webp?raw=true"
+<img src="./images/image242.webp?raw=true"
   style="width:40%"
   alt="Setting width with col-xx-yy, #3." />
 </p>
@@ -6183,9 +6182,9 @@ means it shouldn&apos;t show up at all to 12 which means take up the maximum
 width that it possibly can.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. col-xs-12 (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243. col-xs-12 (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image234.webp?raw=true"
+<img src="./images/image243.webp?raw=true"
   style="width:40%"
   alt="col-xs-12 - for extra small." />
 </p>
@@ -6195,9 +6194,9 @@ saying, if you&apos;re viewing this on a small screen, it should take up the
 full width.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. col-xs-12 and col-sm-8 (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. col-xs-12 and col-sm-8 (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image235.webp?raw=true"
+<img src="./images/image244.webp?raw=true"
   style="width:40%"
   alt="col-xs-12 and col-sm-8." />
 </p>
@@ -6206,9 +6205,9 @@ If you&apos;re looking at one that has a class of col-sm-8, now you want to
 take up eight out of those 12 columns, but only on the smallest screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 236. col-xs-12, col-sm-8, &amp; col-md-4 (151) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 245. col-xs-12, col-sm-8, &amp; col-md-4 (151) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image236.webp?raw=true"
+<img src="./images/image245.webp?raw=true"
   style="width:40%"
   alt="col-xs-12, col-sm-8 and col-md-4." />
 </p>
@@ -6217,9 +6216,9 @@ For col-md-4, you&apos;re saying, if I&apos;m on a medium screen I want to use
 up four columns or one third of the entire screen size.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 237. col-xs-12, col-sm-8, col-md-4 &amp; col-lg-3 (151) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 246. col-xs-12, col-sm-8, col-md-4 &amp; col-lg-3 (151) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image237.webp?raw=true"
+<img src="./images/image246.webp?raw=true"
   style="width:40%"
   alt="col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
@@ -6229,9 +6228,9 @@ doesn&apos;t need to be as big as it was on those other screens. Let&apos;s just
 use up a quarter or 25%.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. combined columns (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247. combined columns (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image238.webp?raw=true"
+<img src="./images/image247.webp?raw=true"
   style="width:40%"
   alt="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
@@ -6245,9 +6244,9 @@ maybe there can be three across, and on a different screen maybe four
 across.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 239. class="col-xs-12 col-sm-6 col-md-4 col-lg-3" (152) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 248. class="col-xs-12 col-sm-6 col-md-4 col-lg-3" (152) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image239.webp?raw=true"
+<img src="./images/image248.webp?raw=true"
   style="width:40%"
   alt="col-xs-12, col-sm-6, col-md-4 and col-lg-3." />
 </p>
@@ -6268,9 +6267,9 @@ viewports, the picture is going to look relatively big on a small screen
 and relatively small on a larger screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. using bootstrap (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. using bootstrap (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image240.webp?raw=true"
+<img src="./images/image249.webp?raw=true"
   style="width:40%"
   alt="Using Bootstrap classes." />
 </p>
@@ -6279,9 +6278,9 @@ So, let&apos;s review that grid picture but using the classes this time.
 Right here we have nothing on there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. col-xx-3 (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. col-xx-3 (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image241.webp?raw=true"
+<img src="./images/image250.webp?raw=true"
   style="width:40%"
   alt="Using Bootstrap classes, #2." />
 </p>
@@ -6289,9 +6288,9 @@ Right here we have nothing on there.
 But if I use col-XX-3, we&apos;re using three of the 12 or 25%.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242. col-xx-6 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251. col-xx-6 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image242.webp?raw=true"
+<img src="./images/image251.webp?raw=true"
   style="width:40%"
   alt="Using Bootstrap classes, #3." />
 </p>
@@ -6299,9 +6298,9 @@ But if I use col-XX-3, we&apos;re using three of the 12 or 25%.
 If I say col-XX-6, I&apos;m using 50% now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243. col-xx-9 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252. col-xx-9 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image243.webp?raw=true"
+<img src="./images/image252.webp?raw=true"
   style="width:40%"
   alt="Using Bootstrap classes, #4." />
 </p>
@@ -6310,9 +6309,9 @@ If I say col-XX-6, I&apos;m using 50% now.
 Col-XX-9, 75% and
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. col-xx-12 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253. col-xx-12 (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image244.webp?raw=true"
+<img src="./images/image253.webp?raw=true"
   style="width:40%"
   alt="Using Bootstrap classes, #5." />
 </p>
@@ -6324,9 +6323,9 @@ only on a larger screen. Separate block, small screen. In line block on
 a large screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245. combining elements (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254. combining elements (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image245.webp?raw=true"
+<img src="./images/image254.webp?raw=true"
   style="width:40%"
   alt="Two elements side-by-side, but only on larger screens." />
 </p>
@@ -6336,9 +6335,9 @@ of our page, well, on a small screen, I want it to take up the full
 width. But, on a medium screen, I want it to take up only three.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. combining elements, #2 (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255. combining elements, #2 (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image246.webp?raw=true"
+<img src="./images/image255.webp?raw=true"
   style="width:40%"
   alt="Combining elements, #2." />
 </p>
@@ -6347,9 +6346,9 @@ So, on here when I&apos;m looking at a large screen, I&apos;m only taking up
 one, two, three columns. All right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247. combining elements, #3 (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256. combining elements, #3 (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image247.webp?raw=true"
+<img src="./images/image256.webp?raw=true"
   style="width:40%"
   alt="." />
 </p>
@@ -6374,9 +6373,9 @@ large. You can really get away with just specifying one or two rules and
 still hit multiple break points.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248. bootstrap is mobile first (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 257. bootstrap is mobile first (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image248.webp?raw=true"
+<img src="./images/image257.webp?raw=true"
   style="width:40%"
   alt="Bootstrap is mobile first." />
 </p>
@@ -6385,9 +6384,9 @@ It&apos;s actually quite possible to write even easier or cleaner code than
 what I just wrote here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. block by default (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. block by default (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image249.webp?raw=true"
+<img src="./images/image258.webp?raw=true"
   style="width:40%"
   alt="." />
 </p>
@@ -6400,9 +6399,9 @@ width, you don&apos;t need to tell me. Instead, you can just specify those
 rules where it&apos;s going to change.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. block by default, #2 (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259. block by default, #2 (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image250.webp?raw=true"
+<img src="./images/image259.webp?raw=true"
   style="width:40%"
   alt="." />
 </p>
