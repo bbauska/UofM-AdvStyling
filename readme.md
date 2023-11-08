@@ -1605,33 +1605,33 @@ i hate myself with no elite.</p>
 
 ```
 1.  main {
-2.  width: 95%;
-3.  margin: 0 auto;
+2.    width: 95%;
+3.    margin: 0 auto;
 4.  }
 5.  .column {
-6.  width:30%;
-7.  display: inline-block;
-8.  float: left;
-9.  margin-left: 2%;
+6.    width:30%;
+7.    display: inline-block;
+8.    float: left;
+9.    margin-left: 2%;
 10. }
 11. html, body {
-12. background-color: #ffffff;
+12.   background-color: #ffffff;
 13. }
 14. body {
-15. margin: 0;
-16. font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-17. font-size: 13px;
-18. font-weight: normal;
-19. color: #404040;
+15.   margin: 0;
+16.   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+17.   font-size: 13px;
+18.   font-weight: normal;
+19.   color: #404040;
 20. }
 21. h1 {
-22. font-size: 300%;
-23. margin: 0;
-24. padding: 0;
+22.   font-size: 300%;
+23.   margin: 0;
+24.   padding: 0;
 25. }
 26. h1, h2{
-27. text-align: center;
-28. text-transform: uppercase;
+27.   text-align: center;
+28.   text-transform: uppercase;
 29. }
 ```
 
@@ -1867,14 +1867,14 @@ putting in that type and that break point.</p>
 
 ```
 1.  @media screen and (min-width:778px)
-2.  {
-3.  .column {
-4.  width:30%;
-5.  display: inline-block;
-6.  float: left;
-7.  margin-left: 2%;
-8.  }
-9.  }
+2.    {
+3.    .column {
+4.      width:30%;
+5.      display: inline-block;
+6.      float: left;
+7.      margin-left: 2%;
+8.      }
+9.    }
 ```
 
 </details>
@@ -1960,36 +1960,36 @@ i hate myself with no elite.</p>
 
 ```
 1.  main {
-2.  width: 95%;
-3.  margin: 0 auto;
+2.    width: 95%;
+3.    margin: 0 auto;
 4.  }
 5.  html, body {
-6.  background-color: #ffffff;
+6.    background-color: #ffffff;
 7.  }
 8.  body {
-9.  margin: 0;
-10. font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-11. font-size: 13px;
-12. font-weight: normal;
-13. color: #404040;
+9.    margin: 0;
+10.   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+11.   font-size: 13px;
+12.   font-weight: normal;
+13.   color: #404040;
 14. }
 15. h1 {
-16. font-size: 300%;
-17. margin: 0;
-18. padding: 0;
+16.   font-size: 300%;
+17.   margin: 0;
+18.   padding: 0;
 19. }
 20. h1, h2{
-21. text-align: center;
-22. text-transform: uppercase;
+21.   text-align: center;
+22.   text-transform: uppercase;
 23. }
 24. @media screen and (min-width:1200px)
 25. {
-26. .column {
-27. width:30%;
-28. display: inline-block;
-29. float: left;
-30. margin-left: 2%;
-31. }
+26.   .column {
+27.     width:30%;
+28.     display: inline-block;
+29.     float: left;
+30.     margin-left: 2%;
+31.   }
 32. }
 ```
 
@@ -2594,21 +2594,21 @@ better at coding responsive design.
 ```
 /* do these need to be reordered? */
 @media only screen and (min-width: 1024px) {
-body{
-background: #0000FF;
-width:25%;
-}
+  body{
+    background: #0000FF;
+    width:25%;
+  }
 }
 @media only screen and (min-width: 780px) {
-body{
-background: #FFFF00;
-width:50%;
+  body{
+    background: #FFFF00;
+    width:50%;
+  }
 }
-}
 body{
-width:100%;
-background: #008800;
-font-size:150%;
+  width:100%;
+  background: #008800;
+  font-size:150%;
 }
 ```
 
@@ -2865,9 +2865,9 @@ responsive design:</a>
         page. The next paragraph is just filler text. It doesn't mean
         anything.</p>
       <p>Thank you for your interest in our company, the main aircraft. Khan,
-	    temporary, guilt! I want to stop the volcanoes from doing this. Muhammad
-		please, let me know if there is any work that you can do, ratify, or 
-		choose to do.  dolores mcdonald.</p>
+        temporary, guilt! I want to stop the volcanoes from doing this. Muhammad
+        please, let me know if there is any work that you can do, ratify, or 
+        choose to do.  dolores mcdonald.</p>
     </section>
   </body>
 </html>
@@ -2882,16 +2882,16 @@ responsive design:</a>
 
 ```
 body{
-background-color: #F2F2F2;
-margin: 1%;
-padding:1%;
+  background-color: #F2F2F2;
+  margin: 1%;
+  padding:1%;
 }
 nav{
-border: 1px solid #06425C;
-color:#06425C;
-background-color:#FFFFFF;
-overflow: auto;
-padding-left:8%;
+  border: 1px solid #06425C;
+  color:#06425C;
+  background-color:#FFFFFF;
+  overflow: auto;
+  padding-left:8%;
 }
 ```
 
@@ -2906,21 +2906,21 @@ padding-left:8%;
 
 ```
 <nav>
-<a href="">Home</a>
-<a href="">Photos</a>
-<a href="">Recipes</a>
-<a href="">Contact</a>
+  <a href="">Home</a>
+  <a href="">Photos</a>
+  <a href="">Recipes</a>
+  <a href="">Contact</a>
 </nav>
 <section>
-<h2>Playing with Horizontal and Vertical Navigation Menus</h2>
-<p>This is a separate section that will hold the content for each
-page. The next paragraph is just filler text. It doesn't mean
-anything.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
-temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
-quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
-dolorum commodi magni.</p>
-</section>
+  <h2>Playing with Horizontal and Vertical Navigation Menus</h2>
+  <p>This is a separate section that will hold the content for each
+    page. The next paragraph is just filler text. It doesn't mean
+    anything.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia,
+    temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum
+    quia, facere laboriosam quos possimus, ratione, optio incidunt sunt
+    dolorum commodi magni.</p>
+  </section>
 ```
 
 </details>
@@ -2932,60 +2932,61 @@ dolorum commodi magni.</p>
 
 ```
 body{
-background-color: #F2F2F2;
-margin: 1%;
-padding:1%;
+  background-color: #F2F2F2;
+  margin: 1%;
+  padding:1%;
 }
 nav{
-border: 1px solid #06425C;
-color:#06425C;
-background-color:#FFFFFF;
-overflow: auto;
-padding-left:8%;
+  border: 1px solid #06425C;
+  color:#06425C;
+  background-color:#FFFFFF;
+  overflow: auto;
+  padding-left:8%;
 }
 nav a{
-box-sizing:border-box;
-display:inline-block;
-line-height: 45px;
-height:60px;
-color: #FFFFFF;
-background-color:#486B02;
-text-decoration: none;
-margin:1% 2% 1% 8%;
-padding:1% 2%;
-border-radius: 25px;
+  box-sizing:border-box;
+  display:inline-block;
+  line-height: 45px;
+  height:60px;
+  color: #FFFFFF;
+  background-color:#486B02;
+  text-decoration: none;
+  margin:1% 2% 1% 8%;
+  padding:1% 2%;
+  border-radius: 25px;
 }
+
 @media all and (min-width:900px){
-body{
-background-color:grey;
-}
-nav{
-border:1px solid #000000;
-color:#06425C;
-background-color: #486B02;
-display:inline-block;
-width: 20%;
-min-width: 125px;
-margin-right:15px;
-height: 100vh;
-float:left;
-}
-nav a{
-display:block;
-line-height: 45px;
-height:45px;
-color: #FFFFFF;
-background-color:#486B02;
-text-decoration: none;
-padding-left:5px;
-}
-section{
-display:inline-block;
-width:70%;
-height:100vh;
-overflow:auto;
-}
-}
+  body{
+    background-color:grey;
+  }
+  nav{
+    border:1px solid #000000;
+    color:#06425C;
+    background-color: #486B02;
+    display:inline-block;
+    width: 20%;
+    min-width: 125px;
+    margin-right:15px;
+    height: 100vh;
+    float:left;
+  }
+  nav a{
+    display:block;
+    line-height: 45px;
+    height:45px;
+    color: #FFFFFF;
+    background-color:#486B02;
+    text-decoration: none;
+    padding-left:5px;
+  }
+  section{
+    display:inline-block;
+    width:70%;
+    height:100vh;
+    overflow:auto;
+  }
+}  /* @media all */
 ```
 
 </details>
@@ -3009,7 +3010,6 @@ job easier by providing code and structure. Once you learn how to use a
 framework, you&apos;re able to develop your sites quickly and easily without
 changing too much code. So again, when we talk about framework, we want
 to think about what does framework mean here in this class.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 97. what does framework mean here? (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3028,7 +3028,6 @@ jQuery.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 98. what does framework mean here, #2? (84) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3047,7 +3046,6 @@ of the terms that other people are using. Just make sure that you
 realize that we&apos;re doing front-end development, not back-end
 development. In saying that, I think it&apos;s important that you know at
 least a handful of frameworks that people are using today.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. popular front-end frameworks (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3124,9 +3122,8 @@ functionality to it on the client
 side](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html).
 This allows the user to interact with the page right away, while the
 JavaScript code is still loading and running.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 101. hydration in web development (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 101. hydration in web development (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image101.webp"
   style="width:50%"
@@ -3154,9 +3151,8 @@ speed.
 
 Over the past decade, SPAs have become increasingly popular due to their
 ability to create dynamic and responsive user interfaces.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. single page applications (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. single page applications (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image102.webp"
   style="width:60%"
@@ -3179,9 +3175,8 @@ providing data and API endpoints. This separation of concerns makes it
 easier to develop and maintain large-scale applications.
 
 <h2>JAMStack</h2>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. jamstack (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. jamstack (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image103.webp"
   style="width:40%"
@@ -3233,16 +3228,16 @@ section.
   <li>Data Visualization in Maps and Charts<br>
     <p><a href="https://kinsta.com/blog/data-visualization-tools/">Data Visualization</a> in 
       applications is crucial for users to view the statistics clearly in the admin panel, 
-	  dashboards, performance metrics, and more.<br>
+      dashboards, performance metrics, and more.<br>
       Presenting these <a href="https://kinsta.com/blog/wordpress-charts/">
-	  data in charts and maps</a> helps you analyze that data easily and make informed 
-	  business decisions.</p>
+      data in charts and maps</a> helps you analyze that data easily and make informed 
+      business decisions.</p>
     <i>Examples: Chart.js, Apexcharts, Algolia Places</i>
   </li>
   <li>DOM Manipulation<br>
     <p><a href="https://kinsta.com/blog/critical-rendering-path/#the-dom">Document Object Model (DOM)</a> 
       represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
-	  You can change its content, style, and structure.</p>
+      You can change its content, style, and structure.</p>
     <i>Examples: <a href="https://kinsta.com/knowledgebase/what-is-jquery/">jQuery</a>, Umbrella JS</i>
   </li>
   <li>Data Handling<br>
@@ -3254,46 +3249,46 @@ section.
   <li>Database<br>
     <p><a href="https://kinsta.com/blog/adminer/">Effective database management</a> is
       necessary to read, create, delete, edit, and sort data. You can also use sophisticated 
-	  queries, auto-create tables, synchronize and validate data, and much more.</p>
+      queries, auto-create tables, synchronize and validate data, and much more.</p>
     <i>Examples: TaffyDB, ActiveRecord.js</i>
   </li>
   <li>Forms<br>
     <p>Use JS libraries to <a href="https://kinsta.com/blog/wordpress-contact-form-plugins/">
-	  simplify form functions</a>, including form validation, synchronization, handling, 
-	  conditional capabilities, field controls, transforming layouts, and more.</p>
+      simplify form functions</a>, including form validation, synchronization, handling, 
+      conditional capabilities, field controls, transforming layouts, and more.</p>
     <i>Examples: wForms, LiveValidation, Validanguage, qForms</i>
   </li>
   <li>Animations<br>
     <p><a href="https://kinsta.com/blog/wordpress-gifs/">People love animations</a>, and
       you can leverage them to make your web page interactive and more engaging. Adding 
-	  micro-interactions and animations is easy by using JavaScript libraries.</p>
+      micro-interactions and animations is easy by using JavaScript libraries.</p>
     <i>Examples: Anime.js, JSTweener</i>
   </li>
   <li>Image Effects</br>
     <p>Users can add effects to images and make them stand out using JS libraries. 
-	Effects include blurring, lightening, embossing, sharpening, grayscale, saturation, 
-	hue, adjusting contrast, flipping, inverting, reflection, and so on.</p>
+    Effects include blurring, lightening, embossing, sharpening, grayscale, saturation, 
+    hue, adjusting contrast, flipping, inverting, reflection, and so on.</p>
     <i>Examples: ImageFX, Reflection.js</i>
   </li>
   <li>Fonts<br>
     <p>Users can incorporate <a href="https://kinsta.com/blog/modern-fonts/">any 
-	font they wish</a> to make their web page more compelling based on the 
-	content type.</p>
+    font they wish</a> to make their web page more compelling based on the 
+    content type.</p>
     <i>Examples: typeface.js</i>
   </li>
   <li>Math and String Functions<br>
     <p>Adding mathematical expressions, date, time, and strings can be tricky. 
-	  For example, a date consists of many formats, slashes, and dots to make things 
-	  complex for you. The same holds when it comes to matrices and vectors.<br>
+      For example, a date consists of many formats, slashes, and dots to make things 
+      complex for you. The same holds when it comes to matrices and vectors.<br>
       Use JavaScript libraries to simplify these complexities in addition to 
-	  manipulating and handling URLs effortlessly.</p>
+      manipulating and handling URLs effortlessly.</p>
     <i>Examples: Date.js, Sylvester, JavaScript URL Library</i>
   </li>
   <li>User Interface and Its Components<br>
     <p>You can provide a <a href="https://kinsta.com/blog/website-usability-testing/">
-	  better user experience</a> via web pages by making them more responsive and 
-	  dynamic, decreasing the number of DOM operations, boosting page speed, and 
-	  so forth.</p>
+      better user experience</a> via web pages by making them more responsive and 
+      dynamic, decreasing the number of DOM operations, boosting page speed, and 
+      so forth.</p>
     <i>Examples: ReactJS, Glimmer.js</i>
   </li>
 </ul>
@@ -3452,18 +3447,18 @@ The number of hours this saves from the development process can be enormous.</p>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#toolbox">React Toolbox</a> --</h4>
     <p>React Toolbox is a React UI components library. This library can be used
-	to implement Google's Material Design principles in projects. React Toolbox uses 
-	CSS modules for this implementation. Although you can utilize any module bundler, 
-	React Toolbox integrates with webpack workflow seamlessly. What's more, the React 
-	Toolbox team provides an in-browser editor where developers can play with components 
-	in real time.<br>
-	You can import components in raw components or bundles while working with this 
-	library. The main difference is that for the latter, the components come with 
-	all required dependencies and themes injected for you.<br>
-	In other words, the CSS for each dependency will be available in your final CSS 
-	automatically and raw components don't include any CSS. This means that you will 
-	need to provide a theme via properties to the component for it to be properly 
-	styled.</p>
+    to implement Google's Material Design principles in projects. React Toolbox uses 
+    CSS modules for this implementation. Although you can utilize any module bundler, 
+    React Toolbox integrates with webpack workflow seamlessly. What's more, the React 
+    Toolbox team provides an in-browser editor where developers can play with components 
+    in real time.<br>
+    You can import components in raw components or bundles while working with this 
+    library. The main difference is that for the latter, the components come with 
+    all required dependencies and themes injected for you.<br>
+    In other words, the CSS for each dependency will be available in your final CSS 
+    automatically and raw components don't include any CSS. This means that you will 
+    need to provide a theme via properties to the component for it to be properly 
+    styled.</p>
   <b>Features and benefits:</b>
     <ul>
       <li>Supports responsive design</li>
@@ -3474,17 +3469,17 @@ The number of hours this saves from the development process can be enormous.</p>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized">React Virtualized</a> --</h4>
     <p>If you are working on an application that is data-heavy in the front end, 
-	React Virtualized should be your choice. Virtualized has a set of reusable, 
-	lightweight components that can render large datasets efficiently.<br>
+    React Virtualized should be your choice. Virtualized has a set of reusable, 
+    lightweight components that can render large datasets efficiently.<br>
     One of the most useful features of React Virtualized is that it uses windowing 
-	and virtualization techniques to optimize the rendering of large lists, tables, 
-	and grids. It is great for the performance of your application as it only renders 
-	the elements that are visible on the screen instead of all the elements at once.<br>
+    and virtualization techniques to optimize the rendering of large lists, tables, 
+    and grids. It is great for the performance of your application as it only renders 
+    the elements that are visible on the screen instead of all the elements at once.<br>
     Another benefit of React Virtualized is that it provides a set of helper functions 
-	and utilities to assist with common UI patterns, such as infinite scrolling, dynamic 
-	row and column sizing, and responsive design. It supports both fixed and variable 
-	row heights, and it provides a flexible API for customizing the behavior and 
-	appearance of its components.</p>
+    and utilities to assist with common UI patterns, such as infinite scrolling, dynamic 
+    row and column sizing, and responsive design. It supports both fixed and variable 
+    row heights, and it provides a flexible API for customizing the behavior and 
+    appearance of its components.</p>
   <b>Features and benefits:</b>
     <ul>
       <li>Uses windowing to render a small portion of a large data set</li>
@@ -3516,18 +3511,18 @@ The number of hours this saves from the development process can be enormous.</p>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#semantic">Semantic UI</a> --</h4>
     <p>Semantic UI integrates with React to offer a customized library of user interface 
-	components. Semantic UI does not have the virtual DOM, as it is independent of jQuery 
-	methods. The Semantic UI React library offers several customizable elements for 
-	front-end development.<br>
+    components. Semantic UI does not have the virtual DOM, as it is independent of jQuery 
+    methods. The Semantic UI React library offers several customizable elements for 
+    front-end development.<br>
     Semantic UI is an open-source project on GitHub that is useful for designing 
-	CSS style sheets with React framework. The Semantic UI framework features 
-	augmentation for building responsive web pages with unique component 
-	functionalities. The subcomponents offer better control over accessing 
-	and editing markup, and an auto-controlled state enables better utilization 
-	of components.</p>
+    CSS style sheets with React framework. The Semantic UI framework features 
+    augmentation for building responsive web pages with unique component 
+    functionalities. The subcomponents offer better control over accessing 
+    and editing markup, and an auto-controlled state enables better utilization 
+    of components.</p>
     <b>Features and benefits:</b>
     <ul>
-	  <li>Easy accessibility for users with disabilities</li>
+      <li>Easy accessibility for users with disabilities</li>
       <li>Offers cross-browser compatibility</li>
       <li>Has a powerful theming system</li>
       <li>Focused on creating human-friendly user interfaces</li>
@@ -3537,18 +3532,18 @@ The number of hours this saves from the development process can be enormous.</p>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#materialui">Material UI</a> --</h4>
     <p>Material UI (MUI) includes pre-built material components and themes for 
-	designing user interface elements with React. Material UI has tools for navigation, 
-	sliders and drop-down menus, and a lot more customizable component. The MUI elements 
-	adhere to the Google Material Design standards that improve the application speed.<br>
+    designing user interface elements with React. Material UI has tools for navigation, 
+    sliders and drop-down menus, and a lot more customizable component. The MUI elements 
+    adhere to the Google Material Design standards that improve the application speed.<br>
     The Material UI offers many tools and APIs for assisting native mobile app development. 
-	MUI features automatic color changes and interoperability between styling components 
-	and CSS-based modules.<br>
+    MUI features automatic color changes and interoperability between styling components 
+    and CSS-based modules.<br>
     Also, read: <a href="https://www.turing.com/resources/how-to-find-and-hire-best-react-native-developers">
-	How to Successfully Find and Hire the Best React Native Developer in 2023</a><br>
+    How to Successfully Find and Hire the Best React Native Developer in 2023</a><br>
     A large community of active front-end developers prefers MUI over other frameworks. 
-	The framework aids <a href="https://www.turing.com/jobs/remote-software-developer">
-	software developers</a> to deal with the documentation and clear out their concerns 
-	and doubts.</p>
+    The framework aids <a href="https://www.turing.com/jobs/remote-software-developer">
+    software developers</a> to deal with the documentation and clear out their concerns 
+    and doubts.</p>
     <b>Features and benefits:</b>
     <ul>
       <li>Customizable and reusable components</li>
@@ -3578,16 +3573,16 @@ The number of hours this saves from the development process can be enormous.</p>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#blueprint">Blueprint UI</a> --</h4>
     <p>Yet another popular mention in this list of best React frameworks is Blueprint 
-	  UI. This is a well-known CSS-based React framework for the front-end development of 
-	  computer apps.<br>
+      UI. This is a well-known CSS-based React framework for the front-end development of 
+      computer apps.<br>
       Blueprint UI is best suited for designing UIs for complex and data-intensive 
-	  web pages. Blueprint UI has a CSS library of 30 components with options for 
-	  minimal scripting and coding.<br>
+      web pages. Blueprint UI has a CSS library of 30 components with options for 
+      minimal scripting and coding.<br>
       Blueprint UI boasts of a multi-touch interface that's easy to use, intuitive, 
-	  and great for developing websites and applications efficiently. This React 
-	  framework also includes core components with distinct components for selection, 
-	  date-time, tables, icons, and more. Blueprint UI has dark and light-themed modes 
-	  and customizable design elements like classes, typography, and color scheme.</p>
+      and great for developing websites and applications efficiently. This React 
+      framework also includes core components with distinct components for selection, 
+      date-time, tables, icons, and more. Blueprint UI has dark and light-themed modes 
+      and customizable design elements like classes, typography, and color scheme.</p>
     <b>Features and benefits:</b>
     <ul>
       <li>Offers a seamless user experience</li>
@@ -3595,18 +3590,18 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Provides a comprehensive set of reusable components, such as buttons, 
         forms, and navigation menus</li>
       <li>Offers cross-browser compatibility</li>
-	</ul>
+    </ul>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#grommet">Grommet</a> --</h4>
     <p>HPE developed Grommet as a CSS framework for React with component packages 
       for building responsive and intuitive mobile websites. Grommet offers a dynamic 
-	  and vibrant layout, great accessibility, catchy themes, modularity, as well as 
-	  simplicity. Grommet can be integrated into existing projects or used to create 
-	  new ones with advanced themes.<br>
+      and vibrant layout, great accessibility, catchy themes, modularity, as well as 
+      simplicity. Grommet can be integrated into existing projects or used to create 
+      new ones with advanced themes.<br>
       Grommet has an icon component with a massive bank of SVG icons to aid front-
-	  end development. The Grommet library also offers components for customizing 
-	  UIs with utilities, media options, input visualization, layouts, and colors, 
-	  as well as controls.</p>
+      end development. The Grommet library also offers components for customizing 
+      UIs with utilities, media options, input visualization, layouts, and colors, 
+      as well as controls.</p>
     <b>Features and benefits:</b>
     <ul>
       <li>Out-of-the-box support for disabled users (W3C support)</li>
@@ -3614,25 +3609,25 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Flexible and modular design</li>
       <li>Design-focused approach</li>
       <li>Provides responsive components</li>
-	</ul>
+    </ul>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#ant">Ant Design</a> --</h4>
     <p>This list of the best React frameworks would be incomplete without Ant
       Design. Ant Design is a CSS framework for React that developers extensively 
-	  use to create appealing UI components. Ant Design offers an expansive design 
-	  library for front-end development and a GUI design for client development. 
-	  The framework's design elements are simple to integrate, and its components 
-	  can be directly used with React.<br>
+      use to create appealing UI components. Ant Design offers an expansive design 
+      library for front-end development and a GUI design for client development. 
+      The framework's design elements are simple to integrate, and its components 
+      can be directly used with React.<br>
       Ant Design has many customizable themes, design elements, and development tools.<br>
       The Ant Design library has more than 50 components and helps design UIs for 
-	  enterprise-grade applications. More than 100 companies use Ant Design for their 
-	  projects, thanks to its flexible design and features.</p>
+      enterprise-grade applications. More than 100 companies use Ant Design for their 
+      projects, thanks to its flexible design and features.</p>
     <b>Features and benefits:</b>
     <ul>
       <li>Multi-language support to ease building applications for a global audience</li>
       <li>Provides developer-friendly API</li>
       <li>Responsive components can automatically adjust their size, layout, and style 
-	    based on the device and screen size of the user.</li>
+        based on the device and screen size of the user.</li>
       <li>Offers TypeScript support</li>
       <li>Powerful theming system</li>
     </ul>
@@ -3640,12 +3635,12 @@ The number of hours this saves from the development process can be enormous.</p>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#chakra">Chakra UI</a> --</h4>
     <p>Next up on our React JS framework list is Chakra, a React component library 
       that requires less time for writing code. The Chakra UI enables faster development 
-	  and offers accessible, modular, and flexible UI components for building applications.<br>
+      and offers accessible, modular, and flexible UI components for building applications.<br>
       Chakra UI enables React developers to create newer components efficiently. In Chakra UI, 
-	  the components are customizable, reusable, and adhere to the WAI-ARIA standards.<br>
+      the components are customizable, reusable, and adhere to the WAI-ARIA standards.<br>
       With dark and light UI options, themes, and 49+ components, Chakra UI includes various 
-	  inputs, accordions, tips, and icons. Though the Chakra UI library is new, the community 
-	  is active in resolving doubts.</p>
+      inputs, accordions, tips, and icons. Though the Chakra UI library is new, the community 
+      is active in resolving doubts.</p>
     <b>Features and benefits:</b>
     <ul>
       <li>Offers accessibility for users with disabilities</li>
@@ -3658,13 +3653,13 @@ The number of hours this saves from the development process can be enormous.</p>
     <p>The Microsoft team developed the Fabric React UI library (so you know
       it's a real piece of dog shit), and later it was renamed Fluent UI.
       The components and graphics resemble MS Office products and share compatibility 
-	  with OneNote, Azure DevOps, Office 365, and more. The default settings of Fluent 
-	  UI are suitable for most projects.<br>
+      with OneNote, Azure DevOps, Office 365, and more. The default settings of Fluent 
+      UI are suitable for most projects.<br>
       Fluent UI contains pre-built components like inputs, notifications, menus, 
-	  and more for developing applications.<br>
+      and more for developing applications.<br>
       In Fluent UI, the components are customizable and offer a straightforward 
-	  approach to web development. The Fluent UI library also offers cross-platform 
-	  compatibility, supporting desktop, Android, and iOS devices.</p>
+      approach to web development. The Fluent UI library also offers cross-platform 
+      compatibility, supporting desktop, Android, and iOS devices.</p>
   <b>Features and benefits:</b>
     <ul>
       <li>Fluent UI React library makes integration easy into your React applications</li>
@@ -3676,21 +3671,21 @@ The number of hours this saves from the development process can be enormous.</p>
   </li>
   <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#evergreen">Evergreen</a> --</h4>
     <p>Segment developed the Evergreen React UI framework with 30+ components. The 
-	components are built on top of the primitive React UI, with commonly usable 
-	patterns. The default and classic themes combined with the Evergreen Figma 
-	library make it easy to create components in CSS.<br>
+    components are built on top of the primitive React UI, with commonly usable 
+    patterns. The default and classic themes combined with the Evergreen Figma 
+    library make it easy to create components in CSS.<br>
     As a CSS library for React, Evergreen contains a collection of React modules 
-	with React Primitive. Also, Evergreen v6  hosts an updated theme API for better 
-	customization and accessibility. The Evergreen library is easy to edit, contributor-
-	friendly, and offers flexibility for creating UIs.</p>
+    with React Primitive. Also, Evergreen v6  hosts an updated theme API for better 
+    customization and accessibility. The Evergreen library is easy to edit, contributor-
+    friendly, and offers flexibility for creating UIs.</p>
     <b>Features and benefits:</b>
     <ul>
       <li>Server-side-rendering (SSR) offered out of the box</li>
       <li>Provides dynamic form components</li>
       <li>The smart algorithm automatically handles spacing and alignment between 
-	    the components</li>
+        the components</li>
       <li>Has a solid and active community support</li>
-	</ul>
+    </ul>
   </li>
 </ul>
 
@@ -3794,10 +3789,10 @@ just to add some visual appeal.
   <li><a href="https://jqueryui.com/effect/">Effect</a></li>
   <li>Visibility
     <ul>
-	  <li><a href="https://jqueryui.com/show/">Show</a></li>
+      <li><a href="https://jqueryui.com/show/">Show</a></li>
       <li><a href="https://jqueryui.com/hide/">Hide</a></li>
       <li><a href="https://jqueryui.com/toggle/">Toggle</a></li>
-	</ul>
+    </ul>
   </li>
   <li>Class Animation
     <ul>
@@ -3806,7 +3801,7 @@ just to add some visual appeal.
       <li><a href="https://jqueryui.com/toggleClass/">Toggle Class</a></li>
       <li><a href="https://jqueryui.com/switchClass/">Switch Class</a></li>
     </ul>
-	</li>
+    </li>
   <li><a href="https://jqueryui.com/animate/">Color Animation</a></li>
 </ul>
 
@@ -3981,13 +3976,15 @@ CDN links</a>.
 
 ```
 <script
-src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
-integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
-crossorigin="anonymous"></script>
+  src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+    integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+    crossorigin="anonymous">
+</script>
 <script
-src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
-integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
-crossorigin="anonymous"></script>
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+    integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+    crossorigin="anonymous">
+</script>
 ```
 
 </details>
@@ -4351,23 +4348,22 @@ Which is ideal for fast front-end development. Here is an example:
 
 ```
 <script lang="typescript">
-export let name = 'Svelte';
-export let textColor = '#000';
-function reset() {
-name = 'Svelte';
-textColor = '#000';
-}
+  export let name = 'Svelte';
+  export let textColor = '#000';
+  function reset() {
+  name = 'Svelte';
+  textColor = '#000';
+  }
 </script>
-<h1 style="color: {textColor}" on:dblclick={reset}>Hello,
-{name}!</h1>
+<h1 style="color: {textColor}" on:dblclick={reset}>Hello, {name}!</h1>
 <style>
-h1 {
-margin: auto;
-font-family: Georgia, system-ui;
-font-size: 3rem;
-font-weight: regular;
-text-align: none;
-}
+  h1 {
+    margin: auto;
+    font-family: Georgia, system-ui;
+    font-size: 3rem;
+    font-weight: regular;
+    text-align: none;
+  }
 </style>
 ```
 
@@ -5664,22 +5660,23 @@ and you don&apos;t want to go around and overwrite them later.
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,
-initial-scale=1">
-<title>Bootstrap demo</title>
-<link
-href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
-rel="stylesheet"
-integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
-crossorigin="anonymous">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,
+    initial-scale=1">
+  <title>Bootstrap demo</title>
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+    crossorigin="anonymous">
 </head>
 <body>
-<h1>Hello, world!</h1>
-<script
-src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
-crossorigin="anonymous"></script>
+  <h1>Hello, world!</h1>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+    crossorigin="anonymous">
+  </script>
 </body>
 </html>
 ```
@@ -5904,37 +5901,36 @@ practice, and you write some code again. Thanks.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width,
-initial-scale=1">
-<!-- The above 3 meta tags *must* come first in the head; any other
-head content must come *after* these tags -->
-<title>Bootstrap 101 Template</title>
-<!-- Bootstrap -->
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet"
-href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
-integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
-crossorigin="anonymous">
-<!-- Latest compiled and minified JavaScript -->
-<script
-src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
-crossorigin="anonymous"></script>
-<!--Include Your Style Sheets next -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,
+    initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other
+  head content must come *after* these tags -->
+  <title>Bootstrap 101 Template</title>
+  <!-- bootstrap -->
+  <!-- latest compiled and minified css -->
+  <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+    crossorigin="anonymous">
+  <!-- latest compiled and minified javascript -->
+  <script
+    src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+    integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+    crossorigin="anonymous"></script>
+  <!--include Your style sheets next -->
 </head>
 <body>
-<h1>Hello, world!</h1>
-How are you?
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script
-src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files
-as needed -->
-<script src="js/bootstrap.min.js"></script>
-<!-- If you don't have the files saved locally, make sure to link it
-in CodePen, just like you linked the CSS. -->
+  <h1>Hello, world!</h1>
+    How are you?
+  <!-- jquery (necessary for bootstrap's javascript plugins) -->
+  <script
+    src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <!-- include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- if you don't have the files saved locally, make sure to link it
+    in codepen, just like you linked the css. -->
 </body>
 </html>
 ```
@@ -6684,32 +6680,29 @@ luck.
   
 ```
 <div class = "container">
-<div class="row">
-<div class="col-md-6 col-lg-3">
-<div class="visible-xs visible-sm">Extra Small and Small
-Screen</div>
-<div class="visible-md">Medium Screen</div>
-<div class="visible-lg">Large Screen</div>
-</div>
-<div class="col-md-6 col-lg-3">
-<div class="visible-xs visible-sm">Extra Small and Small
-Screen</div>
-<div class="visible-md">Medium Screen</div>
-<div class="visible-lg">Large Screen</div>
-</div>
-<div class="col-md-6 col-lg-3">
-<div class="visible-xs visible-sm">Extra Small and Small
-Screen</div>
-<div class="visible-md">Medium Screen</div>
-<div class="visible-lg">Large Screen</div>
-</div>
-<div class="col-md-6 col-lg-3">
-<div class="visible-xs visible-sm">Extra Small and Small
-Screen</div>
-<div class="visible-md">Medium Screen</div>
-<div class="visible-lg">Large Screen</div>
-</div>
-</div>
+  <div class="row">
+    <div class="col-md-6 col-lg-3">
+      <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+      <div class="visible-md">Medium Screen</div>
+      <div class="visible-lg">Large Screen</div>
+    </div>
+    <div class="col-md-6 col-lg-3">
+      <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+      <div class="visible-md">Medium Screen</div>
+      <div class="visible-lg">Large Screen</div>
+    </div>
+    <div class="col-md-6 col-lg-3">
+      <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+      <div class="visible-md">Medium Screen</div>
+      <div class="visible-lg">Large Screen</div>
+    </div>
+    <div class="col-md-6 col-lg-3">
+      <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+      <div class="visible-md">Medium Screen</div>
+      <div class="visible-lg">Large Screen</div>
+    </div>
+  </div>  /* class="row" */
+</div>  /* class="container" */
 ```
 
 </details>
@@ -6721,20 +6714,20 @@ Screen</div>
 
 ```
 div{
-font-size:140%;
+  font-size:140%;
 }
 div[class^="visible"]{
-border: 1px solid black;
-margin-top:3%;
+  border: 1px solid black;
+  margin-top:3%;
 }
 div[class$=lg]{
-color:red;
+  color:red;
 }
 div[class$=md]{
-color:blue;
+  color:blue;
 }
 div[class$=sm]{
-color:green;
+  color:green;
 }
 ```
 
@@ -6947,8 +6940,9 @@ code to jQuery. So, let's go ahead and take a look at what we can do.
 
 <!-- jquery (necessary for bootstrap's javaScript plugins) -->
 <script
-src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- include all compiled plugins (below), or include individual files as needed -->
+  src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+</script>
+  <!-- include all compiled plugins (below), or include individual files as needed -->
 ```
 
 </details>
@@ -7435,10 +7429,10 @@ anything like that.
 
 ```
 Div {
-Width: 50%;
+  Width: 50%;
 }
 Img {
-Width: 75%;
+  Width: 75%;
 }
 ```
 
@@ -7615,18 +7609,19 @@ part is to get as much experience and practice as possible.
 
 <h4>RD-Responsive Images:</h4>
 
-```<div>
+```
+<div>
   <img src =
     "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg"
     class="img-responsive img-thumbnail">
 </div>
-<!-- responsive, rounded, circle, thumbnail -->```
+<!-- responsive, rounded, circle, thumbnail -->
+```
 
 <h4>RD-Responsive Image Thumbnails:</h4>
 
 <details>
   <summary>HTML - RD: Responsive Image Thumbnails</summary>
-
 ```
 <div class = "container">
 <div class = "row">
@@ -8965,7 +8960,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 11-04-2023 9:23pm -->
+<!-- 11-08-2023 1:34pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
