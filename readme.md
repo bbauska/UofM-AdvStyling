@@ -1347,7 +1347,7 @@ lot of things embedded inside the other.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 39. relative measurements, #3 again (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image39..webp?raw=true"
+<img src="./images/image039.webp?raw=true"
   style="width:40%"
   alt="Relative measurements, #3." />
 <!-- ![](images/image039.webp){width="4.0in" height="2.2376071741032373in"} -->
