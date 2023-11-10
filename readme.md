@@ -4403,7 +4403,7 @@ Which is ideal for fast front-end development. Here is an example:
 <!-- {width="1.3352110673665791in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. preact front-end framework (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image130.webp?raw=true"
+<img src="./images/image140.webp?raw=true"
   style="width:50%"
   alt="Preact front-end framework." />
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
@@ -4446,7 +4446,7 @@ stability.
 <!-- {width="2.2679429133858267in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image133.webp?raw=true"
+<img src="./images/image143.webp?raw=true"
   style="width:10%"
   alt="Ember logo - single color." />
 <!-- {width="0.8893055555555556in" height="1.0in"} -->
@@ -4578,33 +4578,23 @@ implements standardized web components.
 <img src="./images/image152.webp?raw=true"
   style="width:20%"
   alt="Alpine JS logo." />
-<!-- {width="1.9736843832020998in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image153.webp?raw=true"
-  style="width:10%"
+  style="width:20%"
   alt="Alpine JS logo." />
-<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image154.webp?raw=true"
   style="width:30%"
   alt="Alpine JS logo." />
-<!-- {width="3.0in" height="0.5696205161854768in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image155.webp?raw=true"
-  style="width:30%"
-  alt="Alpine JS logo." />
-<!-- {width="3.0in" height="1.9746839457567804in"} -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 155. alpine front-end framework logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
 <img src="./images/image155.webp?raw=true"
   style="width:50%"
   alt="Alpine JS logo." />
-<!--{width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Alpine.js is a JavaScript front-end framework for customizing UI
@@ -4619,10 +4609,10 @@ app design and want to add interactive menu dropdowns. Using React for
 basic interactive functionality is overkill.
 
 Think of Alpine as the means to optimize your server-side web
-frameworks. In fact, <a href="https://news.ycombinator.com/item?id=22291523">the author himself
+frameworks. In fact, <a href="https://news.ycombinator.com/item?id=22291523" target="_blank">the author himself
 emphasizes</a> that Alpine yields a lot of its inspiration from frameworks like Laravel, Django,
 etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style features to 
-<a href="https://stackdiary.com/static-site-generators/ Jekyll">static site generators:</a> Hugo, etc.
+<a href="https://stackdiary.com/static-site-generators/ Jekyll" target="_blank">static site generators:</a> Hugo, etc.
 
 <a href="https://alpinejs.dev/" target="_blank">AlpineJS Website</a><br>
 <a href="https://github.com/alpinejs/alpine" target="_blank">AlpineJS GitHub</a>
@@ -4979,7 +4969,7 @@ his <a href="https://www.gatsbyjs.com/why-gatsby" target="_blank">website</a>.
 
 <h2 name="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. means stack framework (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. mean stack framework (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image182.webp?raw=true"
   style="width:40%"
@@ -5007,13 +4997,13 @@ popular technology concepts for building web applications.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image184.webp?raw=true"
+<img src="./images/image183.webp?raw=true"
   style="width:20%"
   alt="Aurelia logo." />
 <!-- {width="1.5in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image185.webp?raw=true"
+<img src="./images/image184.webp?raw=true"
   style="width:30%"
   alt="Aurelia logo." />
 <!-- {width="3.0in" height="1.077244094488189in"} -->
@@ -5093,13 +5083,11 @@ features for building robust web applications.
 <img src="./images/image192.webp?raw=true"
   style="width:30%"
   alt="Riot.js logo." />
-<!-- {width="3.0in" height="1.4285258092738409in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. riot.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image193.webp?raw=true"
   style="width:30%"
   alt="Riot.js logo." />
-<!-- {width="3.0in" height="2.565064523184602in"} -->
 </p>
 
 Riot.js is a lightweight and intuitive JavaScript framework for building
@@ -5136,19 +5124,16 @@ applications by enhancing existing HTML elements with behavior.</p>
 <img src="./images/image196.webp?raw=true"
   style="width:25%"
   alt="Tailwind logo." />
-<!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image197.webp?raw=true"
   style="width:25%"
   alt="Tailwind logo." />
-<!-- {width="2.0in" height="1.125in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image198.webp?raw=true"
   style="width:25%"
   alt="Tailwind logo." />
-<!-- {width="2.0in" height="1.2320002187226597in"} -->
 </p>
 
 Tailwind CSS is a popular utility-first CSS framework that provides a
@@ -5180,7 +5165,7 @@ and reusable elements.
 
 <h2 name="ch32">32 - &lt;even more libraries/frameworks to come&gt;</h2>
 
-<h2 name="ch33">33 - &lt;even more libraries/frameworks to come&gt;</h2>
+<h2 name="ch33">33 - &lt;even more to come libraries/frameworks to come&gt;</h2>
 
 <h2>Front-end Frameworks: A Summary</h2>
 
@@ -5208,7 +5193,7 @@ pure JavaScript, but it can get messy when the codebase becomes too
 large. On the other hand, frameworks provide a disciplined approach, but
 they can also take time away from fundamental skills.
 
-So, in conclusion, the front-end world is facing some challenges, but
+In conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5219,7 +5204,6 @@ on practical skills rather than just trendy technologies.
 <img src="./images/image201.webp?raw=true"
   style="width:40%"
   alt="Twitter bootstrap - what is it?" />
-<!-- {width="4.0in" height="2.24957239720035in"} -->
 </p>
 
 Today we&apos;re going to talk about Bootstrap.
@@ -5245,7 +5229,7 @@ Today we&apos;re going to talk about Bootstrap.
     that were made with Bootstrap.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. who is it? (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. who uses is it? (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image202.webp?raw=true"
   style="width:40%"
