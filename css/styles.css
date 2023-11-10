@@ -150,6 +150,12 @@ p {
   text-align: left;
   margin-left: 15px;
 }
+p#mediasize {
+  font-size: 15px;
+}
+p#mediasize span {
+  font-size: 10px;
+}
 
 ul li { 
   padding: 10px;
