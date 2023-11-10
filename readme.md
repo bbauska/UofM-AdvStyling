@@ -216,7 +216,7 @@ section to view them.
 <p align="center" width="100%">
 <img src="./images/image004.webp?raw=true"
   style="width:65%"
-  alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0" />
+  alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0"  target="_blank"/>
 </p>
 <!-- "width:6.5in height:4.603945756780402in" -->
 
@@ -412,7 +412,7 @@ in this course.
 
 <h2 name="chb-4">b-4. Pixel to Em conversion tool</h2>
 
-<a href="http://pxtoem.com">Pixel to Em Conversion Tool:</a>
+<a href="http://pxtoem.com" target="_blank">Pixel to Em Conversion Tool:</a>
 
 &lt;http://pxtoem.com/&gt;
 
@@ -2832,7 +2832,7 @@ make sure to post questions if you run into trouble.
 <h2 name="chb-6">b-6. Good examples of responsive design</h2>
 
 The following is a link to good examples of 
-<a href="http://www.awwwards.com/50-examples-of-responsive-web-design.html">
+<a href="http://www.awwwards.com/50-examples-of-responsive-web-design.html" target="_blank">
 responsive design:</a>
 
 <http://www.awwwards.com/50-examples-of-responsive-web-design.html>
@@ -3202,8 +3202,8 @@ As for stack, it&apos;s the combination of tools you&apos;re using. JAMstack can
 be used with any framework and service combination, so as long as it
 follows the JAM structure.
 
-<b><i>Learn more:</i> <a href="https://jamstack.org/">Jamstack.org</a> // 
-<a href="https://jamstack.wtf/">WTF is Jamstack?</a></b>
+<b><i>Learn more:</i> <a href="https://jamstack.org/" target="_blank">Jamstack.org</a> // 
+<a href="https://jamstack.wtf/" target="_blank">WTF is Jamstack?</a></b>
 
 <h2>Top Front-end Frameworks & Libraries for 2023</h2>
 
@@ -3226,19 +3226,19 @@ section.
 <h4>You can use JavaScript libraries for:</h4>
 <ul>
   <li>Data Visualization in Maps and Charts<br>
-    <p><a href="https://kinsta.com/blog/data-visualization-tools/">Data Visualization</a> in 
+    <p><a href="https://kinsta.com/blog/data-visualization-tools/" target="_blank">Data Visualization</a> in 
       applications is crucial for users to view the statistics clearly in the admin panel, 
       dashboards, performance metrics, and more.<br>
-      Presenting these <a href="https://kinsta.com/blog/wordpress-charts/">
+      Presenting these <a href="https://kinsta.com/blog/wordpress-charts/" target="_blank">
       data in charts and maps</a> helps you analyze that data easily and make informed 
       business decisions.</p>
     <i>Examples: Chart.js, Apexcharts, Algolia Places</i>
   </li>
   <li>DOM Manipulation<br>
-    <p><a href="https://kinsta.com/blog/critical-rendering-path/#the-dom">Document Object Model (DOM)</a> 
+    <p><a href="https://kinsta.com/blog/critical-rendering-path/#the-dom" target="_blank">Document Object Model (DOM)</a> 
       represents a web page (a document) as objects and nodes that you can modify using JavaScript. 
       You can change its content, style, and structure.</p>
-    <i>Examples: <a href="https://kinsta.com/knowledgebase/what-is-jquery/">jQuery</a>, Umbrella JS</i>
+    <i>Examples: <a href="https://kinsta.com/knowledgebase/what-is-jquery/" target="_blank">jQuery</a>, Umbrella JS</i>
   </li>
   <li>Data Handling<br>
     <p>With the enormous amounts of data that businesses now deal with daily, handling 
@@ -3247,19 +3247,19 @@ section.
     <i>Examples: D3.js</i>
   </li>
   <li>Database<br>
-    <p><a href="https://kinsta.com/blog/adminer/">Effective database management</a> is
+    <p><a href="https://kinsta.com/blog/adminer/" target="_blank">Effective database management</a> is
       necessary to read, create, delete, edit, and sort data. You can also use sophisticated 
       queries, auto-create tables, synchronize and validate data, and much more.</p>
     <i>Examples: TaffyDB, ActiveRecord.js</i>
   </li>
   <li>Forms<br>
-    <p>Use JS libraries to <a href="https://kinsta.com/blog/wordpress-contact-form-plugins/">
+    <p>Use JS libraries to <a href="https://kinsta.com/blog/wordpress-contact-form-plugins/" target="_blank">
       simplify form functions</a>, including form validation, synchronization, handling, 
       conditional capabilities, field controls, transforming layouts, and more.</p>
     <i>Examples: wForms, LiveValidation, Validanguage, qForms</i>
   </li>
   <li>Animations<br>
-    <p><a href="https://kinsta.com/blog/wordpress-gifs/">People love animations</a>, and
+    <p><a href="https://kinsta.com/blog/wordpress-gifs/" target="_blank">People love animations</a>, and
       you can leverage them to make your web page interactive and more engaging. Adding 
       micro-interactions and animations is easy by using JavaScript libraries.</p>
     <i>Examples: Anime.js, JSTweener</i>
@@ -3271,7 +3271,7 @@ section.
     <i>Examples: ImageFX, Reflection.js</i>
   </li>
   <li>Fonts<br>
-    <p>Users can incorporate <a href="https://kinsta.com/blog/modern-fonts/">any 
+    <p>Users can incorporate <a href="https://kinsta.com/blog/modern-fonts/" target="_blank">any 
     font they wish</a> to make their web page more compelling based on the 
     content type.</p>
     <i>Examples: typeface.js</i>
@@ -3285,7 +3285,7 @@ section.
     <i>Examples: Date.js, Sylvester, JavaScript URL Library</i>
   </li>
   <li>User Interface and Its Components<br>
-    <p>You can provide a <a href="https://kinsta.com/blog/website-usability-testing/">
+    <p>You can provide a <a href="https://kinsta.com/blog/website-usability-testing/" target="_blank">
       better user experience</a> via web pages by making them more responsive and 
       dynamic, decreasing the number of DOM operations, boosting page speed, and 
       so forth.</p>
@@ -3333,7 +3333,7 @@ GitHub and the framework&apos;s website.</p>
 </p>
 <!-- {width="5.0in" height="0.9145297462817148in"} -->
 
-<p><a href="https://reactjs.org/">React.js</a> (also known as ReactJS or React) is an
+<p><a href="https://reactjs.org/" target="_blank">React.js</a> (also known as ReactJS or React) is an
 open-source, front-end JavaScript library. It was created in 2013 by Jordan Walke, 
 who works at Facebook as a software engineer.</p>
 
@@ -3344,18 +3344,18 @@ more accessible across teams.</p>
 
 <p>While the learning curve for React is moderately forgiving, the accessibility of 
 tooling makes the process manageable. Namely, 
-<a href="https://github.com/facebook/create-react-app">create-react-app</a> 
+<a href="https://github.com/facebook/create-react-app" target="_blank">create-react-app</a> 
 automates the build process for an application boilerplate. And then there
-are <a href="https://www.npmjs.com/package/react-devtools">React DevTools</a>, 
+are <a href="https://www.npmjs.com/package/react-devtools" target="_blank">React DevTools</a>, 
 providing an accessible debugging experience from the browser.</p>
 <p>Thanks to the mass adoption of React, front-end developers can enjoy
 getting their hands on many open-source projects. For example, more than
 a dozen full-scale design systems are 
-<a href="https://stackdiary.com/react-component-libraries/">built for React</a>. 
+<a href="https://stackdiary.com/react-component-libraries/" target="_blank">built for React</a>. 
 The number of hours this saves from the development process can be enormous.</p>
 
-<a href="https://reactjs.org/">React Website</a><br>
-<a href="https://github.com/facebook/react/">React GitHub</a>
+<a href="https://reactjs.org/" target="_blank">React Website</a><br>
+<a href="https://github.com/facebook/react/" target="_blank">React GitHub</a>
 
 <h3>17 React UI Frameworks</h3>
 
@@ -3369,7 +3369,7 @@ The number of hours this saves from the development process can be enormous.</p>
     focus on building your application instead of spending time with configuration.
     Whether you&apos;re an individual developer or part of a larger team,
     Next.js can help you build interactive, dynamic, and fast React applications.</p></li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#material">Material Kit React</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#material" target="_blank">Material Kit React</a> --</h4>
     <p>This feature enables you to maintain a similarity of appearance and functions 
     in your project throughout. The layout is like that of multiple sheets of paper, 
     giving it depth and order.<br>
@@ -3381,8 +3381,8 @@ The number of hours this saves from the development process can be enormous.</p>
     carousels. You can not only use the Kit to start a new project but also restyle 
     any old Bootstrap project. What's more, the Material Kit React Pro version comes 
     equipped with several other components, sections, and example pages.</p></li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook">Storybook</a> --</h4>
-    <p>It is more like an <a href="https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/">open-source tool</a> 
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#storybook" target="_blank">Storybook</a> --</h4>
+    <p>It is more like an <a href="https://www.turing.com/blog/7-popular-open-source-tools-to-checkout-in-2022/" target="_blank">open-source tool</a> 
     that is used for building UI components in isolation for React and several other 
     platforms and technologies. What's unique about Storybook? It enables you to 
     work on a single component at a given time, making the development process a lot
@@ -3406,7 +3406,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Clean and efficient UI</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#boostrap">React Bootstrap</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#boostrap" target="_blank">React Bootstrap</a> --</h4>
   <p>A significant feature of React Bootstrap CSS is compatibility, i.e., Bootstrap 
   core compatibility and the world's largest UI ecosystem compatibility. The framework 
   has great compatibility with the hundreds of Bootstrap themes used by developers 
@@ -3422,7 +3422,7 @@ The number of hours this saves from the development process can be enormous.</p>
   interface. This is because the use of reducers and actions replicates
   a front-end environment. And so, developers will need to alter their
   code or refer to the UI's documentation to get used to it.</p></li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#admin">React Admin</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#admin" target="_blank">React Admin</a> --</h4>
     <p>React Admin is great for creating business-to-business i.e., B2B admin
     applications on top of REST/GraphQL APIs. This framework is customizable by design.
     This React UI framework is made up of several popular projects along with React: 
@@ -3445,7 +3445,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Multiple layout options such as simple, tabbed, etc.</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#toolbox">React Toolbox</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#toolbox" target="_blank">React Toolbox</a> --</h4>
     <p>React Toolbox is a React UI components library. This library can be used
     to implement Google's Material Design principles in projects. React Toolbox uses 
     CSS modules for this implementation. Although you can utilize any module bundler, 
@@ -3467,7 +3467,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Provides a set of components that are pre-built and customizable</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized">React Virtualized</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#virtualized" target="_blank">React Virtualized</a> --</h4>
     <p>If you are working on an application that is data-heavy in the front end, 
     React Virtualized should be your choice. Virtualized has a set of reusable, 
     lightweight components that can render large datasets efficiently.<br>
@@ -3488,13 +3488,13 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Virtualization allows it to only render elements that are on the screen</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#router">React Router</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#router" target="_blank">React Router</a> --</h4>
   <p>React Router is a popular compact library for React. It allows developers to 
   build single-page applications with dynamic, client-side routing. React Router 
   is designed to work seamlessly with React, and it allows developers to declaratively 
   define the routes of their applications using JSX. This makes it easy to create 
   complex and hierarchical navigational structures within a single-page application.<br>
-  One of the key benefits of using React Router is its ability to perform <a href="https://www.turing.com/kb/how-to-split-bundle-using-code-splitting-in-reactjs">
+  One of the key benefits of using React Router is its ability to perform <a href="https://www.turing.com/kb/how-to-split-bundle-using-code-splitting-in-reactjs" target="_blank">
   code splitting</a>, which allows developers to load only the necessary components 
   for a given route, reducing the initial loading time of the application and 
   improving performance.<br>
@@ -3509,7 +3509,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Virtualization allows it to only render elements that are on the screen</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#semantic">Semantic UI</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#semantic" target="_blank">Semantic UI</a> --</h4>
     <p>Semantic UI integrates with React to offer a customized library of user interface 
     components. Semantic UI does not have the virtual DOM, as it is independent of jQuery 
     methods. The Semantic UI React library offers several customizable elements for 
@@ -3530,7 +3530,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>3000+ CSS variables available</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#materialui">Material UI</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#materialui" target="_blank">Material UI</a> --</h4>
     <p>Material UI (MUI) includes pre-built material components and themes for 
     designing user interface elements with React. Material UI has tools for navigation, 
     sliders and drop-down menus, and a lot more customizable component. The MUI elements 
@@ -3538,10 +3538,10 @@ The number of hours this saves from the development process can be enormous.</p>
     The Material UI offers many tools and APIs for assisting native mobile app development. 
     MUI features automatic color changes and interoperability between styling components 
     and CSS-based modules.<br>
-    Also, read: <a href="https://www.turing.com/resources/how-to-find-and-hire-best-react-native-developers">
+    Also, read: <a href="https://www.turing.com/resources/how-to-find-and-hire-best-react-native-developers" target="_blank">
     How to Successfully Find and Hire the Best React Native Developer in 2023</a><br>
     A large community of active front-end developers prefers MUI over other frameworks. 
-    The framework aids <a href="https://www.turing.com/jobs/remote-software-developer">
+    The framework aids <a href="https://www.turing.com/jobs/remote-software-developer" target="_blank">
     software developers</a> to deal with the documentation and clear out their concerns 
     and doubts.</p>
     <b>Features and benefits:</b>
@@ -3552,7 +3552,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>A large and active community of developers</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#redux">React Redux</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#redux" target="_blank">React Redux</a> --</h4>
     <p>React Redux is a predictable component library with a simple interface
       and solid code-testing capabilities. When developers enter the values
       for the components, the interface fetches, updates, and apprises the
@@ -3571,7 +3571,7 @@ The number of hours this saves from the development process can be enormous.</p>
      <li>Simplified application architecture</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#blueprint">Blueprint UI</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#blueprint" target="_blank">Blueprint UI</a> --</h4>
     <p>Yet another popular mention in this list of best React frameworks is Blueprint 
       UI. This is a well-known CSS-based React framework for the front-end development of 
       computer apps.<br>
@@ -3592,7 +3592,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Offers cross-browser compatibility</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#grommet">Grommet</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#grommet" target="_blank">Grommet</a> --</h4>
     <p>HPE developed Grommet as a CSS framework for React with component packages 
       for building responsive and intuitive mobile websites. Grommet offers a dynamic 
       and vibrant layout, great accessibility, catchy themes, modularity, as well as 
@@ -3611,7 +3611,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Provides responsive components</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#ant">Ant Design</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#ant" target="_blank">Ant Design</a> --</h4>
     <p>This list of the best React frameworks would be incomplete without Ant
       Design. Ant Design is a CSS framework for React that developers extensively 
       use to create appealing UI components. Ant Design offers an expansive design 
@@ -3632,7 +3632,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Powerful theming system</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#chakra">Chakra UI</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#chakra" target="_blank">Chakra UI</a> --</h4>
     <p>Next up on our React JS framework list is Chakra, a React component library 
       that requires less time for writing code. The Chakra UI enables faster development 
       and offers accessible, modular, and flexible UI components for building applications.<br>
@@ -3649,7 +3649,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Uses CSS-in-JS</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#fluent">Fluent UI</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#fluent" target="_blank">Fluent UI</a> --</h4>
     <p>The Microsoft team developed the Fabric React UI library (so you know
       it's a real piece of dog shit), and later it was renamed Fluent UI.
       The components and graphics resemble MS Office products and share compatibility 
@@ -3669,7 +3669,7 @@ The number of hours this saves from the development process can be enormous.</p>
       <li>Offers cross-platform support</li>
     </ul>
   </li>
-  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#evergreen">Evergreen</a> --</h4>
+  <li><h4><a href="https://www.turing.com/blog/react-ui-frameworks-for-developers/#evergreen" target="_blank">Evergreen</a> --</h4>
     <p>Segment developed the Evergreen React UI framework with 30+ components. The 
     components are built on top of the primitive React UI, with commonly usable 
     patterns. The default and classic themes combined with the Evergreen Figma 
@@ -3705,11 +3705,11 @@ Chakra UI, Fluent UI, and Evergreen are also popular UIs.</p>
 </p>
 <!-- {width="2.8854166666666665in" height="1.125in"} -->
 
-<a href="https://jquery.com/">jQuery</a> is a classic JavaScript library that's
+<a href="https://jquery.com/" target="_blank">jQuery</a> is a classic JavaScript library that's
 fast, light-weight, and feature-rich. It was built in 2006 by John Resig
 at BarCamp NYC.
 
-<a href="https://jqueryui.com/">jQuery UI</a>
+<a href="https://jqueryui.com/" target="_blank">jQuery UI</a>
 
 <h4>jQuery API</h4>
 
@@ -3717,11 +3717,11 @@ at BarCamp NYC.
 things like HTML document traversal and manipulation, event handling,
 animation, and Ajax much simpler with an easy-to-use API that works
 across a multitude of browsers. If you&apos;re new to jQuery, we recommend
-that you check out the <a href="https://learn.jquery.com/">jQuery Learning Center</a>.</p>
+that you check out the <a href="https://learn.jquery.com/" target="_blank">jQuery Learning Center</a>.</p>
 
 <h4>jQuery UI</h4>
 
-<a href="https://jqueryui.com/">jQuery UI</a>
+<a href="https://jqueryui.com/" target="_blank">jQuery UI</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107. jquery ui library (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3762,20 +3762,20 @@ support.
 <h4>jQuery UI&apos;s fourteen widgets---</h4>
 
 <ol type="1">
-  <li><a href="https://jqueryui.com/accordion/">Accordion</a>,
-  <li><a href="https://jqueryui.com/autocomplete/">Autocomplete</a>,
-  <li><a href="https://jqueryui.com/button/">Button</a>,
-  <li><a href="https://jqueryui.com/checkboxradio/">Checkboxradio</a>,
-  <li><a href="https://jqueryui.com/controlgroup/">Controlgroup</a>,
-  <li><a href="https://jqueryui.com/datepicker/">Datepicker</a>,
-  <li><a href="https://jqueryui.com/dialog/">Dialog</a>,
-  <li><a href="https://jqueryui.com/menu/">Menu</a>,
-  <li><a href="https://jqueryui.com/progressbar/">Progressbar</a>,
-  <li><a href="https://jqueryui.com/selectmenu/">Selectmenu</a>,
-  <li><a href="https://jqueryui.com/slider/">Slider</a>,
-  <li><a href="https://jqueryui.com/spinner/">Spinner</a>,
-  <li><a href="https://jqueryui.com/tabs/">Tabs</a>, and
-  <li><a href="https://jqueryui.com/tooltip/">Tooltip</a>.
+  <li><a href="https://jqueryui.com/accordion/" target="_blank">Accordion</a>,
+  <li><a href="https://jqueryui.com/autocomplete/" target="_blank">Autocomplete</a>,
+  <li><a href="https://jqueryui.com/button/" target="_blank">Button</a>,
+  <li><a href="https://jqueryui.com/checkboxradio/" target="_blank">Checkboxradio</a>,
+  <li><a href="https://jqueryui.com/controlgroup/" target="_blank">Controlgroup</a>,
+  <li><a href="https://jqueryui.com/datepicker/" target="_blank">Datepicker</a>,
+  <li><a href="https://jqueryui.com/dialog/" target="_blank">Dialog</a>,
+  <li><a href="https://jqueryui.com/menu/" target="_blank">Menu</a>,
+  <li><a href="https://jqueryui.com/progressbar/" target="_blank">Progressbar</a>,
+  <li><a href="https://jqueryui.com/selectmenu/" target="_blank">Selectmenu</a>,
+  <li><a href="https://jqueryui.com/slider/" target="_blank">Slider</a>,
+  <li><a href="https://jqueryui.com/spinner/" target="_blank">Spinner</a>,
+  <li><a href="https://jqueryui.com/tabs/" target="_blank">Tabs</a>, and
+  <li><a href="https://jqueryui.com/tooltip/" target="_blank">Tooltip</a>.
 </ol>
 
 <h4>Effects</h4>
@@ -3786,23 +3786,23 @@ custom effects are available for use when showing and hiding elements or
 just to add some visual appeal.
 
 <ul>
-  <li><a href="https://jqueryui.com/effect/">Effect</a></li>
+  <li><a href="https://jqueryui.com/effect/" target="_blank">Effect</a></li>
   <li>Visibility
     <ul>
-      <li><a href="https://jqueryui.com/show/">Show</a></li>
-      <li><a href="https://jqueryui.com/hide/">Hide</a></li>
-      <li><a href="https://jqueryui.com/toggle/">Toggle</a></li>
+      <li><a href="https://jqueryui.com/show/" target="_blank">Show</a></li>
+      <li><a href="https://jqueryui.com/hide/" target="_blank">Hide</a></li>
+      <li><a href="https://jqueryui.com/toggle/" target="_blank">Toggle</a></li>
     </ul>
   </li>
   <li>Class Animation
     <ul>
-      <li><a href="https://jqueryui.com/addClass/">Add Class</a></li>
-      <li><a href="https://jqueryui.com/removeClass/">Remove Class</a></li>
-      <li><a href="https://jqueryui.com/toggleClass/">Toggle Class</a></li>
-      <li><a href="https://jqueryui.com/switchClass/">Switch Class</a></li>
+      <li><a href="https://jqueryui.com/addClass/" target="_blank">Add Class</a></li>
+      <li><a href="https://jqueryui.com/removeClass/" target="_blank">Remove Class</a></li>
+      <li><a href="https://jqueryui.com/toggleClass/" target="_blank">Toggle Class</a></li>
+      <li><a href="https://jqueryui.com/switchClass/" target="_blank">Switch Class</a></li>
     </ul>
     </li>
-  <li><a href="https://jqueryui.com/animate/">Color Animation</a></li>
+  <li><a href="https://jqueryui.com/animate/" target="_blank">Color Animation</a></li>
 </ul>
 
 <h4>Utilities</h4>
@@ -3810,16 +3810,16 @@ just to add some visual appeal.
 <p>Utilities used by jQuery UI to build interactions and widgets.</p>
 
 <ul>
-  <li><a href="https://jqueryui.com/position/">Position</a>
-  <li><a href="https://jqueryui.com/widget/">Widget Factory</a>
+  <li><a href="https://jqueryui.com/position/" target="_blank">Position</a>
+  <li><a href="https://jqueryui.com/widget/" target="_blank">Widget Factory</a>
 </ul>
 
 <h4>jQuery UI Demos</h4>
 
 <p>jQuery UI offers a combination of interaction, effects, widgets,
 utilities, and themes designed to work well together or on their own.
-Play with the demos, view the source, <a href="https://jqueryui.com/themeroller/">build a
-theme</a>, read the <a href="http://api.jqueryui.com/">API documentation</a> and 
+Play with the demos, view the source, <a href="https://jqueryui.com/themeroller/" target="_blank">build a
+theme</a>, read the <a href="http://api.jqueryui.com/" target="_blank">API documentation</a> and 
 start using jQuery.</p>
 
 <p>Also, jQuery UI is a curated set of user interface interactions,
@@ -3832,10 +3832,10 @@ perfect choice.</p>
 all of our plugins to get you up and running quickly while being
 flexible enough to evolve with your needs and solve a plethora of use
 cases. If you&apos;re new to jQuery UI, check out our 
-<a href="http://learn.jquery.com/jquery-ui/getting-started/">getting started
-guide</a> and <a href="http://learn.jquery.com/jquery-ui/">other tutorials</a>. 
-Play around with the <a href="https://jqueryui.com/demos/">demos</a> and read 
-through the <a href="http://api.jqueryui.com/">API documentation</a> to get 
+<a href="http://learn.jquery.com/jquery-ui/getting-started/" target="_blank">getting started
+guide</a> and <a href="http://learn.jquery.com/jquery-ui/" target="_blank">other tutorials</a>. 
+Play around with the <a href="https://jqueryui.com/demos/" target="_blank">demos</a> and read 
+through the <a href="http://api.jqueryui.com/" target="_blank">API documentation</a> to get 
 an idea of what&apos;s possible.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 108. jquery ui download builder, page 1 (105) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3881,7 +3881,7 @@ the jQuery UI widgets and interactions:
 <script src="jquery-ui.min.js"></script>
 ```
 
-<a href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js">jQuery UI</a>
+<a href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" target="_blank">jQuery UI</a>
 
 Once you&apos;ve included the necessary files, you can add some jQuery widgets to 
 your page. For example, to make a datepicker widget, you&apos;ll add a text input 
@@ -3939,7 +3939,7 @@ anything---from prototype to production---in minutes.
 the &lt;head&gt; for our CSS, and the &lt;script&gt; tag for our JavaScript
 bundle (including Popper for positioning dropdowns, poppers, and
 tooltips) before the closing &lt;/body&gt;. Learn more about our 
-<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links">
+<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links" target="_blank">
 CDN links</a>.
 
 <details>
@@ -4234,8 +4234,8 @@ at the survey data - satisfaction with this framework has also plummeted
 greatly. And the main reason is the learning curve, among personal
 preferences.
 
-<a href="https://angular.io/">Angular Website</a><br>
-<a href="https://github.com/angular/angular">Angular GitHub</a>
+<a href="https://angular.io/" target="_blank">Angular Website</a><br>
+<a href="https://github.com/angular/angular" target="_blank">Angular GitHub</a>
 
 <h2 name="ch10">10 -- VueJS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4284,8 +4284,8 @@ projects due to native tooling, including
 - [CSR](https://bholmes.dev/blog/spas-clientside-routing/), DevTools,
 support for TypeScript, and testing tools.
 
-<a href="https://vuejs.org/">Vue Website</a><br>
-<a href="https://github.com/vuejs">Vue GitHub</a>
+<a href="https://vuejs.org/" target="_blank">Vue Website</a><br>
+<a href="https://github.com/vuejs" target="_blank">Vue GitHub</a>
 
 <h2 name="ch11">11 -- Svelte</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4369,8 +4369,8 @@ Which is ideal for fast front-end development. Here is an example:
 
 </details>
 
-<a href="https://svelte.dev/">Svelte Website</a><br>
-<a href="https://github.com/sveltejs/svelte">Svelte GitHub</a>
+<a href="https://svelte.dev/" target="_blank">Svelte Website</a><br>
+<a href="https://github.com/sveltejs/svelte" target="_blank">Svelte GitHub</a>
 
 <h2 name="ch12">12 -- Preact</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4427,8 +4427,8 @@ The publication is as close as it gets to measuring the benefits, and
 also long-term advantages when it comes to maintainability and migration
 stability.
 
-<a href="https://preactjs.com/">Preact Website</a><br>
-<a href="https://github.com/preactjs/preact">Preact GitHub</a>
+<a href="https://preactjs.com/" target="_blank">Preact Website</a><br>
+<a href="https://github.com/preactjs/preact" target="_blank">Preact GitHub</a>
 
 <h2 name="ch13">13 -- EmberJS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4473,8 +4473,8 @@ Ember special is integrated backward compatibility. As far as frameworks
 go, Ember does an excellent job at making sure your code doesn&apos;t break
 with major changes in the framework itself.
 
-<a href="https://emberjs.com/">Ember Website</a><br>
-<a href="https://github.com/emberjs/ember.js">Ember GitHub</a>
+<a href="https://emberjs.com/" target="_blank">Ember Website</a><br>
+<a href="https://github.com/emberjs/ember.js" target="_blank">Ember GitHub</a>
 
 <h2 name="ch14">14 - Solid</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4501,7 +4501,7 @@ with major changes in the framework itself.
 </p>
 
 SolidJS has been in active development since 2019. Yet, it was in the June of 2021 
-that the framework <a href="https://github.com/solidjs/solid/releases/tag/v1.0.0">
+that the framework <a href="https://github.com/solidjs/solid/releases/tag/v1.0.0" target="_blank">
 graduated to v1</a>. And since, has attracted a rather substantial following. At 
 the moment, Solid has over 14k stars on GitHub, and there is a major update every 
 3 months or so.
@@ -4517,12 +4517,12 @@ Hooks, and features like Web Components, SSR. Interestingly, it is also
 extremely fast.
 
 A benchmark test 
-<a href="https://levelup.gitconnected.com/a-solid-realworld-demo-comparison-8c3363448fd8">
+<a href="https://levelup.gitconnected.com/a-solid-realworld-demo-comparison-8c3363448fd8" target="_blank">
 concluded by Ryan Carniato</a> shows that Solid is able to outperform Svelte, Elm, 
 but also frameworks like Vue and Redux.
 
-<a href="https://solidjs.com/">SolidJS Website</a><br>
-<a href="https://github.com/solidjs/solid">SolidJS GitHub</a>
+<a href="https://solidjs.com/" target="_blank">SolidJS Website</a><br>
+<a href="https://github.com/solidjs/solid" target="_blank">SolidJS GitHub</a>
 
 <h2 name="ch15">15 - Lit</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4568,8 +4568,8 @@ performance. And the runtime footprint of Lit is extremely small. Simply
 put, a framework like React relies on JavaScript, and Lit only
 implements standardized web components.
 
-<a href="https://lit.dev/">LitJS Website</a><br>
-<a href="https://github.com/lit/lit">LitJS GitHub</a>
+<a href="https://lit.dev/" target="_blank">LitJS Website</a><br>
+<a href="https://github.com/lit/lit" target="_blank">LitJS GitHub</a>
 
 <h2 name="ch16">16 - Alpine</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4627,8 +4627,8 @@ jQuery-style features to [static site
 generators:](https://stackdiary.com/static-site-generators/) Jekyll,
 Hugo, etc.
 
-<a href="https://alpinejs.dev/">AlpineJS Website</a><br>
-<a href="https://github.com/alpinejs/alpine">AlpineJS GitHub</a>
+<a href="https://alpinejs.dev/" target="_blank">AlpineJS Website</a><br>
+<a href="https://github.com/alpinejs/alpine" target="_blank">AlpineJS GitHub</a>
 
 <h2 name="ch17">17 -- Stencil</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8960,7 +8960,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 11-08-2023 1:34pm -->
+<!-- 11-10-2023 11:50am -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
