@@ -1,12 +1,5 @@
 /* styles.css in uofm-advstyling - adv-styling.bauska.org */
 
-<!-- 
-* {
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-  box-sizing: border-box;
-}
--->
-
 body {
   background-color: #eee;  /* very light gray */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
@@ -141,11 +134,11 @@ h4 {
   margin-left: 15px;
 }
 h5 { 
-  font-size: 13px;
+  font-size: 14px;
   margin-left: 15px;
 }
 h6 { 
-  font-size: 11px;
+  font-size: 12px;
   margin-left: 15px;
 }
 
