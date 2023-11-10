@@ -4619,13 +4619,10 @@ app design and want to add interactive menu dropdowns. Using React for
 basic interactive functionality is overkill.
 
 Think of Alpine as the means to optimize your server-side web
-frameworks. In fact, [the author himself
-emphasizes](https://news.ycombinator.com/item?id=22291523) that Alpine
-yields a lot of its inspiration from frameworks like Laravel, Django,
-etc. Likewise, it&apos;s the perfect lightweight solution to add
-jQuery-style features to [static site
-generators:](https://stackdiary.com/static-site-generators/) Jekyll,
-Hugo, etc.
+frameworks. In fact, <a href="https://news.ycombinator.com/item?id=22291523">the author himself
+emphasizes</a> that Alpine yields a lot of its inspiration from frameworks like Laravel, Django,
+etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style features to 
+<a href="https://stackdiary.com/static-site-generators/ Jekyll">static site generators:</a> Hugo, etc.
 
 <a href="https://alpinejs.dev/" target="_blank">AlpineJS Website</a><br>
 <a href="https://github.com/alpinejs/alpine" target="_blank">AlpineJS GitHub</a>
@@ -4682,8 +4679,8 @@ with Angular, React, and Vue and provides an excellent developer
 experience with source maps, zero-config, unit testing, code generation,
 doc generation, and types.
 
-<a href="https://stenciljs.com/">StencilJS Website</a><br>
-<a href="https://github.com/ionic-team/stencil">StencilJS GitHub</a>
+<a href="https://stenciljs.com/" target="_blank">StencilJS Website</a><br>
+<a href="https://github.com/ionic-team/stencil" target="_blank">StencilJS GitHub</a>
 
 <h2 name="ch18">18 - Qwik</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4734,8 +4731,8 @@ rendering. This allows Qwik to resume execution in the browser where the
 server left off, without requiring any additional code to be downloaded
 or executed.
 
-<a href="https://qwik.builder.io/">Qwik Builder Website</a><br>
-<a href="https://github.com/BuilderIO/qwik">Qwik Builder GitHub</a>
+<a href="https://qwik.builder.io/" target="_blank">Qwik Builder Website</a><br>
+<a href="https://github.com/BuilderIO/qwik" target="_blank">Qwik Builder GitHub</a>
 
 <h2 name="ch19">19 -- Moment.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4822,7 +4819,7 @@ these can be generically described as a &quot;popper&quot; element.
   style="width:85%"
   alt="Popper.js website." />
 <!-- {width="7.0in" height="2.6264971566054243in"} -->
-<a href="https://popper.js.org">&lt;https://popper.js.org/&gt;</a>
+<a href="https://popper.js.org" target="_blank">&lt;https://popper.js.org/&gt;</a>
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. code sandbox .io (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4831,12 +4828,12 @@ these can be generically described as a &quot;popper&quot; element.
   style="width:85%"
   alt="Code Sandbox.io." />
 <!-- {width="7.0in" height="2.6264971566054243in"} -->
-<a href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement">
+<a href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement" target="_blank">
 <subs>&lt;https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement&gt;</subs></a>
 <!-- {width="6.5in" height="2.60625in"} -->
 </p>
 
-For more documentation, see <a href="https://popper.js.org/docs/v2/">Popper Doc v2</a>.
+For more documentation, see <a href="https://popper.js.org/docs/v2/" target="_blank">Popper Doc v2</a>.
 
 <h2 name="ch21">21 -- BackboneJS</h2>
 
@@ -4901,7 +4898,7 @@ The [Todo RESThub
 example](https://github.com/resthub/todo-backbone-example) project is
 the reference example project using this stack.
 
-For more documentation on <a href="https://resthub.github.io/docs/backbone/layout/">Backbone Stack</a>, try
+For more documentation on <a href="https://resthub.github.io/docs/backbone/layout/" target="_blank">Backbone Stack</a>, try
 <https://resthub.github.io/docs/backbone/layout/>.
 
 <h2 name="ch22">22 -- SemanticUI</h2>
@@ -4955,7 +4952,7 @@ frameworks to help organize UI layer alongside application logic.
 </p>
 <p style="align:center"><sub>Example Semantic UI website theme.</sub></p>
 
-For more information go to <a href="https://semantic-ui-forest.com/">Semantic UI Forest</a>.
+For more information go to <a href="https://semantic-ui-forest.com/" target="_blank">Semantic UI Forest</a>.
 
 <h2 name="ch23">23 -- Gatsby</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4978,7 +4975,7 @@ developers to create fast, secure and powerful websites using a
 React-based framework and an innovative data layer that makes
 integration of different content, APIs and services in a web experience
 is incredibly simple", explains Gatsby js on
-his <a href="https://www.gatsbyjs.com/why-gatsby">website</a>.
+his <a href="https://www.gatsbyjs.com/why-gatsby" target="_blank">website</a>.
 
 <h2 name="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5002,7 +4999,7 @@ the four key technologies that make up the layers of the stack.</p>
 </ul>
 
 <p>There are variations to the MEAN stack such as 
-<a href="https://www.mongodb.com/mern-stack">MERN</a> (replacing Angular.js with
+<a href="https://www.mongodb.com/mern-stack" target="_blank">MERN</a> (replacing Angular.js with
 React.js) and MEVN (using Vue.js). The MEAN stack is one of the most
 popular technology concepts for building web applications.</p>
 
@@ -5637,11 +5634,11 @@ and you don&apos;t want to go around and overwrite them later.
 </p>
 <!-- {width="6.0in" height="3.374359142607174in"} -->
 
-<a href="https://codepen.io/ColleenEMc/pen/obwJGp/">Hello, world (Codepen)</a>
+<a href="https://codepen.io/ColleenEMc/pen/obwJGp/" target="_blank">Hello, world (Codepen)</a>
 
 <h3>Customization</h3>
 
-<a href="https://getbootstrap.com/docs/3.4/customize/">Bootstrap Customize &amp; Download</a>
+<a href="https://getbootstrap.com/docs/3.4/customize/" target="_blank">Bootstrap Customize &amp; Download</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. using a cdn (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5683,9 +5680,9 @@ and you don&apos;t want to go around and overwrite them later.
 
 </details>
 
-<a href="https://codepen.io/cristinaconacel/pen/NOpVja">Multiple Select &amp; Select boxes with optgroups (Codepen}</a>
+<a href="https://codepen.io/cristinaconacel/pen/NOpVja" target="_blank">Multiple Select &amp; Select boxes with optgroups (Codepen}</a>
 
-<a href="https://codepen.io/cristinaconacel/pen/zmZQKy">Simple Select and Dropup Select</a>
+<a href="https://codepen.io/cristinaconacel/pen/zmZQKy" target="_blank">Simple Select and Dropup Select</a>
 
 Let me show you. When you go to the website, you can see that it lets
 you customize different options. For instance, you can put in and you
