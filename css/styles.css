@@ -260,11 +260,28 @@ ol::before {
 	background: green;
 	z-index: -1;
 }
+ul {
+	padding: 0;
+	margin: 0;
+	max-width: 700px;
+	position: relative;
+}
+
+ul::before {
+	content: '';
+	width: 0.5rem;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 8%;
+	background: violet;
+	z-index: -1;
+}
 
 li {
 	padding: 0.5rem 1.5rem 1rem;
 	border-radius: 1.5rem;
-	background: lightgreen;
+	background: lightgray;
 }
 
 li + li {
