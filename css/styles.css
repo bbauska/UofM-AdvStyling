@@ -243,16 +243,6 @@ ul, ol {
 	box-sizing: border-box;
 }
 
-body {
-	font-family: 'Bahnschrift', serif;
-	font-size: 1.2rem;
-	margin: 0;
-	padding: 1rem;
-	display: grid;
-	place-items: center;
-	min-height: 100vh;
-}
-
 ol {
 	padding: 0;
 	margin: 0;
