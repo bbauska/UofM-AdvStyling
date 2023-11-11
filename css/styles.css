@@ -238,10 +238,12 @@ ul, ol {
     list-style-type: circle;
 }
 }
+
 /* newest changes for ul, ol & li */
-* {
+/* * {
 	box-sizing: border-box;
 }
+*/
 
 ol {
 	padding: 0;
@@ -266,7 +268,6 @@ ul {
 	max-width: 700px;
 	position: relative;
 }
-
 ul::before {
 	content: '';
 	width: 0.5rem;
@@ -277,7 +278,6 @@ ul::before {
 	background: violet;
 	z-index: -1;
 }
-
 li {
 	padding: 0.5rem 1.5rem 1rem;
 	border-radius: 1.5rem;
