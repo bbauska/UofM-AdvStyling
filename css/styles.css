@@ -274,13 +274,13 @@ ul::before {
 	height: 100%;
 	position: absolute;
 	top: 0;
-	left: 8%;
+	left: 12%;  /* 8% */
 	background: violet;
 	z-index: -1;
 }
 li {
-	padding: 0.5rem 1.5rem 1rem;
-	border-radius: 1.5rem;
+	padding: 0.25rem .75rem .5rem;
+	border-radius: .75rem;
 	background: lightgray;
 }
 
@@ -291,7 +291,7 @@ li + li {
 ::marker {
 	font-weight: 600;
 	color: darkblue;
-	font-size: 1.8rem;
+	font-size: 1.2rem;  /* 1.8rem */
 }
 
 
