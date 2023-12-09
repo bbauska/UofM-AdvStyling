@@ -5,7 +5,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h2 align="center">Advanced Styling with Responsive Design</h2>
 <br/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofmichigan-advstyling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-advstyling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction to resp design (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -77,7 +77,8 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 >### 4.5 [**Bootstrap 4/5**](#ch4-5)
 >### 4.9 [**Conclusion**](#ch4-9)
 
-<a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">UofM - Advanced Styling - git</a>
+<a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">
+UofM - Advanced Styling - git</a>
 
 <h3>Course Outline:</h3>
 
@@ -5740,7 +5741,6 @@ And, if you click on quick add. You can see that bootstrap is one of the
 options. Once you have that put in there. As long as it&apos;s in here. It
 now knows this is how you can add the external CSS. Now you may remember
 that I said, you&apos;re going to connect to the CSS and JavaScript files.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. codepen settings, #2 (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5753,7 +5753,6 @@ Once you added the CSS you want to click on JavaScript. Right here.
 Quick add, and add bootstrap as well. Once we&apos;ve done this, our site is
 now ready to use any of the bootstrap classes or any of the bootstrap
 JavaScript that we may need to use.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223. template (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5773,7 +5772,6 @@ Responsive Design Bootstrap Template. In my template, I did not go in
 and link to bootstrap using the settings. Instead, I wanted to show you
 this code both with and without the links because that way if you write
 it up yourself you can still have it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. bootstrap template (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5791,7 +5789,6 @@ you, look a little bit different from the default values. Instead, it&apos;s
 using that bootstrap font. One way is for me to delete the link to the
 style sheet. I&apos;ll do that right here. And now you can see that the font
 has changed a little bit.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 225. how do you know it is working? (138) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5829,7 +5826,6 @@ bottom. In fact, I&apos;m not sure I even put enough emphasis on that, so
 let me show it to you again, just so you know what I&apos;m talking about.
 I&apos;m back at our original template code. And I&apos;ll put back in the style
 sheet.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. bootstrap template, again (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5855,7 +5851,6 @@ that I want you to know is possible once you really get the hang of
 what&apos;s going on.
 
 <h3>Bootstrap HTML Template</h3>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. don't forget (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5928,7 +5923,6 @@ Bootstrap grid system.
 Get three equal-width columns <b>starting at desktops and scaling to
 large desktops</b>. On mobile devices, tablets and below, the columns will
 automatically stack.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5942,7 +5936,6 @@ Get three columns <b>starting at desktops and scaling to large
 desktops</b> of various widths. Remember, grid columns should add up to
 twelve for a single horizontal block. More than that, and columns start
 stacking no matter the viewport.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 229. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5974,7 +5967,6 @@ widths) within the larger column.
 
 At mobile device sizes, tablets and down, these columns and their nested
 columns will stack.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 231. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6004,7 +5996,6 @@ widths for xs and sm, you only need to specify xs.
 <!-- {width="6.5in" height="1.1215277777777777in"} -->
 
 <h3>Mixed: mobile, tablet, and desktop</h3>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 233. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6030,7 +6021,6 @@ widths for xs and sm, you only need to specify xs.
 <h3>Offset, push, and pull resets</h3>
 
 Reset offsets, pushes, and pulls at specific breakpoints.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 235. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6054,7 +6044,6 @@ really get a good understanding of how this works.
 I&apos;m hoping that you&apos;ll follow along with me. We&apos;ll do an example in
 one of the next modules, and then you come back and you read this
 material again, and see if it&apos;s starting to really make sense.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. it's not a table (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6075,7 +6064,6 @@ that&apos;s why everyone says Bootstrap uses a grid. It&apos;s not a table.
 
 So, you kind of have to throw that practical reasoning out for a little
 bit, if you&apos;re going to be using Bootstrap.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. it's not a table, #2 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6091,7 +6079,6 @@ bit, if you&apos;re going to be using Bootstrap.
 With this table, we can basically say if you want to use three columns,
 it&apos;s the same as saying a width of maybe 25%. Six columns is 50%. Nine
 columns is 75%.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. it's not a table, #3 (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
