@@ -27,23 +27,23 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ## [**About**](#cha)
->### - [**About**](#cha-1)
->### - [**Source Code for Each Week**](#cha-2)
->### - [**Course Slides**](#cha-3)
+>### a-01 [**About**](#cha-01)
+>### a-02 [**Source Code for Each Week**](#cha-02)
+>### a-03 [**Course Slides**](#cha-03)
 
 ## [**Course Information**](#chb)
->### * [**Syllabus**](#chb-1)
->### * [**Resources**](#chb-2)
->### * [**Fluid Measurements background readings**](#chb-3)
->### * [**Pixel to Em conversion tool**](#chb-4)
->### * [**Dynamically change size of font with sliders**](#chb-5)
->### * [**Good Examples of Responsive Design**](#chb-6)
->### * [**Media Queries and Breakpoints**](#chb-7)
->### * [**Demystifying Bootstrap**](#chb-8)
->### * [**Grid System Check**](#chb-9)
->### * [**The Evolution of the Airbnb front-end development**](#chb-10)
->### * [**Debugging Your Style**](#chb-11)
->### * [**More Resources for Learning to Debug/Develop**](#chb-12)
+>### b-01 [**Syllabus**](#chb-01)
+>### b-02 [**Resources**](#chb-02)
+>### b-03 [**Fluid Measurements background readings**](#chb-03)
+>### b-04 [**Pixel to Em conversion tool**](#chb-04)
+>### b-05 [**Dynamically change size of font with sliders**](#chb-05)
+>### b-06 [**Good Examples of Responsive Design**](#chb-06)
+>### b-07 [**Media Queries and Breakpoints**](#chb-07)
+>### b-08 [**Demystifying Bootstrap**](#chb-08)
+>### b-09 [**Grid System Check**](#chb-09)
+>### b-10 [**The Evolution of the Airbnb front-end development**](#chb-10)
+>### b-11 [**Debugging Your Style**](#chb-11)
+>### b-12 [**More Resources for Learning to Debug/Develop**](#chb-12)
 
 ## [**Week 1: Style with Responsive Design**](#ch1)
 >### 1.1 [**Introduction to Responsive Design**](#ch1-1)
@@ -74,7 +74,10 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 >### 4.2 [**Bootstrap Tables**](#ch4-2)
 >### 4.3 [**Code With Me: Advanced Navigation**](#ch4-3)
 >### 4.4 [**What Are Templates?**](#ch4-4)
->### 4.5 [**Bootstrap 4/5**](#ch4-5)
+>### 4.5 [**Interview #1**](#ch4-5)
+>### 4.6 [**Interview #2**](#ch4-6)
+>### 4.7 [**Interview #3**](#ch4-7)
+>### 4.8 [**Bootstrap 4/5**](#ch4-8)
 >### 4.9 [**Conclusion**](#ch4-9)
 
 <a href="https://github.com/bbauska/UofMichigan-AdvStyling.git" target="_blank">
@@ -84,7 +87,7 @@ UofM - Advanced Styling - git</a>
 
 <h2 align="center"></h2>
 
-<h2 name="chb-1">b-1. Syllabus</h2>
+<h2 name="chb-01">b-01. Syllabus</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -98,7 +101,6 @@ knowledge of accessible web design. This will include your ability to
 design and implement a responsive site that utilizes tools to create a
 site that is accessible to a wide audience, including those with visual,
 audial, physical, and cognitive impairments.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive design? (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -151,7 +153,7 @@ will be sufficient to get a decent base on how responsive design works.
 For other learners however, there is nothing better than when they
 decide they can write better versions of the code.
 
-<h3 id="chb-2">Resources</h3>
+<h3 id="chb-02">b-02. Resources</h3>
 
 <h3>Course Site</h3>
 
@@ -171,7 +173,7 @@ doesn&apos;t require you to link your files together. So, if you want to
 write the code right on your machine, you will need to know how to link
 the code. Don&apos;t worry, I do cover that in class.
 
-<p id="cha-2">Here is a link to a collection of code for each week of the course:</p>
+<p id="cha-02">a-02. Here is a link to a collection of code for each week of the course:</p>
 
 <h4>Week One: <http://codepen.io/collection/nmyRWM/></h4>
 
@@ -203,7 +205,7 @@ question already there. If you don&apos;t find your question, make sure to
 post. There are no &quot;stupid&quot; questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-<h2 name="cha-3">a-3. Course Slides</h2>
+<h2 name="cha-03">a-03. Course Slides</h2>
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -219,9 +221,10 @@ section to view them.
   style="width:65%"
   alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0"  target="_blank"/>
 </p>
-<!-- "width:6.5in height:4.603945756780402in" -->
 
-<h2 name="cha-1">a-1. There are 4 modules in this course</h2>
+<h2 name="cha-01">a-01. About.</h2>
+
+<h3>There are 4 modules in this course</h3>
 
 It used to be the case that everyone viewed webpages on about the same
 size screen. But with the explosion of the use of smartphones to access
@@ -395,9 +398,15 @@ in this course.
 
 4.  What Are Templates?
 
-5.  Bootstrap 4/5
+5.  Interview #1
 
-6.  Conclusion
+6.  Interview #2
+
+7.  Interview #3
+
+8.  Bootstrap 4/5
+
+9.  Conclusion
 
 <h3>Add'l Readings</h3>
 
@@ -411,7 +420,7 @@ in this course.
 
 <h3>Resources</h3>
 
-<h2 name="chb-4">b-4. Pixel to Em conversion tool</h2>
+<h2 name="chb-04">b-04. Pixel to Em conversion tool</h2>
 
 <a href="http://pxtoem.com" target="_blank">Pixel to Em Conversion Tool:</a>
 
@@ -420,7 +429,7 @@ in this course.
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-<h2 name="chb-5">b-5. Dynamically change the size of font with sliders</h2>
+<h2 name="chb-05">b-05. Dynamically change the size of font with sliders</h2>
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -1024,11 +1033,11 @@ nexus seven. Same thing. So, you can pick a number of different options
 to kind of see what the site would look like.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 30.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. laptop 1440 x 900 (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image030.webp?raw=true"
   style="width:60%"
-  alt="" />
+  alt="Laptop (1440 x 900)." />
 
 Let&apos;s see, do one last one, a laptop. Depending on which type of
 platform people are using.
@@ -1051,11 +1060,11 @@ options that people often use, and why the responsive web design that
 we&apos;re going to adopt has its true benefits.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 31.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. responsive options (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image031.webp?raw=true"
   style="width:40%"
-  alt="" />
+  alt="Responsive Options: RWD, adaptive design and separate mobile site (.m)." />
 
 The first option, ***responsive web design or RWD***, is really dealing
 with fluid measurements, flexible grids, and varying CSS rules.
@@ -1185,7 +1194,7 @@ Additional best practices for separate URLs;
   style="width:60%"
   alt="Additional best practices." />
 
-<h2 name="chb-3">b-3. Fluid Measurements: Background readings</h2>
+<h2 name="chb-03">b-03. Fluid Measurements: Background readings</h2>
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -2783,7 +2792,7 @@ sense. Where you know that on small screen phones they really do do
 their navigation differently than if you&apos;re on a laptop. Good luck, and
 make sure to post questions if you run into trouble.
 
-<h2 name="chb-6">b-6. Good examples of responsive design</h2>
+<h2 name="chb-06">b-06. Good examples of responsive design</h2>
 
 The following is a link to good examples of 
 <a href="http://www.awwwards.com/50-examples-of-responsive-web-design.html" target="_blank">
@@ -7059,7 +7068,7 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 
 </details>
 
-<h2 name="chb-8">chb-8. Demystifying Bootstrap</h2>
+<h2 name="chb-08">b-08. Demystifying Bootstrap</h2>
 
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
@@ -8064,7 +8073,7 @@ these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-5">Week 4-05. Interview: M W</h2>
+<h2 id="ch4-5">4-05. Interview: M W (#1)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn&apos;t show up, but luckily, I ran into one of my old
@@ -8217,7 +8226,7 @@ hope it&apos;s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you&apos;re going to go into. So thank you
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-6">Week 4-06. Interview: H W</h2>
+<h2 id="ch4-6">4-06. Interview: H W (#2)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I&apos;ve just run into
@@ -8374,7 +8383,7 @@ the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-7">4-07. Interview with H N</h2>
+<h2 id="ch4-7">4-07. Interview with H N (#3)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Welcome back.
 
@@ -8666,7 +8675,7 @@ really have all the knowledge you need.
 So, thank you for coming along with us, and I hope you enjoyed the
 class.
 
-<h3 id="chb-10">The Evolution of the Airbnb front-end development</h3>
+<h3 id="chb-10">b-10. The Evolution of the Airbnb front-end development</h3>
 
 This is an interesting article on the evolution of the Airbnb website.
 
@@ -8677,14 +8686,14 @@ CSS tutorial actually uses a similar platform to teach about Bootstrap.
 
 <b>*This material is not required for the course.***
 
-<h3 id="chb-11">Debugging your style with Firebug</h3>
+<h3 id="chb-11">b-11. Debugging your style with Firebug</h3>
 
 I tend to use Chrome as my browser, and Inspect Element to debug my
 site. However, here is a tutorial for another very popular development
 tool - Firebug. This video by Vicki Watson will walk you through how it
 works. <https://www.ostraining.com/blog/coding/bootstrap-firebug/>
 
-<h3 id="chb-12">More resources for learning to debug/develop</h3>
+<h3 id="chb-12">b-12. More resources for learning to debug/develop</h3>
 
 If anyone wants to improve testing and debugging skills using Chrome.
 Codeschool has free course about DevTools:
