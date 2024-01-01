@@ -745,7 +745,6 @@ We want it to happen really automatically.
 <img src="./images/image013.webp?raw=true"
   style="width:60%"
   alt="Media queries; media screen and min-width." />
-<!-- {width="6.0in" height="4.245512904636921in"} -->
 
 Let&apos;s take a look at some examples that have great responsive design.
 
@@ -758,7 +757,6 @@ The first place I&apos;m going to take you is a website called
 <img src="./images/image014.webp?raw=true"
   style="width:60%"
   alt="Mediaqueri.es; media screen and min-width." />
-<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 This site has a really nice collection of different sites that it&apos;s
 found that really kind of find that key to responsive design. Let&apos;s go
@@ -770,7 +768,6 @@ ahead and take a look at, I&apos;ll scroll down a few.
 <img src="./images/image015.webp?raw=true"
   style="width:60%"
   alt="Capital Public Radio; capradioraffle.org." />
-<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 How about this one right here? CapRadio, go anyplace.
 
@@ -783,20 +780,17 @@ that there&apos;s a definite look to the layout.
 <img src="./images/image016.webp?raw=true"
   style="width:60%"
   alt="Capital Public Radio; capradioraffle.org." />
-<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 As I resize the screen, as if I&apos;m looking perhaps on a tablet, and I
 reload it you can see that things have moved over.
 
 The navigation bar is now over to the left when it wasn&apos;t there before.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. capital public radio (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image017.webp?raw=true"
   style="width:60%"
   alt="Capital Public Radio; capradioraffle.org." />
-<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 I&apos;m going to go ahead and make it smaller still. I don&apos;t even need to
 refresh.
@@ -826,19 +820,16 @@ really bad at web design so I found one for you.
 <img src="./images/image018.webp?raw=true"
   style="width:60%"
   alt="IRS.gov - example with poor responsiveness." />
-<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 It&apos;s the Internal Revenue Service. And what we have here is a site that
 not only looks the same, but is laid out the same no matter what type of
 screen you&apos;re looking at.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. irs.gov, again - no change (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image019.webp?raw=true"
   style="width:60%"
   alt="IRS.gov - no change showing poor responsive design." />
-<!-- width="6.0in" height="3.3807699037620296in"} -->
 
 It looks okay right here, but when I make the screen much smaller, you
 can see that it didn&apos;t really do anything. Now I actually have to
@@ -869,7 +860,6 @@ laptop, that you can resize your window and refresh the site.
 <img src="./images/image020.webp?raw=true"
   style="width:60%"
   alt="intro-webdesign.com - sample web site using reponsiveness - 3 breakpoints/sizes." />
-<!-- width="6.0in" height="3.3807688101487314in"} -->
 
 So, if I go here;
 &lt;<https://ui.dev/amiresponsive?url=https://ibm-web-dev.bauska.org>&gt;.
@@ -883,7 +873,6 @@ change.
 <img src="./images/image021.webp?raw=true"
   style="width:60%"
   alt="intro-webdesign.com - mobile view." />
-<!-- {width="6.0in" height="3.3807699037620296in"} -->
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -914,7 +903,6 @@ Here we go.
 <img src="./images/image022.webp?raw=true"
   style="width:60%"
   alt="ui.dev/amiresponsive - mobile view." />
-<!-- {width="6.0in" height="3.922435476815398in"} -->
 
 Here&apos;s a website that you can go to. Down at the bottom of the screen,
 you can fill in the URL of the site you want to look at.
@@ -925,7 +913,6 @@ you can fill in the URL of the site you want to look at.
 <img src="./images/image021.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - mobile view." />
-<!-- {width="6.0in" height="3.922435476815398in"} -->
 
 Just so you know, this is made with an HTML tag that makes it so that
 you have to put in a URL. It&apos;s always going to be looking for at least
@@ -944,7 +931,6 @@ using.
 <img src="./images/image024.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - mobile view." />
-<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 Let&apos;s check out another site.
 
@@ -954,7 +940,6 @@ Let&apos;s check out another site.
 <img src="./images/image025.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu." />
-<!-- {width="6.0in" height="3.635897856517935in"} -->
 
 In this case, again we can see that this is a responsive setup. Now, even though 
 the pages may look very similar, you can see that on the mobile view that weather 
@@ -971,7 +956,6 @@ content.
 <img src="./images/image026.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu - mobile view." />
-<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 The next site I&apos;m going to check is one that I&apos;ve made from my umich
 site. Going here, paste in that URL, and we can take a look. What I&apos;ve
@@ -1005,7 +989,6 @@ things from different viewpoints.
 <img src="./images/image027.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - Colleen E van Lent's web page - mobile view." />
-<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 With Chrome, you can use inspect element to see the different viewpoints
 in real-time. Let&apos;s take a look. So, I&apos;ve gone here to my website
@@ -1020,7 +1003,6 @@ element by right clicking Click over here.
 <img src="./images/image028.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
-<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 And what I can do now is up in the upper left-hand corner, there&apos;s
 something that looks like a small little mobile phone. It says Toggle
@@ -1033,7 +1015,6 @@ viewing my site as if I&apos;m viewing it on a small mobile phone.
 <img src="./images/image029.webp?raw=true"
   style="width:60%"
   alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
-<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 Depending upon your operating system in the browser of the addition that
 you have, you can go up to the device in the upper left-hand corner
@@ -1048,7 +1029,6 @@ to kind of see what the site would look like.
 <img src="./images/image030.webp?raw=true"
   style="width:60%"
   alt="" />
-<!-- {width="6.0in" height="3.3807688101487314in"} -->
 
 Let&apos;s see, do one last one, a laptop. Depending on which type of
 platform people are using.
@@ -1204,7 +1184,6 @@ Additional best practices for separate URLs;
 <img src="./images/image036.webp?raw=true"
   style="width:60%"
   alt="Additional best practices." />
-<!-- {width="7.5in" height="4.358975284339458in"} -->
 
 <h2 name="chb-3">b-3. Fluid Measurements: Background readings</h2>
 
@@ -1306,7 +1285,6 @@ them.
 <img src="./images/image039.webp?raw=true"
   style="width:40%"
   alt="Relative measurements." />
-<!-- {width="4.0in" height="2.2376071741032373in"} -->
 
 So, let&apos;s start with percent. Percentage values are always relative to
 some other value, for example, a length. If you say you want something
@@ -1328,7 +1306,6 @@ smaller. Let me show you an example.
 <img src="./images/image040.webp?raw=true"
   style="width:40%"
   alt="Relative measurements, #2." />
-<!-- {width="4.0in" height="2.252564523184602in"} -->
 
 Let&apos;s assume we&apos;re going to set something up to be 0.5em and it&apos;s
 going to be inside this element in here. I&apos;m going to make up a size
@@ -1351,7 +1328,6 @@ lot of things embedded inside the other.
 <img src="./images/image039.webp?raw=true"
   style="width:40%"
   alt="Relative measurements, #3." />
-<!-- ![](images/image039.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 Now, the problem with teaching and learning about relative measurements,
 is that it&apos;s very abstract. I tried to include a little thing here to
@@ -1372,7 +1348,6 @@ font stays the exact same size. Same if the screen gets smaller.
 <img src="./images/image041.webp?raw=true"
   style="width:40%"
   alt="Relative measurements, #4." />
-<!-- ![](images/image041.webp){width="4.0in" height="2.2376071741032373in"} -->
 
 Two of the newer relative measurements are based on the viewport. vw
 stands for viewport width, so if you were to use one vw, you&apos;re saying,
@@ -1393,7 +1368,6 @@ specific positions.
 <img src="./images/image042.webp?raw=true"
   style="width:40%"
   alt="Review." />
-<!-- ![](images/image042.webp){width="4.0in" height="2.241025809273841in"} -->
 
 Now, there are times that you&apos;re going to want to hardcode values with
 those absolute measurements. But, whenever possible, when you&apos;re coming
@@ -1419,7 +1393,6 @@ with me while I code it.
 <img src="./images/image043.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements, #1." />
-<!-- ![](images/image043.webp){width="6.0in" height="2.3493591426071743in"} -->
 
 So, let&apos;s do an example as we go from static or absolute measurements
 to something that&apos;s more fluid. So, what I have here is a site where
@@ -1474,7 +1447,6 @@ let&apos;s just wing it a little bit.
 <img src="./images/image044.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements, #2." />
-<!-- ![](images/image044.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 I&apos;m going to make it so I can see my code. And the first thing I&apos;m
 going to do is I&apos;m going to go to the first place I hard coded a value,
@@ -1487,7 +1459,6 @@ which is the width of this main part. Saying that I always want it to be
 <img src="./images/image045.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements, #3." />
-<!-- ![](images/image045.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 Instead, let&apos;s use percent here, and say I want this to take up, let&apos;s
 say somewhere between 95 and I&apos;ll pick 95% of my page. Already, you
@@ -1500,7 +1471,6 @@ happen, but a little. I&apos;ll resize it again.
 <img src="./images/image046.webp?raw=true"
   style="width:60%"
   alt="Measurements, #4." />
-<!-- ![](images/image046.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 You can see that my paragraph down here still fits, but the columns just
 look at little bit awkward. Particularly, if I&apos;m somewhere in that
@@ -1513,7 +1483,6 @@ page is responsive, let&apos;s work on those columns.
 <img src="./images/image047.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements." />
-<!-- ![](images/image047.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 Here, I&apos;ve set them to 300 pixels. Let&apos;s change that. Since I have
 three columns, again, I can set it to 33, 33, 33, but I&apos;m probably
@@ -1529,7 +1498,6 @@ it small, the columns are still together. This is really good.
 <img src="./images/image048.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements." />
-<!-- ![](images/image048.webp){width="6.0in" height="3.1044870953630794in"} -->
 
 The last thing I&apos;m going to change, I&apos;m going to go ahead and change
 my H1, so I&apos;m using the percent instead. I&apos;ll make it 300%. That&apos;ll
@@ -1647,7 +1615,6 @@ Hi everybody. Today we are going to talk about Media queries.
 <img src="./images/image049.webp?raw=true"
   style="width:40%"
   alt="Media queries." />
-<!-- ![](images/image049.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Media queries are going to allow us to adjust the style of out webpages,
 depending upon, the properties of the media we&apos;re looking at. We can
@@ -1665,7 +1632,6 @@ here&apos;s an example.
 <img src="./images/image050.webp?raw=true"
   style="width:40%"
   alt="Media queries, again." />
-<!-- ![](images/image050.webp){width="4.0in" height="2.0952996500437444in"} -->
 
 Right here the style sheet style is only going to apply when the content
 is being displayed on a screen. And for many of you, that&apos;s the only
@@ -1783,7 +1749,6 @@ feel free to play with all three of these different approaches.</p>
 <img src="./images/image057.webp?raw=true"
   style="width:40%"
   alt="Review." />
-<!-- ![](images/image057.webp){width="4.0in" height="2.260255905511811in"} -->
 
 <p>Let&apos;s review for just a second to make sure that we&apos;re on the same
 page with how we implement media queries.</p>
@@ -1813,7 +1778,6 @@ Good luck,</p>
 <img src="./images/image058.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements, #1." />
-<!-- ![](images/image058.webp){width="6.0in" height="3.362179571303587in"} -->
 
 <p>What we&apos;re looking at here is an example from when we first learned
 about fluid measurements. We went in and we switched our absolute
@@ -1826,7 +1790,6 @@ now, the three columns are fine.</p>
 <img src="./images/image059.webp?raw=true"
   style="width:60%"
   alt="Code with me, narrow." />
-<!-- ![](images/image059.webp){width="6.0in" height="3.362179571303587in"} -->
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1844,7 +1807,6 @@ So, let&apos;s take a look at how we can make that change together.</p>
 <img src="./images/image060.webp?raw=true"
   style="width:60%"
   alt="Fluid measurements." />
-<!-- ![](images/image060.webp){width="6.0in" height="3.0724365704286964in"} -->
 
 <p>The first thing that we need to look at is what these columns are. And
 what we have is we have dibs each of type class equals column. The nice
@@ -2154,7 +2116,6 @@ moving on.</p>
   style="width:60%"
   alt="Best design practices - example." />
 </p>
-<!-- {width="6.0in" height="3.3762817147856516in"} -->
 
 <p>One of the reasons I like this site is well because I agree with many of
 the things they&apos;re talking about and they agree with me. But as you
@@ -2628,7 +2589,6 @@ screens.
 <img src="./images/image087.webp?raw=true"
   style="width:60%"
   alt="Horizontal line of links as navigation bar at top of page." />
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
 </p>
 
 So, let&apos;s look at some code. What I have here is some HTML that
@@ -2641,7 +2601,6 @@ horizontal line of links right up here at the top of your page.
 <img src="./images/image088.webp?raw=true"
   style="width:60%"
   alt="Horizontal line of links as nav bar at top of page, #2." />
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
 </p>
 
 <div align="right">
@@ -2656,14 +2615,12 @@ here. Small screen, I want the bar to be along the top here and then
 you&apos;d have all the content. But on a larger screen, it can be this big,
 then I want my navigation bar to be along the side and we can put all
 the content right off to the right.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. responsive navigation bar (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.webp?raw=true"
   style="width:60%"
   alt="Responsive horizontal navigation bar." />
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
 </p>
 
 So, let&apos;s take a look at how we&apos;re going to do that. Because we want
@@ -2703,14 +2660,13 @@ we would want to start adjusting the different navigation. I&apos;m not
 going to do that thought. What I always recommend is somebody write a
 very simple, clear rule. The reason is, it&apos;s really easy for you to
 figure out whether or not your rules are triggering.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. responsive navigation, #2 (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090.webp?raw=true"
   style="width:60%"
   alt="Responsive navigation bar, #2." />
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
+</p>
 
 Change the entire color of the body of this page. So put in body, curly bracket, 
 background, color, I&apos;ll just make it blue. All right it worked. If for some reason 
@@ -2724,7 +2680,7 @@ to get going. See if I can get away with grey. There we go.
 <img src="./images/image091.webp?raw=true"
   style="width:60%"
   alt="Responsive navigation bar, #3." />
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
+</p>
 
 You can still see everything. If you run into problems, the parts you
 want to check are go in did you remember to have minimum width? If you
@@ -2740,7 +2696,7 @@ goes with the body selector.
 <img src="./images/image092.webp?raw=true"
   style="width:60%"
   alt="Responsive navigation menu, vertical." />
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
+</p>
 
 If that&apos;s going, let&apos;s go ahead and move on to how we would change
 that navigation bar to be off to the side instead of on the top. So, one
@@ -2763,7 +2719,6 @@ Let&apos;s do that next code. So how do I do that?
   style="width:60%"
   alt="Responsive navigation menu, vertical, #2." />
 </p>
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 How do I get the links to go underneath each other? Well, that&apos;s not
 too hard if you remember some of the more advanced CSS you&apos;ve learned
@@ -2787,7 +2742,6 @@ up underneath.
   style="width:60%"
   alt="Responsive navigation menu, vertical, #3." />
 </p>
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 What do we need to do? If we were in class, in real life, I would sit
 there and stare at you, until someone finally raised their hand and made
@@ -2813,7 +2767,6 @@ go back and change one thing up in my nav as well.
   style="width:60%"
   alt="Responsive navigation menu, vertical, #4." />
 </p>
-<!-- {width="6.0in" height="3.3698720472440944in"} -->
 
 I had to add a float left, and this is what lets these two things be next to each 
 other off to the side. So let&apos;s take a look at what we&apos;ve got.
@@ -3000,7 +2953,6 @@ nav a{
   style="width:40%"
   alt="Frameworks - Code and Structure." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 Hi, everybody. Frameworks is one of those words or terms that people
 really love to throw out there. The term framework can really mean
@@ -3018,7 +2970,6 @@ to think about what does framework mean here in this class.
   style="width:40%"
   alt="What Does Framework mean here?" />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 For front-end developers, frameworks provide tools for CSS, JavaScript,
 and jQuery. They&apos;re these little bits of code that you can use to get
@@ -3036,7 +2987,6 @@ jQuery.
   style="width:40%"
   alt="What Does Framework mean here, #2?" />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 If you&apos;re a back-end developer, this is something completely different
 as far as frameworks go. Now you&apos;re looking at code that&apos;s going to
@@ -3054,7 +3004,6 @@ least a handful of frameworks that people are using today.
   style="width:40%"
   alt="2013 - Popular front-end frameworks, as of 2013." />
 </p>
-<!-- {width="4.0in" height="2.2465813648293964in"} -->
 
 <ul>
   <li>The first one that I&apos;m going to mention, and the one that we&apos;re
@@ -3130,7 +3079,6 @@ JavaScript code is still loading and running.
   style="width:50%"
   alt="Hydration in web development." />
 </p>
-<!-- {width="5.0in" height="2.911324365704287in"} -->
 
 Image
 credit: [Reddit](https://www.reddit.com/r/webdev/comments/xqd4i8/what_is_hydration/)
@@ -3159,7 +3107,6 @@ ability to create dynamic and responsive user interfaces.
   style="width:60%"
   alt="Single Page Applications." />
 </p>
-<!-- {width="6.0in" height="3.433333333333333in"} -->
 
 In fact, many of the most successful modern web applications, such as
 Gmail, Google Maps, and Facebook, are built using SPAs. This is because
@@ -3183,7 +3130,6 @@ easier to develop and maintain large-scale applications.
   style="width:40%"
   alt="JAMstack." />
 </p>
-<!-- {width="4.0in" height="1.4726498250218722in"} -->
 
 JAMstack is a unique concept for building static web pages. Rather than
 implementing a back-end solution for content generation, an API is used
@@ -3327,12 +3273,10 @@ GitHub and the framework&apos;s website.</p>
 <img src="./images/image104.webp?raw=true"
   style="width:15%"
   alt="React logo." />
-<!-- {width="1.0in" height="1.0in"} - ![ReactJS front-end framework] -->
 <img src="./images/image105.webp?raw=true"
   style="width:50%"
   alt="React front-end framework." />
 </p>
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 
 <p><a href="https://reactjs.org/" target="_blank">React.js</a> (also known as ReactJS or React) is an
 open-source, front-end JavaScript library. It was created in 2013 by Jordan Walke, 
@@ -3704,7 +3648,6 @@ Chakra UI, Fluent UI, and Evergreen are also popular UIs.</p>
   style="width:30%"
   alt="jQuery logo." />
 </p>
-<!-- {width="2.8854166666666665in" height="1.125in"} -->
 
 <a href="https://jquery.com/" target="_blank">jQuery</a> is a classic JavaScript library that's
 fast, light-weight, and feature-rich. It was built in 2006 by John Resig
@@ -3731,7 +3674,6 @@ that you check out the <a href="https://learn.jquery.com/" target="_blank">jQue
   style="width:65%"
   alt="jQuery User Interface Libary components." />
 </p>
-<!-- {width="6.5in" height="4.098611111111111in"} -->
 
 <h4>jQuery UI in Action is a practical guide to using and customizing jQuery UI 
 library components to build rich, user-friendly web applications.</h4>
@@ -3845,7 +3787,6 @@ an idea of what&apos;s possible.</p>
   style="width:65%"
   alt="jQuery UI Download Builder, page 1." />
 </p>
-<!-- {width="6.5in" height="4.86875in"} -->
 
 <h5>The above Download Builder from jQuery UI.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3855,7 +3796,6 @@ an idea of what&apos;s possible.</p>
   style="width:65%"
   alt="jQuery UI Download Builder, page 2." />
 </p>
-<!-- {width="6.5in" height="4.13125in"} -->
 
 <h5>Page 2, jQuery UI Download Builder (above).</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3865,7 +3805,6 @@ an idea of what&apos;s possible.</p>
   style="width:65%"
   alt="jQuery UI Download Builder, page 3." />
 </p>
-<!-- {width="6.5in" height="3.0541666666666667in"} -->
 
 <h5>Page 3, jQuery UI Download Builder (jQuery v1.13.2) (above).</h5>
 
@@ -3908,7 +3847,6 @@ $( "#date" ).datepicker();
   style="width:25%"
   alt="Calendar." />
 </p>
-<!-- {width="2.5104166666666665in" height="1.9479166666666667in"} -->
 
 <h2 name="ch03">03 -- Bootstrap v5.2.3</h2>
 
@@ -3918,19 +3856,15 @@ $( "#date" ).datepicker();
 <img src="./images/image112.webp?raw=true"
   style="width:10%"
   alt="Bootstrap v5 | Drifting Ruby." />
-<!-- {width="1.0in" height="0.6308016185476816in"} -->
 <img src="./images/image113.webp?raw=true"
   style="width:20%"
   alt="Bootstrap官方中文站 · 全球最流行的 HTML、CSS 和 JS 工具库。" />
-<!-- {width="2.0in" height="1.2109700349956256in"} -->
 <img src="./images/image114.webp?raw=true"
   style="width:10%"
   alt="Free download | HD PNG bootstrap featured image bootstrap 3 logo PNG..." />
-<!-- {width="1.0in" height="1.0210968941382328in"} -->
 <img src="./images/image115.webp?raw=true"
   style="width:20%"
   alt="Bootstrap Izgara Sistemi" />
-<!-- {width="2.0in" height="1.0464140419947507in"} -->
 </p>
 
 Bootstrap is a powerful, feature-packed frontend toolkit. Build
@@ -4007,14 +3941,12 @@ CDN links</a>.
 <img src="./images/image116.webp?raw=true"
   style="width:10%"
   alt="D3.js logo Poster by bryngo redbubble." />
-<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 117. d3.js logo png vector (svg) free download (109) ~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image117.webp?raw=true"
   style="width:35%"
   alt="D3.js logo PNG Vector (SVG) Free Download." />
 </p>
-<!-- {width="3.529411636045494in" height="1.0in"} -->
 
 Data-Driven Documents (D3) or [D3.js](https://d3js.org/) is another
 famous JS library that developers use to document manipulation based on
@@ -4059,13 +3991,11 @@ data. It was released in 2011.
 <img src="./images/image118.webp?raw=true"
   style="width:35%"
   alt="D3.js logo Poster by bryngo redbubble." />
-<!-- {width="3.4347823709536307in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. anime.js review - slant (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image119.webp?raw=true"
   style="width:17%"
   alt="Anime.js Review - Slant." />
-<!-- {width="1.7111909448818898in" height="1.0in"} -->
 </p>
 
 If you want to add animations to your site or
@@ -4089,19 +4019,16 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 <img src="./images/image120.webp?raw=true"
   style="width:15%"
   alt="Getting Started with chart.js Introduction." />
-<!-- {width="1.4451224846894137in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~ 121. pie chart using chart.js tutorials | responsive chart, how to use (110) ~~~~~~~-->
 <img src="./images/image121.webp?raw=true"
   style="width:20%"
   alt="Getting Started with chart.js Introduction." />
-<!-- {width="1.7777777777777777in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 122. getting started with chart.js introduction drupal.org (110) ~~~~~~~~~~~~~-->
 <img src="./images/image122.webp?raw=true"
   style="width:25%"
   alt="Getting Started with chart.js Introduction." />
-<!-- {width="2.4432994313210847in" height="1.0in"} -->
 </p>
 
 Do you need to present lots of statistics?
@@ -4143,13 +4070,11 @@ in creating charts and visualizations.
 <img src="./images/image123.webp?raw=true"
   style="width:15%"
   alt="Lodash Logo PNG Transparent &amp; SVG Vector - Freebie Supply." />
-<!-- {width="1.0997681539807524in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ 124. is lodash that good?  performance comparison of javascript and lodash (110) ~~~~~-->
 <img src="./images/image124.webp?raw=true"
   style="width:30%"
   alt="Is Lodash that Good?  Performance Comparison of JavaScript and Lodash." />
-<!-- {width="2.9286603237095363in" height="1.0in"} -->
 </p>
 
 [Lodash](https://lodash.com/) is a JavaScript library that provides
@@ -4174,7 +4099,6 @@ than jQuery.
 <img src="./images/image125.webp?raw=true"
   style="width:20%"
   alt="Bideo launch offers the best way to get bids from video pros." />
-<!--{width="1.9190288713910761in" height="1.0in"} -->
 </p>
 
 [Bideo.js ](https://rishabhp.github.io/bideo.js/)is a free and open
@@ -4199,19 +4123,16 @@ features like playback speed control and full screen mode.
   <img src="./images/image126.webp?raw=true"
     style="width:10%"
     alt="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply." />
-<!-- {width="0.75in" height="0.7958858267716535in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <img src="./images/image127.webp?raw=true"
     style="width:10%"
     alt="Angular Logo black and white - brands logo." />
-<!-- {width="0.75in" height="0.7967147856517935in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <img src="./images/image128.webp?raw=true"
     style="width:45%"
     alt="Angular front-end framework." />
-<!-- {width="4.373833114610673in" height="0.8in"} -->
 </p>
 
 While Angular retains a rather large usage percentage, the interest in
@@ -4245,13 +4166,11 @@ preferences.
 <img src="./images/image129.webp?raw=true"
   style="width:20%"
   alt="VUE logo PNG transparent &amp; SVG vector - freebie supply." />
-<!-- {width="1.1582720909886264in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. 2nd vue logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image130.webp?raw=true"
   style="width:20%"
   alt="VUE.js logo history -- dvGlogo -- Logo service marketplace blog." />
-<!-- {width="2.097344706911636in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 131. vue.js logo with description (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4259,7 +4178,6 @@ preferences.
 <img src="./images/image131.webp?raw=true"
   style="width:50%"
   alt="VUE front-end framework." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Vue remains a solid choice for truly modern web development.
@@ -4295,19 +4213,16 @@ support for TypeScript, and testing tools.
 <img src="./images/image132.webp?raw=true"
   style="width:30%"
   alt="Svelte Logo PNG Vector (SVG) Free Download." />
-<!-- {width="3.125in" height="0.7708333333333334in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 133. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image133.webp?raw=true"
   style="width:20%"
   alt="A new opensource opponent for the web, SvelteJS - OpenExpo Europe 2020." />
-<!-- {width="1.8588232720909885in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 134. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image134.webp?raw=true"
   style="width:10%"
   alt="Svelte logo." />
-<!-- {width="0.8315791776027996in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. svelte.js (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4315,7 +4230,6 @@ support for TypeScript, and testing tools.
 <img src="./images/image135.webp?raw=true"
   style="width:50%"
   alt="Svelte front-end framework." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 So, what&apos;s the deal with Svelte? The framework has seen quite a bit of
@@ -4381,19 +4295,16 @@ Which is ideal for fast front-end development. Here is an example:
 <img src="./images/image136.webp?raw=true"
   style="width:10%"
   alt="Preact logo PNG transparent &amp; SVG vector - freebie supply." />
-<!-- {width="0.8649639107611549in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 137. using preact as a react alternatives - quick (108) ~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image137.webp?raw=true"
   style="width:35%"
   alt="Preact as a React alternative." />
-<!-- {width="3.125in" height="0.9375in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 138. replacing react with preact in your projects (108) ~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image138.webp?raw=true"
   style="width:35%"
   alt="Replacing React with Preact in your projects." />
-<!-- {width="3.2465748031496062in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 139. preact logo animation by luka mushkudiani (108) ~~~~~~~~~~~~~~~~~~~~-->
@@ -4401,13 +4312,11 @@ Which is ideal for fast front-end development. Here is an example:
 <img src="./images/image139.webp?raw=true"
   style="width:15%"
   alt="Preact logo animation by Luka Mushkudiani on Dribbble." />
-<!-- {width="1.3352110673665791in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 140. preact front-end framework (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image140.webp?raw=true"
   style="width:50%"
   alt="Preact front-end framework." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Meta frameworks have always been a thing. And, in this case, Preact aims
@@ -4438,19 +4347,16 @@ stability.
 <img src="./images/image141.webp?raw=true"
   style="width:15%"
   alt="Ember logo." />
-<!-- {width="1.3352110673665791in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 142. ember logo radio buttons (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image142.webp?raw=true"
   style="width:25%"
   alt="Ember radio buttons." />
-<!-- {width="2.2679429133858267in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image143.webp?raw=true"
   style="width:10%"
   alt="Ember logo - single color." />
-<!-- {width="0.8893055555555556in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4458,7 +4364,6 @@ stability.
 <img src="./images/image144.webp?raw=true"
   style="width:50%"
   alt="Ember front-end framework." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Ember goes back so long that it predates all the aforementioned
@@ -4484,13 +4389,11 @@ with major changes in the framework itself.
 <img src="./images/image145.webp?raw=true"
   style="width:10%"
   alt="Solid-js npm." />
-<!-- {width="1.0in" height="0.6582283464566929in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. solid js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image146.webp?raw=true"
   style="width:30%"
   alt="Testing your Solid.js code logo." />
-<!-- {width="3.0in" height="0.5506332020997375in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. solid js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4498,7 +4401,6 @@ with major changes in the framework itself.
 <img src="./images/image147.webp?raw=true"
   style="width:30%"
   alt="Solid JS front-end framework logo." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 SolidJS has been in active development since 2019. Yet, it was in the June of 2021 
@@ -4532,19 +4434,16 @@ but also frameworks like Vue and Redux.
 <img src="./images/image148.webp?raw=true"
   style="width:20%"
   alt="Build a lightweight web component with lit.js logo." />
-<!-- {width="1.7819553805774277in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 149. lit.js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image149.webp?raw=true"
   style="width:30%"
   alt="Lit JS logo." />
-<!-- {width="3.0in" height="0.9556955380577428in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. lit.js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image150.webp?raw=true"
   style="width:10%"
   alt="Lab launches a new logo and web design for LIT logo." />
-<!--{width="1.0in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 151. lit front-end framework logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4552,7 +4451,6 @@ but also frameworks like Vue and Redux.
 <img src="./images/image151.webp?raw=true"
   style="width:50%"
   alt="Lit JS front-end framework logo." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Lit (formerly lit-HTML and LitElement) is a web components framework
@@ -4625,13 +4523,11 @@ etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style fe
 <img src="./images/image156.webp?raw=true"
   style="width:20%"
   alt="Build a lightweight web component with stencil js." />
-<!-- {width="1.7819553805774277in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. stencil logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image157.webp?raw=true"
   style="width:30%"
   alt="Stencil JS logo." />
-<!-- {width="2.708571741032371in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 158. stencil front-end framework logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4639,7 +4535,6 @@ etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style fe
 <img src="./images/image158.webp?raw=true"
   style="width:50%"
   alt="Stencil front-end framework logo." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Stencil is a library for building reusable, scalable Design Systems. It
@@ -4680,19 +4575,16 @@ doc generation, and types.
 <img src="./images/image159.webp?raw=true"
   style="width:30%"
   alt="Qwik framework logo." />
-<!-- {width="2.72413823272091in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. qwik logo greeting card (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image160.webp?raw=true"
   style="width:20%"
   alt="Qwik logo greeting card." />
-<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161. qwik logo sticker (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image161.webp?raw=true"
   style="width:20%"
   alt="Qwik logo sticker." />
-<!-- {width="0.75in" height="1.0in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 162. qwik front-end framework logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4700,7 +4592,6 @@ doc generation, and types.
 <img src="./images/image162.webp?raw=true"
   style="width:50%"
   alt="Qwik front-end framework logo." />
-<!-- {width="5.0in" height="0.9145297462817148in"} -->
 </p>
 
 Qwik is a next-generation front-end framework designed to meet the
@@ -4732,25 +4623,21 @@ or executed.
 <img src="./images/image163.webp?raw=true"
   style="width:15%"
   alt="Moment.js logo." />
-<!-- {width="1.225353237095363in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image164.webp?raw=true"
   style="width:15%"
   alt="Moment.js logo vector." />
-<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image165.webp?raw=true"
   style="width:30%"
   alt="Moment.js logo." />
-<!-- {width="2.3939391951006126in" height="1.0in"}  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image166.webp?raw=true"
   style="width:15%"
   alt="Moment.js logo." />
-<!-- {width="1.0in" height="1.0in"} -->
 </p>
 
 <b>Moment.js</b> is a JavaScript package that makes it simple to parse,
@@ -4777,19 +4664,16 @@ run the code (see documentation).
 <img src="./images/image167.webp?raw=true"
   style="width:30%"
   alt="Popper.js logo." />
-<!-- {width="2.0in" height="1.0421937882764654in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. popper.js logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image168.webp?raw=true"
   style="width:15%"
   alt="Popper.js logo." />
-<!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. popper.js core logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image169.webp?raw=true"
   style="width:15%"
   alt="Popper.js logo." />
-<!-- {width="1.0in" height="1.0in"} -->
 </p>
 
 Popper.js is a positioning, popover and drop-down tooltip utility.
@@ -4809,7 +4693,6 @@ these can be generically described as a &quot;popper&quot; element.
 <img src="./images/image170.webp?raw=true"
   style="width:85%"
   alt="Popper.js website." />
-<!-- {width="7.0in" height="2.6264971566054243in"} -->
 <a href="https://popper.js.org" target="_blank">&lt;https://popper.js.org/&gt;</a>
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4818,10 +4701,8 @@ these can be generically described as a &quot;popper&quot; element.
 <img src="./images/image171.webp?raw=true"
   style="width:85%"
   alt="Code Sandbox.io." />
-<!-- {width="7.0in" height="2.6264971566054243in"} -->
 <a href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement" target="_blank">
 <subs>&lt;https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement&gt;</subs></a>
-<!-- {width="6.5in" height="2.60625in"} -->
 </p>
 
 For more documentation, see <a href="https://popper.js.org/docs/v2/" target="_blank">Popper Doc v2</a>.
@@ -4850,19 +4731,16 @@ projects](https://backbonejs.org/#examples) that use Backbone.
 <img src="./images/image173.webp?raw=true"
   style="width:15%"
   alt="Backbone.js logo." />
-<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. backbone.js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image174.webp?raw=true"
   style="width:20%"
   alt="Backbone.js logo." />
-<!-- {width="2.0in" height="1.2827001312335957in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. backbone.js (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image174.webp?raw=true"
   style="width:40%"
   alt="Backbone.js logo." />
-<!-- {width="4.0in" height="0.7088604549431321in"} -->
 </p>
 
 <h3>Backbone.js Stack</h3>
@@ -4899,19 +4777,16 @@ For more documentation on <a href="https://resthub.github.io/docs/backbone/layou
 <img src="./images/image175.webp?raw=true"
   style="width:15%"
   alt="Semantic UI logo." />
-<!-- {width="1.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image176.webp?raw=true"
   style="width:20%"
   alt="Semantic UI logo." />
-<!-- {width="2.0in" height="1.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image177.webp?raw=true"
   style="width:30%"
   alt="Semantic UI logo." />
-<!-- {width="3.1967213473315836in" height="1.0in"} -->
 </p>
 
 Semantic UI is a front-end development framework similar to bootstrap
@@ -4931,7 +4806,6 @@ frameworks to help organize UI layer alongside application logic.
 <img src="./images/image178.webp?raw=true"
   style="width:60%"
   alt="Semantic UI." />
-<!-- {width="4.0in" height="2.674786745406824in"} -->
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. semantic ui website theme (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4939,7 +4813,6 @@ frameworks to help organize UI layer alongside application logic.
 <img src="./images/image179.webp?raw=true"
   style="width:60%"
   alt="Semantic UI Website theme." />
-<!-- {width="4.0in" height="2.1465813648293963in"} -->
 </p>
 <p style="align:center"><sub>Example Semantic UI website theme.</sub></p>
 
@@ -4952,13 +4825,11 @@ For more information go to <a href="https://semantic-ui-forest.com/" target="_bl
 <img src="./images/image180.webp?raw=true"
   style="width:30%"
   alt="Gatsby logo." />
-<!-- {width="3.0in" height="1.3762817147856519in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. gatsby logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image181.webp?raw=true"
   style="width:15%"
   alt="Gatsby logo." />
-<!-- {width="1.38in" height="1.38in"} -->
 </p>
 
 It is an <b>open-source static website generator</b>, which "allows
@@ -4975,7 +4846,6 @@ his <a href="https://www.gatsbyjs.com/why-gatsby" target="_blank">website</a>.
 <img src="./images/image182.webp?raw=true"
   style="width:40%"
   alt="." />
-<!-- {width="4.0in" height="2.0931627296587925in"} -->
 </p>
 
 <p>The MEAN stack is a JavaScript-based framework for developing web
@@ -5001,19 +4871,16 @@ popular technology concepts for building web applications.</p>
 <img src="./images/image183.webp?raw=true"
   style="width:20%"
   alt="Aurelia logo." />
-<!-- {width="1.5in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image184.webp?raw=true"
   style="width:30%"
   alt="Aurelia logo." />
-<!-- {width="3.0in" height="1.077244094488189in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image185.webp?raw=true"
   style="width:30%"
   alt="Aurelia logo." />
-<!-- {width="2.0in" height="0.5933683289588801in"} -->
 </p>
 
 Aurelia is an open-source JavaScript framework for building web
@@ -5028,19 +4895,16 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 <img src="./images/image186.webp?raw=true"
   style="width:30%"
   alt="Knockout logo." />
-<!-- {width="3.0in" height="1.575in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image187.webp?raw=true"
   style="width:20%"
   alt="Knockout logo." />
-<!-- {width="2.0in" height="2.0in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image188.webp?raw=true"
   style="width:20%"
   alt="Knockout logo." />
-<!-- {width="1.0in" height="1.0in"} -->
 </p>
 
 Knockout.js is a lightweight JavaScript framework that helps you build
@@ -5056,19 +4920,16 @@ managing data and UI synchronization.
 <img src="./images/image189.webp?raw=true"
   style="width:30%"
   alt="Mithril logo." />
-<!-- {width="3.0in" height="1.145569772528434in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image190.webp?raw=true"
   style="width:20%"
   alt="Mithril logo." />
-<!-- {width="2.0in" height="1.1898731408573928in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image191.webp?raw=true"
   style="width:20%"
   alt="Mithril logo." />
-<!-- {width="1.0in" height="0.9442311898512686in"} -->
 </p>
 
 Mithril is a lightweight and fast JavaScript framework for building
@@ -5104,13 +4965,11 @@ crucial.
 <img src="./images/image194.webp?raw=true"
   style="width:25%"
   alt="Stimulus logo." />
-<!-- {width="2.0in" height="1.385in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. stimulus logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image195.webp?raw=true"
   style="width:25%"
   alt="Stimulus logo." />
-<!-- {width="2.0in" height="1.5in"} -->
 </p>
 
 <p>Stimulus is a JavaScript framework designed to add interactivity to HTML
@@ -5149,13 +5008,11 @@ functional approach.
 <img src="./images/image199.webp?raw=true"
   style="width:25%"
   alt="JavaScript Foundation logo." />
-<!-- {width="2.0in" height="0.601496062992126in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. js foundation logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image200.webp?raw=true"
   style="width:25%"
   alt="JS Foundation logo." />
-<!-- {width="2.0in" height="1.1111111111111112in"} -->
 </p>
 
 Foundation is a responsive front-end framework that provides a
@@ -5617,7 +5474,6 @@ and you don&apos;t want to go around and overwrite them later.
   style="width:60%"
   alt="Customize and download." />
 </p>
-<!-- {width="6.0in" height="3.374359142607174in"} -->
 
 <a href="https://codepen.io/ColleenEMc/pen/obwJGp/" target="_blank">Hello, world (Codepen)</a>
 
@@ -5930,7 +5786,6 @@ automatically stack.
   style="width:60%"
   alt="." />
 </p>
-<!-- {width="6.5in" height="0.3111111111111111in"} -->
 
 Get three columns <b>starting at desktops and scaling to large
 desktops</b> of various widths. Remember, grid columns should add up to
@@ -5943,7 +5798,6 @@ stacking no matter the viewport.
   style="width:60%"
   alt="col-md-3, col-md-6, and col-md-3." />
 </p>
-<!-- {width="6.5in" height="0.3111111111111111in"} -->
 
 Get two columns <b>starting at desktops and scaling to large desktops</b>.
 
@@ -5954,7 +5808,6 @@ Get two columns <b>starting at desktops and scaling to large desktops</b>.
   style="width:60%"
   alt="col-md-8 and col-md-4, two columns." />
 </p>
-<!-- {width="6.5in" height="0.29444444444444445in"} -->
 
 No grid classes are necessary for full-width elements.
 
@@ -5974,7 +5827,6 @@ columns will stack.
   style="width:60%"
   alt="Two columns with two nested columns." />
 </p>
-<!-- {width="6.5in" height="0.6381944444444444in"} -->
 
 <h3>Mixed: mobile and desktop</h3>
 
@@ -5985,7 +5837,6 @@ layouts.
 
 Each tier of classes scales up, meaning if you plan on setting the same
 widths for xs and sm, you only need to specify xs.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. mixed, mobile and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5993,7 +5844,6 @@ widths for xs and sm, you only need to specify xs.
   style="width:40%"
   alt="Mixed, mobile and desktop." />
 </p>
-<!-- {width="6.5in" height="1.1215277777777777in"} -->
 
 <h3>Mixed: mobile, tablet, and desktop</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6003,7 +5853,6 @@ widths for xs and sm, you only need to specify xs.
   style="width:60%"
   alt="Mixed, mobile, tablet and desktop." />
 </p>
-<!-- {width="6.5in" height="0.7159722222222222in"} -->
 
 <h3>Column clearing</h3>
 
@@ -6016,7 +5865,6 @@ widths for xs and sm, you only need to specify xs.
   style="width:40%"
   alt="Column clearing." />
 </p>
-<!-- {width="6.5in" height="0.54375in"} -->
 
 <h3>Offset, push, and pull resets</h3>
 
@@ -6028,7 +5876,6 @@ Reset offsets, pushes, and pulls at specific breakpoints.
   style="width:60%"
   alt="Offset, Push and Pull resets." />
 </p>
-<!-- {width="6.5in" height="0.7104166666666667in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch3-4">3-04. Bootstrap Grid System</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6268,7 +6115,6 @@ If I say col-XX-6, I&apos;m using 50% now.
   style="width:40%"
   alt="Using Bootstrap classes, #4." />
 </p>
-![](images/image243.webp){width="4.0in" height="2.0927351268591425in"}
 
 Col-XX-9, 75% and
 
@@ -6499,7 +6345,6 @@ with me.
   style="width:60%"
   alt="Large Screen: class=container and class=row in grid system." />
 </p>
-<!-- {width="6.0in" height="3.053205380577428in"} -->
 
 So, as you may recall, whenever you want to use the grid system for
 Bootstrap, it&apos;s important that you put two kind of wrapper classes
@@ -6520,7 +6365,6 @@ the same row at times. I&apos;m actually going to move this.
   style="width:60%"
   alt="Code with me - extra-small and small screens." />
 </p>
-<!-- {width="6.0in" height="5.575in"} -->
 
 I&apos;m going to bit of a smaller screen to start with. And when we do
 this, we&apos;re going to go through and look at how the code works
@@ -6535,7 +6379,6 @@ change at all. You can kind of trust me on that one.
   style="width:60%"
   alt="Code with me - medium screens." />
 </p>
-<!-- {width="6.0in" height="2.6814107611548557in"} -->
 
 So, we&apos;re just going to look at the first one, and look at what that
 code does. The first thing we need to realize is col-md-6 and col-lg-3.
@@ -6569,7 +6412,6 @@ and this one will suddenly show up.
   style="width:60%"
   alt="Medium screen." />
 </p>
-<!-- {width="6.0in" height="5.0378204286964126in"} -->
 
 Let&apos;s take a look. Right here, I&apos;ve just hit the medium view port
 screen size, and a few things have happened. First, the div that said
@@ -6595,7 +6437,6 @@ having four on top of each other, we have two pairs of two.
   style="width:60%"
   alt="Large screen." />
 </p>
-<!-- {width="6.0in" height="4.208333333333333in"} -->
 
 Last thing I&apos;m going to do next, of course, is go to the even larger
 screen. So, in this next step, as we reach the larger screen, the same
@@ -6748,7 +6589,6 @@ Bootstrap CSS.
   style="width:60%"
   alt="Codepen - add Bootstrap." />
 </p>
-<!-- {width="6.0in" height="3.114103237095363in"} -->
 
 Let&apos;s go ahead and do that now. I&apos;m going to go into Settings, I&apos;m
 going to click on CSS and I&apos;m going to go down here to quick add and
@@ -6761,7 +6601,6 @@ add Bootstrap. And as soon as I save that, boom, there you go.
   style="width:40%"
   alt="HTML for navigation bars." />
 </p>
-<!-- {width="4.09375in" height="3.4166666666666665in"} -->
 
 That looks like a much more professionally designed navigation bar. When
 you use the tabs, it&apos;s supposed to simulate that kind of look you see
@@ -6774,7 +6613,6 @@ in a file tabbing system where you kind of flip through.
   style="width:40%"
   alt="More HTML for navigation bars." />
 </p>
-<!-- {width="4.09375in" height="3.4166666666666665in"} -->
 
 Now, let&apos;s look at nav-pills. Here you can see that each one of the
 links, basically, has a different color. You can go in, this one is
@@ -6796,7 +6634,6 @@ early on.
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="2.260683508311461in"} -->
 
 Once you&apos;ve decided on either tabs or pills, another thing you're going
 to consider is the layout. Do you want your navigation bar to be
@@ -6824,7 +6661,6 @@ simple class completely changes the look of our page.
   style="width:60%"
   alt="." />
 </p>
-<!-- {width="6.0in" height="2.257050524934383in"} -->
 
 Another option that we can use is nav-justified. When you use
 nav-justified, by default, it&apos;s going to take as many links as you have
@@ -6841,7 +6677,6 @@ changes the look of the page.
   style="width:60%"
   alt="." />
 </p>
-<!-- {width="6.0in" height="4.391304680664917in"} -->
 
 So now as I make it smaller, it changes from justified per stack. This
 gives a kind of really cool look without you having to do much about it.
@@ -6855,7 +6690,6 @@ horizontal.
   style="width:60%"
   alt="Dropdowns." />
 </p>
-<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 Another thing you see a lot of people like to add to their navigation
 bars are these drop-down menus where you have different options, but
@@ -7006,7 +6840,6 @@ possibly make.</p>
   style="width:60%"
   alt="." />
 </p>
-<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 So first, I need to know, did I link to the Bootstrap JavaScript files?
 I can check up and there&apos;s nothing there. I can check my settings and I
@@ -7025,7 +6858,6 @@ comment it out.
   style="width:60%"
   alt="." />
 </p>
-<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 I&apos;m going to go back here and say, oop, I know there&apos;s a script I&apos;m
 supposed to have down at the bottom. The one that links to jQuery, I&apos;m
@@ -7076,7 +6908,6 @@ is very important. You can have navbarstatic at the top. Navbar-fixed to
 the top or navbar-fixed to the bottom and this is going to affect where
 your different, where your navbar is going to show up and how it
 interacts with the other elements.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. codepen - nav-pills (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7084,7 +6915,6 @@ interacts with the other elements.
   style="width:60%"
   alt="Codepen - example nav-pills." />
 </p>
-<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 Let&apos;s take a quick look. What I have here is that I&apos;ve wrapped up my
 typical nav with nav-pills and I&apos;ve put it inside of a navbar class. I
@@ -7106,7 +6936,6 @@ means it&apos;s on top, it&apos;s not going to move.
   style="width:60%"
   alt="Codepen - hiding nav bar." />
 </p>
-<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 So, if I go back down to my screen now, you can see that it actually
 hides some of the other stuff that&apos;s there. I&apos;m going to make my
@@ -7120,7 +6949,6 @@ impossible to see the things that are underneath the navbar.
   style="width:60%"
   alt="Codepen - navbar, nav-pills and container." />
 </p>
-<!-- {width="6.0in" height="3.385897856517935in"} -->
 
 When you use fixed just be careful, the last option was to use bottom.
 And here what I&apos;ve done is I&apos;ve simply moved my navbar from the top to
@@ -7134,7 +6962,6 @@ the ability to scroll up and down and at least see them.
   style="width:40%"
   alt="Accessibility.  Nav tag and nav classes are not equal." />
 </p>
-<!-- {width="4.0in" height="2.2572648731408576in"} -->
 
 Back when you were learning about HTML, hopefully, you learned about
 semantic tags. Some tags are very generic div, P, different things like
@@ -7261,7 +7088,6 @@ current trends. You can&apos;t live in a bubble.
   style="width:40%"
   alt="Make your images responsive - with Bootstrap." />
 </p>
-<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 Hi everybody. Let&apos;s talk about images. I think we&apos;ve all been to
 places, where you&apos;ve been on a website and particularly if it&apos;s not a
@@ -7281,7 +7107,6 @@ we&apos;re going to talk about two different approaches.
   style="width:40%"
   alt="Your own code." />
 </p>
-<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 One is to write your own code to do this, and the second is to use
 Bootstrap and some of the built-in Bootstrap classes. In your own code,
@@ -7311,7 +7136,6 @@ don&apos;t want it to have so much emphasis.
   style="width:40%"
   alt="Your own code, #2." />
 </p>
-<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 In the same way, you can also set a min-width, where if the screen is
 very small, you don&apos;t necessarily be proportional to the screen any
@@ -7326,7 +7150,6 @@ what&apos;s going to happen is it&apos;s going to skew.
   style="width:40%"
   alt="Your own code, #3." />
 </p>
-<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 You can&apos;t get it exactly right. So usually, you just set the height to
 auto or leave it along.
@@ -7337,7 +7160,6 @@ auto or leave it along.
   style="width:40%"
   alt="Using Bootstrap." />
 </p>
-<!-- {width="4.0in" height="2.247435476815398in"} -->
 
 Many people really like to use the Bootstrap classes with their images,
 and that&apos;s because they provide a number of image classes, some of them
@@ -7358,7 +7180,6 @@ a small size, we&apos;ll take a look at those in just a second.
   style="width:60%"
   alt="img-responsive." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 But first, let's take a closer look at that img-responsive class. What
 I&apos;ve done here is I&apos;ve taken a quick screenshot of what the inspect
@@ -7375,7 +7196,6 @@ yourself. Let&apos;s look at those other classes as well.
   style="width:60%"
   alt="Codepen - Single image." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 So, what I have right here is a single image in code pen. There are no
 classes applied. I went ahead and I put it inside a div. And I&apos;m going
@@ -7388,7 +7208,6 @@ to re-size the screen a bit.
   style="width:60%"
   alt="Codepen - Phone-sized single image." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 That you can see my dog stays there, he doesn&apos;t shrink, he doesn&apos;t do
 anything like that.
@@ -7411,7 +7230,6 @@ Img {
   style="width:60%"
   alt="Re-size based on width of parent." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 It would be possible for me to go in and do something along the lines of
 image with 75%. And what that means, is it&apos;s going to take its width
@@ -7426,7 +7244,6 @@ this is exactly the kind of responsive behavior that we want to see.
   style="width:60%"
   alt="Responsive Bootstrap - rounded edges." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 Let&apos;s see how it works, if we use Bootstrap instead. I&apos;m going to go
 in and get rid of that. Now, one of the things I&apos;ve done when I created
@@ -7444,7 +7261,6 @@ responsive behavior.
   style="width:60%"
   alt="Image responsive bootstrap - rounded edges." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 Let&apos;s see what those other kinds of visual ones do for us. We can have
 image rounded. And, it&apos;s probably barely perceptible to you, but you
@@ -7457,7 +7273,6 @@ can have this little tiny curving, right here, curved just a little bit.
   style="width:60%"
   alt="Rounded image." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 Let&apos;s go for image circle, so you can really see when something
 happens. And as you can see, it really just cuts off part of the
@@ -7470,7 +7285,6 @@ pictures, so you can have that circle look.
   style="width:60%"
   alt="Image thumbnail." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 The last one I&apos;m going to do, which we can actually add at the same
 time actually just do it here, image thumbnail, hit save. It probably is
@@ -7493,7 +7307,6 @@ you&apos;re really happy with the defaults. Let&apos;s look at one more example.
   style="width:60%"
   alt="Seven images on two rows.  6 on row 1, 1 on row 2." />
 </p>
-<!-- {width="6.0in" height="3.3711537620297465in"} -->
 
 So, let&apos;s go ahead and look at this example, where I put together the
 Thumbnail class, along with some of our Grid classes to give you an idea
@@ -7509,7 +7322,6 @@ of cool gallery effect.
   style="width:60%"
   alt="Div container row with 7 images." />
 </p>
-<!-- {width="6.0in" height="3.4191174540682416in"} -->
 
 Let's start by showing you the code. It&apos;s really simple. Kind of
 quick. Every single line says this same exact thing. It simply, I give
@@ -7531,7 +7343,6 @@ there were one, two, three, four, five, six. All right.
   style="width:60%"
   alt="On small screen, 1 image." />
 </p>
-<!-- {width="6.0in" height="6.9375in"} -->
 
 So, let&apos;s look at the small screen. Well, now this is interesting
 because I&apos;m looking at it and nowhere do I say that something should
@@ -7552,7 +7363,6 @@ you get one dog.
   style="width:60%"
   alt="Two columnar images." />
 </p>
-<!-- {width="6.0in" height="6.9375in"} -->
 
 The small screen you get two in each row.
 
@@ -7564,7 +7374,6 @@ Then you go to three on the media screen image size.
   style="width:60%"
   alt="7 images of bacon, teachers dog, 6 in first row, 1 in second." />
 </p>
-<!-- {width="6.0in" height="4.747436570428697in"} -->
 
 And then, you pop over to six. That&apos;s the way things are going on here.
 Have some fun with images. Images are always fun. People like to see
@@ -7627,7 +7436,6 @@ part is to get as much experience and practice as possible.
   style="width:40%"
   alt="." />
 </p>
-<!-- {width="4.0in" height="2.0858978565179354in"} -->
 
 Hi everybody. Today, we&apos;re going to talk about tables. Many people use
 Bootstrap for styling their tables. I find that Bootstrap is very
@@ -7648,7 +7456,6 @@ classes on top of each other to get a really specific look.
   style="width:30%"
   alt="Bootstrap tables, #2." />
 </p>
-<!-- {width="4.0in" height="2.0858978565179354in"} -->
 
 The table class, the class just class equals table, it&apos;s the
 foundation. You need to have that class every time you style tables.
@@ -7659,7 +7466,6 @@ foundation. You need to have that class every time you style tables.
   style="width:30%"
   alt="Classes - tabl and table-striped." />
 </p>
-<!-- {width="4.0in" height="2.0858978565179354in"} -->
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -7681,7 +7487,6 @@ transparent.
   style="width:30%"
   alt="Classes - table-bordered and table-hover." />
 </p>
-<!-- {width="4.0in" height="2.2576924759405075in"} -->
 
 You can also add borders to your table where it will add a border to the
 tables and the cells inside the table.
@@ -7697,7 +7502,6 @@ think a little cooler than it is.
   style="width:30%"
   alt="Responsive tables - default under 768 for horizontal scrolling." />
 </p>
-<!-- {width="4.0in" height="2.2576924759405075in"} -->
 
 How it works is that Bootstrap sets one breakpoint for responsive
 tables.
@@ -7715,7 +7519,6 @@ default view. There&apos;s no default scrolling at the bottom.
   style="width:40%"
   alt="Row, header &amp; cell classes." />
 </p>
-<!-- {width="4.0in" height="2.2576924759405075in"} -->
 
 It&apos;s also possible to style some of the individual elements. Instead of
 the entire table, you can style a single cell, part of a row, or part of
@@ -7741,7 +7544,6 @@ went in and included the link to Bootstrap style in CodePen.
   style="width:60%"
   alt="Add some classes." />
 </p>
-<!-- {width="7.0in" height="3.9449792213473316in"} -->
 
 So now, I&apos;m just going to add some classes so you can see how it looks.
 When I add table class equals table, right away you can see wow, that
@@ -7755,7 +7557,6 @@ that really does look like a table.
   style="width:60%"
   alt="Table striped example." />
 </p>
-<!-- {width="7.0in" height="3.9449792213473316in"} -->
 
 I can add in table-striped, and before I hit that D, I want you to look
 at the picture, and then look again. You&apos;re going to want to look at
@@ -7777,7 +7578,6 @@ between.
   style="width:60%"
   alt="Table hover and table-bordered example." />
 </p>
-<!-- {width="7.0in" height="3.9449792213473316in"} -->
 
 The last one I&apos;m going to add right here is the table hover. When I
 save that one, again, it&apos;s a very gentle look. It&apos;s not something you
@@ -7793,7 +7593,6 @@ on.
   style="width:40%"
   alt="Table hover example." />
 </p>
-<!-- {width="4.0in" height="2.4218755468066493in"} -->
 
 First, let&apos;s look at this table when I make the screen really small.
 Here we go, as I make it smaller and smaller it&apos;s just going to shrink
@@ -7821,7 +7620,6 @@ responsive, oops, table responsive, to the div class.
   style="width:40%"
   alt="Scroll example bar." />
 </p>
-<!-- {width="4.0in" height="2.1333333333333333in"} -->
 
 I&apos;m going to save it, and now when I resize it, at first, it doesn&apos;t
 look very much different, but now, if I actually go to the table, you
@@ -7839,7 +7637,6 @@ basically going to let people scroll.
   style="width:60%"
   alt="Example in CodePen, html only." />
 </p>
-<!-- {width="7.0in" height="2.975748031496063in"} -->
 
 I&apos;m going to get rid of some of this extra ugliness for just a second.
 Get it back to our old one, and then the last thing I was going to show
@@ -7859,7 +7656,6 @@ this one again you can see that it turns in a kind of yellowish color.
   style="width:40%"
   alt="Tables - Should You Use Them?" />
 </p>
-<!-- {width="4.0in" height="2.2547003499562557in"} -->
 
 I&apos;m not a super big fan of some of these classes just because they&apos;re
 so nuanced and hard to even tell. Visually, I think it&apos;d probably be
@@ -7909,7 +7705,6 @@ menu (see end of module for source).
   style="width:60%"
   alt="Example in CodePen - RD Advanced Navigation." />
 </p>
-<!-- {width="6.0in" height="3.382050524934383in"} -->
 
 Let&apos;s take a look at what happens when we put it into CodePen. So, what
 I have here is the HTML that&apos;s needed to make a really kind of cool,
@@ -7936,7 +7731,6 @@ do this.
   style="width:60%"
   alt="CodePen settings, Add Bootstrap Advanced Navigation." />
 </p>
-<!-- {width="6.5in" height="3.6638888888888888in"} -->
 
 Settings &gt; CSS, you know what? I want to add Bootstrap, and I&apos;ve got
 it. As soon as I do that, you can see like, hey, this is a really much
@@ -7948,7 +7742,6 @@ better-looking navigation bar. I&apos;ve got all the different components.
   style="width:40%"
   alt="Collapsible menu - websitename." />
 </p>
-<!-- {width="4.0in" height="2.581560586176728in"} -->
 
 And if you watch, as I re-size it and make it smaller, we get this kind
 of collapsible menu. People tend to call this the hamburger, because you
@@ -7960,7 +7753,6 @@ have the three lines.
   style="width:40%"
   alt="Where do these different parts come from?" />
 </p>
-<!-- {width="4.0in" height="4.728132108486439in"} -->
 
 Where do these different parts come from? Well, if you look right here,
 you can see that I&apos;ve got three classes called icon-bar, icon-bar,
@@ -8005,7 +7797,6 @@ at times, so let&apos;s take a look.
   style="width:60%"
   alt="Start with mobile view." />
 </p>
-<!-- {width="6.0in" height="3.2980774278215224in"} -->
 
 I&apos;m going to start with the mobile view because I&apos;m really curious how
 this showed up. Why is this here when it wasn&apos;t here before, so if I
@@ -8089,7 +7880,6 @@ right direction.
   style="width:40%"
   alt="getbootstrap.com - Getting Started." />
 </p>
-<!-- {width="4.0in" height="2.2658114610673667in"} -->
 
 This first link comes from getbootstrap.com. These are just the ones
 that provide you when you first get started. These other two,
@@ -8102,7 +7892,6 @@ either through word of mouth or through a search engine.
   style="width:60%"
   alt="getbootstrap.com - Getting Started." />
 </p>
-<!-- {width="6.0in" height="3.424359142607174in"} -->
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -8118,7 +7907,6 @@ different links, and things like that.
   style="width:60%"
   alt="Basic template, HTML." />
 </p>
-<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 What I&apos;m going to show you is that if I quickly scroll down.
 
@@ -8134,7 +7922,6 @@ like this one right here.
   style="width:60%"
   alt="Starter template." />
 </p>
-<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 Or I really like the look of this one. And you can use it to build very
 basic templates. Again, nothing too fancy, because the assumption is
@@ -8146,7 +7933,6 @@ that you&apos;re here to learn, more than to use as your professional site.
   style="width:60%"
   alt="Free Bootstrap themes." />
 </p>
-<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 If you want to go a couple steps up, let&apos;s go ahead and take a look at
 this next option. So here I am at bootstrapzero.com, and you can see
@@ -8160,7 +7946,6 @@ zone, do you want it to have kind of a dashboard look, you can pick.
   style="width:60%"
   alt="Landing zone theme." />
 </p>
-<!-- {width="6.0in" height="3.527564523184602in"} -->
 
 So, if I clicked on this landing zone theme, I&apos;m going to go right
 here, Then, what you get is a much more detailed description of what
@@ -8175,7 +7960,6 @@ the grid, and we use a form, and we have a video background.
   style="width:60%"
   alt="Simple one page design." />
 </p>
-<!-- {width="4.0in" height="2.3517093175853017in"} -->
 
 But what you probably really care about at this point is, what does it
 look like? So let&apos;s hit this preview button right down here. And
@@ -8219,7 +8003,6 @@ So again, they break it down in different ideas.
   style="width:60%"
   alt="Bootstrap download and preview blog example." />
 </p>
-<!-- {width="6.0in" height="3.6596161417322834in"} -->
 
 Do you want a blog page? Hey, let&apos;s go ahead and preview and download
 that one. Each one of these elements are going to have things that you
@@ -8916,7 +8699,6 @@ Codeschool has free course about DevTools:
   style="width:30%"
   alt="Michigan Online Logo." />
 </p>
-<!-- {width="3.0in" height="0.3961537620297463in"} -->
 
 Want to keep learning? Explore hundreds of learning experiences from the
 University of Michigan faculty and instructional teams on [Michigan
@@ -8928,7 +8710,7 @@ of Michigan!
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 11-10-2023 11:50am -->
+<!-- 12-31-2023 7:19pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
