@@ -87,7 +87,7 @@ UofM - Advanced Styling - git</a>
 
 <h2 align="center"></h2>
 
-<h2 name="chb-01">b-01. Syllabus</h2>
+<h2 id="chb-01">b-01. Syllabus</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -153,7 +153,7 @@ will be sufficient to get a decent base on how responsive design works.
 For other learners however, there is nothing better than when they
 decide they can write better versions of the code.
 
-<h3 id="chb-02">b-02. Resources</h3>
+<h2 id="chb-02">b-02. Resources</h2>
 
 <h3>Course Site</h3>
 
@@ -205,7 +205,7 @@ question already there. If you don&apos;t find your question, make sure to
 post. There are no &quot;stupid&quot; questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-<h2 name="cha-03">a-03. Course Slides</h2>
+<h2 id="cha-03">a-03. Course Slides</h2>
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -222,7 +222,7 @@ section to view them.
   alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0"  target="_blank"/>
 </p>
 
-<h2 name="cha-01">a-01. About.</h2>
+<h2 id="cha-01">a-01. About.</h2>
 
 <h3>There are 4 modules in this course</h3>
 
@@ -275,7 +275,7 @@ capstone project.
 
 </details>
 
-<h2 name="ch1">01. Style with Responsive Design</h2>
+<h2 id="ch1">01. Style with Responsive Design</h2>
 
 What does it mean to have responsive design for your site? How can you
 tell if your existing site is responsive? This week we will begin with
@@ -314,7 +314,7 @@ using fluid measurements in your CSS.
 
 -   CSS definitions of relative and absolute
 
-<h2 name="ch2">02. Basic Concepts</h2>
+<h2 id="ch2">02. Basic Concepts</h2>
 
 This week you will get a chance to put the theories into practice using
 media queries in your CSS. These queries can automatically detect the
@@ -345,7 +345,7 @@ sizes (&quot;viewports&quot;).
 
 -   Week Two Review: Media Queries and breakpoints
 
-<h2 name="ch3">03. Use Existing Frameworks</h2>
+<h2 id="ch3">03. Use Existing Frameworks</h2>
 
 After every good programmer has put in time creating sites from scratch,
 it is common to utilize existing tools out there. After all, why
@@ -379,7 +379,7 @@ JavaScript yourself).
 
 -   Grid System Check
 
-<h2 name="ch4">04. Experiment!</h2>
+<h2 id="ch4">04. Experiment!</h2>
 
 This week is dedicated to solving those little issues that pop up when
 you move from theory to practice. We look at more advanced framework
@@ -420,7 +420,7 @@ in this course.
 
 <h3>Resources</h3>
 
-<h2 name="chb-04">b-04. Pixel to Em conversion tool</h2>
+<h2 id="chb-04">b-04. Pixel to Em conversion tool</h2>
 
 <a href="http://pxtoem.com" target="_blank">Pixel to Em Conversion Tool:</a>
 
@@ -429,7 +429,7 @@ in this course.
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-<h2 name="chb-05">b-05. Dynamically change the size of font with sliders</h2>
+<h2 id="chb-05">b-05. Dynamically change the size of font with sliders</h2>
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -453,7 +453,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-1">1-01. Introduction to Responsive Design</h2>
+<h2 id="ch1-1">1-01. Introduction to Responsive Design</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -681,7 +681,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you&apos;ll
 learn a lot. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-2">1-02. What is Responsive Design?</h2>
+<h2 id="ch1-2">1-02. What is Responsive Design?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody, so you&apos;re here and I&apos;m here, and we&apos;re here to talk
 about responsive design.
@@ -851,7 +851,7 @@ Let&apos;s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we&apos;re going to get started
 coding right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-3">1-03. Testing Existing Sites</h2>
+<h2 id="ch1-3">1-03. Testing Existing Sites</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. One of the things that you&apos;re going to want to do is
 test your site to see how it&apos;s doing across multiple devices and
@@ -1049,7 +1049,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren&apos;t
 responsive. Don&apos;t worry, yours will be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-4">1-04. Benefits of Responsive Design</h2>
+<h2 id="ch1-4">1-04. Benefits of Responsive Design</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today, let&apos;s talk about some of the benefits of
 responsive design.
@@ -1194,7 +1194,7 @@ Additional best practices for separate URLs;
   style="width:60%"
   alt="Additional best practices." />
 
-<h2 name="chb-03">b-03. Fluid Measurements: Background readings</h2>
+<h2 id="chb-03">b-03. Fluid Measurements: Background readings</h2>
 
 I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -1219,7 +1219,7 @@ lecture on Fluid Measurements.
     is not the case for other students.)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-5">1-05. Fluid Measurements</h2>
+<h2 id="ch1-5">1-05. Fluid Measurements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. fluid measurements (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1390,7 +1390,7 @@ of see what you can make it do. For that reason, our next module is
 going to be an example of me moving from absolute to relative
 measurements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-6">1-06. Code With Me: Fluid Measurements</h2>
+<h2 id="ch1-6">1-06. Code With Me: Fluid Measurements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 One of the things we always talk about is that there&apos;s a real
 difference between sitting and listening to me talk about something, and
@@ -1615,7 +1615,7 @@ i hate myself with no elite.</p>
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch2-1">2-01. Media Queries</h2>
+<h2 id="ch2-1">2-01. Media Queries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today we are going to talk about Media queries.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1776,7 +1776,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we&apos;ll go ahead and we&apos;ll do something together.
 Good luck,</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch2-2">2-02. Code With Me: Fluid Measurements and Media Queries</h2>
+<h2 id="ch2-2">2-02. Code With Me: Fluid Measurements and Media Queries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hey everybody, welcome back. Let&apos;s go look at some code together.</p>
 
@@ -1967,7 +1967,7 @@ i hate myself with no elite.</p>
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch2-3">2-03. Wire Frames</h2>
+<h2 id="ch2-3">2-03. Wire Frames</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Today, we&apos;re going to talk about wireframes and as we talk about them, I 
 have to admit the way in which I teach web design doesn&apos;t really mimic the 
@@ -2183,7 +2183,7 @@ really too big. Maybe I should be breaking it up in to more sections.</p>
 
 <http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch2-4">2-04. Breakpoints</h2>
+<h2 id="ch2-4">2-04. Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I&apos;ve actually
@@ -2319,7 +2319,7 @@ mean again, is this an example of triggering, and I really hope you&apos;ll
 really understand mobile first by the time that we&apos;re done with this
 course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch2-5">2-05. Media Queries Part Two</h2>
+<h2 id="ch2-5">2-05. Media Queries Part Two</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
@@ -2585,7 +2585,7 @@ body{
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch2-6">2-06. Code with Me: Responsive Navigation</h2>
+<h2 id="ch2-6">2-06. Code with Me: Responsive Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody, today, with this lecture I&apos;m hoping you&apos;ll sit with me
 and write up some code where we use media queries to produce responsive
@@ -2792,7 +2792,7 @@ sense. Where you know that on small screen phones they really do do
 their navigation differently than if you&apos;re on a laptop. Good luck, and
 make sure to post questions if you run into trouble.
 
-<h2 name="chb-06">b-06. Good examples of responsive design</h2>
+<h2 id="chb-06">b-06. Good examples of responsive design</h2>
 
 The following is a link to good examples of 
 <a href="http://www.awwwards.com/50-examples-of-responsive-web-design.html" target="_blank">
@@ -2954,7 +2954,7 @@ nav a{
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch3-1">3-01. Frameworks</h2>
+<h2 id="ch3-1">3-01. Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 96. frameworks - code and structure (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3275,7 +3275,7 @@ themselves. The list goes down in accordance with the rankings we saw earlier. I
 have provided a general overview of each of the frameworks, as well as links to 
 GitHub and the framework&apos;s website.</p>
 
-<h2 name="ch01">01 -- React</h2>
+<h2 id="ch01">01 -- React</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104/105. react logo and framework (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3649,7 +3649,7 @@ The number of hours this saves from the development process can be enormous.</p>
 and Semantic UI are some of the best UIs for ReactJS. Ant Design,
 Chakra UI, Fluent UI, and Evergreen are also popular UIs.</p>
 
-<h2 name="ch02">02 -- jQuery</h2>
+<h2 id="ch02">02 -- jQuery</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. jquery logo (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3857,7 +3857,7 @@ $( "#date" ).datepicker();
   alt="Calendar." />
 </p>
 
-<h2 name="ch03">03 -- Bootstrap v5.2.3</h2>
+<h2 id="ch03">03 -- Bootstrap v5.2.3</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 112/113/114/115. bootstrap logos (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3943,7 +3943,7 @@ CDN links</a>.
 
 <https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js>
 
-<h2 name="ch04">04 -- D3.js</h2>
+<h2 id="ch04">04 -- D3.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 116. d3.js logo poster by bryngo redbubble (109) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3993,7 +3993,7 @@ data. It was released in 2011.
 
 -   Animation
 
-<h2 name="ch05">05 -- anime.js</h2>
+<h2 id="ch05">05 -- anime.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 118. anime.js logo, 2019 for animation (109) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4021,7 +4021,7 @@ And because it's built on top of jQuery, you can take advantage of all
 the features that jQuery offers, such as [event
 handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 
-<h2 name="ch06">06 -- chart.js</h2>
+<h2 id="ch06">06 -- chart.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 120. getting started with chart.js introduction (110) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4072,7 +4072,7 @@ among developers who are already familiar with the library.
 Additionally, chart.js has a wide range of features that can be helpful
 in creating charts and visualizations.
 
-<h2 name="ch07">07 -- lodash</h2>
+<h2 id="ch07">07 -- lodash</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~ 123. lodash logo png transparent &amp; svg vector - freebie supply (110) ~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4101,7 +4101,7 @@ offers a chainable API for manipulating data.
 However, lodash is more functional in nature and provides more features
 than jQuery.
 
-<h2 name="ch08">08 -- Bideo.js</h2>
+<h2 id="ch08">08 -- Bideo.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 125. bideo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4125,7 +4125,7 @@ Microsoft. Video.js is open source and free to use.
 Bideo.js can be used to create custom controls for a video, or to add
 features like playback speed control and full screen mode.
 
-<h2 name="ch09">09 -- Angular</h2>
+<h2 id="ch09">09 -- Angular</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4168,7 +4168,7 @@ preferences.
 <a href="https://angular.io/" target="_blank">Angular Website</a><br>
 <a href="https://github.com/angular/angular" target="_blank">Angular GitHub</a>
 
-<h2 name="ch10">10 -- VueJS</h2>
+<h2 id="ch10">10 -- VueJS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 129. vue.js logos (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4215,7 +4215,7 @@ support for TypeScript, and testing tools.
 <a href="https://vuejs.org/" target="_blank">Vue Website</a><br>
 <a href="https://github.com/vuejs" target="_blank">Vue GitHub</a>
 
-<h2 name="ch11">11 -- Svelte</h2>
+<h2 id="ch11">11 -- Svelte</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 132. svelte logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4296,7 +4296,7 @@ Which is ideal for fast front-end development. Here is an example:
 <a href="https://svelte.dev/" target="_blank">Svelte Website</a><br>
 <a href="https://github.com/sveltejs/svelte" target="_blank">Svelte GitHub</a>
 
-<h2 name="ch12">12 -- Preact</h2>
+<h2 id="ch12">12 -- Preact</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 136. preact logo (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4349,7 +4349,7 @@ stability.
 <a href="https://preactjs.com/" target="_blank">Preact Website</a><br>
 <a href="https://github.com/preactjs/preact" target="_blank">Preact GitHub</a>
 
-<h2 name="ch13">13 -- EmberJS</h2>
+<h2 id="ch13">13 -- EmberJS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. ember logo (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4391,7 +4391,7 @@ with major changes in the framework itself.
 <a href="https://emberjs.com/" target="_blank">Ember Website</a><br>
 <a href="https://github.com/emberjs/ember.js" target="_blank">Ember GitHub</a>
 
-<h2 name="ch14">14 - Solid</h2>
+<h2 id="ch14">14 - Solid</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. solid js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4436,7 +4436,7 @@ but also frameworks like Vue and Redux.
 <a href="https://solidjs.com/" target="_blank">SolidJS Website</a><br>
 <a href="https://github.com/solidjs/solid" target="_blank">SolidJS GitHub</a>
 
-<h2 name="ch15">15 - Lit</h2>
+<h2 id="ch15">15 - Lit</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 148. lit.js logo (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4479,7 +4479,7 @@ implements standardized web components.
 <a href="https://lit.dev/" target="_blank">LitJS Website</a><br>
 <a href="https://github.com/lit/lit" target="_blank">LitJS GitHub</a>
 
-<h2 name="ch16">16 - Alpine</h2>
+<h2 id="ch16">16 - Alpine</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 152. alpine js logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4525,7 +4525,7 @@ etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style fe
 <a href="https://alpinejs.dev/" target="_blank">AlpineJS Website</a><br>
 <a href="https://github.com/alpinejs/alpine" target="_blank">AlpineJS GitHub</a>
 
-<h2 name="ch17">17 -- Stencil</h2>
+<h2 id="ch17">17 -- Stencil</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. stencil logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4577,7 +4577,7 @@ doc generation, and types.
 <a href="https://stenciljs.com/" target="_blank">StencilJS Website</a><br>
 <a href="https://github.com/ionic-team/stencil" target="_blank">StencilJS GitHub</a>
 
-<h2 name="ch18">18 - Qwik</h2>
+<h2 id="ch18">18 - Qwik</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. qwik logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4625,7 +4625,7 @@ or executed.
 <a href="https://qwik.builder.io/" target="_blank">Qwik Builder Website</a><br>
 <a href="https://github.com/BuilderIO/qwik" target="_blank">Qwik Builder GitHub</a>
 
-<h2 name="ch19">19 -- Moment.js</h2>
+<h2 id="ch19">19 -- Moment.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4666,7 +4666,7 @@ the latest moment.js file available and then add the link inside the
 script tag. Without downloading the file, you can also use CDN link to
 run the code (see documentation).
 
-<h2 name="ch20">20 -- popper.js</h2>
+<h2 id="ch20">20 -- popper.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. popper.js logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4716,7 +4716,7 @@ these can be generically described as a &quot;popper&quot; element.
 
 For more documentation, see <a href="https://popper.js.org/docs/v2/" target="_blank">Popper Doc v2</a>.
 
-<h2 name="ch21">21 -- BackboneJS</h2>
+<h2 id="ch21">21 -- BackboneJS</h2>
 
 Backbone.js gives structure to web applications by providing models with
 key-value binding and custom events, collections with a rich API of
@@ -4779,7 +4779,7 @@ the reference example project using this stack.
 For more documentation on <a href="https://resthub.github.io/docs/backbone/layout/" target="_blank">Backbone Stack</a>, try
 <https://resthub.github.io/docs/backbone/layout/>.
 
-<h2 name="ch22">22 -- SemanticUI</h2>
+<h2 id="ch22">22 -- SemanticUI</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4827,7 +4827,7 @@ frameworks to help organize UI layer alongside application logic.
 
 For more information go to <a href="https://semantic-ui-forest.com/" target="_blank">Semantic UI Forest</a>.
 
-<h2 name="ch23">23 -- Gatsby</h2>
+<h2 id="ch23">23 -- Gatsby</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. gatsby logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4848,7 +4848,7 @@ integration of different content, APIs and services in a web experience
 is incredibly simple", explains Gatsby js on
 his <a href="https://www.gatsbyjs.com/why-gatsby" target="_blank">website</a>.
 
-<h2 name="ch24">24 -- The MEAN Stack</h2>
+<h2 id="ch24">24 -- The MEAN Stack</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. mean stack framework (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4873,7 +4873,7 @@ the four key technologies that make up the layers of the stack.</p>
 React.js) and MEVN (using Vue.js). The MEAN stack is one of the most
 popular technology concepts for building web applications.</p>
 
-<h2 name="ch25">25 -- Aurelia</h2>
+<h2 id="ch25">25 -- Aurelia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4897,7 +4897,7 @@ applications. It follows a modular and extensible architecture,
 promoting clean code practices and a developer-friendly experience.
 Aurelia focuses on simplicity, flexibility, and modern web standards.
 
-<h2 name="ch26">26 -- Knockout.js</h2>
+<h2 id="ch26">26 -- Knockout.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4922,7 +4922,7 @@ model. It follows the MVVM (Model-View-ViewModel) pattern and provides
 declarative bindings, automatic UI updates, and a simple API for
 managing data and UI synchronization.
 
-<h2 name="ch27">27 -- Mithril</h2>
+<h2 id="ch27">27 -- Mithril</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4947,7 +4947,7 @@ a minimalistic API and focuses on simplicity, performance, and size
 optimization. Despite its small footprint, Mithril offers powerful
 features for building robust web applications.
 
-<h2 name="ch28">28 -- Riot.js</h2>
+<h2 id="ch28">28 -- Riot.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192. riot.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4967,7 +4967,7 @@ minimalistic approach. Riot.js provides a small footprint, making it
 suitable for projects where performance and size optimization are
 crucial.
 
-<h2 name="ch29">29 -- Stimulus</h2>
+<h2 id="ch29">29 -- Stimulus</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. stimulus logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4986,7 +4986,7 @@ pages with minimal setup and a focus on progressive enhancement. It aims
 to provide a lightweight and pragmatic approach to building dynamic web
 applications by enhancing existing HTML elements with behavior.</p>
 
-<h2 name="ch30">30 -- Tailwind CSS</h2>
+<h2 id="ch30">30 -- Tailwind CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5010,7 +5010,7 @@ comprehensive set of pre-built CSS classes. It aims to simplify the
 process of styling user interfaces by offering a highly customizable and
 functional approach.
 
-<h2 name="ch31">31 -- Foundation</h2>
+<h2 id="ch31">31 -- Foundation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199. js foundation logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5030,9 +5030,9 @@ utilities. It aims to simplify the process of building responsive and
 accessible web interfaces by offering a solid foundation of customizable
 and reusable elements.
 
-<h2 name="ch32">32 - &lt;even more libraries/frameworks to come&gt;</h2>
+<h2 id="ch32">32 - &lt;even more libraries/frameworks to come&gt;</h2>
 
-<h2 name="ch33">33 - &lt;even more to come libraries/frameworks to come&gt;</h2>
+<h2 id="ch33">33 - &lt;even more to come libraries/frameworks to come&gt;</h2>
 
 <h2>Front-end Frameworks: A Summary</h2>
 
@@ -5064,7 +5064,7 @@ In conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch3-2">3-02. Introduction to Twitter Bootstrap 3</h2>
+<h2 id="ch3-2">3-02. Introduction to Twitter Bootstrap 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5250,7 +5250,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch3-3">3-03. Bootstrap Breakpoints</h2>
+<h2 id="ch3-3">3-03. Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5427,7 +5427,7 @@ want to use, not something that you feel confined by.
     fours things and you&apos;ll be able to really code and understand the
     things that are coming up.
 
-<h2 name="ch3-3b">3-03b. Getting Started with Twitter Bootstrap</h2>
+<h2 id="ch3-3b">3-03b. Getting Started with Twitter Bootstrap</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. getting started (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5886,7 +5886,7 @@ Reset offsets, pushes, and pulls at specific breakpoints.
   alt="Offset, Push and Pull resets." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch3-4">3-04. Bootstrap Grid System</h2>
+<h2 id="ch3-4">3-04. Bootstrap Grid System</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today, we&apos;re going to talk about the grid system for
 Bootstrap three.
@@ -6341,7 +6341,7 @@ In the next module (19) we&apos;re going to code together and do some work
 with this grid class. I hope you&apos;ll join me and you&apos;ll get a really
 good feeling about how this works with Bootstrap.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch3-5">3-05. Code With Me: Grid Example</h2>
+<h2 id="ch3-5">3-05. Code With Me: Grid Example</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Let&apos;s go over an example together where we&apos;re using the
 Bootstrap Grid System. I&apos;m going to go into CodePen and use this code
@@ -6551,7 +6551,7 @@ div[class$=sm]{
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch3-6">3-06. Bootstrap Navigation</h2>
+<h2 id="ch3-6">3-06. Bootstrap Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. Today, we&apos;re going to talk about navigation bars.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7068,7 +7068,7 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 
 </details>
 
-<h2 name="chb-08">b-08. Demystifying Bootstrap</h2>
+<h2 id="chb-08">b-08. Demystifying Bootstrap</h2>
 
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
@@ -7089,7 +7089,7 @@ current trends. You can&apos;t live in a bubble.
 
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch4-1">4-01. Responsive Images</h2>
+<h2 id="ch4-1">4-01. Responsive Images</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 292. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7437,7 +7437,7 @@ part is to get as much experience and practice as possible.
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch4-2">4-02. Bootstrap Tables</h2>
+<h2 id="ch4-2">4-02. Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. bootstrap tables (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7701,7 +7701,7 @@ table-responsive, active, success, info, danger, warning -->
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch4-3">4-03. Code with Me: Advanced Navigation</h2>
+<h2 id="ch4-3">4-03. Code with Me: Advanced Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you&apos;re really likely to find online. And
@@ -7869,7 +7869,7 @@ write your own code effectively.
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch4-4">4-04. What Are Templates?</h2>
+<h2 id="ch4-4">4-04. What Are Templates?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Many times, if you&apos;re talking to people who do web
 design, you&apos;ve got the people who think, I hate Bootstrap, and other
@@ -8580,7 +8580,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch4-8">4-08. Bootstrap 4/5</h2>
+<h2 id="ch4-8">4-08. Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 340/341/342. bootstrap 5 & 4 logos (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8640,7 +8640,7 @@ interested in, go ahead. I myself am excited to see where it goes.</p>
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch4-9">4-09. Conclusion</h2>
+<h2 id="ch4-9">4-09. Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Congratulations everybody. I&apos;m really glad that we had this chance to
 learn about responsive design.
