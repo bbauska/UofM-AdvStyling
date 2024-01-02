@@ -28,7 +28,7 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 
 ## [**About**](#cha)
 >### a-01 [**About**](#cha-01)
->### a-02 [**Source Code for Each Week**](#cha-02)
+>###  [**Source Code for Each Week**](#ch)
 >### a-03 [**Course Slides**](#cha-03)
 
 ## [**Course Information**](#chb)
@@ -173,7 +173,7 @@ doesn&apos;t require you to link your files together. So, if you want to
 write the code right on your machine, you will need to know how to link
 the code. Don&apos;t worry, I do cover that in class.
 
-<p id="cha-02">a-02. Here is a link to a collection of code for each week of the course:</p>
+<h2 id="cha-02">a-02. Here is a link to a collection of code for each week of the course:</h2>
 
 <h4>Week One: <http://codepen.io/collection/nmyRWM/></h4>
 
