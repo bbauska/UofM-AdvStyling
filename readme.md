@@ -1,5 +1,5 @@
 ---
-UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
+UofM-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
 ---
 
 <h2 align="center">Advanced Styling with Responsive Design</h2>
@@ -27,9 +27,9 @@ UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsiv
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ## [**About**](#cha)
->### a-01 [**About**](#cha-01)
->###  [**Source Code for Each Week**](#ch)
->### a-03 [**Course Slides**](#cha-03)
+>### a-01 [**About**](#cha-01)<a href="a-01"></a>
+>### a-02 [**Source Code for Each Week**](#cha-02)<a href="#a-02"></a>
+>### a-03 [**Course Slides**](#cha-03)<a href="a-03"></a>
 
 ## [**Course Information**](#chb)
 >### b-01 [**Syllabus**](#chb-01)
