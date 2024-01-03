@@ -175,13 +175,13 @@ the code. Don&apos;t worry, I do cover that in class.
 
 <h2 id="cha-02">a-02. Here is a link to a collection of code for each week of the course:</h2>
 
-<h4>Week One: <http://codepen.io/collection/nmyRWM/></h4>
+<h4><a href="http://codepen.io/collection/nmyRWM/">Week One Code:</a></h4>
 
-<h4>Week Two: <http://codepen.io/collection/nYwVkZ/></h4>
+<h4><a href-"http://codepen.io/collection/nYwVkZ/">Week Two Code:</a></h4>
 
-<h4>Week Three: <http://codepen.io/collection/DZQyBr/></h4>
+<h4><a href="http://codepen.io/collection/DZQyBr/">Week Three Code:</a></h4>
 
-<h4>Week Four: <http://codepen.io/collection/XkkwBb/></h4>
+<h4><a href="http://codepen.io/collection/XkkwBb/">Week Four Code:</a></h4>
 
 When you read the modules, you can check the resources section to find a
 link to any code that is used in the lectures.
