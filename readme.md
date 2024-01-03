@@ -177,7 +177,7 @@ the code. Don&apos;t worry, I do cover that in class.
 
 <h4><a href="http://codepen.io/collection/nmyRWM/">Week One Code:</a></h4>
 
-<h4><a href-"http://codepen.io/collection/nYwVkZ/">Week Two Code:</a></h4>
+<h4><a href="http://codepen.io/collection/nYwVkZ/">Week Two Code:</a></h4>
 
 <h4><a href="http://codepen.io/collection/DZQyBr/">Week Three Code:</a></h4>
 
