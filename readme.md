@@ -175,13 +175,13 @@ the code. Don&apos;t worry, I do cover that in class.
 
 <h2 id="cha-02">a-02. Here is a link to a collection of code for each week of the course:</h2>
 
-<h4><a href="http://codepen.io/collection/nmyRWM/">Week One Code:</a></h4>
+<h4><a href="http://codepen.io/collection/nmyRWM/" target="_blank" rel="noopener noreferrer">Week One Code:</a></h4>
 
-<h4><a href="http://codepen.io/collection/nYwVkZ/">Week Two Code:</a></h4>
+<h4><a href="http://codepen.io/collection/nYwVkZ/" target="_blank" rel="noopener noreferrer">Week Two Code:</a></h4>
 
-<h4><a href="http://codepen.io/collection/DZQyBr/">Week Three Code:</a></h4>
+<h4><a href="http://codepen.io/collection/DZQyBr/" target="_blank" rel="noopener noreferrer">Week Three Code:</a></h4>
 
-<h4><a href="http://codepen.io/collection/XkkwBb/">Week Four Code:</a></h4>
+<h4><a href="http://codepen.io/collection/XkkwBb/" target="_blank" rel="noopener noreferrer">Week Four Code:</a></h4>
 
 When you read the modules, you can check the resources section to find a
 link to any code that is used in the lectures.
@@ -208,8 +208,7 @@ have found a mistake on my part that I will need to fix.)
 <h2 id="cha-03">a-03. Course Slides</h2>
 
 The slides for all of the lectures are now posted. You can find a BIG
-zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
-has a pdf and powerpoint copy of all of the slides.
+zip file at <a href="http://intro-webdesign.com/ResponsiveDesignSlides.zip" target="_blank" rel="noopener noreferrer">Responsive Design Slides (zip)</a> that has a pdf and powerpoint copy of all of the slides.
 
 I have also attached the pdf and powerpoint slide for each module
 directly in the module text themselves. Just look in the Downloads
@@ -424,7 +423,9 @@ in this course.
 
 <a href="http://pxtoem.com" target="_blank">Pixel to Em Conversion Tool:</a>
 
-&lt;http://pxtoem.com/&gt;
+<ul>
+  <li><a href="http://pxtoem.com/" target="_blank" rel="noopener noreferrer">&lt;http://pxtoem.com/&gt;</a></li>
+</ul>
 
 In the third column you can enter numbers and have the conversion
 calculated for you.
@@ -434,13 +435,17 @@ calculated for you.
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
 
-<http://codepen.io/chriscoyier/pen/tvheK>
+<ul>
+  <li><a href="http://codepen.io/chriscoyier/pen/tvheK" target="_blank" rel="noopener noreferrer">CodePen by Crhis Coyier</a></li>
+</ul>
 
 This demo goes with one of the readings on Fluid Measurements, but I am
 including it here again just in case you missed the code. You can read
 it here if you want to know how to use the tool.
 
-<https://css-tricks.com/rems-ems/>
+<ul>
+  <li><a href="https://css-tricks.com/rems-ems/" target="_blank" rel="noopener noreferrer">CSS Tricks - rems &amp; ems</a></li>
+</ul>
 
 <h2>CSS definitions of relative and absolute</h2>
 
@@ -8617,10 +8622,10 @@ This is an interesting article on the evolution of the Airbnb website.
   <li><a href="https://www.airbnb.com/meetups/x4ede5jr2-css-frameworks-and-the-evolution-of-airbnb-s-frontend">Evolution of the Airbnb website.</a></li>
 </ul>
 
-I think one of the reasons I find it interesting is that the CodeAcademy
-CSS tutorial actually uses a similar platform to teach about Bootstrap.
+<p>I think one of the reasons I find it interesting is that the CodeAcademy
+CSS tutorial actually uses a similar platform to teach about Bootstrap.</p>
 
-<b>*This material is not required for the course.***
+<b>*This material is not required for the course.</b>
 
 <h3 id="chb-11">b-11. Debugging your style with Firebug</h3>
 
