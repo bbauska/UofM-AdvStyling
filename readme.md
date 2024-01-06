@@ -8613,7 +8613,9 @@ class.
 
 This is an interesting article on the evolution of the Airbnb website.
 
-<https://www.airbnb.com/meetups/x4ede5jr2-css-frameworks-and-the-evolution-of-airbnb-s-frontend>
+<ul>
+  <li><a href="https://www.airbnb.com/meetups/x4ede5jr2-css-frameworks-and-the-evolution-of-airbnb-s-frontend">Evolution of the Airbnb website.</a></li>
+</ul>
 
 I think one of the reasons I find it interesting is that the CodeAcademy
 CSS tutorial actually uses a similar platform to teach about Bootstrap.
@@ -8625,14 +8627,16 @@ CSS tutorial actually uses a similar platform to teach about Bootstrap.
 I tend to use Chrome as my browser, and Inspect Element to debug my
 site. However, here is a tutorial for another very popular development
 tool - Firebug. This video by Vicki Watson will walk you through how it
-works. <https://www.ostraining.com/blog/coding/bootstrap-firebug/>
+works. <a href="https://www.ostraining.com/blog/coding/bootstrap-firebug/">Firebug</a>.
 
 <h3 id="chb-12">b-12. More resources for learning to debug/develop</h3>
 
 If anyone wants to improve testing and debugging skills using Chrome.
 Codeschool has free course about DevTools:
 
-<https://www.codeschool.com/courses/discover-devtools>
+<ul>
+  <li><a href="https://www.codeschool.com/courses/discover-devtools">Codeschool on DevTools</a></li>
+</ul>
 
 <h3>Keep Learning with Michigan Online</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8644,16 +8648,12 @@ Codeschool has free course about DevTools:
 </p>
 
 Want to keep learning? Explore hundreds of learning experiences from the
-University of Michigan faculty and instructional teams on [Michigan
-Online](https://online.umich.edu/?utm_source=coursera&utm_medium=course-resource&utm_campaign=michigan-online-branding).
+University of Michigan faculty and instructional teams on <a href="https://online.umich.edu/?utm_source=coursera&utm_medium=course-resource&utm_campaign=michigan-online-branding">Michigan Online</a>.
 
 Be the first to know about new learning experiences from the University
 of Michigan!
-[Subscribe](https://online.umich.edu/subscribe/?utm_source=coursera&utm_medium=course-resource&utm_campaign=michigan-online-branding&utm_content=email-subscription)
+<a href="https://online.umich.edu/subscribe/?utm_source=coursera&utm_medium=course-resource&utm_campaign=michigan-online-branding&utm_content=email-subscription">Subscribe</a>
 to the Michigan Online email list!
 
 ..the end Advanced Styling with Responsive Design by U-Michigan
-<!-- 12-31-2023 7:19pm -->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h6>1-06-2024 12:27pm</h6>
