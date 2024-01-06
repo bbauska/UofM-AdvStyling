@@ -569,7 +569,6 @@ also again, a navigation bar.
 
 Because these are the keys to really getting your site to have that
 responsive feel.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. week 4 - more bootstrap (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -720,7 +719,6 @@ work for us.
 
 So here are some of the concepts that we&apos;re going to be considering
 throughout this entire course.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. concepts to consider (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -759,7 +757,6 @@ Let&apos;s take a look at some examples that have great responsive design.
 
 The first place I&apos;m going to take you is a website called
 ***mediaqueri.es.***
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 14. mediaqueri.es; media screen and min-width (16) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -770,7 +767,6 @@ The first place I&apos;m going to take you is a website called
 This site has a really nice collection of different sites that it&apos;s
 found that really kind of find that key to responsive design. Let&apos;s go
 ahead and take a look at, I&apos;ll scroll down a few.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -782,7 +778,6 @@ How about this one right here? CapRadio, go anyplace.
 
 This site right now, when I&apos;m looking at the large screen, you can see
 that there&apos;s a definite look to the layout.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -822,7 +817,6 @@ responsible design.
 Unfortunately, when you Google that out, or you look for that on your
 search engine, nobody really wants to advertise the fact that they&apos;re
 really bad at web design so I found one for you.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. irs.gov - poorly responsive (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -862,7 +856,6 @@ access to all these different types of platforms.
 
 What can you do? Well, one option if you&apos;re using a desktop or a
 laptop, that you can resize your window and refresh the site.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 20. sample web site using responsive - 3 breakpoints (20) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -875,7 +868,6 @@ So, if I go here;
 The Introduction to Wed Design for everybody, of course. I can just use
 my mouse and resize it, take a look and see how things are going to
 change.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 21. intro-webdesign.com - 3 different breakpoints (21) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -905,7 +897,6 @@ sites and how we can use this website to test the responsiveness of
 these webpages.
 
 Here we go.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 22. https://ui.dev/amiresponsive - 3 different breakpoints (22) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -915,7 +906,6 @@ Here we go.
 
 Here&apos;s a website that you can go to. Down at the bottom of the screen,
 you can fill in the URL of the site you want to look at.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 23. intro-webdesign.com - 3 different breakpoints (22) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -933,7 +923,6 @@ that my website is now displayed on four different platforms. I have the
 desktop, the laptop, a tablet view and a mobile view, and you can see
 that each one is a little bit different depending upon the platform I&apos;m
 using.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 24. sample responsive - mlive.com (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -942,7 +931,6 @@ using.
   alt="https://ui.dev/amiresponsive - mobile view." />
 
 Let&apos;s check out another site.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 25. sample responsive - umich.edu (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -958,7 +946,6 @@ In addition, the laptop and desktop view are very similar. But you can
 see that in the tablet view, we&apos;ve really broken it down and they use
 more of a two-column grid system rather than having quite as much
 content.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 26. sample responsive - umich.edu (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1005,7 +992,6 @@ looking at it in chrome and pretty much enlarge screen view. I&apos;m going
 to drag it out a little bit here. You can see I&apos;ve got my large screen
 I&apos;ve got a lot of spacing in it. So, I&apos;m going to go in and do inspect
 element by right clicking Click over here.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 28. colleen e van lent's smartphone view (26) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1017,7 +1003,6 @@ And what I can do now is up in the upper left-hand corner, there&apos;s
 something that looks like a small little mobile phone. It says Toggle
 device mode. I&apos;m going to click on that. And when I do, I am now
 viewing my site as if I&apos;m viewing it on a small mobile phone.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 29. colleen e van lent's website (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1031,7 +1016,6 @@ select mode, or model actually. And say what would it look like on an
 iPhone 6? It is a little bit bigger, what if I look at it on a google
 nexus seven. Same thing. So, you can pick a number of different options
 to kind of see what the site would look like.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. laptop 1440 x 900 (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1058,7 +1042,6 @@ First thing we need to realize is that responsive design means different
 things to different people. We&apos;re going to talk about three different
 options that people often use, and why the responsive web design that
 we&apos;re going to adopt has its true benefits.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. responsive options (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1076,7 +1059,6 @@ used.
 
 The third type is the ***separate mobile site***, or ***.m***. This is
 when you create a completely separate page URL for the mobile site.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 32. rwd - responsive web design  (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1100,7 +1082,6 @@ A bot can also tell if you&apos;re using responsive web design by looking
 for certain meta tag named viewport. It can be detected automatically
 and would really, kind of help boost your search engine score, is what
 many people think.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. adaptive design (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1118,7 +1099,6 @@ Here, you&apos;re getting different content, the important thing you realize
 is that no matter where you&apos;re doing it from, you&apos;re using the same
 URL. Now, there&apos;s a few issues with this, in that the server might
 return the wrong code if the wrong device type is detected.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34. separate url (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1140,7 +1120,6 @@ This is my main page but I do have some alternate URLs out there. Why
 would you bother doing this? Again, it&apos;s for search engine
 optimization. It really helps if the search engines can know that this
 is the same type of information just on different URLs.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. why rwd? (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1186,7 +1165,6 @@ In-Depth discussion of using separate URLs;
 Additional best practices for separate URLs;
 
 <https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing#supported-redirection-techniques>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. additional best practices (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1217,7 +1195,6 @@ lecture on Fluid Measurements.
     Elements by Chris Coyier <https://css-tricks.com/rems-ems/> (Please
     note, some people on Firefox get a warning when using this link. It
     is not the case for other students.)
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-5">1-05. Fluid Measurements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1287,7 +1264,6 @@ them.
     as possible, we want to move to relative measurements, where things
     are sized based either on their parents or their neighbors or on the
     screen size, different things like that.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. relative measurements (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1308,7 +1284,6 @@ the default size.
 Another thing that you can use is rem. rem is very similar to but it
 helps avoid that problem of something getting smaller and smaller and
 smaller. Let me show you an example.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. relative measurements, #2 (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1330,7 +1305,6 @@ the size based on the parent or the root element. This a is going to be
 the exact same size and the exact size in here. rem really helped people
 out when they were doing these kinds of complex sites where you had a
 lot of things embedded inside the other.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 39. relative measurements, #3 again (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1350,7 +1324,6 @@ Now, the difference is, if you were to resize your screen and make it
 bigger or smaller, only the em and percent would adjust to the size of
 the screen. If you used point or pixel, as the screen gets bigger, the
 font stays the exact same size. Same if the screen gets smaller.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. relative measurements, #4 (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1370,7 +1343,6 @@ if you&apos;re on a screen, you&apos;ll know exactly how much real estate you
 have if you want something to show up exactly in the middle. This comes
 in really handy when you&apos;re trying to set headers and footers in
 specific positions.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. review (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1392,10 +1364,10 @@ measurements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-6">1-06. Code With Me: Fluid Measurements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-One of the things we always talk about is that there&apos;s a real
+<p>One of the things we always talk about is that there&apos;s a real
 difference between sitting and listening to me talk about something, and
 getting in there and coding it yourself, or at least following along
-with me while I code it.
+with me while I code it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. fluid measurements, #1 (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1449,7 +1421,6 @@ want to do. One of the keys to responsive design typically is mapping
 out what you want your page to look like before you code it, and we&apos;re
 going to talk about that in week two. But right here, for week one,
 let&apos;s just wing it a little bit.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. fluid measurements, #2 (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1461,7 +1432,6 @@ I&apos;m going to make it so I can see my code. And the first thing I&apos;m
 going to do is I&apos;m going to go to the first place I hard coded a value,
 which is the width of this main part. Saying that I always want it to be
 980 pixels, it&apos;s just a mistake.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. fluid measurements, #3 (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1473,7 +1443,6 @@ Instead, let&apos;s use percent here, and say I want this to take up, let&apos;s
 say somewhere between 95 and I&apos;ll pick 95% of my page. Already, you
 could see that things happened in there. Not everything we wanted to
 happen, but a little. I&apos;ll resize it again.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46. measurements, #4 (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1485,7 +1454,6 @@ You can see that my paragraph down here still fits, but the columns just
 look at little bit awkward. Particularly, if I&apos;m somewhere in that
 awkward range of two columns fit, but not the third. So, while the main
 page is responsive, let&apos;s work on those columns.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. fluid measurements (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1500,7 +1468,6 @@ I&apos;m going to set the margin left to, we&apos;ll use 2%. Now you can already
 see this is a huge difference in our page. Whether I make it big,
 there&apos;s not a lot of wasted white space along the side. And if I make
 it small, the columns are still together. This is really good.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48. fluid measurements (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6227,7 +6194,6 @@ rules where it&apos;s going to change.
 
 I&apos;ve dropped the smaller part and this new rule now says basically any
 time you are on a medium viewport or larger, make it three columns.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. positioning classes (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6238,7 +6204,6 @@ time you are on a medium viewport or larger, make it three columns.
 
 By default, Bootstrap is going to put things as far to the left as it
 possibly can when it&apos;s positioning them.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. positioning classes, #2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6251,7 +6216,6 @@ However, it is possible to add a push and a pull class on different
 elements. If you have col-XX-push-YY. You&apos;re basically saying, hey, on
 any viewport that&apos;s X, I want you to go ahead and push this element Y
 columns to the left.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. positioning classes, #3 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6264,7 +6228,6 @@ In the same way, there&apos;s a pull. In here, you move columns to the
 right. We&apos;re not going to play with this right now, but it was
 something that I want you to be aware of. In the same way, I want you to
 know about the responsive utility classes.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 263. responsive utility classes - hidden-xx (159) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6278,7 +6241,6 @@ zero, or really for anything, you can have column zero, hides it from
 the screen. It&apos;s usually a lot easier to use the hidden class instead.
 Hidden-XX basically says, make this visible on every viewport except for
 the one we&apos;re going to mention right here.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 264. responsive utility clases - hidden-xx & visible-xx (160) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6289,7 +6251,6 @@ the one we&apos;re going to mention right here.
 
 In the same way, visible-XX says, hide something. It shouldn&apos;t be
 visible unless I&apos;m on this certain size screen.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~ 265. responsive utility clases - hidden-xx, visible-xx & sr-only (160) ~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6302,7 +6263,6 @@ The last one we have is sr-only. And this is a special Bootstrap utility
 class for screen readers. It hides the content for everyone, unless
 they&apos;re using a screen reader to access the page. If they are, then
 this element is visible to them, and them only.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 266. conclusion - larger inherit from smaller (161) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6438,7 +6398,6 @@ of taking up the full width, we&apos;re only taking up six columns. We&apos;re
 not taking up 12. So, we&apos;ve really changed the look of this. We&apos;ve
 changed the content, but we&apos;ve also changed the layout. So instead of
 having four on top of each other, we have two pairs of two.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. large screen (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6567,7 +6526,6 @@ to people when they see sites that use Bootstrap. It always looks about
 the same. It works about the same. People are comfortable with it. The
 nav class is typically combined with other classes to create each
 different style navigation that you&apos;re going to see.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274. making a navigation bar (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6590,7 +6548,6 @@ you can use multiple classes within the class. So used it, looks
 correct, looks great, but I don&apos;t see any difference. This is something
 that&apos;s going to happen to you. The problem is I haven&apos;t linked to the
 Bootstrap CSS.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. codepen - add bootstrap (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6602,7 +6559,6 @@ Bootstrap CSS.
 Let&apos;s go ahead and do that now. I&apos;m going to go into Settings, I&apos;m
 going to click on CSS and I&apos;m going to go down here to quick add and
 add Bootstrap. And as soon as I save that, boom, there you go.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 276. html for navigation bars (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6614,7 +6570,6 @@ add Bootstrap. And as soon as I save that, boom, there you go.
 That looks like a much more professionally designed navigation bar. When
 you use the tabs, it&apos;s supposed to simulate that kind of look you see
 in a file tabbing system where you kind of flip through.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. more html for nav bars (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6635,7 +6590,6 @@ put it here under profile &lt;li&gt; and now I&apos;ve made the other one
 active. It&apos;s not really a big deal whether you&apos;re going to use pills
 or tabs. It&apos;s just a design decision that you want to make a little bit
 early on.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. making a navigation bar (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6650,7 +6604,6 @@ horizontal, vertical, justified? There are few different options and
 I&apos;m going to show you right now how you can quickly change them. Let&apos;s
 go ahead and just use the nav-pills code. When I go back up to that
 unordered list element, I have that it should be nav in nav pills.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 279. html navigation bar - vertical (172) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6662,7 +6615,6 @@ unordered list element, I have that it should be nav in nav pills.
 What I want to add now is to say, you know what? Instead of being
 horizontal, I want to change it, so that it&apos;s vertical or stacked. This
 simple class completely changes the look of our page.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 280. codepen - html nav bar - horizontal (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6678,7 +6630,6 @@ links, each link takes up a third of the page. If I had five each would
 take up 20% and different things like that. Now the interesting thing
 about nav-justified is that when you resize the window, it actually
 changes the look of the page.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 281. codepen - html nav bar - vertical (174) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6691,7 +6642,6 @@ So now as I make it smaller, it changes from justified per stack. This
 gives a kind of really cool look without you having to do much about it.
 So, on the small view, you go to stacks. On the larger views, you&apos;re
 horizontal.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. dropdowns (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6783,7 +6733,6 @@ code to jQuery. So, let's go ahead and take a look at what we can do.
 ```
 
 </details>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. dropdowns, #2 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6793,7 +6742,6 @@ code to jQuery. So, let's go ahead and take a look at what we can do.
 </p>
 
 The example on Bootstrap is called pills with drop-downs.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 284. dropdowns, #3 (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6859,7 +6807,6 @@ happening? This occurs a lot.
 
 So, while I haven&apos;t actually forgotten it as you may have, I did
 comment it out.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. codepen - add jquery (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6899,7 +6846,6 @@ that you&apos;re on the right path.
 ```
 
 </details>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 287. navbar class (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6950,7 +6896,6 @@ So, if I go back down to my screen now, you can see that it actually
 hides some of the other stuff that&apos;s there. I&apos;m going to make my
 screen smaller. You can see I can scroll up and down here, but it&apos;s
 impossible to see the things that are underneath the navbar.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 290. codepen - navbar, nav-pills and container (182) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7137,7 +7082,6 @@ don&apos;t want it to have so much emphasis.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. your own code, #2 (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7181,7 +7125,6 @@ cuts off those corners. And then another one, you&apos;ll see quite a bit is
 img-thumbnail. What this one will do, is give your image the kind of
 look that is often associated with thumbnails. A little bit of a border,
 a small size, we&apos;ll take a look at those in just a second.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. img-responsive (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7197,7 +7140,6 @@ can see, we have display: block, which simply means you can only have
 one at a time, the max-width: 100%, and the height: auto. This is very
 similar to the code we were talking about, if you wanted to put it in
 yourself. Let&apos;s look at those other classes as well.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. codepen - single image (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7209,7 +7151,6 @@ yourself. Let&apos;s look at those other classes as well.
 So, what I have right here is a single image in code pen. There are no
 classes applied. I went ahead and I put it inside a div. And I&apos;m going
 to re-size the screen a bit.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 299. codepen - single image phone sized (185) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7262,7 +7203,6 @@ link it in. Now, I can ignore the CSS part and just change the HTML to
 add different classes. We&apos;ll start with image responsive. When I do
 this one, you can see that now when I re-size it, again, great
 responsive behavior.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. responsive - rounded corners (188) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7274,7 +7214,6 @@ responsive behavior.
 Let&apos;s see what those other kinds of visual ones do for us. We can have
 image rounded. And, it&apos;s probably barely perceptible to you, but you
 can have this little tiny curving, right here, curved just a little bit.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. rounded image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7286,7 +7225,6 @@ can have this little tiny curving, right here, curved just a little bit.
 Let&apos;s go for image circle, so you can really see when something
 happens. And as you can see, it really just cuts off part of the
 pictures, so you can have that circle look.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304. image thumbnail (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7308,7 +7246,6 @@ code, if somebody else has already done it. Well, we can see that there
 are reasons for doing that. Personally, I would have liked a much
 thicker border, so you all could have seen it. But in many cases,
 you&apos;re really happy with the defaults. Let&apos;s look at one more example.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 305. giving 7 images - 6 on row 1, 1 on row 2 (190) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7323,7 +7260,6 @@ how this would work. Up here, I have seven pictures of my dog. I just
 spent some time berating myself, because I couldn&apos;t add the seven
 pictures. I combine these with the thumbnail class to really have a kind
 of cool gallery effect.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 306. div container row with 7 images (191) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7344,7 +7280,6 @@ large screen, you should see six on each row. That&apos;s what was kind of
 messing me up. I was trying to figure out why this extra picture was off
 to the side. Well, I actually put it there because I wanted to show that
 there were one, two, three, four, five, six. All right.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. small screen, 1 image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7732,7 +7667,6 @@ do this.
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 324. codepen settings for bootstrap (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
