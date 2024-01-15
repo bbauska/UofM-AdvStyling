@@ -156,7 +156,15 @@ p#mediasize {
 p#mediasize span {
   font-size: 10px;
 }
-
+/* first character in paragraph */
+p:first-child:first-letter{
+float:left;
+font-size:400%;
+margin-top:7px;
+margin-right:5px;
+color:#992E00;
+}
+  
 ul li { 
   padding: 10px;
   line-height: 130%;
