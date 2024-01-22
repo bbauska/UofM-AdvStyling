@@ -1,5 +1,5 @@
 ---
-UofMichigan-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
+UofM-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
 ---
 
 <h2 align="center">Advanced Styling with Responsive Design</h2>
@@ -87,7 +87,7 @@ UofM - Advanced Styling - git</a>
 
 <h2 align="center"></h2>
 
-<h2 name="chb-01">b-01. Syllabus</h2>
+<h2 name="chb-01">b-01. Syllabus - Advanced Styling with Responsive Design</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
