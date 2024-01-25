@@ -175,6 +175,8 @@ the code. Don&apos;t worry, I do cover that in class.
 
 <p id="cha-02">a-02. Here is a link to a collection of code for each week of the course:</p>
 
+<a href="https://www.coursera.org/learn/responsivedesign/supplement/ssiNo/resources">Collections of code</a>
+
 <h4>Week One: <http://codepen.io/collection/nmyRWM/></h4>
 
 <h4>Week Two: <http://codepen.io/collection/nYwVkZ/></h4>
