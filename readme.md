@@ -1,5 +1,5 @@
 ---
-UofM-AdvStyling: University of Michigan - Advanced Styling with Responsive Design
+UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive Design
 ---
 
 <h2 align="center">Advanced Styling with Responsive Design</h2>
