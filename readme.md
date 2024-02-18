@@ -10,7 +10,7 @@ UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive De
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction to resp design (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.webp?raw=true"
-  style="width:45%;"
+  style="width:40%;"
   alt="Introduction to Responsive Design by Colleen van Lent, 
     Ph.D. (lecturer, school of information)." />
 </p>
@@ -20,7 +20,7 @@ UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive De
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image002.webp?raw=true"
-  style="width:25%;"
+  style="width:20%;"
   alt="University of Michigan logo." />
 </p>
 
@@ -87,7 +87,7 @@ UofM - Advanced Styling - git</a>
 
 <h2 align="center"></h2>
 
-<h2 id="chb-01">b-01. Syllabus - Advanced Styling with Responsive Design</h2>
+<h2 id="chb-01">b.01 Syllabus - Advanced Styling with Responsive Design</h2>
 
 This Specialization covers how to write syntactically correct HTML5 and
 CSS3, and how to create interactive web experiences with JavaScript.
@@ -105,7 +105,7 @@ audial, physical, and cognitive impairments.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. what is responsive design? (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.webp?raw=true"
-  style="width:45%"
+  style="width:40%"
   alt="What is Responsive Design?" />
 </p>
 
@@ -207,7 +207,9 @@ question already there. If you don&apos;t find your question, make sure to
 post. There are no &quot;stupid&quot; questions. Ever. (Sometimes you may just
 have found a mistake on my part that I will need to fix.)
 
-<h2 id="cha-03">a-03. Course Slides</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="cha-03">a.03 Course Slides</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The slides for all of the lectures are now posted. You can find a BIG
 zip file at <http://intro-webdesign.com/ResponsiveDesignSlides.zip> that
@@ -224,7 +226,9 @@ section to view them.
   alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0"  target="_blank"/>
 </p>
 
-<h2 id="cha-01">a-01. About.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="cha-01">a.01 About</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <h3>There are 4 modules in this course</h3>
 
@@ -277,7 +281,9 @@ capstone project.
 
 </details>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1">01. Style with Responsive Design</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 What does it mean to have responsive design for your site? How can you
 tell if your existing site is responsive? This week we will begin with
@@ -422,7 +428,9 @@ in this course.
 
 <h3>Resources</h3>
 
-<h2 id="chb-04">b-04. Pixel to Em conversion tool</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="chb-04">b.04 Pixel to Em conversion tool</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <a href="http://pxtoem.com" target="_blank">Pixel to Em Conversion Tool:</a>
 
@@ -431,7 +439,9 @@ in this course.
 In the third column you can enter numbers and have the conversion
 calculated for you.
 
-<h2 id="chb-05">b-05. Dynamically change the size of font with sliders</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="chb-05">b.05 Dynamically change the size of font with sliders</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This CodePen by Chris Coyier will let you use sliders to dynamically
 change the font size on a page
@@ -455,7 +465,7 @@ the link:
 This is a fairly technical document and is not required reading for the
 course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-1">1-01. Introduction to Responsive Design</h2>
+<h2 id="ch1-1">1.01 Introduction to Responsive Design</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -683,7 +693,7 @@ experience as you can.
 Welcome to introduction to responsive web design. I hope that you&apos;ll
 learn a lot. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-2">1-02. What is Responsive Design?</h2>
+<h2 id="ch1-2">1.02 What is Responsive Design?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody, so you&apos;re here and I&apos;m here, and we&apos;re here to talk
 about responsive design.
@@ -754,7 +764,7 @@ We want it to happen really automatically.
 <!--~~~~~~~~~~~~~~~~~~~~ 13. media queries; media screen and min-width (16) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image013.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Media queries; media screen and min-width." />
 
 Let&apos;s take a look at some examples that have great responsive design.
@@ -766,7 +776,7 @@ The first place I&apos;m going to take you is a website called
 <!--~~~~~~~~~~~~~~~~~~~~ 14. mediaqueri.es; media screen and min-width (16) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image014.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Mediaqueri.es; media screen and min-width." />
 
 This site has a really nice collection of different sites that it&apos;s
@@ -777,7 +787,7 @@ ahead and take a look at, I&apos;ll scroll down a few.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image015.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Capital Public Radio; capradioraffle.org." />
 
 How about this one right here? CapRadio, go anyplace.
@@ -789,7 +799,7 @@ that there&apos;s a definite look to the layout.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. capital public radio (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image016.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Capital Public Radio; capradioraffle.org." />
 
 As I resize the screen, as if I&apos;m looking perhaps on a tablet, and I
@@ -800,7 +810,7 @@ The navigation bar is now over to the left when it wasn&apos;t there before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. capital public radio (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image017.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Capital Public Radio; capradioraffle.org." />
 
 I&apos;m going to go ahead and make it smaller still. I don&apos;t even need to
@@ -829,7 +839,7 @@ really bad at web design so I found one for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. irs.gov - poorly responsive (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image018.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="IRS.gov - example with poor responsiveness." />
 
 It&apos;s the Internal Revenue Service. And what we have here is a site that
@@ -839,7 +849,7 @@ screen you&apos;re looking at.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. irs.gov, again - no change (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image019.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="IRS.gov - no change showing poor responsive design." />
 
 It looks okay right here, but when I make the screen much smaller, you
@@ -853,7 +863,7 @@ Let&apos;s work together over the next few weeks to make sure that you are
 avoiding those same types of traps, and we&apos;re going to get started
 coding right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-3">1-03. Testing Existing Sites</h2>
+<h2 id="ch1-3">1.03 Testing Existing Sites</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. One of the things that you&apos;re going to want to do is
 test your site to see how it&apos;s doing across multiple devices and
@@ -869,7 +879,7 @@ laptop, that you can resize your window and refresh the site.
 <!--~~~~~~~~~~~~~~~~ 20. sample web site using responsive - 3 breakpoints (20) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image020.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="intro-webdesign.com - sample web site using reponsiveness - 3 breakpoints/sizes." />
 
 So, if I go here;
@@ -882,7 +892,7 @@ change.
 <!--~~~~~~~~~~~~~~~~~ 21. intro-webdesign.com - 3 different breakpoints (21) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image021.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="intro-webdesign.com - mobile view." />
 
 <div align="right">
@@ -912,7 +922,7 @@ Here we go.
 <!--~~~~~~~~~~~~ 22. https://ui.dev/amiresponsive - 3 different breakpoints (22) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image022.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="ui.dev/amiresponsive - mobile view." />
 
 Here&apos;s a website that you can go to. Down at the bottom of the screen,
@@ -922,7 +932,7 @@ you can fill in the URL of the site you want to look at.
 <!--~~~~~~~~~~~~~~~~~ 23. intro-webdesign.com - 3 different breakpoints (22) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image021.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - mobile view." />
 
 Just so you know, this is made with an HTML tag that makes it so that
@@ -940,7 +950,7 @@ using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 24. sample responsive - mlive.com (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image024.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - mobile view." />
 
 Let&apos;s check out another site.
@@ -949,7 +959,7 @@ Let&apos;s check out another site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 25. sample responsive - umich.edu (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image025.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu." />
 
 In this case, again we can see that this is a responsive setup. Now, even though 
@@ -965,7 +975,7 @@ content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 26. sample responsive - umich.edu (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image026.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu - mobile view." />
 
 The next site I&apos;m going to check is one that I&apos;ve made from my umich
@@ -998,7 +1008,7 @@ things from different viewpoints.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 27. colleen e van lent's website (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image027.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - Colleen E van Lent's web page - mobile view." />
 
 With Chrome, you can use inspect element to see the different viewpoints
@@ -1012,7 +1022,7 @@ element by right clicking Click over here.
 <!--~~~~~~~~~~~~~~~~~~~~~ 28. colleen e van lent's smartphone view (26) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image028.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
 
 And what I can do now is up in the upper left-hand corner, there&apos;s
@@ -1024,7 +1034,7 @@ viewing my site as if I&apos;m viewing it on a small mobile phone.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 29. colleen e van lent's website (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image029.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
 
 Depending upon your operating system in the browser of the addition that
@@ -1038,7 +1048,7 @@ to kind of see what the site would look like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. laptop 1440 x 900 (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image030.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Laptop (1440 x 900)." />
 
 Let&apos;s see, do one last one, a laptop. Depending on which type of
@@ -1051,7 +1061,7 @@ even more importantly, what you think you want to avoid on your site. Go
 ahead and have some fun and mock your friends if their sites aren&apos;t
 responsive. Don&apos;t worry, yours will be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-4">1-04. Benefits of Responsive Design</h2>
+<h2 id="ch1-4">1.04 Benefits of Responsive Design</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today, let&apos;s talk about some of the benefits of
 responsive design.
@@ -1193,7 +1203,9 @@ really is.
   style="width:85%"
   alt="Additional best practices." />
 
-<h2 id="chb-03">b-03. Fluid Measurements: Background readings</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="chb-03">b.03 Fluid Measurements: Background readings</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <p>I like to include additional resources that align with my lectures and I
 will be putting these ideas into practice in the next two modules. In
@@ -1213,7 +1225,7 @@ lecture on Fluid Measurements.</p>
 	using this link. It is not the case for other students.)</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-5">1-05. Fluid Measurements</h2>
+<h2 id="ch1-5">1.05 Fluid Measurements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. fluid measurements (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1384,7 +1396,7 @@ of see what you can make it do. For that reason, our next module is
 going to be an example of me moving from absolute to relative
 measurements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-6">1-06. Code With Me: Fluid Measurements</h2>
+<h2 id="ch1-6">1.06 Code With Me: Fluid Measurements</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 One of the things we always talk about is that there&apos;s a real
 difference between sitting and listening to me talk about something, and
@@ -1394,7 +1406,7 @@ with me while I code it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. fluid measurements, #1 (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image043.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements, #1." />
 
 So, let&apos;s do an example as we go from static or absolute measurements
@@ -1448,7 +1460,7 @@ let&apos;s just wing it a little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. fluid measurements, #2 (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image044.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements, #2." />
 
 I&apos;m going to make it so I can see my code. And the first thing I&apos;m
@@ -1460,7 +1472,7 @@ which is the width of this main part. Saying that I always want it to be
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. fluid measurements, #3 (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image045.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements, #3." />
 
 Instead, let&apos;s use percent here, and say I want this to take up, let&apos;s
@@ -1472,7 +1484,7 @@ happen, but a little. I&apos;ll resize it again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46. measurements, #4 (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image046.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Measurements, #4." />
 
 You can see that my paragraph down here still fits, but the columns just
@@ -1484,7 +1496,7 @@ page is responsive, let&apos;s work on those columns.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. fluid measurements (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image047.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements." />
 
 Here, I&apos;ve set them to 300 pixels. Let&apos;s change that. Since I have
@@ -1499,7 +1511,7 @@ it small, the columns are still together. This is really good.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48. fluid measurements (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image048.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements." />
 
 The last thing I&apos;m going to change, I&apos;m going to change
@@ -1609,7 +1621,7 @@ i hate myself with no elite.</p>
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-1">2-01. Media Queries</h2>
+<h2 id="ch2-1">2.01 Media Queries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today we are going to talk about Media queries.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1770,7 +1782,7 @@ together to get your hands wet and have you coding, just make sure that
 you start small and we&apos;ll go ahead and we&apos;ll do something together.
 Good luck,</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-2">2-02. Code With Me: Fluid Measurements and Media Queries</h2>
+<h2 id="ch2-2">2.02 Code With Me: Fluid Measurements and Media Queries</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hey everybody, welcome back. Let&apos;s go look at some code together.</p>
 
@@ -1779,7 +1791,7 @@ Good luck,</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. fluid measurements, #1 (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image058.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements, #1." />
 
 <p>What we&apos;re looking at here is an example from when we first learned
@@ -1791,7 +1803,7 @@ now, the three columns are fine.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59. code with me, narrow (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image059.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Code with me, narrow." />
 
 <div align="right">
@@ -1808,7 +1820,7 @@ So, let&apos;s take a look at how we can make that change together.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60. fluid measurements (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Fluid measurements." />
 
 <p>The first thing that we need to look at is what these columns are. And
@@ -1961,7 +1973,7 @@ i hate myself with no elite.</p>
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-3">2-03. Wire Frames</h2>
+<h2 id="ch2-3">2.03 Wire Frames</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Today, we&apos;re going to talk about wireframes and as we talk about them, I 
 have to admit the way in which I teach web design doesn&apos;t really mimic the 
@@ -1977,7 +1989,7 @@ when you decide it&apos;s time to start coding.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 61. wireframe.showcase.com (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image061.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="wireframeshowcase.com." />
 </p>
 <p>What do I mean by a wireframe? Let me show you a few examples. Right here, I&apos;m 
@@ -1986,7 +1998,7 @@ at a site called wireframeshowcase.com.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. wireframeshowcase.com, #2 (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image062.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="wireframeshowcase.com, #2." />
 </p>
 
@@ -2001,7 +2013,7 @@ sketches underneath them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. wireframeshowcase.com, #3 (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image063.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="wireframeshowcase.com, #3." />
 </p>
 <p>Let&apos;s go back up to the first one. Up here I&apos;m going to go ahead and
@@ -2012,7 +2024,7 @@ it&apos;s set out on the screen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 64. wireframeshowcase.com, #4 (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image064.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="wireframeshowcase.com, #4." />
 </p>
 <p>But when I&apos;ve come off just a little bit, you can see that all those visual 
@@ -2116,7 +2128,7 @@ moving on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 71. best design practices, example (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image071.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Best design practices - example." />
 </p>
 
@@ -2177,7 +2189,7 @@ really too big. Maybe I should be breaking it up in to more sections.</p>
 
 <a href="http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices">Learning to Wireframe - 10 Best Practices</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-4">2-04. Breakpoints</h2>
+<h2 id="ch2-4">2.04 Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hi everybody. Every once in a while, I like to step back and think about
 some of the terms I use in this class and make sure I&apos;ve actually
@@ -2313,7 +2325,7 @@ mean again, is this an example of triggering, and I really hope you&apos;ll
 really understand mobile first by the time that we&apos;re done with this
 course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-5">2-05. Media Queries Part Two</h2>
+<h2 id="ch2-5">2.05 Media Queries Part Two</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <https://codepen.io/ColleenEMc/pen/zrjKqP/>
 
@@ -2579,7 +2591,7 @@ body{
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-6">2-06. Code with Me: Responsive Navigation</h2>
+<h2 id="ch2-6">2.06 Code with Me: Responsive Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody, today, with this lecture I&apos;m hoping you&apos;ll sit with me
 and write up some code where we use media queries to produce responsive
@@ -2590,7 +2602,7 @@ screens.
 <!--~~~~~~~~~~~~~ 87. playing with vertical and horizontal navigation menus (73) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Horizontal line of links as navigation bar at top of page." />
 </p>
 
@@ -2602,7 +2614,7 @@ horizontal line of links right up here at the top of your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 88. horizontal navigation menu, image 2 (74) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image088.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Horizontal line of links as nav bar at top of page, #2." />
 </p>
 
@@ -2622,7 +2634,7 @@ the content right off to the right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. responsive navigation bar (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive horizontal navigation bar." />
 </p>
 
@@ -2667,7 +2679,7 @@ figure out whether or not your rules are triggering.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. responsive navigation, #2 (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive navigation bar, #2." />
 </p>
 
@@ -2681,7 +2693,7 @@ to get going. See if I can get away with grey. There we go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 91. responsive navigation menu, #3 (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image091.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive navigation bar, #3." />
 </p>
 
@@ -2697,7 +2709,7 @@ goes with the body selector.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 92. responsive nav menu - vertical (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image092.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive navigation menu, vertical." />
 </p>
 
@@ -2719,7 +2731,7 @@ Let&apos;s do that next code. So how do I do that?
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 93. responsive nav menu - vertical, #2 (78) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image093.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive navigation menu, vertical, #2." />
 </p>
 
@@ -2742,7 +2754,7 @@ up underneath.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 94. responsive nav menu - vertical, #3 (79) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image094.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive navigation menu, vertical, #3." />
 </p>
 
@@ -2767,7 +2779,7 @@ go back and change one thing up in my nav as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 95. responsive nav menu - vertical, #4 (80) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image095.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive navigation menu, vertical, #4." />
 </p>
 
@@ -2786,7 +2798,9 @@ sense. Where you know that on small screen phones they really do do
 their navigation differently than if you&apos;re on a laptop. Good luck, and
 make sure to post questions if you run into trouble.
 
-<h2 id="chb-06">b-06. Good examples of responsive design</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="chb-06">b.06 Good examples of responsive design</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The following is a link to good examples of 
 <a href="http://www.awwwards.com/50-examples-of-responsive-web-design.html" target="_blank">
@@ -2948,7 +2962,7 @@ nav a{
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-1">3-01. Frameworks</h2>
+<h2 id="ch3-1">3.01 Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 96. frameworks - code and structure (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3057,7 +3071,7 @@ still want to know a little bit about it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 100. popular front-end frameworks (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image100.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="2023 - Popular front-end frameworks, as of 2023." />
 </p>
 
@@ -3110,7 +3124,7 @@ ability to create dynamic and responsive user interfaces.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. single page applications (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image102.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Single Page Applications." />
 </p>
 
@@ -4151,7 +4165,7 @@ features like playback speed control and full screen mode.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <img src="./images/image128.webp?raw=true"
-    style="width:45%"
+    style="width:40%"
     title="Angular front-end framework"
     alt="Angular front-end framework." />
 </p>
@@ -4624,7 +4638,7 @@ doc generation, and types.
 <a href="https://github.com/ionic-team/stencil" target="_blank">StencilJS GitHub</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch18">18 - Qwik</h2>
+<h2 id="ch18">18 -- Qwik</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. qwik logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4864,14 +4878,14 @@ frameworks to help organize UI layer alongside application logic.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. semantic ui (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image178.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Semantic UI." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. semantic ui website theme (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image179.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Semantic UI Website theme." />
 </p>
 <p style="align:center"><sub>Example Semantic UI website theme.</sub></p>
@@ -5127,7 +5141,7 @@ In conclusion, the front-end world is facing some challenges, but
 the key to success is to have a good understanding of tools and to focus
 on practical skills rather than just trendy technologies.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-2">3-02. Introduction to Twitter Bootstrap 3</h2>
+<h2 id="ch3-2">3.02 Introduction to Twitter Bootstrap 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. what is it? (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5313,7 +5327,7 @@ want to use, not something that you feel confined by.
     keep up that practice over this next week when we start adding
     Bootstrap to our code. Thanks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-3">3-03. Bootstrap Breakpoints</h2>
+<h2 id="ch3-3">3.03 Bootstrap Breakpoints</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. default breakpoints (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5490,8 +5504,8 @@ want to use, not something that you feel confined by.
     fours things and you&apos;ll be able to really code and understand the
     things that are coming up.
 
-<h2 id="ch3-3b">3-03b. Getting Started with Twitter Bootstrap</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-3b">3.03b Getting Started with Twitter Bootstrap</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. getting started (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5543,7 +5557,7 @@ and you don&apos;t want to go around and overwrite them later.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. customize and download (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image217.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Customize and download." />
 </p>
 
@@ -5624,7 +5638,7 @@ you need to include.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. bootstrap cdn (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Bootstrap CDN." />
 </p>
 
@@ -5657,7 +5671,7 @@ clean. I really want to keep it to just HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221. codepen settings (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image221.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen settings." />
 </p>
 
@@ -5673,7 +5687,7 @@ that I said, you&apos;re going to connect to the CSS and JavaScript files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222. codepen settings, #2 (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen settings, #2." />
 </p>
 
@@ -5704,7 +5718,7 @@ it up yourself you can still have it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. bootstrap template (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Bootstrap template." />
 </p>
 
@@ -5758,7 +5772,7 @@ sheet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. bootstrap template, again (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image226.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Bootsrap template, again." />
 </p>
 
@@ -5855,7 +5869,7 @@ automatically stack.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. col-md-4 x 3 equal columns (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image228.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -5867,7 +5881,7 @@ stacking no matter the viewport.
 <!--~~~~~~~~~~~~~~~ 229. col-md-3, col-md-6 & col-md-3 - unequal columns (144) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image229.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="col-md-3, col-md-6, and col-md-3." />
 </p>
 
@@ -5877,7 +5891,7 @@ Get two columns <b>starting at desktops and scaling to large desktops</b>.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 230. col-md-8 and col-md-4 two columns (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image230.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="col-md-8 and col-md-4, two columns." />
 </p>
 
@@ -5896,7 +5910,7 @@ columns will stack.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 231. two columns with two nested columns (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image231.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Two columns with two nested columns." />
 </p>
 
@@ -5922,7 +5936,7 @@ widths for xs and sm, you only need to specify xs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 233. mixed, mobile, tablet and desktop (145) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image233.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Mixed, mobile, tablet and desktop." />
 </p>
 
@@ -5945,11 +5959,11 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 235. offset, push and pull resets (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image235.webp?raw=true"
-  style="width:60%"
+  style="width:50%"
   alt="Offset, Push and Pull resets." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-4">3-04. Bootstrap Grid System</h2>
+<h2 id="ch3-4">3.04 Bootstrap Grid System</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Today, we&apos;re going to talk about the grid system for
 Bootstrap three.
@@ -6404,7 +6418,7 @@ In the next module (19) we&apos;re going to code together and do some work
 with this grid class. I hope you&apos;ll join me and you&apos;ll get a really
 good feeling about how this works with Bootstrap.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-5">3-05. Code With Me: Grid Example</h2>
+<h2 id="ch3-5">3.05 Code With Me: Grid Example</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Let&apos;s go over an example together where we&apos;re using the
 Bootstrap Grid System. I&apos;m going to go into CodePen and use this code
@@ -6414,7 +6428,7 @@ with me.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 268. code with me - large screen (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image268.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Large Screen: class=container and class=row in grid system." />
 </p>
 
@@ -6434,7 +6448,7 @@ the same row at times. I&apos;m actually going to move this.
 <!--~~~~~~~~~~~~~~~~~~~~~ 269. code with me - extra-small and small (163) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image269.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Code with me - extra-small and small screens." />
 </p>
 
@@ -6448,7 +6462,7 @@ change at all. You can kind of trust me on that one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 270. code with me - medium (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image270.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Code with me - medium screens." />
 </p>
 
@@ -6481,7 +6495,7 @@ and this one will suddenly show up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 271. medium screen (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image271.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Medium screen." />
 </p>
 
@@ -6506,7 +6520,7 @@ having four on top of each other, we have two pairs of two.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. large screen (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image272.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Large screen." />
 </p>
 
@@ -6614,7 +6628,7 @@ div[class$=sm]{
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-6">3-06. Bootstrap Navigation</h2>
+<h2 id="ch3-6">3.06 Bootstrap Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. Today, we&apos;re going to talk about navigation bars.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6658,7 +6672,7 @@ Bootstrap CSS.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. codepen - add bootstrap (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image275.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen - add Bootstrap." />
 </p>
 
@@ -6730,7 +6744,7 @@ simple class completely changes the look of our page.
 <!--~~~~~~~~~~~~~~~~~~~~~ 280. codepen - html nav bar - horizontal (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image280.webp"
-  style="width:60%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -6746,7 +6760,7 @@ changes the look of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 281. codepen - html nav bar - vertical (174) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image281.webp"
-  style="width:60%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -6759,7 +6773,7 @@ horizontal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. dropdowns (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image282.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Dropdowns." />
 </p>
 
@@ -6909,7 +6923,7 @@ possibly make.</p>
 <!--~~~~~~~~~~~~~~~~~ 285. codepen - link to bootstrap javascript files (177) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image285.webp"
-  style="width:60%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -6927,7 +6941,7 @@ comment it out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 286. codepen - add jquery (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image286.webp"
-  style="width:60%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -6984,7 +6998,7 @@ interacts with the other elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 288. codepen - nav-pills (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image288.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen - example nav-pills." />
 </p>
 
@@ -7005,7 +7019,7 @@ means it&apos;s on top, it&apos;s not going to move.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 289. codepen - hiding nav (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image289.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen - hiding nav bar." />
 </p>
 
@@ -7018,7 +7032,7 @@ impossible to see the things that are underneath the navbar.
 <!--~~~~~~~~~~~~~~~~~~ 290. codepen - navbar, nav-pills and container (182) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image290.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen - navbar, nav-pills and container." />
 </p>
 
@@ -7131,7 +7145,9 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 
 </details>
 
-<h2 id="chb-08">b-08. Demystifying Bootstrap</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="chb-08">b.08 Demystifying Bootstrap</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
@@ -7152,7 +7168,7 @@ current trends. You can&apos;t live in a bubble.
 
 <https://www.coursera.org/learn/responsivedesign/peer/LBzQM/optional-use-bootstrap-to-create-a-responsive-page>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-1">4-01. Responsive Images</h2>
+<h2 id="ch4-1">4.01 Responsive Images</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 292. make your images responsive (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7249,7 +7265,7 @@ a small size, we&apos;ll take a look at those in just a second.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. img-responsive (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image297.webp"
-  style="width:60%"
+  style="width:50%"
   alt="img-responsive." />
 </p>
 
@@ -7265,7 +7281,7 @@ yourself. Let&apos;s look at those other classes as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. codepen - single image (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image298.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen - Single image." />
 </p>
 
@@ -7277,7 +7293,7 @@ to re-size the screen a bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 299. codepen - single image phone sized (185) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image299.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Codepen - Phone-sized single image." />
 </p>
 
@@ -7299,7 +7315,7 @@ Img {
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 300. re-size and change image (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image300.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Re-size based on width of parent." />
 </p>
 
@@ -7313,7 +7329,7 @@ this is exactly the kind of responsive behavior that we want to see.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 301. responsive images with bootstrap (187) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image301.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Responsive Bootstrap - rounded edges." />
 </p>
 
@@ -7330,7 +7346,7 @@ responsive behavior.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. responsive - rounded corners (188) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image302.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Image responsive bootstrap - rounded edges." />
 </p>
 
@@ -7342,7 +7358,7 @@ can have this little tiny curving, right here, curved just a little bit.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. rounded image (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image303.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Rounded image." />
 </p>
 
@@ -7354,7 +7370,7 @@ pictures, so you can have that circle look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304. image thumbnail (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image304.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Image thumbnail." />
 </p>
 
@@ -7376,7 +7392,7 @@ you&apos;re really happy with the defaults. Let&apos;s look at one more example.
 <!--~~~~~~~~~~~~~~~~~~~ 305. giving 7 images - 6 on row 1, 1 on row 2 (190) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image305.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Seven images on two rows.  6 on row 1, 1 on row 2." />
 </p>
 
@@ -7391,7 +7407,7 @@ of cool gallery effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 306. div container row with 7 images (191) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image306.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Div container row with 7 images." />
 </p>
 
@@ -7412,7 +7428,7 @@ there were one, two, three, four, five, six. All right.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307. small screen, 1 image (192) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image307.webp"
-  style="width:60%"
+  style="width:50%"
   alt="On small screen, 1 image." />
 </p>
 
@@ -7432,7 +7448,7 @@ you get one dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. 2 images of bacon (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image308.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Two columnar images." />
 </p>
 
@@ -7443,7 +7459,7 @@ Then you go to three on the media screen image size.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. 7 images of bacon (194) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image309.webp"
-  style="width:60%"
+  style="width:50%"
   alt="7 images of bacon, teachers dog, 6 in first row, 1 in second." />
 </p>
 
@@ -7500,7 +7516,7 @@ part is to get as much experience and practice as possible.
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-2">4-02. Bootstrap Tables</h2>
+<h2 id="ch4-2">4.02 Bootstrap Tables</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. bootstrap tables (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7613,7 +7629,7 @@ went in and included the link to Bootstrap style in CodePen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316. add some classes (199) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image316.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Add some classes." />
 </p>
 
@@ -7626,7 +7642,7 @@ that really does look like a table.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 317. table-striped (204) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image317.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Table striped example." />
 </p>
 
@@ -7647,7 +7663,7 @@ between.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 318. table hover (205) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image318.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Table hover and table-bordered example." />
 </p>
 
@@ -7706,7 +7722,7 @@ basically going to let people scroll.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321. example in codepen (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image321.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Example in CodePen, html only." />
 </p>
 
@@ -7764,7 +7780,7 @@ table-responsive, active, success, info, danger, warning -->
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-3">4-03. Code with Me: Advanced Navigation</h2>
+<h2 id="ch4-3">4.03 Code with Me: Advanced Navigation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody, welcome back to another Code with Me. What I want to do
 today is take some code that you&apos;re really likely to find online. And
@@ -7774,8 +7790,9 @@ menu (see end of module for source).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 323. example in codepen (209) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image323.webp"
-  style="width:60%"
-  alt="Example in CodePen - RD Advanced Navigation." />
+  style="width:50%"
+  title="Example in CodePen - Responsive Design Advanced Navigation"
+  alt="Example in CodePen - Responsive Design Advanced Navigation." />
 </p>
 
 Let&apos;s take a look at what happens when we put it into CodePen. So, what
@@ -7800,7 +7817,8 @@ do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 324. codepen settings for bootstrap (210) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image324.webp"
-  style="width:60%"
+  style="width:50%"
+  title="CodePen settings, Add Bootstrap Advanced Navigation"
   alt="CodePen settings, Add Bootstrap Advanced Navigation." />
 </p>
 
@@ -7815,9 +7833,8 @@ better-looking navigation bar. I&apos;ve got all the different components.
   alt="Collapsible menu - websitename." />
 </p>
 
-And if you watch, as I re-size it and make it smaller, we get this kind
-of collapsible menu. People tend to call this the hamburger, because you
-have the three lines.
+And if you watch, as I re-size it and make it smaller, we get this kind of collapsible 
+menu. People tend to call this the hamburger, because you have the three horizontal lines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 326. where do these parts come from? (211) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7866,29 +7883,25 @@ at times, so let&apos;s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 327. start with mobile view (208) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image327.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Start with mobile view." />
 </p>
 
-I&apos;m going to start with the mobile view because I&apos;m really curious how
-this showed up. Why is this here when it wasn&apos;t here before, so if I
-right-click and do inspect, I&apos;m going to get my second window over
-here. And it&apos;s really helpful because I can go in and I can say like
-there&apos;s this button. This button that I want to look at, and right
-away, you can see all the details. You can see the border color, the
-position, all the things that you&apos;re really kind of interested in. But
-what I&apos;m more interested in is how does it change when the screen gets
-bigger? So, I&apos;ll go back over here, make the screen a little bit
-bigger. And look, right in that same general area, you can see that now
-it&apos;s displaying none, where before, it used to have different parts to
-it.
+I&apos;m going to start with the mobile view because I&apos;m really curious how this 
+showed up. Why is this here when it wasn&apos;t here before, so if I right-click and do 
+inspect, I&apos;m going to get my second window over to the right. And it&apos;s really 
+helpful because I can go in and I can say like there&apos;s this button. This button 
+that I want to look at, and right away, you can see all the details. You can see the 
+border color, the position, all the things that you&apos;re really kind of interested 
+in. But what I&apos;m more interested in is how does it change when the screen gets
+bigger? So, I&apos;ll go back over here, make the screen a little bit bigger. And look, 
+right in that same general area, you can see that now it&apos;s displaying none, where 
+before, it used to have different parts to it.
 
-So, this is my recommendation for you as you try to do advanced
-navigation bars using Bootstrap.
-
-One, avoid using CodePen and try to use your own editor to kind of start
-from scratch. That gives you the power to quickly see if you&apos;re linking
-to all the style sheets and the JavaScript and the jQuery.
+This is my recommendation for you as you try to do advanced navigation bars using Bootstrap.
+One, avoid using CodePen and try to use your own editor to kind of start from scratch. 
+That gives you the power to quickly see if you&apos;re linking to all the style sheets 
+and the JavaScript and the jQuery.
 
 Second, it&apos;s a lot easier to use inspect element to see which parts are
 working and which ones aren&apos;t. Go in and play with the code a little
@@ -7932,7 +7945,7 @@ write your own code effectively.
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-4">4-04. What Are Templates?</h2>
+<h2 id="ch4-4">4.04 What Are Templates?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Many times, if you&apos;re talking to people who do web
 design, you&apos;ve got the people who think, I hate Bootstrap, and other
@@ -7950,7 +7963,8 @@ right direction.
 <p align="center" width="100%">
 <img src="/images/image328.webp"
   style="width:40%"
-  alt="getbootstrap.com - Getting Started." />
+  title="Where to find Bootstrap templates"
+  alt="Where to find Bootstrap templates." />
 </p>
 
 <ul>
@@ -7958,16 +7972,17 @@ right direction.
   <li><a href="http://www.bootstrapzero.com">Bootstrap Zero</a></li>
   <li><a href="http://startbootstrap.com">Start Bootstrap</a></li>
 </ul>
+<br>
 
-This first link comes from getbootstrap.com. These are just the ones
-that provide you when you first get started. These other two,
-bootstrapzero.com and startbootstrap.com, these are just ones I found
-either through word of mouth or through a search engine.
+This first link comes from getbootstrap.com. These are just the ones that provide you 
+when you first get started. These other two, bootstrapzero.com and startbootstrap.com, 
+these are just ones I found either through word of mouth or through a search engine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 329. getbootstrap.com - getting started (211) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image329.webp"
-  style="width:60%"
+  style="width:50%"
+  alt="getbootstrap.com - Getting Started." />
   alt="getbootstrap.com - Getting Started." />
 </p>
 
@@ -7982,7 +7997,7 @@ different links, and things like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330. basic template (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image330.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Basic template, HTML." />
 </p>
 
@@ -7997,7 +8012,7 @@ like this one right here.
 <!--~~~~~~~~~~~~~~~~~~~~ 331. starter template, using the framework (213) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image331.webp"
-  style="width:60%"
+  style="width:50%"
   alt="Starter template. Using the framework." />
 </p>
 
@@ -8008,117 +8023,120 @@ that you&apos;re here to learn, more than to use as your professional site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 332. free bootstrap themes (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image332.webp"
-  style="width:60%"
+  style="width:50%"
+  title="Free Bootstrap themes"
   alt="Free Bootstrap themes." />
 </p>
 
-If you want to go a couple steps up, let&apos;s go ahead and take a look at
-this next option. So here I am at bootstrapzero.com, and you can see
-that, again, they&apos;re listing a bunch of free Bootstrap themes. They
-tend to go in these general ideas of, do you want it to be a landing
-zone, do you want it to have kind of a dashboard look, you can pick.
+If you want to go a couple steps up, let&apos;s go ahead and take a look at this next 
+option. So here I am at <a href="https://www.bootstrapzero.com/">bootstrapzero.com</a>, 
+and you can see that, again, they&apos;re listing a bunch of free Bootstrap themes. They
+tend to go in these general ideas of, do you want it to be a landing zone, do you want 
+it to have kind of a dashboard look, you can pick.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333. landing zero theme (215) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image333.webp"
-  style="width:60%"
+  style="width:50%"
+  title="Landing zero theme"
   alt="Landing zero theme." />
 </p>
 
-So, if I clicked on this landing zone theme, I&apos;m going to go right
-here, Then, what you get is a much more detailed description of what
-kind of things you can have. It mentions that it&apos;s built for laptop and
-mobile view, as well as well as different views. It can talk about
-different things that you use. Different keywords, we use Bootstrap and
-the grid, and we use a form, and we have a video background.
+If I clicked on this <a href="https://www.bootstrapzero.com/theme/landing-zero/"><img border="0" alt="bootstrap"
+src="/images/image333.webp" width="100" height="75">landing zero theme</a>, I&apos;m going 
+to go right here, Then, what you get is a much more detailed description of what kind of 
+things you can have. It mentions that it&apos;s built for laptop and mobile view, as well 
+as well as different views. It can talk about different things that you use. Different 
+keywords, we use Bootstrap and the grid, and we use a form, and we have a video background.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 334. simple one page design (215) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image334.webp"
-  style="width:60%"
+  style="width:50%"
+  title="Simple one page design"
   alt="Simple one page design." />
 </p>
 
-But what you probably really care about at this point is, what does it
-look like? So let&apos;s hit this preview button right down here. And
-quickly you can see what the page would look like on the different
-platforms.
+But what you probably really care about at this point is, what does it look like? So 
+let&apos;s hit this preview button right down here. And quickly you can see what the 
+page would look like on the different platforms.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 335. simple one page design (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image335.webp"
-  style="width:40%"
+  style="width:50%"
+  title="Simple one page design. Landing page with video background"
   alt="Simple one page design. Landing page with video background." />
 </p>
 
-I&apos;m going to resize the screen, and you go a little bit further down.
-And they have that kind of drop-down menu here. Still have the video,
-they talk about their reflexive layout. So, this is great and all, but
-what do you with it if you really like it? What you do is they always
-offer this download option right here. And you can download the code and
-then start playing with it yourself.
+I&apos;m going to resize the screen, and you go a little bit further down. And they have 
+that kind of drop-down menu here. Still have the video, they talk about their reflexive 
+layout. So, this is great and all, but what do you with it if you really like it? What 
+you do is they always offer this download option right here. And you can download the 
+code and then start playing with it yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 336. start bootstrap themes and templates (217) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image336.webp"
-  style="width:40%"
+  style="width:50%"
+  title="Start Bootstrap themes and templates"
   alt="Start Bootstrap themes and templates." />
 </p>
 
-The same is true if you go to Start Bootstrap where you can get other
-themes and templates. Again, it&apos;s open source which means it&apos;s
-absolutely free and you can use it. You don&apos;t need to pay them. You
-don&apos;t need to do anything special. People like to help others and not
-only that, they like the idea of people using their code. If you can
-kind of mention it in your comments, give them a thumbs up, it&apos;s going
-to help them become better programmers.
+The same is true if you go to Start Bootstrap where you can get other themes and 
+templates. Again, it&apos;s open source which means it&apos;s absolutely free and you 
+can use it. You don&apos;t need to pay them. You don&apos;t need to do anything special. 
+People like to help others and not only that, they like the idea of people using their 
+code. If you can kind of mention it in your comments, give them a thumbs up, it&apos;s 
+going to help them become better programmers.
 
-So again, they break it down in different ideas.
+So again, they break it down in different ideas. For blogs go to the <a 
+href="https://startbootstrap.com/themes/blog-news">Bootstrap Blog Themes</a>.  
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 337. bootstrap download and preview blog examples (217) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image337.webp"
-  style="width:60%"
-  alt="Bootstrap download and preview blog example." />
+  style="width:50%"
+  title="Bootstrap download and preview blog example; startbootstrap.com"
+  alt="Bootstrap download and preview blog example; startbootstrap.com." />
 </p>
 
-Do you want a blog page? Hey, let&apos;s go ahead and preview and download
-that one. Each one of these elements are going to have things that you
-really like about them, but they might have some things that you don&apos;t
-like about them as well. So how do we use them? I mentioned that one of
-the things you can do is you can just download the code.
+Do you want a blog page? Hey, let&apos;s go ahead and preview and download that one. Each 
+one of these elements are going to have things that you really like about them, but they 
+might have some things that you don&apos;t like about them as well. So how do we use 
+them? I mentioned that one of the things you can do is you can just download the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 338. how do you use them? (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image338.webp"
   style="width:40%"
-  alt="Bootstrap template examples." />
+  title="Templates; How do you use them?"
+  alt="Templates; How do you use them?" />
 </p>
 
-But before you go across and you go, that one&apos;s awesome, I really like
-the look at that page, you need to decide if the template is really
-going to support your content. Go back, say hm, what are the important
-parts of my page? What is it that I want to emphasize? You don&apos;t
-necessarily want a streaming, cool video in the background if it
+But before you go across and you go, that one&apos;s awesome, I really like the look at 
+that page, you need to decide if the template is going to support your content. Go back, 
+say hm, what are the important parts of my page? What is it that I want to emphasize? 
+You don&apos;t necessarily want a streaming, cool video in the background if it 
 doesn&apos;t fit your content.
 
-That&apos;s when you download the code. Find that template that&apos;s going to
-work really well for you, download that code.
+That&apos;s when you download the code. Find that template that&apos;s going to work 
+really well for you, download that code.
 
-And then, you will need to modify the HTML. You&apos;ll go in, every place
-they have the stuff about themselves, you&apos;re going to replace it with
-the content you want to display.
+And then, you will need to modify the HTML. You&apos;ll go in, every place they have the 
+stuff about themselves, you&apos;re going to replace it with the content you want to 
+display.
 
-This is why it&apos;s so important to understand at least some HTML and some
-CSS even though there&apos;s free software out there. If you don&apos;t have
-that basic understanding, you&apos;re really left at the mercy of other
-people. When you know a little bit, it can really help you make huge
-changes in the templates.
+This is why it&apos;s so important to understand at least some HTML and some CSS even 
+though there&apos;s free software out there. If you don&apos;t have that basic 
+understanding, you&apos;re really left at the mercy of other people. When you know a 
+little bit, it can really help you make huge changes in the templates.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339. that's it (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image339.webp"
   style="width:40%"
+  title="That is it"
   alt="That is it." />
 </p>
 
@@ -8142,7 +8160,7 @@ these things, your site not only is going to look so much better, but
 you can be really proud of knowing that you had a hand in creating
 something so great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-5">4-05. Interview: M W (#1)</h2>
+<h2 id="ch4-5">4.05 Interview: M W (#1)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi, everybody. This morning I was actually ready to tape and my
 interviewer didn&apos;t show up, but luckily, I ran into one of my old
@@ -8295,7 +8313,7 @@ hope it&apos;s going to inspire you to realize that whether you want to get
 deeply into tech or just really at a surface level, it can help you
 accomplish any type of job that you&apos;re going to go into. So thank you
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-6">4-06. Interview: H W (#2)</h2>
+<h2 id="ch4-6">4.06 Interview: H W (#2)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Good morning, everybody. Apparently, I am starting a new series called
 high jacking my students in the hallway because I&apos;ve just run into
@@ -8452,7 +8470,7 @@ the fact that they&apos;re following what they enjoy and they&apos;re using tech
 in their own ways to interact with people. So good luck, I hope you
 enjoyed this interview.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-7">4-07. Interview with H N (#3)</h2>
+<h2 id="ch4-7">4.07 Interview with H N (#3)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hi everybody. Welcome back.
 
@@ -8649,7 +8667,7 @@ in tech is going to help you in all these different fields.
 
 So, thank you very much.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-8">4-08. Bootstrap 4/5</h2>
+<h2 id="ch4-8">4.08 Bootstrap 4/5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 340/341/342. bootstrap 5 & 4 logos (230) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8709,7 +8727,7 @@ interested in, go ahead. I myself am excited to see where it goes.</p>
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-9">4-09. Conclusion</h2>
+<h2 id="ch4-9">4.09 Conclusion</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Congratulations everybody. I&apos;m really glad that we had this chance to
 learn about responsive design.
