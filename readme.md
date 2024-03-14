@@ -11,6 +11,8 @@ UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive De
 <p align="center" width="100%">
 <img src="./images/image001.webp?raw=true"
   style="width:40%;"
+  title="Introduction to Responsive Design by Colleen van Lent, 
+    Ph.D. (lecturer, school of information)"
   alt="Introduction to Responsive Design by Colleen van Lent, 
     Ph.D. (lecturer, school of information)." />
 </p>
@@ -21,6 +23,7 @@ UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive De
 <p align="center" width="100%">
 <img src="./images/image002.webp?raw=true"
   style="width:20%;"
+  title="University of Michigan logo"
   alt="University of Michigan logo." />
 </p>
 
@@ -106,6 +109,7 @@ audial, physical, and cognitive impairments.
 <p align="center" width="100%">
 <img src="./images/image003.webp?raw=true"
   style="width:40%"
+  title="What is Responsive Design?"
   alt="What is Responsive Design?" />
 </p>
 
@@ -471,6 +475,7 @@ course.
 <p align="center" width="100%">
 <img src="./images/image005.webp?raw=true"
   style="width:40%"
+  title="What this course will cover. The BASICS of Responsive Design"
   alt="What this course will cover. The BASICS of Responsive Design." />
 
 <p>Welcome to introduction to responsive design. In this course, we&apos;re
@@ -491,6 +496,8 @@ it yourself.</p>
 <p align="center" width="100%">
 <img src="./images/image006.webp?raw=true"
   style="width:40%"
+  title="Week One: - Theory - What does responsive design mean? - 
+    What makes for good design? - Role of fluid measurements."
   alt="Week One: - Theory - What does responsive design mean? - 
     What makes for good design? - Role of fluid measurements." />
 
@@ -517,6 +524,8 @@ changes.
 <p align="center" width="100%">
 <img src="./images/image007.webp?raw=true"
   style="width:40%"
+  title="Week Two: - Media queries - What are they? - How do you plan 1st for best 
+    practices? - What is the relationship with break points? - How to make a navigation bar?"
   alt="Week Two: - Media queries - What are they? - How do you plan 1st for best 
     practices? - What is the relationship with break points? - How to make a navigation bar?" />
 </p>
@@ -548,6 +557,8 @@ really tackle this.
 <p align="center" width="100%">
 <img src="./images/image008.webp?raw=true"
   style="width:40%"
+  title="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
+    Getting Started, grid system, and navigation"  />
   alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
     Getting Started, grid system, and navigation."  />
 </p>
@@ -587,6 +598,7 @@ responsive feel.
 <p align="center" width="100%">
 <img src="./images/image009.webp?raw=true"
   style="width:40%"
+  title="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies"
   alt="Week Four: - More bootstrap - Images, tables, advanced navigation - Case studies." />
 </p>
 
@@ -606,6 +618,8 @@ responsiveness their real-life sites.
 <p align="center" width="100%">
 <img src="./images/image010.webp?raw=true"
   style="width:40%"
+  title="Final Project - Use your coding skills to create a responsive page 
+    using multiple methods (framework & media queries)"
   alt="Final Project - Use your coding skills to create a responsive page 
     using multiple methods (framework & media queries)." />
 </p>
@@ -2035,6 +2049,7 @@ That&apos;s what we&apos;re going to talk about today.</p>
 <p align="center" width="100%">
 <img src="./images/image065.webp?raw=true"
   style="width:40%"
+  title="Decide on major content."
   alt="Decide on major content." />
 </p>
 <p>Before you can start drawing, you need to decide what you need to
@@ -2052,6 +2067,7 @@ out those necessities.</p>
 <p align="center" width="100%">
 <img src="./images/image066.webp?raw=true"
   style="width:40%"
+  title="Mobile view"
   alt="Mobile view." />
 </p>
 
@@ -2066,6 +2082,7 @@ sure you design it for that mobile view.</p>
 <p align="center" width="100%">
 <img src="./images/image067.webp?raw=true"
   style="width:40%"
+  title="Mobile view, #2"
   alt="Mobile view, #2." />
 </p>
 
@@ -2080,6 +2097,7 @@ very few things side to side. We just don&apos;t have the space.</p>
 <p align="center" width="100%">
 <img src="./images/image068.webp?raw=true"
   style="width:40%"
+  title="Larger view"
   alt="Larger view." />
 </p>
 <p>Once you&apos;ve decided on that mobile view and you&apos;ve sketched it out, 
@@ -2091,6 +2109,7 @@ we want to put that other content.</p>
 <p align="center" width="100%">
 <img src="./images/image069.webp?raw=true"
   style="width:40%"
+  title="Functionality." />
   alt="Functionality." />
 </p>
 <p>You also want to think about functionality when you&apos;re doing your
@@ -2107,6 +2126,7 @@ sketches and wireframes and kind of wonder what the difference is.</p>
 <p align="center" width="100%">
 <img src="./images/image070.webp?raw=true"
   style="width:40%"
+  title="Sketches vs. Wireframes"
   alt="Sketches vs. Wireframes." />
 </p>
 <p>I always recommend starting with a sketch. With this idea with a sketch,
@@ -2129,6 +2149,7 @@ moving on.</p>
 <p align="center" width="100%">
 <img src="./images/image071.webp?raw=true"
   style="width:50%"
+  title="Best design practices - example"
   alt="Best design practices - example." />
 </p>
 
@@ -2155,6 +2176,7 @@ really too big. Maybe I should be breaking it up in to more sections.</p>
 <p align="center" width="100%">
 <img src="./images/image072.webp?raw=true"
   style="width:40%"
+  title="Wireframes - review"
   alt="Wireframes - review." />
 </p>
 
@@ -2200,6 +2222,7 @@ general meaning is.</p>
 <p align="center" width="100%">
 <img src="./images/image073.webp?raw=true"
   style="width:40%"
+  title="Breakpoints - What are They?"
   alt="Breakpoints - What are They?" />
 </p>
 
@@ -2224,6 +2247,7 @@ up your screen and there it is.</p>
 <p align="center" width="100%">
 <img src="./images/image074.webp?raw=true"
   style="width:40%"
+  title="What does trigger mean?"
   alt="What does trigger mean?" />
 </p>
 
@@ -2240,6 +2264,7 @@ to do that when they&apos;re viewing your page.</p>
 <p align="center" width="100%">
 <img src="./images/image075.webp?raw=true"
   style="width:40%"
+  title="Determining the breakpoints"
   alt="Determining the breakpoints." />
 </p>
 
@@ -6002,6 +6027,7 @@ bit, if you&apos;re going to be using Bootstrap.
 <p align="center" width="100%">
 <img src="./images/image237.webp?raw=true"
   style="width:40%"
+  title="Bootstrap layout is based on a 12-column grid"
   alt="Bootstrap layout is based on a 12-column grid." />
 </p>
 
@@ -6017,6 +6043,7 @@ columns is 75%.
 <p align="center" width="100%">
 <img src="./images/image238.webp?raw=true"
   style="width:40%"
+  title="It is not a table, #3"
   alt="It is not a table, #3." />
 </p>
 
@@ -6028,6 +6055,7 @@ element.
 <p align="center" width="100%">
 <img src="./images/image239.webp?raw=true"
   style="width:40%"
+  title="Every grid consists of a container class, a row class, and one or more column classes"
   alt="Every grid consists of a container class, a row class, and one or more column classes." />
 </p>
 
@@ -6041,6 +6069,7 @@ be the number of columns that you want to use. Let&apos;s take a look.
 <p align="center" width="100%">
 <img src="./images/image240.webp?raw=true"
   style="width:40%"
+  title="Setting width with col-xx-yy."
   alt="Setting width with col-xx-yy." />
 </p>
 
@@ -6056,6 +6085,7 @@ about 480, 720, 992, and 1200.
 <p align="center" width="100%">
 <img src="./images/image241.webp?raw=true"
   style="width:40%"
+  title="Setting width with col-xx-yy, #2."
   alt="Setting width with col-xx-yy, #2." />
 </p>
 
@@ -6070,6 +6100,7 @@ abbreviations.
 <p align="center" width="100%">
 <img src="./images/image242.webp?raw=true"
   style="width:40%"
+  title="Setting width with col-xx-yy, #3"
   alt="Setting width with col-xx-yy, #3." />
 </p>
 
@@ -6083,6 +6114,7 @@ width that it possibly can.
 <p align="center" width="100%">
 <img src="./images/image243.webp?raw=true"
   style="width:40%"
+  title="col-xs-12 - for extra small"
   alt="col-xs-12 - for extra small." />
 </p>
 
@@ -6095,6 +6127,7 @@ full width.
 <p align="center" width="100%">
 <img src="./images/image244.webp?raw=true"
   style="width:40%"
+  title="col-xs-12 and col-sm-8"
   alt="col-xs-12 and col-sm-8." />
 </p>
 
@@ -6106,6 +6139,7 @@ take up eight out of those 12 columns, but only on the smallest screen.
 <p align="center" width="100%">
 <img src="./images/image245.webp?raw=true"
   style="width:40%"
+  title="col-xs-12, col-sm-8 and col-md-4"
   alt="col-xs-12, col-sm-8 and col-md-4." />
 </p>
 
@@ -6117,6 +6151,7 @@ up four columns or one third of the entire screen size.
 <p align="center" width="100%">
 <img src="./images/image246.webp?raw=true"
   style="width:40%"
+  title="col-xs-12, col-sm-8, col-md-4 and col-lg-3"
   alt="col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
 
@@ -6129,6 +6164,7 @@ use up a quarter or 25%.
 <p align="center" width="100%">
 <img src="./images/image247.webp?raw=true"
   style="width:40%"
+  title="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
   alt="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
 
@@ -6145,6 +6181,7 @@ across.
 <p align="center" width="100%">
 <img src="./images/image248.webp?raw=true"
   style="width:40%"
+  title="col-xs-12, col-sm-6, col-md-4 and col-lg-3."
   alt="col-xs-12, col-sm-6, col-md-4 and col-lg-3." />
 </p>
 
@@ -6168,6 +6205,7 @@ and relatively small on a larger screen.
 <p align="center" width="100%">
 <img src="./images/image249.webp?raw=true"
   style="width:40%"
+  title="Using Bootstrap classes"
   alt="Using Bootstrap classes." />
 </p>
 
@@ -6179,6 +6217,7 @@ Right here we have nothing on there.
 <p align="center" width="100%">
 <img src="./images/image250.webp?raw=true"
   style="width:40%"
+  title="Using Bootstrap classes, #2"
   alt="Using Bootstrap classes, #2." />
 </p>
 
@@ -6189,6 +6228,7 @@ But if I use col-XX-3, we&apos;re using three of the 12 or 25%.
 <p align="center" width="100%">
 <img src="./images/image251.webp?raw=true"
   style="width:40%"
+  title="Using Bootstrap classes, #3."
   alt="Using Bootstrap classes, #3." />
 </p>
 
@@ -6199,6 +6239,7 @@ If I say col-XX-6, I&apos;m using 50% now.
 <p align="center" width="100%">
 <img src="./images/image252.webp?raw=true"
   style="width:40%"
+  title="Using Bootstrap classes, #4"
   alt="Using Bootstrap classes, #4." />
 </p>
 
@@ -6209,6 +6250,7 @@ Col-XX-9, 75% and
 <p align="center" width="100%">
 <img src="./images/image253.webp?raw=true"
   style="width:40%"
+  title="Using Bootstrap classes, #5"
   alt="Using Bootstrap classes, #5." />
 </p>
 
@@ -6223,6 +6265,7 @@ a large screen.
 <p align="center" width="100%">
 <img src="./images/image254.webp?raw=true"
   style="width:40%"
+  title="Two elements side-by-side, but only on larger screens"
   alt="Two elements side-by-side, but only on larger screens." />
 </p>
 
@@ -6235,6 +6278,7 @@ width. But, on a medium screen, I want it to take up only three.
 <p align="center" width="100%">
 <img src="./images/image255.webp?raw=true"
   style="width:40%"
+  title="Combining elements, #2"
   alt="Combining elements, #2." />
 </p>
 
@@ -6246,6 +6290,7 @@ one, two, three columns. All right.
 <p align="center" width="100%">
 <img src="./images/image256.webp?raw=true"
   style="width:40%"
+  title="Combining elements, #3"
   alt="Combining elements, #3." />
 </p>
 
@@ -6273,6 +6318,7 @@ still hit multiple break points.
 <p align="center" width="100%">
 <img src="./images/image257.webp?raw=true"
   style="width:40%"
+  title="Bootstrap is mobile first"
   alt="Bootstrap is mobile first." />
 </p>
 
@@ -6284,6 +6330,7 @@ what I just wrote here.
 <p align="center" width="100%">
 <img src="./images/image258.webp?raw=true"
   style="width:40%"
+  title="Block by default"
   alt="Block by default." />
 </p>
 
@@ -6299,6 +6346,7 @@ rules where it&apos;s going to change.
 <p align="center" width="100%">
 <img src="./images/image259.webp?raw=true"
   style="width:40%"
+  title="Block by default, #2"
   alt="Block by default, #2." />
 </p>
 
@@ -6310,6 +6358,7 @@ time you are on a medium viewport or larger, make it three columns.
 <p align="center" width="100%">
 <img src="./images/image260.webp?raw=true"
   style="width:40%"
+  title="Positioning classes"
   alt="Positioning classes." />
 </p>
 
@@ -6321,6 +6370,7 @@ possibly can when it&apos;s positioning them.
 <p align="center" width="100%">
 <img src="./images/image261.webp?raw=true"
   style="width:40%"
+  title="Positining classes, #2"
   alt="Positining classes, #2." />
 </p>
 
@@ -6334,6 +6384,7 @@ columns to the left.
 <p align="center" width="100%">
 <img src="./images/image262.webp?raw=true"
   style="width:40%"
+  title="Positioning classes, #3"
   alt="Positioning classes, #3." />
 </p>
 
@@ -6347,6 +6398,7 @@ know about the responsive utility classes.
 <p align="center" width="100%">
 <img src="./images/image263.webp?raw=true"
   style="width:40%"
+  title="Responsive utility classes - hidden-xx"
   alt="Responsive utility classes - hidden-xx." />
 </p>
 
@@ -6361,6 +6413,7 @@ the one we&apos;re going to mention right here.
 <p align="center" width="100%">
 <img src="./images/image264.webp?raw=true"
   style="width:40%"
+  title="Responsive utility classes - hidden-xx and visible-xx"
   alt="Responsive utility classes - hidden-xx and visible-xx." />
 </p>
 
@@ -6372,6 +6425,7 @@ visible unless I&apos;m on this certain size screen.
 <p align="center" width="100%">
 <img src="./images/image265.webp?raw=true"
   style="width:40%"
+  title="Responsive utility classes - hidden-xx, visible-xx &amp; sr-only"
   alt="Responsive utility classes - hidden-xx, visible-xx &amp; sr-only." />
 </p>
 
@@ -6385,6 +6439,7 @@ this element is visible to them, and them only.
 <p align="center" width="100%">
 <img src="./images/image266.webp?raw=true"
   style="width:40%"
+  title="Conclusion - larger inherit from smaller"
   alt="Conclusion - larger inherit from smaller." />
 </p>
 
@@ -6403,6 +6458,7 @@ some of the examples that they have coded up for you.
 <p align="center" width="100%">
 <img src="./images/image267.webp?raw=true"
   style="width:40%"
+  title="Conclusion - larger inherit from smaller, #2"
   alt="Conclusion - larger inherit from smaller, #2." />
 </p>
 
@@ -6429,6 +6485,7 @@ with me.
 <p align="center" width="100%">
 <img src="/images/image268.webp"
   style="width:50%"
+  title="Large Screen: class=container and class=row in grid system"
   alt="Large Screen: class=container and class=row in grid system." />
 </p>
 
@@ -6449,6 +6506,7 @@ the same row at times. I&apos;m actually going to move this.
 <p align="center" width="100%">
 <img src="/images/image269.webp"
   style="width:50%"
+  title="Code with me - extra-small and small screens"
   alt="Code with me - extra-small and small screens." />
 </p>
 
@@ -6463,6 +6521,7 @@ change at all. You can kind of trust me on that one.
 <p align="center" width="100%">
 <img src="/images/image270.webp"
   style="width:50%"
+  title="Code with me - medium screens"
   alt="Code with me - medium screens." />
 </p>
 
@@ -6496,6 +6555,7 @@ and this one will suddenly show up.
 <p align="center" width="100%">
 <img src="/images/image271.webp"
   style="width:50%"
+  title="Medium screen"
   alt="Medium screen." />
 </p>
 
@@ -6521,6 +6581,7 @@ having four on top of each other, we have two pairs of two.
 <p align="center" width="100%">
 <img src="/images/image272.webp"
   style="width:50%"
+  title="Large screen"
   alt="Large screen." />
 </p>
 
@@ -6636,6 +6697,7 @@ Hi, everybody. Today, we&apos;re going to talk about navigation bars.
 <p align="center" width="100%">
 <img src="/images/image273.webp"
   style="width:40%"
+  title="Navigation bars"
   alt="Navigation bars." />
 </p>
 
@@ -6650,6 +6712,7 @@ different style navigation that you&apos;re going to see.
 <p align="center" width="100%">
 <img src="/images/image274.webp"
   style="width:40%"
+  title="Making a navigation bar"
   alt="Making a navigation bar." />
 </p>
 
@@ -6673,6 +6736,7 @@ Bootstrap CSS.
 <p align="center" width="100%">
 <img src="/images/image275.webp"
   style="width:50%"
+  title="Codepen - add Bootstrap"
   alt="Codepen - add Bootstrap." />
 </p>
 
@@ -6685,6 +6749,7 @@ add Bootstrap. And as soon as I save that, boom, there you go.
 <p align="center" width="100%">
 <img src="/images/image276.webp"
   style="width:40%"
+  title="HTML for navigation bars"
   alt="HTML for navigation bars." />
 </p>
 
@@ -6697,6 +6762,7 @@ in a file tabbing system where you kind of flip through.
 <p align="center" width="100%">
 <img src="/images/image277.webp"
   style="width:40%"
+  title="More HTML for navigation bars"
   alt="More HTML for navigation bars." />
 </p>
 
@@ -6718,7 +6784,8 @@ early on.
 <p align="center" width="100%">
 <img src="/images/image278.webp"
   style="width:40%"
-  alt="." />
+  title="Making a Navigation Bar"
+  alt="Making a Navigation Bar." />
 </p>
 
 Once you&apos;ve decided on either tabs or pills, another thing you're going
@@ -6733,7 +6800,8 @@ unordered list element, I have that it should be nav in nav pills.
 <p align="center" width="100%">
 <img src="/images/image279.webp"
   style="width:40%"
-  alt="." />
+  title="HTML Navigation Bar - Vertical"
+  alt="HTML Navigation Bar - Vertical." />
 </p>
 
 What I want to add now is to say, you know what? Instead of being
@@ -6745,7 +6813,8 @@ simple class completely changes the look of our page.
 <p align="center" width="100%">
 <img src="/images/image280.webp"
   style="width:50%"
-  alt="." />
+  title="Codepen - HTML nav bar - horizontal"
+  alt="Codepen - HTML nav bar - horizontal." />
 </p>
 
 Another option that we can use is nav-justified. When you use
@@ -6761,7 +6830,8 @@ changes the look of the page.
 <p align="center" width="100%">
 <img src="/images/image281.webp"
   style="width:50%"
-  alt="." />
+  title="Codepen - HTML nav bar - vertical"
+  alt="Codepen - HTML nav bar - vertical." />
 </p>
 
 So now as I make it smaller, it changes from justified per stack. This
@@ -6774,6 +6844,7 @@ horizontal.
 <p align="center" width="100%">
 <img src="/images/image282.webp"
   style="width:50%"
+  title="Dropdowns"
   alt="Dropdowns." />
 </p>
 
@@ -6866,6 +6937,7 @@ code to jQuery. So, let's go ahead and take a look at what we can do.
 <p align="center" width="100%">
 <img src="/images/image283.webp"
   style="width:40%"
+  title="Dropdowns, #2"
   alt="Dropdowns, #2." />
 </p>
 
@@ -6876,6 +6948,7 @@ The example on Bootstrap is called pills with drop-downs.
 <p align="center" width="100%">
 <img src="/images/image284.webp"
   style="width:40%"
+  title="Dropdowns, #3"
   alt="Dropdowns, #3." />
 </p>
 
@@ -6924,7 +6997,8 @@ possibly make.</p>
 <p align="center" width="100%">
 <img src="/images/image285.webp"
   style="width:50%"
-  alt="." />
+  title="Codepen - Link to Bootstrap JavaScript Files"
+  alt="Codepen - Link to Bootstrap JavaScript Files." />
 </p>
 
 So first, I need to know, did I link to the Bootstrap JavaScript files?
@@ -6942,7 +7016,8 @@ comment it out.
 <p align="center" width="100%">
 <img src="/images/image286.webp"
   style="width:50%"
-  alt="." />
+  title="Codepen - Add jQuery"
+  alt="Codepen - Add jQuery." />
 </p>
 
 I&apos;m going to go back here and say, oop, I know there&apos;s a script I&apos;m
@@ -6982,6 +7057,7 @@ that you&apos;re on the right path.
 <p align="center" width="100%">
 <img src="/images/image287.webp"
   style="width:40%"
+  title="Navbar class"
   alt="Navbar class." />
 </p>
 
@@ -6999,6 +7075,7 @@ interacts with the other elements.
 <p align="center" width="100%">
 <img src="/images/image288.webp"
   style="width:50%"
+  title="Codepen - example nav-pills"
   alt="Codepen - example nav-pills." />
 </p>
 
@@ -7020,6 +7097,7 @@ means it&apos;s on top, it&apos;s not going to move.
 <p align="center" width="100%">
 <img src="/images/image289.webp"
   style="width:50%"
+  title="Codepen - hiding nav bar"
   alt="Codepen - hiding nav bar." />
 </p>
 
@@ -7033,6 +7111,7 @@ impossible to see the things that are underneath the navbar.
 <p align="center" width="100%">
 <img src="/images/image290.webp"
   style="width:50%"
+  title="Codepen - navbar, nav-pills and container"
   alt="Codepen - navbar, nav-pills and container." />
 </p>
 
@@ -7046,6 +7125,7 @@ the ability to scroll up and down and at least see them.
 <p align="center" width="100%">
 <img src="/images/image291.webp"
   style="width:40%"
+  title="Accessibility.  Nav tag and nav classes are not equal"
   alt="Accessibility.  Nav tag and nav classes are not equal." />
 </p>
 
@@ -7148,7 +7228,6 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="chb-08">b.08 Demystifying Bootstrap</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 I am about to go into some of the more advanced classes in Bootstrap.
 Before we begin, are you looking for another reference on Bootstrap? I
 found that this article did a nice job of showing Bootstrap classes
@@ -7174,6 +7253,7 @@ current trends. You can&apos;t live in a bubble.
 <p align="center" width="100%">
 <img src="/images/image292.webp"
   style="width:40%"
+  title="Make your images responsive - with Bootstrap"
   alt="Make your images responsive - with Bootstrap." />
 </p>
 
@@ -7193,6 +7273,7 @@ we&apos;re going to talk about two different approaches.
 <p align="center" width="100%">
 <img src="/images/image293.webp"
   style="width:40%"
+  title="Your own code"
   alt="Your own code." />
 </p>
 
@@ -7222,6 +7303,7 @@ don&apos;t want it to have so much emphasis.
 <p align="center" width="100%">
 <img src="/images/image294.webp"
   style="width:40%"
+  title="Your own code, #2"
   alt="Your own code, #2." />
 </p>
 
@@ -7236,6 +7318,7 @@ what&apos;s going to happen is it&apos;s going to skew.
 <p align="center" width="100%">
 <img src="/images/image295.webp"
   style="width:40%"
+  title="Your own code, #3"
   alt="Your own code, #3." />
 </p>
 
@@ -7246,6 +7329,7 @@ auto or leave it along.
 <p align="center" width="100%">
 <img src="/images/image296.webp"
   style="width:40%"
+  title="Using Bootstrap"
   alt="Using Bootstrap." />
 </p>
 
@@ -7266,6 +7350,7 @@ a small size, we&apos;ll take a look at those in just a second.
 <p align="center" width="100%">
 <img src="/images/image297.webp"
   style="width:50%"
+  title="img-responsive"
   alt="img-responsive." />
 </p>
 
@@ -7282,6 +7367,7 @@ yourself. Let&apos;s look at those other classes as well.
 <p align="center" width="100%">
 <img src="/images/image298.webp"
   style="width:50%"
+  title="Codepen - Single image"
   alt="Codepen - Single image." />
 </p>
 
@@ -7294,6 +7380,7 @@ to re-size the screen a bit.
 <p align="center" width="100%">
 <img src="/images/image299.webp"
   style="width:50%"
+  title="Codepen - Phone-sized single image"
   alt="Codepen - Phone-sized single image." />
 </p>
 
@@ -7316,6 +7403,7 @@ Img {
 <p align="center" width="100%">
 <img src="/images/image300.webp"
   style="width:50%"
+  title="Re-size based on width of parent"
   alt="Re-size based on width of parent." />
 </p>
 
@@ -7330,6 +7418,7 @@ this is exactly the kind of responsive behavior that we want to see.
 <p align="center" width="100%">
 <img src="/images/image301.webp"
   style="width:50%"
+  title="Responsive Bootstrap - rounded edges"
   alt="Responsive Bootstrap - rounded edges." />
 </p>
 
@@ -7347,6 +7436,7 @@ responsive behavior.
 <p align="center" width="100%">
 <img src="/images/image302.webp"
   style="width:50%"
+  title="Image responsive bootstrap - rounded edges"
   alt="Image responsive bootstrap - rounded edges." />
 </p>
 
@@ -7359,6 +7449,7 @@ can have this little tiny curving, right here, curved just a little bit.
 <p align="center" width="100%">
 <img src="/images/image303.webp"
   style="width:50%"
+  title="Rounded image"
   alt="Rounded image." />
 </p>
 
@@ -7371,6 +7462,7 @@ pictures, so you can have that circle look.
 <p align="center" width="100%">
 <img src="/images/image304.webp"
   style="width:50%"
+  title="Image thumbnail"
   alt="Image thumbnail." />
 </p>
 
@@ -7393,6 +7485,7 @@ you&apos;re really happy with the defaults. Let&apos;s look at one more example.
 <p align="center" width="100%">
 <img src="/images/image305.webp"
   style="width:50%"
+  title="Seven images on two rows.  6 on row 1, 1 on row 2"
   alt="Seven images on two rows.  6 on row 1, 1 on row 2." />
 </p>
 
@@ -7408,6 +7501,7 @@ of cool gallery effect.
 <p align="center" width="100%">
 <img src="/images/image306.webp"
   style="width:50%"
+  title="Div container row with 7 images"
   alt="Div container row with 7 images." />
 </p>
 
@@ -7429,6 +7523,7 @@ there were one, two, three, four, five, six. All right.
 <p align="center" width="100%">
 <img src="/images/image307.webp"
   style="width:50%"
+  title="On small screen, 1 image"
   alt="On small screen, 1 image." />
 </p>
 
@@ -7449,6 +7544,7 @@ you get one dog.
 <p align="center" width="100%">
 <img src="/images/image308.webp"
   style="width:50%"
+  title="Two columnar images"
   alt="Two columnar images." />
 </p>
 
@@ -7460,6 +7556,7 @@ Then you go to three on the media screen image size.
 <p align="center" width="100%">
 <img src="/images/image309.webp"
   style="width:50%"
+  title="7 images of bacon, teachers dog, 6 in first row, 1 in second"
   alt="7 images of bacon, teachers dog, 6 in first row, 1 in second." />
 </p>
 
@@ -7522,7 +7619,8 @@ part is to get as much experience and practice as possible.
 <p align="center" width="100%">
 <img src="/images/image310.webp"
   style="width:40%"
-  alt="." />
+  title="4.02 Bootstrap Tables"
+  alt="4.02 Bootstrap Tables." />
 </p>
 
 Hi everybody. Today, we&apos;re going to talk about tables. Many people use
@@ -7542,6 +7640,7 @@ classes on top of each other to get a really specific look.
 <p align="center" width="100%">
 <img src="/images/image311.webp"
   style="width:30%"
+  title="Bootstrap tables, #2"
   alt="Bootstrap tables, #2." />
 </p>
 
@@ -7552,6 +7651,7 @@ foundation. You need to have that class every time you style tables.
 <p align="center" width="100%">
 <img src="/images/image312.webp"
   style="width:30%"
+  title="Classes - tabl and table-striped"
   alt="Classes - tabl and table-striped." />
 </p>
 
@@ -7573,6 +7673,7 @@ transparent.
 <p align="center" width="100%">
 <img src="/images/image313.webp"
   style="width:30%"
+  title="Classes - table-bordered and table-hover"
   alt="Classes - table-bordered and table-hover." />
 </p>
 
@@ -7588,6 +7689,7 @@ think a little cooler than it is.
 <p align="center" width="100%">
 <img src="/images/image314.webp"
   style="width:30%"
+  title="Responsive tables - default under 768 for horizontal scrolling"
   alt="Responsive tables - default under 768 for horizontal scrolling." />
 </p>
 
@@ -7605,6 +7707,7 @@ default view. There&apos;s no default scrolling at the bottom.
 <p align="center" width="100%">
 <img src="/images/image315.webp"
   style="width:40%"
+  title="Row, header &amp; cell classes"
   alt="Row, header &amp; cell classes." />
 </p>
 
@@ -7630,6 +7733,7 @@ went in and included the link to Bootstrap style in CodePen.
 <p align="center" width="100%">
 <img src="/images/image316.webp"
   style="width:50%"
+  title="Add some classes"
   alt="Add some classes." />
 </p>
 
@@ -7643,6 +7747,7 @@ that really does look like a table.
 <p align="center" width="100%">
 <img src="/images/image317.webp"
   style="width:50%"
+  title="Table striped example"
   alt="Table striped example." />
 </p>
 
@@ -7664,6 +7769,7 @@ between.
 <p align="center" width="100%">
 <img src="/images/image318.webp"
   style="width:50%"
+  title="Table hover and table-bordered example"
   alt="Table hover and table-bordered example." />
 </p>
 
@@ -7679,6 +7785,7 @@ on.
 <p align="center" width="100%">
 <img src="/images/image319.webp"
   style="width:40%"
+  title="Table hover example"
   alt="Table hover example." />
 </p>
 
@@ -7706,6 +7813,7 @@ responsive, oops, table responsive, to the div class.
 <p align="center" width="100%">
 <img src="/images/image320.webp"
   style="width:40%"
+  title="Scroll example bar"
   alt="Scroll example bar." />
 </p>
 
@@ -7723,6 +7831,7 @@ basically going to let people scroll.
 <p align="center" width="100%">
 <img src="/images/image321.webp"
   style="width:50%"
+  title="Example in CodePen, html only"
   alt="Example in CodePen, html only." />
 </p>
 
@@ -7742,6 +7851,7 @@ this one again you can see that it turns in a kind of yellowish color.
 <p align="center" width="100%">
 <img src="/images/image322.webp"
   style="width:40%"
+  title="Tables - Should You Use Them?"
   alt="Tables - Should You Use Them?" />
 </p>
 
@@ -7830,6 +7940,7 @@ better-looking navigation bar. I&apos;ve got all the different components.
 <p align="center" width="100%">
 <img src="/images/image325.webp"
   style="width:40%"
+  title="Collapsible menu - websitename"
   alt="Collapsible menu - websitename." />
 </p>
 
@@ -7840,6 +7951,7 @@ menu. People tend to call this the hamburger, because you have the three horizon
 <p align="center" width="100%">
 <img src="/images/image326.webp"
   style="width:40%"
+  title="Where do these different parts come from?"
   alt="Where do these different parts come from?" />
 </p>
 
@@ -7884,6 +7996,7 @@ at times, so let&apos;s take a look.
 <p align="center" width="100%">
 <img src="/images/image327.webp"
   style="width:50%"
+  title="Start with mobile view."
   alt="Start with mobile view." />
 </p>
 
@@ -8673,12 +8786,15 @@ So, thank you very much.
 <p align="center" width="100%">
 <img src="./images/image340.webp?raw=true"
   style="width:25%"
+  title="Logos for Bootstrap 5 and 4"
   alt="Logos for Bootstrap 5 and 4." />
 <img src="./images/image341.webp?raw=true"
   style="width:25%"
+  title="Logos for Bootstrap 5 and 4"
   alt="Logos for Bootstrap 5 and 4." />
 <img src="./images/image342.webp?raw=true"
   style="width:25%"
+  title="Logos for Bootstrap 5 and 4"
   alt="Logos for Bootstrap 5 and 4." />
 </p>
 <p>Hi, everybody. Let&apos;s talk about Bootstrap 4 and 5. In this class I&apos;ve
@@ -8793,6 +8909,7 @@ Codeschool has free course about DevTools:
 <p align="center" width="100%">
 <img src="/images/image343.webp"
   style="width:30%"
+  title="Michigan Online Logo"
   alt="Michigan Online Logo." />
 </p>
 
