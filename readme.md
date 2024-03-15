@@ -227,7 +227,7 @@ section to view them.
 <p align="center" width="100%">
 <img src="./images/image004.webp?raw=true"
   style="width:65%"
-  alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0"  target="_blank"/>
+  alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/FiB72uoyEeWuUgrcWIxPhQ_22947c67640107123073de1b7d4336e0_AccessingSlides.webp?expiry=1676419200000&hmac=VojTcbF-vlhFCCjD7TPw0mTJmOc3WsNJJsFZFgK6Dw0"
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -675,6 +675,8 @@ So how do you succeed in this class?
 <p align="center" width="100%">
 <img src="./images/image011.webp?raw=true"
   style="width:40%"
+  title="Succeeding in this class - Use message boards. - Don&apos;t spend more than 20 minutes 
+    on a problem. Move on. - Look things up. - Practice, practice, practice"
   alt="Succeeding in this class - Use message boards. - Don&apos;t spend more than 20 minutes 
     on a problem. Move on. - Look things up. - Practice, practice, practice." />
 
@@ -698,6 +700,7 @@ will be there.
 <p align="center" width="100%">
 <img src="./images/image012.webp?raw=true"
   style="width:40%"
+  title="Concepts to consider"
   alt="Concepts to consider." />
 
 Finally, make sure that you practice, practice, practice. The only way
@@ -752,6 +755,7 @@ throughout this entire course.
 <p align="center" width="100%">
 <img src="./images/image012.webp?raw=true"
   style="width:40%"
+  title="Concepts to consider, again"
   alt="Concepts to consider, again." />
 
 Three concepts that I want you to keep in the back of your mind.
@@ -779,6 +783,7 @@ We want it to happen really automatically.
 <p align="center" width="100%">
 <img src="./images/image013.webp?raw=true"
   style="width:50%"
+  title="Media queries; media screen and min-width"
   alt="Media queries; media screen and min-width." />
 
 Let&apos;s take a look at some examples that have great responsive design.
@@ -791,6 +796,7 @@ The first place I&apos;m going to take you is a website called
 <p align="center" width="100%">
 <img src="./images/image014.webp?raw=true"
   style="width:50%"
+  title="Mediaqueri.es; media screen and min-width"
   alt="Mediaqueri.es; media screen and min-width." />
 
 This site has a really nice collection of different sites that it&apos;s
@@ -802,6 +808,7 @@ ahead and take a look at, I&apos;ll scroll down a few.
 <p align="center" width="100%">
 <img src="./images/image015.webp?raw=true"
   style="width:50%"
+  title="Capital Public Radio; capradioraffle.org"
   alt="Capital Public Radio; capradioraffle.org." />
 
 How about this one right here? CapRadio, go anyplace.
@@ -814,6 +821,7 @@ that there&apos;s a definite look to the layout.
 <p align="center" width="100%">
 <img src="./images/image016.webp?raw=true"
   style="width:50%"
+  title="Capital Public Radio; capradioraffle.org"
   alt="Capital Public Radio; capradioraffle.org." />
 
 As I resize the screen, as if I&apos;m looking perhaps on a tablet, and I
@@ -825,6 +833,7 @@ The navigation bar is now over to the left when it wasn&apos;t there before.
 <p align="center" width="100%">
 <img src="./images/image017.webp?raw=true"
   style="width:50%"
+  title="Capital Public Radio; capradioraffle.org"
   alt="Capital Public Radio; capradioraffle.org." />
 
 I&apos;m going to go ahead and make it smaller still. I don&apos;t even need to
@@ -854,6 +863,7 @@ really bad at web design so I found one for you.
 <p align="center" width="100%">
 <img src="./images/image018.webp?raw=true"
   style="width:50%"
+  title="IRS.gov - example with poor responsiveness"
   alt="IRS.gov - example with poor responsiveness." />
 
 It&apos;s the Internal Revenue Service. And what we have here is a site that
@@ -864,6 +874,7 @@ screen you&apos;re looking at.
 <p align="center" width="100%">
 <img src="./images/image019.webp?raw=true"
   style="width:50%"
+  title="IRS.gov - no change showing poor responsive design"
   alt="IRS.gov - no change showing poor responsive design." />
 
 It looks okay right here, but when I make the screen much smaller, you
@@ -894,6 +905,7 @@ laptop, that you can resize your window and refresh the site.
 <p align="center" width="100%">
 <img src="./images/image020.webp?raw=true"
   style="width:50%"
+  title="intro-webdesign.com - sample web site using reponsiveness - 3 breakpoints/sizes"
   alt="intro-webdesign.com - sample web site using reponsiveness - 3 breakpoints/sizes." />
 
 So, if I go here;
@@ -907,6 +919,7 @@ change.
 <p align="center" width="100%">
 <img src="./images/image021.webp?raw=true"
   style="width:50%"
+  title="intro-webdesign.com - mobile view"
   alt="intro-webdesign.com - mobile view." />
 
 <div align="right">
@@ -937,6 +950,7 @@ Here we go.
 <p align="center" width="100%">
 <img src="./images/image022.webp?raw=true"
   style="width:50%"
+  title="ui.dev/amiresponsive - mobile view"
   alt="ui.dev/amiresponsive - mobile view." />
 
 Here&apos;s a website that you can go to. Down at the bottom of the screen,
@@ -947,6 +961,7 @@ you can fill in the URL of the site you want to look at.
 <p align="center" width="100%">
 <img src="./images/image021.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - mobile view"
   alt="https://ui.dev/amiresponsive - mobile view." />
 
 Just so you know, this is made with an HTML tag that makes it so that
@@ -965,6 +980,7 @@ using.
 <p align="center" width="100%">
 <img src="./images/image024.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - mobile view"
   alt="https://ui.dev/amiresponsive - mobile view." />
 
 Let&apos;s check out another site.
@@ -974,6 +990,7 @@ Let&apos;s check out another site.
 <p align="center" width="100%">
 <img src="./images/image025.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - collemc.people.si.umich.edu"
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu." />
 
 In this case, again we can see that this is a responsive setup. Now, even though 
@@ -990,6 +1007,7 @@ content.
 <p align="center" width="100%">
 <img src="./images/image026.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - collemc.people.si.umich.edu - mobile view"
   alt="https://ui.dev/amiresponsive - collemc.people.si.umich.edu - mobile view." />
 
 The next site I&apos;m going to check is one that I&apos;ve made from my umich
@@ -1023,6 +1041,7 @@ things from different viewpoints.
 <p align="center" width="100%">
 <img src="./images/image027.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - Colleen E van Lent's web page - mobile view"
   alt="https://ui.dev/amiresponsive - Colleen E van Lent's web page - mobile view." />
 
 With Chrome, you can use inspect element to see the different viewpoints
@@ -1037,6 +1056,7 @@ element by right clicking Click over here.
 <p align="center" width="100%">
 <img src="./images/image028.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view"
   alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
 
 And what I can do now is up in the upper left-hand corner, there&apos;s
@@ -1049,6 +1069,7 @@ viewing my site as if I&apos;m viewing it on a small mobile phone.
 <p align="center" width="100%">
 <img src="./images/image029.webp?raw=true"
   style="width:50%"
+  title="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view"
   alt="https://ui.dev/amiresponsive - colleen e van lent's website - mobile view." />
 
 Depending upon your operating system in the browser of the addition that
@@ -1063,6 +1084,7 @@ to kind of see what the site would look like.
 <p align="center" width="100%">
 <img src="./images/image030.webp?raw=true"
   style="width:50%"
+  title="Laptop (1440 x 900)"
   alt="Laptop (1440 x 900)." />
 
 Let&apos;s see, do one last one, a laptop. Depending on which type of
@@ -1090,6 +1112,7 @@ we&apos;re going to adopt has its true benefits.
 <p align="center" width="100%">
 <img src="./images/image031.webp?raw=true"
   style="width:40%"
+  title="Responsive Options: RWD, adaptive design and separate mobile site (.m)"
   alt="Responsive Options: RWD, adaptive design and separate mobile site (.m)." />
 
 The first option, ***responsive web design or RWD***, is really dealing
@@ -1108,6 +1131,7 @@ when you create a completely separate page URL for the mobile site.
 <p align="center" width="100%">
 <img src="./images/image032.webp?raw=true"
   style="width:40%"
+  title="RWD - Responsive Web Design"
   alt="RWD - Responsive Web Design." />
 
 First, let&apos;s talk about <b>responsive web design</b>. With the definition
@@ -1132,6 +1156,7 @@ many people think.
 <p align="center" width="100%">
 <img src="./images/image033.webp?raw=true"
   style="width:40%"
+  title="Adaptive design"
   alt="Adaptive design." />
 
 The second type, <b>adaptive design</b>, means that the server figures out
@@ -1150,6 +1175,7 @@ return the wrong code if the wrong device type is detected.
 <p align="center" width="100%">
 <img src="./images/image034.webp?raw=true"
   style="width:40%"
+  title="Separate URL"
   alt="Separate URL." />
 
 That third option of having a <b>dedicated mobile site</b>, or <b>a .m
@@ -1172,6 +1198,7 @@ is the same type of information just on different URLs.
 <p align="center" width="100%">
 <img src="./images/image035.webp?raw=true"
   style="width:40%"
+  title="Why RWD?"
   alt="Why RWD?" />
 
 <p>So why am I stressing responsive web design?</p>
@@ -1215,6 +1242,7 @@ really is.
 <p align="center" width="100%">
 <img src="./images/image036.webp?raw=true"
   style="width:85%"
+  title="Additional best practices"
   alt="Additional best practices." />
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1245,6 +1273,7 @@ lecture on Fluid Measurements.</p>
 <p align="center" width="100%">
 <img src="./images/image037.webp?raw=true"
   style="width:40%"
+  title="Fluid Measurements"
   alt="Fluid Measurements." />
 
 Hi, everybody. Today we&apos;re going to talk about fluid measurements.
@@ -1278,6 +1307,7 @@ possible.
 <p align="center" width="100%">
 <img src="./images/image038.webp?raw=true"
   style="width:40%"
+  title="Absolute Measurements; px, (mm, cm, in), pt & pc"
   alt="Absolute Measurements; px, (mm, cm, in), pt & pc." />
 
 First, let&apos;s talk about absolute measurements. For many people, these
@@ -1313,6 +1343,7 @@ them.
 <p align="center" width="100%">
 <img src="./images/image039.webp?raw=true"
   style="width:40%"
+  title="Relative measurements; %, em and rem"
   alt="Relative measurements; %, em and rem." />
 
 Let&apos;s start with percent. Percentage values are always relative to
@@ -1334,6 +1365,7 @@ smaller. Let me show you an example.
 <p align="center" width="100%">
 <img src="./images/image040.webp?raw=true"
   style="width:40%"
+  title="Relative measurements, #2; %, em & rem"
   alt="Relative measurements, #2; %, em & rem." />
 
 Let&apos;s assume we&apos;re going to set something up to be 0.5em and it&apos;s
@@ -1356,6 +1388,7 @@ lot of things embedded inside the other.
 <p align="center" width="100%">
 <img src="./images/image039.webp?raw=true"
   style="width:40%"
+  title="Relative measurements, #3; %, em & rem"
   alt="Relative measurements, #3; %, em & rem." />
 
 Now, the problem with teaching and learning about relative measurements,
@@ -1376,6 +1409,7 @@ font stays the exact same size. Same if the screen gets smaller.
 <p align="center" width="100%">
 <img src="./images/image041.webp?raw=true"
   style="width:40%"
+  title="Relative measurements, vw - viewport width and vh - viewport height"
   alt="Relative measurements, vw - viewport width and vh - viewport height." />
 
 Two of the newer relative measurements are based on the viewport. vw
@@ -1396,7 +1430,8 @@ specific positions.
 <p align="center" width="100%">
 <img src="./images/image042.webp?raw=true"
   style="width:40%"
-  alt="1.05. Fluid Measurements Review." />
+  title="1.05 Fluid Measurements Review"
+  alt="1.05 Fluid Measurements Review." />
 
 Now, there are times that you&apos;re going to want to hardcode values with
 those absolute measurements. But, whenever possible, when you&apos;re coming
@@ -1421,6 +1456,7 @@ with me while I code it.
 <p align="center" width="100%">
 <img src="./images/image043.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements, #1"
   alt="Fluid measurements, #1." />
 
 So, let&apos;s do an example as we go from static or absolute measurements
@@ -1475,6 +1511,7 @@ let&apos;s just wing it a little bit.
 <p align="center" width="100%">
 <img src="./images/image044.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements, #2"
   alt="Fluid measurements, #2." />
 
 I&apos;m going to make it so I can see my code. And the first thing I&apos;m
@@ -1487,6 +1524,7 @@ which is the width of this main part. Saying that I always want it to be
 <p align="center" width="100%">
 <img src="./images/image045.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements, #3"
   alt="Fluid measurements, #3." />
 
 Instead, let&apos;s use percent here, and say I want this to take up, let&apos;s
@@ -1499,6 +1537,7 @@ happen, but a little. I&apos;ll resize it again.
 <p align="center" width="100%">
 <img src="./images/image046.webp?raw=true"
   style="width:50%"
+  title="Measurements, #4"
   alt="Measurements, #4." />
 
 You can see that my paragraph down here still fits, but the columns just
@@ -1511,6 +1550,7 @@ page is responsive, let&apos;s work on those columns.
 <p align="center" width="100%">
 <img src="./images/image047.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements"
   alt="Fluid measurements." />
 
 Here, I&apos;ve set them to 300 pixels. Let&apos;s change that. Since I have
@@ -1526,6 +1566,7 @@ it small, the columns are still together. This is really good.
 <p align="center" width="100%">
 <img src="./images/image048.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements"
   alt="Fluid measurements." />
 
 The last thing I&apos;m going to change, I&apos;m going to change
@@ -1643,6 +1684,7 @@ Hi everybody. Today we are going to talk about Media queries.
 <p align="center" width="100%">
 <img src="./images/image049.webp?raw=true"
   style="width:40%"
+  title="Media queries"
   alt="Media queries." />
 
 Media queries are going to allow us to adjust the style of out webpages,
@@ -1660,6 +1702,7 @@ here&apos;s an example.
 <p align="center" width="100%">
 <img src="./images/image050.webp?raw=true"
   style="width:40%"
+  title="Media queries, #2"
   alt="Media queries, #2." />
 
 Right here the style sheet style is only going to apply when the content
@@ -1685,6 +1728,7 @@ depending upon the platform.
 <p align="center" width="100%">
 <img src="./images/image051.webp?raw=true"
   style="width:40%"
+  title="CSS3 increased capabilities"
   alt="CSS3 increased capabilities." />
 </p>
 <p>With CSS3, we have even more capabilities because the style can depend
@@ -1698,6 +1742,7 @@ the line of, if it's a screen and fill in some other properties there.</p>
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
+  title="The two query components"
   alt="The two query components." />
 </p>
 
@@ -1714,6 +1759,7 @@ looking for very specific width, height, orientation or resolution.</p>
 <p align="center" width="100%">
 <img src="./images/image052.webp?raw=true"
   style="width:40%"
+  title="The two query components, with example"
   alt="The two query components, with example." />
 </p>
 
@@ -1733,6 +1779,7 @@ type and then some sort of trigger size and media feature.</p>
 <p align="center" width="100%">
 <img src="./images/image053.webp?raw=true"
   style="width:40%"
+  title="How to implement media queries, #1"
   alt="How to implement media queries, #1." />
 </p>
 <p>The first is to use the import rule. Inside your CSS, you would use import, you&apos;d 
@@ -1744,6 +1791,7 @@ minimum width of 600 pixels, we would want to use smallstyle.css.</p>
 <p align="center" width="100%">
 <img src="./images/image054.webp?raw=true"
   style="width:40%"
+  title="How to implement media queries, #2"
   alt="How to implement media queries, #2." />
 </p>
 <p>The second approach is to put the media query directly in the style sheet itself. 
@@ -1756,6 +1804,7 @@ all contained inside a single file.</p>
 <p align="center" width="100%">
 <img src="./images/image055.webp?raw=true"
   style="width:40%"
+  title="How to implement media queries, #3"
   alt="How to implement media queries, #3." />
 
 <p>The third approach is to include the query in the actual link in the header of 
@@ -1766,6 +1815,7 @@ the trigger and the different rules right inside our HTML link tag.</p>
 <p align="center" width="100%">
 <img src="./images/image056.webp?raw=true"
   style="width:40%"
+  title="How to implement media queries, #4"
   alt="How to implement media queries, #4." />
 
 <p>In general, I&apos;m going to always stick to the second approach; Put media
@@ -1777,7 +1827,8 @@ feel free to play with all three of these different approaches.</p>
 <p align="center" width="100%">
 <img src="./images/image057.webp?raw=true"
   style="width:40%"
-  alt="2.1. Review: Media Queries." />
+  title="2.1 Review: Media Queries"
+  alt="2.1 Review: Media Queries." />
 
 <p>Let&apos;s review for just a second to make sure that we&apos;re on the same
 page with how we implement media queries.</p>
@@ -1806,6 +1857,7 @@ Good luck,</p>
 <p align="center" width="100%">
 <img src="./images/image058.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements, #1"
   alt="Fluid measurements, #1." />
 
 <p>What we&apos;re looking at here is an example from when we first learned
@@ -1818,6 +1870,7 @@ now, the three columns are fine.</p>
 <p align="center" width="100%">
 <img src="./images/image059.webp?raw=true"
   style="width:50%"
+  title="Code with me, narrow"
   alt="Code with me, narrow." />
 
 <div align="right">
@@ -1835,6 +1888,7 @@ So, let&apos;s take a look at how we can make that change together.</p>
 <p align="center" width="100%">
 <img src="./images/image060.webp?raw=true"
   style="width:50%"
+  title="Fluid measurements"
   alt="Fluid measurements." />
 
 <p>The first thing that we need to look at is what these columns are. And
@@ -2004,6 +2058,7 @@ when you decide it&apos;s time to start coding.</p>
 <p align="center" width="100%">
 <img src="./images/image061.webp?raw=true"
   style="width:50%"
+  title="wireframeshowcase.com"
   alt="wireframeshowcase.com." />
 </p>
 <p>What do I mean by a wireframe? Let me show you a few examples. Right here, I&apos;m 
@@ -2013,6 +2068,7 @@ at a site called wireframeshowcase.com.</p>
 <p align="center" width="100%">
 <img src="./images/image062.webp?raw=true"
   style="width:50%"
+  title="wireframeshowcase.com, #2"
   alt="wireframeshowcase.com, #2." />
 </p>
 
@@ -2028,6 +2084,7 @@ sketches underneath them.</p>
 <p align="center" width="100%">
 <img src="./images/image063.webp?raw=true"
   style="width:50%"
+  title="wireframeshowcase.com, #3"
   alt="wireframeshowcase.com, #3." />
 </p>
 <p>Let&apos;s go back up to the first one. Up here I&apos;m going to go ahead and
@@ -2039,6 +2096,7 @@ it&apos;s set out on the screen.</p>
 <p align="center" width="100%">
 <img src="./images/image064.webp?raw=true"
   style="width:50%"
+  title="wireframeshowcase.com, #4"
   alt="wireframeshowcase.com, #4." />
 </p>
 <p>But when I&apos;ve come off just a little bit, you can see that all those visual 
@@ -2290,6 +2348,7 @@ each other versus not. Let&apos;s talk about using devices as a breakpoint.</p>
 <p align="center" width="100%">
 <img src="./images/image076.webp?raw=true"
   style="width:40%"
+  title="Screen shots - smartphone px"
   alt="Screen shots - smartphone px." />
 </p>
 
@@ -2324,6 +2383,7 @@ want to talk about mobile first.</p>
 <p align="center" width="100%">
 <img src="./images/image077.webp?raw=true"
   style="width:40%"
+  title="Mobile first"
   alt="Mobile first." />
 </p>
 
@@ -2366,6 +2426,7 @@ example.
 <p align="center" width="100%">
 <img src="./images/image078.webp?raw=true"
   style="width:40%"
+  title="Easier watched than done"
   alt="Easier watched than done." />
 </p>
 
@@ -2378,6 +2439,7 @@ three steps, but you won&apos;t necessarily need to use all of them.
 <p align="center" width="100%">
 <img src="./images/image079.webp?raw=true"
   style="width:40%"
+  title="Step 1 grab information, #1"
   alt="Step 1 grab information, #1." />
 </p>
 
@@ -2404,6 +2466,7 @@ won&apos;t let you do that.
 <p align="center" width="100%">
 <img src="./images/image080.webp?raw=true"
   style="width:40%"
+  title="Step 1 grab information, #2"
   alt="Step 1 grab information, #2." />
 </p>
 
@@ -2423,6 +2486,7 @@ It may actually help your search engine optimization as well.
 <p align="center" width="100%">
 <img src="./images/image081.webp?raw=true"
   style="width:40%"
+  title="Step 2 Fluid Layout, #1"
   alt="Step 2 Fluid Layout, #1." />
 </p>
 
@@ -2441,6 +2505,7 @@ somebody else does it, doesn&apos;t mean the you should.
 <p align="center" width="100%">
 <img src="./images/image082.webp?raw=true"
   style="width:40%"
+  title="Step 2 Fluid Layout, #2"
   alt="Step 2 Fluid Layout, #2." />
 </p>
 
@@ -2457,6 +2522,7 @@ we&apos;re going to use is going switch over to ems and rems, too.
 <p align="center" width="100%">
 <img src="./images/image083.webp?raw=true"
   style="width:40%"
+  title="Step 2 Fluid Layout, #3"
   alt="Step 2 Fluid Layout, #3." />
 </p>
 
@@ -2477,6 +2543,7 @@ by the width of the page, not the height.
 <p align="center" width="100%">
 <img src="./images/image084.webp?raw=true"
   style="width:40%"
+  title="Step 3 Media Queries"
   alt="Step 3 Media Queries." />
 </p>
 
@@ -2500,6 +2567,7 @@ small screen and grow bigger.
 <p align="center" width="100%">
 <img src="./images/image085.webp?raw=true"
   style="width:40%"
+  title="Ordering your rules"
   alt="Ordering your rules." />
 </p>
 
@@ -2548,6 +2616,7 @@ mistakes and not know what&apos;s going on.
 <p align="center" width="100%">
 <img src="./images/image086.webp?raw=true"
   style="width:40%"
+  title="Concept Check - Top or Bottom?"
   alt="Concept Check - Top or Bottom?" />
 </p>
 
@@ -2628,6 +2697,7 @@ screens.
 <p align="center" width="100%">
 <img src="./images/image087.webp?raw=true"
   style="width:50%"
+  title="Horizontal line of links as navigation bar at top of page"
   alt="Horizontal line of links as navigation bar at top of page." />
 </p>
 
@@ -2640,6 +2710,7 @@ horizontal line of links right up here at the top of your page.
 <p align="center" width="100%">
 <img src="./images/image088.webp?raw=true"
   style="width:50%"
+  title="Horizontal line of links as nav bar at top of page, #2"
   alt="Horizontal line of links as nav bar at top of page, #2." />
 </p>
 
@@ -2660,6 +2731,7 @@ the content right off to the right.
 <p align="center" width="100%">
 <img src="./images/image089.webp?raw=true"
   style="width:50%"
+  title="Responsive horizontal navigation bar"
   alt="Responsive horizontal navigation bar." />
 </p>
 
@@ -2705,6 +2777,7 @@ figure out whether or not your rules are triggering.
 <p align="center" width="100%">
 <img src="./images/image090.webp?raw=true"
   style="width:50%"
+  title="Responsive navigation bar, #2"
   alt="Responsive navigation bar, #2." />
 </p>
 
@@ -2719,6 +2792,7 @@ to get going. See if I can get away with grey. There we go.
 <p align="center" width="100%">
 <img src="./images/image091.webp?raw=true"
   style="width:50%"
+  title="Responsive navigation bar, #3"
   alt="Responsive navigation bar, #3." />
 </p>
 
@@ -2735,6 +2809,7 @@ goes with the body selector.
 <p align="center" width="100%">
 <img src="./images/image092.webp?raw=true"
   style="width:50%"
+  title="Responsive navigation menu, vertical"
   alt="Responsive navigation menu, vertical." />
 </p>
 
@@ -2757,6 +2832,7 @@ Let&apos;s do that next code. So how do I do that?
 <p align="center" width="100%">
 <img src="./images/image093.webp?raw=true"
   style="width:50%"
+  title="Responsive navigation menu, vertical, #2"
   alt="Responsive navigation menu, vertical, #2." />
 </p>
 
@@ -2780,6 +2856,7 @@ up underneath.
 <p align="center" width="100%">
 <img src="./images/image094.webp?raw=true"
   style="width:50%"
+  title="Responsive navigation menu, vertical, #3"
   alt="Responsive navigation menu, vertical, #3." />
 </p>
 
@@ -2805,6 +2882,7 @@ go back and change one thing up in my nav as well.
 <p align="center" width="100%">
 <img src="./images/image095.webp?raw=true"
   style="width:50%"
+  title="Responsive navigation menu, vertical, #4"
   alt="Responsive navigation menu, vertical, #4." />
 </p>
 
@@ -2993,6 +3071,7 @@ nav a{
 <p align="center" width="100%">
 <img src="./images/image096.webp?raw=true"
   style="width:40%"
+  title="Frameworks - Code and Structure"
   alt="Frameworks - Code and Structure." />
 </p>
 
@@ -3010,6 +3089,7 @@ to think about what does framework mean here in this class.
 <p align="center" width="100%">
 <img src="./images/image097.webp?raw=true"
   style="width:40%"
+  title="What Does Framework mean here?"
   alt="What Does Framework mean here?" />
 </p>
 
@@ -3027,6 +3107,7 @@ jQuery.
 <p align="center" width="100%">
 <img src="./images/image098.webp?raw=true"
   style="width:40%"
+  title="What Does Framework mean here, #2?"
   alt="What Does Framework mean here, #2?" />
 </p>
 
@@ -3044,6 +3125,7 @@ least a handful of frameworks that people are using today.
 <p align="center" width="100%">
 <img src="./images/image099.webp?raw=true"
   style="width:40%"
+  title="2013 - Popular front-end frameworks, as of 2013"
   alt="2013 - Popular front-end frameworks, as of 2013." />
 </p>
 
@@ -3097,6 +3179,7 @@ still want to know a little bit about it.
 <p align="center" width="100%">
 <img src="./images/image100.webp?raw=true"
   style="width:50%"
+  title="2023 - Popular front-end frameworks, as of 2023"
   alt="2023 - Popular front-end frameworks, as of 2023." />
 </p>
 
@@ -3120,6 +3203,7 @@ JavaScript code is still loading and running.
 <p align="center" width="100%">
 <img src="/images/image101.webp"
   style="width:50%"
+  title="Hydration in web development"
   alt="Hydration in web development." />
 </p>
 
@@ -3150,6 +3234,7 @@ ability to create dynamic and responsive user interfaces.
 <p align="center" width="100%">
 <img src="/images/image102.webp"
   style="width:50%"
+  title="Single Page Applications"
   alt="Single Page Applications." />
 </p>
 
@@ -3174,7 +3259,8 @@ easier to develop and maintain large-scale applications.
 <p align="center" width="100%">
 <img src="/images/image103.webp"
   style="width:40%"
-  alt="JAMstack." />
+  title="JAMstack"
+  alt="JAMstack" />
 </p>
 
 JAMstack is a unique concept for building static web pages. Rather than
@@ -3321,9 +3407,11 @@ GitHub and the framework&apos;s website.</p>
 <p align="center" width="100%">
 <img src="./images/image104.webp?raw=true"
   style="width:15%"
+  title="React logo"
   alt="React logo." />
 <img src="./images/image105.webp?raw=true"
   style="width:50%"
+  title="React front-end framework"
   alt="React front-end framework." />
 </p>
 
@@ -3696,6 +3784,7 @@ Chakra UI, Fluent UI, and Evergreen are also popular UIs.</p>
 <p align="center" width="100%">
 <img src="./images/image106.webp?raw=true"
   style="width:30%"
+  title="jQuery logo"
   alt="jQuery logo." />
 </p>
 
@@ -3722,6 +3811,7 @@ that you check out the <a href="https://learn.jquery.com/" target="_blank">jQue
 <p align="center" width="100%">
 <img src="./images/image107.webp?raw=true"
   style="width:65%"
+  title="jQuery User Interface Libary components"
   alt="jQuery User Interface Libary components." />
 </p>
 
@@ -3835,6 +3925,7 @@ an idea of what&apos;s possible.</p>
 <p align="center" width="100%">
 <img src="./images/image108.webp?raw=true"
   style="width:65%"
+  title="jQuery UI Download Builder, page 1"
   alt="jQuery UI Download Builder, page 1." />
 </p>
 
@@ -3844,6 +3935,7 @@ an idea of what&apos;s possible.</p>
 <p align="center" width="100%">
 <img src="./images/image109.webp?raw=true"
   style="width:65%"
+  title="jQuery UI Download Builder, page 2"
   alt="jQuery UI Download Builder, page 2." />
 </p>
 
@@ -3853,6 +3945,7 @@ an idea of what&apos;s possible.</p>
 <p align="center" width="100%">
 <img src="./images/image110.webp?raw=true"
   style="width:65%"
+  title="jQuery UI Download Builder, page 3"
   alt="jQuery UI Download Builder, page 3." />
 </p>
 
@@ -3895,6 +3988,7 @@ $( "#date" ).datepicker();
 <p align="center" width="100%">
 <img src="./images/image111.webp?raw=true"
   style="width:25%"
+  title="Calendar"
   alt="Calendar." />
 </p>
 
@@ -3905,16 +3999,20 @@ $( "#date" ).datepicker();
 <p align="center" width="100%">
 <img src="./images/image112.webp?raw=true"
   style="width:10%"
+  title="Bootstrap v5 | Drifting Ruby"
   alt="Bootstrap v5 | Drifting Ruby." />
 <img src="./images/image113.webp?raw=true"
   style="width:20%"
+  title="Bootstrap官方中文站 · 全球最流行的 HTML、CSS 和 JS 工具库。"
   alt="Bootstrap官方中文站 · 全球最流行的 HTML、CSS 和 JS 工具库。" />
 <img src="./images/image114.webp?raw=true"
   style="width:10%"
+  title="Free download | HD PNG bootstrap featured image bootstrap 3 logo PNG..."
   alt="Free download | HD PNG bootstrap featured image bootstrap 3 logo PNG..." />
 <img src="./images/image115.webp?raw=true"
   style="width:20%"
-  alt="Bootstrap Izgara Sistemi" />
+  title="Bootstrap Izgara Sistemi"
+  alt="Bootstrap Izgara Sistemi." />
 </p>
 
 Bootstrap is a powerful, feature-packed frontend toolkit. Build
@@ -3991,11 +4089,13 @@ CDN links</a>.
 <p align="center" width="100%">
 <img src="./images/image116.webp?raw=true"
   style="width:10%"
+  title="D3.js logo Poster by bryngo redbubble"
   alt="D3.js logo Poster by bryngo redbubble." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 117. d3.js logo png vector (svg) free download (109) ~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image117.webp?raw=true"
   style="width:35%"
+  title="D3.js logo PNG Vector (SVG) Free Download"
   alt="D3.js logo PNG Vector (SVG) Free Download." />
 </p>
 
@@ -4042,11 +4142,13 @@ data. It was released in 2011.
 <p align="center" width="100%">
 <img src="./images/image118.webp?raw=true"
   style="width:35%"
+  title="D3.js logo Poster by bryngo redbubble"
   alt="D3.js logo Poster by bryngo redbubble." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. anime.js review - slant (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image119.webp?raw=true"
   style="width:17%"
+  title="Anime.js Review - Slant"
   alt="Anime.js Review - Slant." />
 </p>
 
@@ -4071,16 +4173,19 @@ handling](https://www.w3schools.com/js/js_events.asp) and AJAX support.
 <p align="center" width="100%">
 <img src="./images/image120.webp?raw=true"
   style="width:15%"
+  title="Getting Started with chart.js Introduction"
   alt="Getting Started with chart.js Introduction." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~ 121. pie chart using chart.js tutorials | responsive chart, how to use (110) ~~~~~~~-->
 <img src="./images/image121.webp?raw=true"
   style="width:20%"
+  title="Getting Started with chart.js Introduction"
   alt="Getting Started with chart.js Introduction." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 122. getting started with chart.js introduction drupal.org (110) ~~~~~~~~~~~~~-->
 <img src="./images/image122.webp?raw=true"
   style="width:25%"
+  title="Getting Started with chart.js Introduction"
   alt="Getting Started with chart.js Introduction." />
 </p>
 
@@ -4123,11 +4228,13 @@ in creating charts and visualizations.
 <p align="center" width="100%">
 <img src="./images/image123.webp?raw=true"
   style="width:15%"
+  title="Lodash Logo PNG Transparent &amp; SVG Vector - Freebie Supply"
   alt="Lodash Logo PNG Transparent &amp; SVG Vector - Freebie Supply." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ 124. is lodash that good?  performance comparison of javascript and lodash (110) ~~~~~-->
 <img src="./images/image124.webp?raw=true"
   style="width:30%"
+  title="Is Lodash that Good?  Performance Comparison of JavaScript and Lodash"
   alt="Is Lodash that Good?  Performance Comparison of JavaScript and Lodash." />
 </p>
 
@@ -4177,22 +4284,22 @@ features like playback speed control and full screen mode.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-  <img src="./images/image126.webp?raw=true"
-    style="width:10%"
-    title="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply"
-    alt="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply." />
+<img src="./images/image126.webp?raw=true"
+  style="width:10%"
+  title="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply"
+  alt="Angular Logo PNG transparent &amp; SVG Vector - Freebie Supply." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <img src="./images/image127.webp?raw=true"
-    style="width:10%"
-    title="Angular Logo black and white - brands logo"
-    alt="Angular Logo black and white - brands logo." />
+<img src="./images/image127.webp?raw=true"
+  style="width:10%"
+  title="Angular Logo black and white - brands logo"
+  alt="Angular Logo black and white - brands logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. angular logo (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <img src="./images/image128.webp?raw=true"
-    style="width:40%"
-    title="Angular front-end framework"
-    alt="Angular front-end framework." />
+<img src="./images/image128.webp?raw=true"
+  style="width:40%"
+  title="Angular front-end framework"
+  alt="Angular front-end framework." />
 </p>
 
 While Angular retains a rather large usage percentage, the interest in
@@ -4616,11 +4723,13 @@ etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style fe
 <p align="center" width="100%">
 <img src="./images/image156.webp?raw=true"
   style="width:20%"
+  title="Build a lightweight web component with stencil js"
   alt="Build a lightweight web component with stencil js." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. stencil logo (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image157.webp?raw=true"
   style="width:30%"
+  title="Stencil JS logo"
   alt="Stencil JS logo." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4628,6 +4737,7 @@ etc. Likewise, it&apos;s the perfect lightweight solution to add jQuery-style fe
 <p align="center" width="100%">
 <img src="./images/image158.webp?raw=true"
   style="width:50%"
+  title="Stencil front-end framework logo"
   alt="Stencil front-end framework logo." />
 </p>
 
@@ -4669,16 +4779,19 @@ doc generation, and types.
 <p align="center" width="100%">
 <img src="./images/image159.webp?raw=true"
   style="width:30%"
+  title="Qwik framework logo"
   alt="Qwik framework logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. qwik logo greeting card (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image160.webp?raw=true"
   style="width:20%"
+  title="Qwik logo greeting card"
   alt="Qwik logo greeting card." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 161. qwik logo sticker (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image161.webp?raw=true"
   style="width:20%"
+  title="Qwik logo sticker"
   alt="Qwik logo sticker." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4686,6 +4799,7 @@ doc generation, and types.
 <p align="center" width="100%">
 <img src="./images/image162.webp?raw=true"
   style="width:50%"
+  title="Qwik front-end framework logo"
   alt="Qwik front-end framework logo." />
 </p>
 
@@ -4718,21 +4832,25 @@ or executed.
 <p align="center" width="100%">
 <img src="./images/image163.webp?raw=true"
   style="width:15%"
+  title="Moment.js logo"
   alt="Moment.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image164.webp?raw=true"
   style="width:15%"
+  title="Moment.js logo vector"
   alt="Moment.js logo vector." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image165.webp?raw=true"
   style="width:30%"
+  title="Moment.js logo"
   alt="Moment.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. moment.js logo (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image166.webp?raw=true"
   style="width:15%"
+  title="Moment.js logo"
   alt="Moment.js logo." />
 </p>
 
@@ -4760,16 +4878,19 @@ run the code (see documentation).
 <p align="center" width="100%">
 <img src="./images/image167.webp?raw=true"
   style="width:30%"
+  title="Popper.js logo"
   alt="Popper.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. popper.js logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image168.webp?raw=true"
   style="width:15%"
+  title="Popper.js logo"
   alt="Popper.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. popper.js core logo (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image169.webp?raw=true"
   style="width:15%"
+  title="Popper.js logo"
   alt="Popper.js logo." />
 </p>
 
@@ -4789,6 +4910,7 @@ these can be generically described as a &quot;popper&quot; element.
 <p align="center" width="100%">
 <img src="./images/image170.webp?raw=true"
   style="width:85%"
+  title="Popper.js website"
   alt="Popper.js website." />
 <a href="https://popper.js.org" target="_blank">&lt;https://popper.js.org/&gt;</a>
 </p>
@@ -4797,6 +4919,7 @@ these can be generically described as a &quot;popper&quot; element.
 <p align="center" width="100%">
 <img src="./images/image171.webp?raw=true"
   style="width:85%"
+  title="Code Sandbox.io"
   alt="Code Sandbox.io." />
 <a href="https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement" target="_blank">
 <subs>&lt;https://codesandbox.io/s/github/floating-ui/popper.js.org/tree/master/examples/placement&gt;</subs></a>
@@ -4828,16 +4951,19 @@ projects](https://backbonejs.org/#examples) that use Backbone.
 <p align="center" width="100%">
 <img src="./images/image173.webp?raw=true"
   style="width:15%"
+  title="Backbone.js logo"
   alt="Backbone.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. backbone.js logo (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image174.webp?raw=true"
   style="width:20%"
+  title="Backbone.js logo"
   alt="Backbone.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. backbone.js (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image174.webp?raw=true"
   style="width:40%"
+  title="Backbone.js logo"
   alt="Backbone.js logo." />
 </p>
 
@@ -4875,16 +5001,19 @@ For more documentation on <a href="https://resthub.github.io/docs/backbone/layou
 <p align="center" width="100%">
 <img src="./images/image175.webp?raw=true"
   style="width:15%"
+  title="Semantic UI logo"
   alt="Semantic UI logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image176.webp?raw=true"
   style="width:20%"
+  title="Semantic UI logo"
   alt="Semantic UI logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. semantic ui logo (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image177.webp?raw=true"
   style="width:30%"
+  title="Semantic UI logo"
   alt="Semantic UI logo." />
 </p>
 
@@ -4904,6 +5033,7 @@ frameworks to help organize UI layer alongside application logic.
 <p align="center" width="100%">
 <img src="./images/image178.webp?raw=true"
   style="width:50%"
+  title="Semantic UI"
   alt="Semantic UI." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4911,6 +5041,7 @@ frameworks to help organize UI layer alongside application logic.
 <p align="center" width="100%">
 <img src="./images/image179.webp?raw=true"
   style="width:50%"
+  title="Semantic UI Website theme"
   alt="Semantic UI Website theme." />
 </p>
 <p style="align:center"><sub>Example Semantic UI website theme.</sub></p>
@@ -4924,11 +5055,13 @@ For more information go to <a href="https://semantic-ui-forest.com/" target="_bl
 <p align="center" width="100%">
 <img src="./images/image180.webp?raw=true"
   style="width:30%"
+  title="Gatsby logo"
   alt="Gatsby logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. gatsby logo (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image181.webp?raw=true"
   style="width:15%"
+  title="Gatsby logo"
   alt="Gatsby logo." />
 </p>
 
@@ -4973,16 +5106,19 @@ popular technology concepts for building web applications.</p>
 <p align="center" width="100%">
 <img src="./images/image183.webp?raw=true"
   style="width:20%"
+  title="Aurelia logo"
   alt="Aurelia logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image184.webp?raw=true"
   style="width:30%"
+  title="Aurelia logo"
   alt="Aurelia logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. aurelia logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image185.webp?raw=true"
   style="width:30%"
+  title="Aurelia logo"
   alt="Aurelia logo." />
 </p>
 
@@ -4998,16 +5134,19 @@ Aurelia focuses on simplicity, flexibility, and modern web standards.
 <p align="center" width="100%">
 <img src="./images/image186.webp?raw=true"
   style="width:30%"
+  title="Knockout logo"
   alt="Knockout logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image187.webp?raw=true"
   style="width:20%"
+  title="Knockout logo"
   alt="Knockout logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 188. knockout logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image188.webp?raw=true"
   style="width:20%"
+  title="Knockout logo"
   alt="Knockout logo." />
 </p>
 
@@ -5024,16 +5163,19 @@ managing data and UI synchronization.
 <p align="center" width="100%">
 <img src="./images/image189.webp?raw=true"
   style="width:30%"
+  title="Mithril logo."
   alt="Mithril logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image190.webp?raw=true"
   style="width:20%"
+  title="Mithril logo"
   alt="Mithril logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. mithril logo (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image191.webp?raw=true"
   style="width:20%"
+  title="Mithril logo"
   alt="Mithril logo." />
 </p>
 
@@ -5050,11 +5192,13 @@ features for building robust web applications.
 <p align="center" width="100%">
 <img src="./images/image192.webp?raw=true"
   style="width:30%"
+  title="Riot.js logo"
   alt="Riot.js logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193. riot.js logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image193.webp?raw=true"
   style="width:30%"
+  title="Riot.js logo"
   alt="Riot.js logo." />
 </p>
 
@@ -5071,11 +5215,13 @@ crucial.
 <p align="center" width="100%">
 <img src="./images/image194.webp?raw=true"
   style="width:25%"
+  title="Stimulus logo"
   alt="Stimulus logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. stimulus logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image195.webp?raw=true"
   style="width:25%"
+  title="Stimulus logo"
   alt="Stimulus logo." />
 </p>
 
@@ -5091,16 +5237,19 @@ applications by enhancing existing HTML elements with behavior.</p>
 <p align="center" width="100%">
 <img src="./images/image196.webp?raw=true"
   style="width:25%"
+  title="Tailwind logo"
   alt="Tailwind logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image197.webp?raw=true"
   style="width:25%"
+  title="Tailwind logo"
   alt="Tailwind logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. tailwind logo (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image198.webp?raw=true"
   style="width:25%"
+  title="Tailwind logo"
   alt="Tailwind logo." />
 </p>
 
@@ -5116,11 +5265,13 @@ functional approach.
 <p align="center" width="100%">
 <img src="./images/image199.webp?raw=true"
   style="width:25%"
+  title="JavaScript Foundation logo"
   alt="JavaScript Foundation logo." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. js foundation logo (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image200.webp?raw=true"
   style="width:25%"
+  title="JS Foundation logo"
   alt="JS Foundation logo." />
 </p>
 
@@ -5172,6 +5323,7 @@ on practical skills rather than just trendy technologies.
 <p align="center" width="100%">
 <img src="./images/image201.webp?raw=true"
   style="width:40%"
+  title="Twitter bootstrap - what is it?"
   alt="Twitter bootstrap - what is it?" />
 </p>
 
@@ -5202,6 +5354,7 @@ Today we&apos;re going to talk about Bootstrap.
 <p align="center" width="100%">
 <img src="./images/image202.webp?raw=true"
   style="width:40%"
+  title="Who uses Bootstrap?"
   alt="Who uses Bootstrap?" />
 </p>
 
@@ -5227,6 +5380,7 @@ Speaking of that, who uses Bootstrap?
 <p align="center" width="100%">
 <img src="./images/image203.webp?raw=true"
   style="width:40%"
+  title="Bootstrap 3.0 benefits"
   alt="Bootstrap 3.0 benefits." />
 </p>
 
@@ -5268,6 +5422,7 @@ There are a number of benefits of using Bootstrap 3.0.
 <p align="center" width="100%">
 <img src="./images/image204.webp?raw=true"
   style="width:40%"
+  title="Bootstrap - why you should use it"
   alt="Bootstrap - why you should use it." />
 </p>
 
@@ -5293,6 +5448,7 @@ bit about it?
 <p align="center" width="100%">
 <img src="./images/image205.webp?raw=true"
   style="width:40%"
+  title="Bootstrap - why you should not use it"
   alt="Bootstrap - why you should not use it." />
 </p>
 
@@ -5323,6 +5479,7 @@ But there are reasons why you might not want to use Bootstrap.
 <p align="center" width="100%">
 <img src="./images/image206.webp?raw=true"
   style="width:40%"
+  title="What is covered in this module"
   alt="What is covered in this module." />
 </p>
 
@@ -5358,6 +5515,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image207.webp?raw=true"
   style="width:40%"
+  title="Default breakpoints"
   alt="Default breakpoints." />
 </p>
 
@@ -5377,6 +5535,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image208.webp?raw=true"
   style="width:40%"
+  title="Custom iphone retina"
   alt="Custom iphone retina." />
 </p>
 
@@ -5403,6 +5562,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image209.webp?raw=true"
   style="width:40%"
+  title="Extra small devices and phones"
   alt="Extra small devices and phones." />
 </p>
 
@@ -5420,6 +5580,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image210.webp?raw=true"
   style="width:40%"
+  title="Small devices and tablets"
   alt="Small devices and tablets." />
 </p>
 
@@ -5440,6 +5601,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image211.webp?raw=true"
   style="width:40%"
+  title="Medium devices and desktops"
   alt="Medium devices and desktops." />
 </p>
 
@@ -5461,6 +5623,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image212.webp?raw=true"
   style="width:40%"
+  title="Large devices and video wide screens"
   alt="Large devices and video wide screens." />
 </p>
 
@@ -5491,6 +5654,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image213.webp?raw=true"
   style="width:40%"
+  title="Setting your own breakpoints"
   alt="Setting your own breakpoints." />
 </p>
 
@@ -5511,6 +5675,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image214.webp?raw=true"
   style="width:40%"
+  title="Conlusion"
   alt="Conlusion." />
 </p>
 
@@ -5536,7 +5701,8 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image215.webp?raw=true"
   style="width:40%"
-  alt="Getting started." />
+  title="Getting started with Twitter Bootstrap"
+  alt="Getting started with Twitter Bootstrap." />
 </p>
 
 -   Hi everybody. If I&apos;ve done a good job up to this point, you&apos;re
@@ -5561,6 +5727,7 @@ want to use, not something that you feel confined by.
 <p align="center" width="100%">
 <img src="./images/image216.webp?raw=true"
   style="width:40%"
+  title="Saving your own copy of Bootstrap"
   alt="Saving your own copy of Bootstrap." />
 </p>
 
@@ -5583,6 +5750,7 @@ and you don&apos;t want to go around and overwrite them later.
 <p align="center" width="100%">
 <img src="./images/image217.webp?raw=true"
   style="width:50%"
+  title="Customize and download"
   alt="Customize and download." />
 </p>
 
@@ -5597,6 +5765,7 @@ and you don&apos;t want to go around and overwrite them later.
 <p align="center" width="100%">
 <img src="./images/image218.webp?raw=true"
   style="width:40%"
+  title="Using a CDN"
   alt="Using a CDN." />
 </p>
 
@@ -5664,6 +5833,7 @@ you need to include.
 <p align="center" width="100%">
 <img src="./images/image219.webp?raw=true"
   style="width:50%"
+  title="Bootstrap CDN"
   alt="Bootstrap CDN." />
 </p>
 
@@ -5681,6 +5851,7 @@ to have lots of different copies of the bootstrap code.
 <p align="center" width="100%">
 <img src="./images/image220.webp?raw=true"
   style="width:40%"
+  title="Using Bootstrap with Codepen"
   alt="Using Bootstrap with Codepen." />
 </p>
 
@@ -5697,6 +5868,7 @@ clean. I really want to keep it to just HTML.
 <p align="center" width="100%">
 <img src="./images/image221.webp?raw=true"
   style="width:50%"
+  title="Codepen settings"
   alt="Codepen settings." />
 </p>
 
@@ -5713,6 +5885,7 @@ that I said, you&apos;re going to connect to the CSS and JavaScript files.
 <p align="center" width="100%">
 <img src="./images/image222.webp?raw=true"
   style="width:50%"
+  title="Codepen settings, #2"
   alt="Codepen settings, #2." />
 </p>
 
@@ -5725,6 +5898,7 @@ JavaScript that we may need to use.
 <p align="center" width="100%">
 <img src="./images/image223.webp?raw=true"
   style="width:40%"
+  title="Template"
   alt="Template." />
 </p>
 
@@ -5744,6 +5918,7 @@ it up yourself you can still have it.
 <p align="center" width="100%">
 <img src="./images/image224.webp?raw=true"
   style="width:50%"
+  title="Bootstrap template"
   alt="Bootstrap template." />
 </p>
 
@@ -5761,6 +5936,7 @@ has changed a little bit.
 <p align="center" width="100%">
 <img src="./images/image225.webp?raw=true"
   style="width:40%"
+  title="How do you know if it is working?"
   alt="How do you know if it is working?" />
 </p>
 
@@ -5798,6 +5974,7 @@ sheet.
 <p align="center" width="100%">
 <img src="./images/image226.webp?raw=true"
   style="width:50%"
+  title="Bootsrap template, again"
   alt="Bootsrap template, again." />
 </p>
 
@@ -5823,6 +6000,7 @@ what&apos;s going on.
 <p align="center" width="100%">
 <img src="./images/image227.webp?raw=true"
   style="width:40%"
+  title="Do not forget"
   alt="Do not forget." />
 </p>
 
@@ -5895,7 +6073,8 @@ automatically stack.
 <p align="center" width="100%">
 <img src="./images/image228.webp?raw=true"
   style="width:50%"
-  alt="." />
+  title="col-md4 x 3 equals columns"
+  alt="col-md4 x 3 equals columns." />
 </p>
 
 Get three columns <b>starting at desktops and scaling to large
@@ -5907,6 +6086,7 @@ stacking no matter the viewport.
 <p align="center" width="100%">
 <img src="./images/image229.webp?raw=true"
   style="width:50%"
+  title="col-md-3, col-md-6, and col-md-3"
   alt="col-md-3, col-md-6, and col-md-3." />
 </p>
 
@@ -5917,6 +6097,7 @@ Get two columns <b>starting at desktops and scaling to large desktops</b>.
 <p align="center" width="100%">
 <img src="./images/image230.webp?raw=true"
   style="width:50%"
+  title="col-md-8 and col-md-4, two columns"
   alt="col-md-8 and col-md-4, two columns." />
 </p>
 
@@ -5936,6 +6117,7 @@ columns will stack.
 <p align="center" width="100%">
 <img src="./images/image231.webp?raw=true"
   style="width:50%"
+  title="Two columns with two nested columns"
   alt="Two columns with two nested columns." />
 </p>
 
@@ -5953,6 +6135,7 @@ widths for xs and sm, you only need to specify xs.
 <p align="center" width="100%">
 <img src="./images/image232.webp?raw=true"
   style="width:40%"
+  title="Mixed, mobile and desktop"
   alt="Mixed, mobile and desktop." />
 </p>
 
@@ -5962,6 +6145,7 @@ widths for xs and sm, you only need to specify xs.
 <p align="center" width="100%">
 <img src="./images/image233.webp?raw=true"
   style="width:50%"
+  title="Mixed, mobile, tablet and desktop"
   alt="Mixed, mobile, tablet and desktop." />
 </p>
 
@@ -5974,6 +6158,7 @@ widths for xs and sm, you only need to specify xs.
 <p align="center" width="100%">
 <img src="./images/image234.webp?raw=true"
   style="width:40%"
+  title="Column clearing"
   alt="Column clearing." />
 </p>
 
@@ -5985,6 +6170,7 @@ Reset offsets, pushes, and pulls at specific breakpoints.
 <p align="center" width="100%">
 <img src="./images/image235.webp?raw=true"
   style="width:50%"
+  title="Offset, Push and Pull resets"
   alt="Offset, Push and Pull resets." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6007,6 +6193,7 @@ material again, and see if it&apos;s starting to really make sense.
 <p align="center" width="100%">
 <img src="./images/image236.webp?raw=true"
   style="width:40%"
+  title="It is not a table"
   alt="It is not a table." />
 </p>
 
@@ -6069,7 +6256,7 @@ be the number of columns that you want to use. Let&apos;s take a look.
 <p align="center" width="100%">
 <img src="./images/image240.webp?raw=true"
   style="width:40%"
-  title="Setting width with col-xx-yy."
+  title="Setting width with col-xx-yy"
   alt="Setting width with col-xx-yy." />
 </p>
 
@@ -6085,7 +6272,7 @@ about 480, 720, 992, and 1200.
 <p align="center" width="100%">
 <img src="./images/image241.webp?raw=true"
   style="width:40%"
-  title="Setting width with col-xx-yy, #2."
+  title="Setting width with col-xx-yy, #2"
   alt="Setting width with col-xx-yy, #2." />
 </p>
 
@@ -7996,7 +8183,7 @@ at times, so let&apos;s take a look.
 <p align="center" width="100%">
 <img src="/images/image327.webp"
   style="width:50%"
-  title="Start with mobile view."
+  title="Start with mobile view"
   alt="Start with mobile view." />
 </p>
 
@@ -8095,7 +8282,7 @@ these are just ones I found either through word of mouth or through a search eng
 <p align="center" width="100%">
 <img src="/images/image329.webp"
   style="width:50%"
-  alt="getbootstrap.com - Getting Started." />
+  title="getbootstrap.com - Getting Started"
   alt="getbootstrap.com - Getting Started." />
 </p>
 
@@ -8111,6 +8298,7 @@ different links, and things like that.
 <p align="center" width="100%">
 <img src="/images/image330.webp"
   style="width:50%"
+  title="Basic template, HTML"
   alt="Basic template, HTML." />
 </p>
 
@@ -8126,6 +8314,7 @@ like this one right here.
 <p align="center" width="100%">
 <img src="/images/image331.webp"
   style="width:50%"
+  title="Starter template. Using the framework"
   alt="Starter template. Using the framework." />
 </p>
 
