@@ -5671,12 +5671,12 @@ want to use, not something that you feel confined by.
         points.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. conclustion (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. conclusion (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image214.webp?raw=true"
   style="width:40%"
-  title="Conlusion"
-  alt="Conlusion." />
+  title="Conclusion"
+  alt="Conclusion." />
 </p>
 
 -   Now, when we talk about Bootstrap grid points, it&apos;s not important
@@ -6351,7 +6351,7 @@ use up a quarter or 25%.
 <p align="center" width="100%">
 <img src="./images/image247.webp?raw=true"
   style="width:40%"
-  title="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
+  title="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3"
   alt="Combination of col-xs-12, col-sm-8, col-md-4 and col-lg-3." />
 </p>
 
@@ -6368,7 +6368,7 @@ across.
 <p align="center" width="100%">
 <img src="./images/image248.webp?raw=true"
   style="width:40%"
-  title="col-xs-12, col-sm-6, col-md-4 and col-lg-3."
+  title="col-xs-12, col-sm-6, col-md-4 and col-lg-3"
   alt="col-xs-12, col-sm-6, col-md-4 and col-lg-3." />
 </p>
 
