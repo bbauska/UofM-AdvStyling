@@ -553,12 +553,12 @@ code together to make a navigation bar.
 By the end of week two, you&apos;re going to be ready and feel like you can
 really tackle this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. week 3 - frameworks (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image008.webp?raw=true"
   style="width:40%"
   title="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
-    Getting Started, grid system, and navigation"  />
+    Getting Started, grid system, and navigation"
   alt="Week Three: - Frameworks - Benefits & pitfalls - Bootstrap 3 - 
     Getting Started, grid system, and navigation."  />
 </p>
