@@ -2167,7 +2167,7 @@ we want to put that other content.</p>
 <p align="center" width="100%">
 <img src="./images/image069.webp?raw=true"
   style="width:40%"
-  title="Functionality." />
+  title="Functionality."
   alt="Functionality." />
 </p>
 <p>You also want to think about functionality when you&apos;re doing your
