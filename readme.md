@@ -1,5 +1,11 @@
 ---
-UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive Design
+title: "UofM-AdvStyling: 5. University of Michigan - Advanced Styling with Responsive Design"
+author: "bbauska"
+date prior editted: "2/17/2024 11:59+pm"
+date last editted: "5/09/2024 10+am"
+output: 
+  markdown:
+    with some style
 ---
 
 <h2 align="center">Advanced Styling with Responsive Design</h2>
@@ -9113,6 +9119,7 @@ to the Michigan Online email list!
 
 <h6>..the end of Advanced Styling with Responsive Design by U-Michigan</h6>
 <!-- 2-17-2024 11:59pm -->
+<!-- 5-09-2024 10:04am -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
