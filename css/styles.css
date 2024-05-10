@@ -7,7 +7,6 @@ body {
   text-align: left;
   margin: 15px;
 }
-
 .image-container img {
   transition: transform 0.3s ease-in-out;
 }
@@ -103,6 +102,7 @@ a.hover {
 a.hover:hover {
   background-color: #ffff00;  /* pure (or mostly pure) yellow */
   text-decoration: underline;
+}
 a:link {
   color: #013220;  /* very dark green */
   background-color: transparent;
@@ -163,7 +163,7 @@ p#mediasize span {
   font-size: 10px;
 }
 /* first character in paragraph */
-p:first-child:first-letter{
+p:first-child:first-letter {
 float:left;
 font-size:400%;
 margin-top:7px;
@@ -249,7 +249,11 @@ ul, ol {
     color: #717171;
 }
 .box-wrap ul li {
-    list-style-type: circle;
+  list-style-type: circle;
 }
+
+.showme {
+  font-family: Consolas, Bahnschrift, Inter, Helvetic, sans-serif;
+  font-size: 13.5px;
 }
 
