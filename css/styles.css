@@ -6,6 +6,7 @@ body {
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
   margin: 15px;
+  margin-left: 10px;
 }
 .image-container img {
   transition: transform 0.3s ease-in-out;
@@ -80,10 +81,13 @@ td {
 
 pre {
   overflow: auto;
+  font-family: Consolas, monospace, monospace;
+  font-size: 10px;
+  margin-left: 10px;
   }
 pre > code {
   display: block;
-  margin-left: 15px;
+  margin-left: 10px;
   padding: 1rem;
   word-wrap: normal;
   }
@@ -124,28 +128,28 @@ div {
 }
 
 h1 {
-  font-size: 22px;
-  margin-left: 15px;
+  font-size: 2em;
+  margin-left: 10px;
 }
 h2 { 
   font-size: 20px;
-  margin-left: 15px;
+  margin-left: 10px;
 }
 h3 { 
-  font-size: 18px;
-  margin-left: 15px;
+  font-size: 17px;
+  margin-left: 10px;
 }
 h4 { 
-  font-size: 16px;
-  margin-left: 15px;
+  font-size: 13px;
+  margin-left: 10px;
 }
 h5 { 
-  font-size: 14px;
-  margin-left: 15px;
+  font-size: 12px;
+  margin-left: 10px;
 }
 h6 { 
-  font-size: 12px;
-  margin-left: 15px;
+  font-size: 10px;
+  margin-left: 10px;
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
@@ -154,32 +158,13 @@ p {
   font-size: 15px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   text-align: left;
-  margin-left: 15px;
+  margin-left: 10px;
 }
 p#mediasize {
   font-size: 15px;
 }
 p#mediasize span {
   font-size: 10px;
-}
-/* first character in paragraph */
-p:first-child:first-letter {
-float:left;
-font-size:400%;
-margin-top:7px;
-margin-right:5px;
-color:#992E00;
-}
-  
-ul li { 
-  padding: 10px;
-  line-height: 130%;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
-}
-ol li {
-  padding: 10px;
-  line-height 130%;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 
 figure {
