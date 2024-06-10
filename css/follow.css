@@ -1,0 +1,10 @@
+#zoomC {
+  /* (A) DIMENSIONS */
+  width: 600px;
+  height: 360px;
+ 
+  /* (B) BACKGROUND IMAGE */
+  background: url("demo.webp");
+  background-position: center;
+  background-size: cover;
+}
