@@ -5,14 +5,8 @@ body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   font-size: 15px;  /* 1.2rem; */
   text-align: left;
-  margin: 15px;
+  margin-right: 10px;
   margin-left: 10px;
-}
-.image-container img {
-  transition: transform 0.3s ease-in-out;
-}
-.image-container img:hover {
-  transform: scale(1.2);
 }
 img.displayed {
   display: block;
@@ -20,16 +14,6 @@ img.displayed {
 }
 .border {
   border: 2px solid #778899;  /* dark grayish blue */
-}
-#zoomC {
-  /* (A) DIMENSIONS */
-  width: 600px;
-  height: 450px;
- 
-  /* (B) BACKGROUND IMAGE */
-  background: url("./images/image337.webp");
-  background-position: center;
-  background-size: cover;
 }
 
 blockquote {
@@ -139,27 +123,21 @@ div {
 
 h1 {
   font-size: 2em;
-  margin-left: 10px;
 }
 h2 { 
   font-size: 20px;
-  margin-left: 10px;
 }
 h3 { 
   font-size: 17px;
-  margin-left: 10px;
 }
 h4 { 
   font-size: 13px;
-  margin-left: 10px;
 }
 h5 { 
   font-size: 12px;
-  margin-left: 10px;
 }
 h6 { 
   font-size: 10px;
-  margin-left: 10px;
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
@@ -170,12 +148,6 @@ p {
   margin-bottom: 1em;
   margin-left: 10px;
   margin-right: 10px;
-}
-p#mediasize {
-  font-size: 15px;
-}
-p#mediasize span {
-  font-size: 10px;
 }
 
 figure {
@@ -252,4 +224,3 @@ ul, ol {
   font-family: Consolas, Bahnschrift, Inter, Helvetic, sans-serif;
   font-size: 13.5px;
 }
-
