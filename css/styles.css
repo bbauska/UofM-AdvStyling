@@ -163,12 +163,13 @@ h6 {
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
-
 p {
   font-size: 15px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 1em;
   margin-left: 10px;
+  margin-right: 10px;
 }
 p#mediasize {
   font-size: 15px;
