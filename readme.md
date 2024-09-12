@@ -32,8 +32,9 @@ output:
   title="University of Michigan logo"
   alt="University of Michigan logo." />
 </p>
-
-<h2><a href="#table-of-contents">Table of Contents</a></h2>
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## [**About**](#cha)
 >### a-01 [**About**](#cha-01)
