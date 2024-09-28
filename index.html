@@ -26,28 +26,25 @@
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <script defer src="js/follow.js"></script> -->
+  <!--  <script defer src="js/follow.js"></script> -->
   <script>
-    <!-- get the button -->
-    var mybutton = document.getElementById("myBtn");
+  <!-- get the button -->
+  var mybutton = document.getElementById("myBtn");
 
-    <!-- when the user scrolls down 10px from the top of the document, show the "Top" button -->
-    window.onscroll = function() {scrollFunction()};
+  <!-- when the user scrolls down 10px from the top of the document, show the "Top" button -->
+  window.onscroll = function() {scrollFunction()};
 
-    function scrollFunction() {
-      if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
-        mybutton.style.display = "block";
-      } else {
-        mybutton.style.display = "none";
-      }
+  function scrollFunction() {
+    if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
     }
-
-    <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or to top of -->
-    <!-- menu button (2120 on other example) -->
-    function topFunction() {
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
-    }
+  }
+  // when the user clicks on the button, scroll to the table of contents near top of document.
+  function topFunction() {
+    document.getElementById('table-of-contents').scrollIntoView();
+  }
   </script>
   <header id="title-block-header">
     <h1 style="text-align:center">Advanced Styling with Responsive Design</h1>
@@ -68,6 +65,10 @@
   title="What is Responsive Design?"
   alt="What is Responsive Design?"
   style="width:25%" />
+
+<h2 id="table-of-contents"><a href="#table-of-contents">Table of Contents</a></h2>
+
+<h2><strong>Course Information</strong></h2>
 
 <h2 id="syllabus">Syllabus</h2>
 
