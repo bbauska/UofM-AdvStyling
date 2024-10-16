@@ -38,7 +38,7 @@ a.hover:hover {
   text-decoration: underline;
 }
 a:link {
-  color: #013220;  /* very dark green */
+  color: #8b0000;  /* red - was 013220 very dark green */
   background-color: transparent;
   text-decoration: none;
 }
