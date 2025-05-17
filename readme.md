@@ -1267,7 +1267,7 @@ lecture on Fluid Measurements.</p>
   <li><a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/">
     Web Design Basics: Rem vs. Em vs. PX - Sizing Elements in CSS</a> by
     Matthew Davis (<b>Material here is used in Week Two Assessment</b>)</li>
-  <li>a href="https://codemyviews.com/blog/whats-the-deal-with-em-and-rem">
+  <li><a href="https://codemyviews.com/blog/whats-the-deal-with-em-and-rem">
     What&apos;s the Deal with Em and Rem?</a> (<b>Material here is used in Week Two Assessment&ast;</b>)
   <li><a href="https://css-tricks.com/rems-ems/">Font Size Idea: px at the Root, rem for Components, 
     em for Text Elements</a> by Chris Coyier. (Please note, some people on Firefox get a warning when 
