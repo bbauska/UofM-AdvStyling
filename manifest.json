@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "Un of Michigan Advanced Styling",
+  "short_name": "Adv Styling", 
+  "start_url": "/Adv-Styling.bauska.org",
+  "display": "standalone", 
+  "icons": [
   {
    "src": "\/android-icon-36x36.png",
    "sizes": "36x36",
